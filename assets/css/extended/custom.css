@@ -1,0 +1,7 @@
+/* Zmenšení obrázků v seznamu příspěvků v PaperModu */
+.post-entry .entry-cover img {
+    max-height: 200px; /* Omezení maximální výšky */
+    width: auto;       /* Zachování poměru stran */
+    object-fit: cover;
+    margin: 0 auto;
+}

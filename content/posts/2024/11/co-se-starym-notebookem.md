@@ -1,0 +1,12 @@
+---
+title: "Co se starým notebookem..."
+date: 2024-11-02T23:03:00.028Z
+url: "/posts/2024/11/co-se-starym-notebookem/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNofRf0W-mN6C6Bnu6eWfv1qxom8q5C0ZrFYJMGVq_Iopq7DCxoGGua9u498MAygHfe_9tJPPVdEXaGZJtMWr8RXwDbYpnGQA9sqze3m6tyYX_sTtYQTm2B0cOZu3bom5EN1xNR_hfgJXvDIOUpcgk5JrTK56o9DS446iKMSe3JeCgq17y_oiNyZgIC5lp/w640-h360/20241103_123024.jpg"
+tags: ["Počítače"]
+aliases:
+  - "/2024/11/co-se-starym-notebookem.html"
+---
+
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNofRf0W-mN6C6Bnu6eWfv1qxom8q5C0ZrFYJMGVq_Iopq7DCxoGGua9u498MAygHfe_9tJPPVdEXaGZJtMWr8RXwDbYpnGQA9sqze3m6tyYX_sTtYQTm2B0cOZu3bom5EN1xNR_hfgJXvDIOUpcgk5JrTK56o9DS446iKMSe3JeCgq17y_oiNyZgIC5lp/s4032/20241103_123024.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2268" data-original-width="4032" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNofRf0W-mN6C6Bnu6eWfv1qxom8q5C0ZrFYJMGVq_Iopq7DCxoGGua9u498MAygHfe_9tJPPVdEXaGZJtMWr8RXwDbYpnGQA9sqze3m6tyYX_sTtYQTm2B0cOZu3bom5EN1xNR_hfgJXvDIOUpcgk5JrTK56o9DS446iKMSe3JeCgq17y_oiNyZgIC5lp/w640-h360/20241103_123024.jpg" width="640" /></a></div><p></p><div style="text-align: left;"><span style="font-size: large;">Máme starý notebook, co s ním?&nbsp;</span></div><div style="text-align: left;">Instalujeme [<a href="https://www.freedos.org/" target="_blank">FreeDOS</a>], který zvládne i modern počítač s UEFI, ještě poslouží.</div><div style="text-align: left;"><br /></div><div style="text-align: left;">Další možností je využít notebook jako prohlížeč internetových stránek – doporučím distribuci [<a href="https://lubuntu.me/" target="_blank">Lubuntu</a>] – ale neobejde se bez rychlého SSD disku.</div>

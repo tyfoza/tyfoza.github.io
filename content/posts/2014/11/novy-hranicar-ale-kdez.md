@@ -1,0 +1,20 @@
+---
+title: "Střelecké vystoupení na oslavě narozenin? Inu, proč ne!"
+date: 2014-11-22T15:00:00.001Z
+url: "/posts/2014/11/novy-hranicar-ale-kdez/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXgUPT0ZKySmb7kBYIkcXpYSWd8krlxHKvYQYFnrSOZy4NpAegY6h8aKEbU1zJR2V1mDdqFmMoHHmQU0KfvDbOJi3zFNyplWBDexpYFmNr81ZpuRrWad8K9cELLdNShN8QDBFU1TKTxyew/s1600/IMG_2222.jpg"
+tags: ["Šerm.vystoupení", "Šerm"]
+aliases:
+  - "/2014/11/novy-hranicar-ale-kdez.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXgUPT0ZKySmb7kBYIkcXpYSWd8krlxHKvYQYFnrSOZy4NpAegY6h8aKEbU1zJR2V1mDdqFmMoHHmQU0KfvDbOJi3zFNyplWBDexpYFmNr81ZpuRrWad8K9cELLdNShN8QDBFU1TKTxyew/s1600/IMG_2222.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXgUPT0ZKySmb7kBYIkcXpYSWd8krlxHKvYQYFnrSOZy4NpAegY6h8aKEbU1zJR2V1mDdqFmMoHHmQU0KfvDbOJi3zFNyplWBDexpYFmNr81ZpuRrWad8K9cELLdNShN8QDBFU1TKTxyew/s1600/IMG_2222.jpg" height="426" width="640" /></a></div>
+[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://instagram.com/p/vsx-vDmrgD/?modal=true" target="_blank">dekret</a>]<br />
+<div style="text-align: justify;">
+Ve Slavkově u Dolního Němčí to bylo v sobotu veselé. Strýc Vlastík měli padesátiny a vždycky básnili o tom, že by si někdy chtěli vystřelit z kanóna. Manželka jeho drahá a hodňůčká si vzpomenula na toto jeho dávné přání a slovo dalo slovo a do začátku oslavy vplula dáma pro pána a záhy napochodovali i tři vojáci. Sotva skončil přípitek a hosté se těšili, co že to dobrého dneska bude, už se znovu zvedali a oblékali a šlo se ven.</div>
+<div style="text-align: justify;">
+Z výnosu Jejího veličenstva Marie Terezie vyplývá, že v době míru je povinen každý muž narozený na území Habsburské monarchie do dovršení padesáti let věku složit vojenskou zkoušku. A tak strýc Vlastík po třikráte naládoval křesadlovou pušku i kanón a úspěšně absolvoval, čímž se vyhnul hrozbě árestu a všecko dobře dopadlo.</div>

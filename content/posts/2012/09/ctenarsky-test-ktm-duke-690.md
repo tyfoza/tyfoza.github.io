@@ -1,0 +1,32 @@
+---
+title: "KTM Duke 690"
+date: 2012-09-26T22:12:00Z
+url: "/posts/2012/09/ctenarsky-test-ktm-duke-690/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJb0VeRIicm8tTrEN0lzfwtjo4qNSl3uvu5sA-qdbFF55dR8gKOLyny4nvQbKu0PdlaaYGfB3DVaznJ2L-EFwG-zkyS05yT9gdbfRLqi-q6cbSPtxV5rog5-pZaY2v9zEP3Ctku8d_hwKC/s400/IMG_6354.JPG"
+tags: ["Jiné moto"]
+aliases:
+  - "/2012/09/ctenarsky-test-ktm-duke-690.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJb0VeRIicm8tTrEN0lzfwtjo4qNSl3uvu5sA-qdbFF55dR8gKOLyny4nvQbKu0PdlaaYGfB3DVaznJ2L-EFwG-zkyS05yT9gdbfRLqi-q6cbSPtxV5rog5-pZaY2v9zEP3Ctku8d_hwKC/s1600/IMG_6354.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJb0VeRIicm8tTrEN0lzfwtjo4qNSl3uvu5sA-qdbFF55dR8gKOLyny4nvQbKu0PdlaaYGfB3DVaznJ2L-EFwG-zkyS05yT9gdbfRLqi-q6cbSPtxV5rog5-pZaY2v9zEP3Ctku8d_hwKC/s400/IMG_6354.JPG" width="400" /></a></div>
+[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+V časopise Motocykl vyšel článeček, že kdo by měl zájem zúčastnit se čtenářského testu motocyklu KTM Duke 690 má napsat mail, uvést věk, motorku a je to. Tak jsem napsal. Pravděpodobně jsme napsali jenom čtyři, protože oni čtyři lidi poptávali a čtyři jsme se potkali s Martinem T., šéfredaktorem, u jeho Yamahy XT1200Z, kterou mají teď v redakci na dlouhodobý test. Potkali jsme se čtyři - z Liberce (BMW), Brna (Shiver), Frýdku-Místku (MZ) a já z Uherského Brodu (V-Strom).<br />
+K jedenácté hodině dopolední jsme měli k dispozici pět motorek, absolvovali krátké seznámení s motorkou a plánem dne od šéfa marketingu KTM pana Viktora B. Mluvil německy, Martin překládal. Důležité byly informace - se jedná o nejsilnější jednoválec na světě - Duke má jiný a nový agresivní posez jezdce. Každý jsme podepsali dekret, že přebíráme motorku, která není havarijně pojištěná a sami poneseme náklady na případné škody; že my ani naši zástupci nebudeme žalovat firmu KTM ani v případě úmrtí; že jízda na KTM je extrémní a náročnější než jízda na jiných strojích... prostě nuda, nuda, šeď, šeď. Podepsali jsme, převzali si motorky a pomalu vyrazili.<br />
+Co se samotného testu Duke 690 týká, bylo snad napsáno vše jinde [<a href="http://www.motocykl-online.cz/testy/ktm-duke-690-r" target="_blank">1</a>] [<a href="http://www.motomix.cz/clanek/7-oranzovej-chuligan-aneb-pan-spatny-pan-zly.html" target="_blank">2</a>] [<a href="http://www.motohouse.cz/2012-ktm-duke-690-prvni-dojmy" target="_blank">3</a>].<br />
+Najeli jsme celem stošedesát kilometrů z Bráníku kolem Slapů na jih až k Sedlčanům. Potkali jsme všechno - městský provoz, klikaté zatáčky, dlouhé rovinky i táhlé zatáčky.<br />
+<i>Jaké jsou mé osobní hodnocení a pocity z jízdy na KTM Duke 690?</i><br />
+Motorka je daleko víc „hodná“ než jsem čekal. Na standardní palivovou mapu se nezvedá na zadní a jde pořád za plynem. Prostě chce jet. Je to točivý jednoválec. Na první zastávce nám Viktor, který nás vzadu doprovázel na své KTM SM 990, oznámil, že všichni děláme stejnou chybu - řadíme moc brzy. Duke od čtyř tisíc otáček jede normálně, ale pocitově je podtočený. Ideální je udržel pět a půl tisíce otáček, to znamená vytočit dvojku k červeným, zde spíše k oranžovým, zařadit trojku, vytočit... Na trojku jede devadesát až sto. A to má ještě tři rychlosti v záloze. Při řazení jsem trefil falešný neutrál, jak před šestkou, tak i před pětkou. Opakovaně.<br />
+Posez je hodně dopředu s váhou na přední kolo, ve výhledu jezdce, tady by se možná hodilo říci - pilota. Ve výhledu jezdce není nic, jenom cesta ubíhající krajinou. Ani zrcátka. Ani palubní deska. Pocit je to neuvěřitelně pozitivní a přímo vybízí k aktivní a agresivní jízdě. Jsem rád za to, že jsme jeli ve formaci, kdy jsem byl v pořadí třetí. Být tam s Dukem sám, jedu o třetinu rychleji.&nbsp;Viktor říkal, že Duke dá intenzivní pocit z jízdy už při rychlosti 80km/h a je to pravda.<br />
+Jede dobře, brzdí ještě lépe. ABS mě nechá předním kolo při brždění hvízdnout a pak sepne. Příjemné a vychytané.<br />
+Je to funbike, negativa nehledám. Vibrace ano. Jsou. A pořádné. Nový Duke prý ve srovnání s tím starým LC4 motorem nevibruje. Nevím. Po těch stošedesáti kilometrech s více než hodinou pauzou na oběd mě od vibrací intenzivně bolely konečky prstů.<br />
+Zrcátka špatná.&nbsp;Mám rád, když za sebe vidím. Kolega přede mnou levé zrcátko nastavoval hodně často.&nbsp;Když už se podaří nastavit, tak je stejně vibrace setřepou do jakési výchozí polohy. Tady by nepomohla ani montáž rozšíření. Tak jsem empiricky ověřil, že když se chci podívat za sebe, musím zrcátko uchopit, natočit, podívat se, pustit a ono se sklopí do oné podivné výchozí polohy. Na tuhle motorku se hodí přilba s integrovaným zrcátkem. Spolujezdec zde zavazet nebude.<br />
+Ptal jsem se servismana zo Slovenska, co nás taktéž doprovázel, kolik takový motor vydrží kilometrů. Pravil - to není motorka na cestování. Ok. Tak kolik vydrží kilometrů do nějaké větší opravy. Pravil - co je to větší oprava? Duke nepočítá motohodiny, počítá kilometry. Kdo ale najede dvacet tisíc ročně, tak to asi nebude na tomto funbike.<br />
+Všichni jsme úspěšně dojeli do cíle. Všem bez problémů vyšlo palivo, jenom já jsem jel posledních čtyřicet kilometrů na rezervu. Poctivě jsem dodržel doporučené vytáčení stroje a pět tisíc otáček bylo minimum.<br />
+Shrnout zážitek v jedné větě lze asi takto:<br />
+<i>Obvykle krotíte motorku, na Duke 690 musíte krotit sebe!</i><br />
+<i><br /></i>
+<i>přidáno v březnu 2013: vyšlo v časopise Motocykl viz. [<a href="https://docs.google.com/file/d/0B-IBT7wOoyMAWnVDejhIV1o2NVE/edit" target="_blank">4</a>]</i><br />
+<br />
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" src="http://www.youtube.com/embed/sstDgP1YbUc?feature=player_detailpage" width="640"></iframe>

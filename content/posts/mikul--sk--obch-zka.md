@@ -1,8 +1,0 @@
----
-title: "Mikulášská obchůzka"
-date: 2011-12-05T17:00:00.007Z
-tags: ["Tak jde čas", "Video"]
----
-
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIE0_usL-GPguc6bCeCzzNBkX-C5mbRWnyBKs5FJjxOJumKC4wuf05ynuDR8qNgNbDmbT7K_4rfgCJnZb5F4z_LoO7C4Gr2_wL3mqBRTIgzwHP0ukkxs420ym8ubyBAvXDqUdq2rvfj7X0/s1600/IMG_1256.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIE0_usL-GPguc6bCeCzzNBkX-C5mbRWnyBKs5FJjxOJumKC4wuf05ynuDR8qNgNbDmbT7K_4rfgCJnZb5F4z_LoO7C4Gr2_wL3mqBRTIgzwHP0ukkxs420ym8ubyBAvXDqUdq2rvfj7X0/s320/IMG_1256.JPG" width="320" /></a></div>[<a href="https://picasaweb.google.com/112269704324559337988/20111202Mikulas#5682784152538564786">víc fotek</a>] [<a href="http://www.mszelechovice.cz/index.php?option=com_content&amp;view=article&amp;id=98:mikulaska-nadilka-1-2-tida&amp;catid=36:fotogalerie&amp;Itemid=62">foto z MŠ Želechovice</a>]<br />
-<div class="separator" style="clear: both; text-align: center;"><object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/pAEvy3vO9UQ/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/pAEvy3vO9UQ?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><embed width="320" height="266"  src="http://www.youtube.com/v/pAEvy3vO9UQ?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>

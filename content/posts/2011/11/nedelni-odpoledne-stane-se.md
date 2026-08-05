@@ -1,0 +1,14 @@
+---
+title: "Nedělní odpoledne stane se..."
+date: 2011-11-06T17:00:00.024Z
+url: "/posts/2011/11/nedelni-odpoledne-stane-se/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkriFR668eu67BOIUgk7xSvgPTIv-1DeHn_ZFWxFZj0CyZc1DrTAz5HQoW4Ii_LDGlAIJ5nV40TXFXIcT6eZEE2XrKJhiFV7-Luqx7xmazM9kLB7VkfimgLJPfe6GBrHJfSGO4hUSj69Ni/s400/IMG_0722.JPG"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/11/nedelni-odpoledne-stane-se.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://photos.app.goo.gl/ExLQfwRDzac45X9V7"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkriFR668eu67BOIUgk7xSvgPTIv-1DeHn_ZFWxFZj0CyZc1DrTAz5HQoW4Ii_LDGlAIJ5nV40TXFXIcT6eZEE2XrKJhiFV7-Luqx7xmazM9kLB7VkfimgLJPfe6GBrHJfSGO4hUSj69Ni/s400/IMG_0722.JPG" width="400" /></a></div>[<a href="https://photos.app.goo.gl/ExLQfwRDzac45X9V7">víc fotek</a>][<a href="http://www.sports-tracker.com/#/workout/tyfoza/fp2gikoqqmj21fic">trasa</a>][<a href="http://www.sports-tracker.com/#/workout/tyfoza/65rabd2gg3e02vo0">trasa</a>]<br />
+Dopoledne jsme se Stromem strávili ve Chřibech a odpoledne jsme s Ábi vyjeli do Brna, povinšovat Karlosovi k narozeninám. U Trampa to vypadalo jako v motobazaru a kdo mohl, ten ještě naposledy vyjel. Bylo devatenáct stupňů ve stínu, podzimní slunce nízko nad obzorem a v předzvěsti blížíce se zimy davy motorkářů. Na Žuráni opravdu foukalo a probíhala drakiáda. Karlos pracoval, tak jsme ho vyrušili jenom na chvíli. Kéž by další víkend byl také takový.<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUHoXw8sSrEBN-eKn3Gs-FT82QTC5fQBQzYnX4NLIKFf9er82edbVPw7gyx23jFWmmdlyqdpAONEbCB86-fV-D9vX7nAAHQLxP1xyS9Lq6AZI_8H-wmdtxHlYgdB04vwAUUIKHWhLDxM/s1600/IMG_0731.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUHoXw8sSrEBN-eKn3Gs-FT82QTC5fQBQzYnX4NLIKFf9er82edbVPw7gyx23jFWmmdlyqdpAONEbCB86-fV-D9vX7nAAHQLxP1xyS9Lq6AZI_8H-wmdtxHlYgdB04vwAUUIKHWhLDxM/s400/IMG_0731.JPG" width="400" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjopufNioZ3kx-OhgGQEpr5v-nKOAtdGBwZNDlH39D0407Oe8TBukgg6T__aakJn67rxRJlMCWVq_KfA0vjmyBubiUmVffGz_xeR_MKT7IZ6Ugxs2X7XHL3bx7gd3-F7HwgANY8_HqLo0E/s1600/IMG_0732.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjopufNioZ3kx-OhgGQEpr5v-nKOAtdGBwZNDlH39D0407Oe8TBukgg6T__aakJn67rxRJlMCWVq_KfA0vjmyBubiUmVffGz_xeR_MKT7IZ6Ugxs2X7XHL3bx7gd3-F7HwgANY8_HqLo0E/s400/IMG_0732.JPG" width="400" /></a>&nbsp;</div>

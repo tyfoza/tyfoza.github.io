@@ -1,9 +1,0 @@
----
-title: "Povinný servis po 12000km aneb můj první můj sadařský servis"
-date: 2011-07-13T10:18:00.001Z
-tags: ["Suzuki DL 650 K9"]
----
-
-V-Strom má jako jiné motorky servisní interval 6tis. kilometrů. Blíží se 12tis. na tachometru a cesta do Bukurešti, takže: vyčištění vzduchové filtru, utažení výfukového potrubí a tlumiče výfuku, výměna oleje, výměna olejové filtru, výměna brzdové kapaliny a odvzdušnění brzd, utažení matic podvozku. Uff. Na devět hodin jsem přijel do Yamahy do Zlína. Kde jinde servisovat Suzuki V-Strom než ve zlínské Yamaze. Dělají všechny motorky a mají autorizaci na razítko do servisní knížky Suzuki.<br />
-Dostal jsem pochvalu za péči o řetěz a pobavili jsme se o zařízení scootoiler. Přemýšlel jsme o instalaci, odpadá pak čištění a mazání řetězhu co 1000km. Ale podle referencí od lidí co to mají, tak nebyli spokojeni. Zůstavá svinstvo z vnitřní části řetězu, prý. Že mám raději řetěz udržovat ručně a taky a to byl důležitý postřeh - člověk má v pravidelném intervalu kontakt s řetězem i rozetou a dá se předejít možným problémům jenom tím, že vám celý řetěz článek po článku několikrát projde mezi prsty a poznáte případnou chybku. Tak zatím dám na profesionály.<br />
-Znamená to, že na delší cesty s sebou musíme mít sprej na řetěz a hlavně něco, čím se dá řetěz dobře očistit. Vrstvení mazadla na špinavý řetěz je na nic. Je potřeba řetěz zbavit co nejlépe nečistot a pak teprve aplikovat sprej. I na cestě je to práce na čtvrt hodiny. Ještě, že předchozí majitel pořídil V-Stromu centrální stojan.

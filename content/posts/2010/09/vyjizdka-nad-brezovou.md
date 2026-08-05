@@ -1,0 +1,16 @@
+---
+title: "Vyjížďka nad Březovou"
+date: 2010-09-07T01:00:00Z
+url: "/posts/2010/09/vyjizdka-nad-brezovou/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvkU6WhjxAZq5St4liSaz8etEHf76A6rY7uFTHo57Cw9fOp5VuaJkq0b7j6P5tiVnDuC7r_Jlxuh_S2e5yDGbAjy9d4EEvj9GQTKhIbD_4SGyGyOoOPMc6PRKiKzNY3bqhps9DFxsfjFI/s320/06092010314.jpg"
+tags: ["Na cestě"]
+aliases:
+  - "/2010/09/vyjizdka-nad-brezovou.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvkU6WhjxAZq5St4liSaz8etEHf76A6rY7uFTHo57Cw9fOp5VuaJkq0b7j6P5tiVnDuC7r_Jlxuh_S2e5yDGbAjy9d4EEvj9GQTKhIbD_4SGyGyOoOPMc6PRKiKzNY3bqhps9DFxsfjFI/s1600/06092010314.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvkU6WhjxAZq5St4liSaz8etEHf76A6rY7uFTHo57Cw9fOp5VuaJkq0b7j6P5tiVnDuC7r_Jlxuh_S2e5yDGbAjy9d4EEvj9GQTKhIbD_4SGyGyOoOPMc6PRKiKzNY3bqhps9DFxsfjFI/s320/06092010314.jpg" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">drobná sakrální památka [<a href="http://www.mapy.cz/#mm=TTtP@ax=140761472@ay=131934336@at=zde@ad=drobn%C3%A1%20sakr%C3%A1ln%C3%AD%20pam%C3%A1tka@x=140751104@y=131932032@z=13">zde</a>]</td></tr>
+</tbody></table><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvwLulTnNAUaL9hjCBIpaDP1tLgWO-ZQ6XLut6XOn8bXtnBfOWhHaxgvZGtk6mmnblNeyaDHn4olsqg2tgtvLeOS0Pem2KrE7GbuC6QkMJLQmlbe5UrzZuocVuMa2tE7pvlADynOlSpx8/s1600/06092010316.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvwLulTnNAUaL9hjCBIpaDP1tLgWO-ZQ6XLut6XOn8bXtnBfOWhHaxgvZGtk6mmnblNeyaDHn4olsqg2tgtvLeOS0Pem2KrE7GbuC6QkMJLQmlbe5UrzZuocVuMa2tE7pvlADynOlSpx8/s320/06092010316.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br />
+</div>

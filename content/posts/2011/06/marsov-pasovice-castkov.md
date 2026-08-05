@@ -1,0 +1,13 @@
+---
+title: "Maršov-Pašovice-Částkov"
+date: 2011-06-13T16:59:00.004Z
+url: "/posts/2011/06/marsov-pasovice-castkov/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhllrLP6vFyO6xRWxftElYB68HdiLV4eig4TsWXsUpShBHca4ROJg_Fp4YRzKhrI2KkxaZ1lhxOONhI6IAH8E0OKfzsHOW5K_7yCMfHsN9SHBgg07N_GkdOcpHmAnqC41y7rnj6_l7WQ6E/s200/13062011351.jpg"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/06/marsov-pasovice-castkov.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhllrLP6vFyO6xRWxftElYB68HdiLV4eig4TsWXsUpShBHca4ROJg_Fp4YRzKhrI2KkxaZ1lhxOONhI6IAH8E0OKfzsHOW5K_7yCMfHsN9SHBgg07N_GkdOcpHmAnqC41y7rnj6_l7WQ6E/s1600/13062011351.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhllrLP6vFyO6xRWxftElYB68HdiLV4eig4TsWXsUpShBHca4ROJg_Fp4YRzKhrI2KkxaZ1lhxOONhI6IAH8E0OKfzsHOW5K_7yCMfHsN9SHBgg07N_GkdOcpHmAnqC41y7rnj6_l7WQ6E/s200/13062011351.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNm2Zz0n3tlaeF2u8CiR-bElNvxzqkekITvaG_AAefM00c7oExn5DN8kEKstqjIVWzpHSMkiONYbpD1jdh6VBXY5yKzWIovUKEj4wWKvcZO8V-k1yiiwYe2FJdMc1tflr8pdAaK6UNRXY/s1600/13062011352.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNm2Zz0n3tlaeF2u8CiR-bElNvxzqkekITvaG_AAefM00c7oExn5DN8kEKstqjIVWzpHSMkiONYbpD1jdh6VBXY5yKzWIovUKEj4wWKvcZO8V-k1yiiwYe2FJdMc1tflr8pdAaK6UNRXY/s200/13062011352.jpg" width="200" /></a></div>Z Maršova po zelené, pak po modré.<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/5hitmin4uni5qhrr">záznam trasy</a>]

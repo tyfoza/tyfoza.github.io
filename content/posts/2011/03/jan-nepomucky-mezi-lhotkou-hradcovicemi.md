@@ -1,0 +1,12 @@
+---
+title: "Jan Nepomucký mezi Lhotkou a Hradčovicemi"
+date: 2011-03-31T17:00:00.003Z
+url: "/posts/2011/03/jan-nepomucky-mezi-lhotkou-hradcovicemi/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97NSTtYRVswk2XBdctPani7ycu5p-DqSRKHt0XXinLppzJNZvEtpEktAEAf8CD6nls6kuhHt7JBAepaSt55RmnClGa-T0_oHmC_uFSBsxmIxgA61GwQpYyXP9v47BSu86CY67HX5_VMk/s320/31032011577.jpg"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/03/jan-nepomucky-mezi-lhotkou-hradcovicemi.html"
+---
+
+<div class="separator" style="clear: both; text-align: left;">Výlet podruhé na stejné místo. Již jsem tam byl [<a href="/posts/2010/04/zde/">1</a>] na čezetě. Tentokrát jsme jeli se Sašenkou. </div><div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97NSTtYRVswk2XBdctPani7ycu5p-DqSRKHt0XXinLppzJNZvEtpEktAEAf8CD6nls6kuhHt7JBAepaSt55RmnClGa-T0_oHmC_uFSBsxmIxgA61GwQpYyXP9v47BSu86CY67HX5_VMk/s1600/31032011577.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97NSTtYRVswk2XBdctPani7ycu5p-DqSRKHt0XXinLppzJNZvEtpEktAEAf8CD6nls6kuhHt7JBAepaSt55RmnClGa-T0_oHmC_uFSBsxmIxgA61GwQpYyXP9v47BSu86CY67HX5_VMk/s320/31032011577.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97NSTtYRVswk2XBdctPani7ycu5p-DqSRKHt0XXinLppzJNZvEtpEktAEAf8CD6nls6kuhHt7JBAepaSt55RmnClGa-T0_oHmC_uFSBsxmIxgA61GwQpYyXP9v47BSu86CY67HX5_VMk/s1600/31032011577.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALwnNcbVn5buopgbVGxi1tlkzwhwwxT3FnclewMa9ZEA3eI6z9woKyW0PPTyojnrPq1pDjS7P7TOF6TsoClCrvMFAmWdq-4oghwb2SX39sINDYO7IK1PiPBNoIX5rQ-4g63hS_Q-2tGo/s1600/31032011578.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALwnNcbVn5buopgbVGxi1tlkzwhwwxT3FnclewMa9ZEA3eI6z9woKyW0PPTyojnrPq1pDjS7P7TOF6TsoClCrvMFAmWdq-4oghwb2SX39sINDYO7IK1PiPBNoIX5rQ-4g63hS_Q-2tGo/s320/31032011578.jpg" width="320" /></a></div><div style="text-align: left;">[<a href="http://www.sports-tracker.com/#/workout/tyfoza/aptmj7t1v3go0lpo">trasa</a>] plus foto v mapě</div>

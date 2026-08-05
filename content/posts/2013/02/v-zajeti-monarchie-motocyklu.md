@@ -1,0 +1,19 @@
+---
+title: "V zajetí monarchie (a motocyklů)"
+date: 2013-02-15T00:12:00Z
+url: "/posts/2013/02/v-zajeti-monarchie-motocyklu/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIvVMqxU6fPqz5SmgPrqisGfnY9jtpdLTZGb1eAI3zozJpBm9xTuueVfD1b2hApZbTQEaXv_6_Jynw3UQ2rKI4I4s15IENbdxfOu8BXkEe5sDNCNt8CHIl4ynl7W7VIIMUIjNU4yBtML5/s200/15022013394.jpg"
+tags: ["Tak jde čas"]
+aliases:
+  - "/2013/02/v-zajeti-monarchie-motocyklu.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIvVMqxU6fPqz5SmgPrqisGfnY9jtpdLTZGb1eAI3zozJpBm9xTuueVfD1b2hApZbTQEaXv_6_Jynw3UQ2rKI4I4s15IENbdxfOu8BXkEe5sDNCNt8CHIl4ynl7W7VIIMUIjNU4yBtML5/s1600/15022013394.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIvVMqxU6fPqz5SmgPrqisGfnY9jtpdLTZGb1eAI3zozJpBm9xTuueVfD1b2hApZbTQEaXv_6_Jynw3UQ2rKI4I4s15IENbdxfOu8BXkEe5sDNCNt8CHIl4ynl7W7VIIMUIjNU4yBtML5/s200/15022013394.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4sWabu7Uj5LyR81u2s5NzDi7fxG_pxzOJfX5kjXlIV4qAv5iLWRyOqnD3G-BB9u5Gu9zb079kVuk4J9Q_DGpwh9aSM7EnlMqSkoarBfhJdAl60ijTmxCecGAYNf30P6GLaXjQerA4cV9J/s1600/CSA22492.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="132" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4sWabu7Uj5LyR81u2s5NzDi7fxG_pxzOJfX5kjXlIV4qAv5iLWRyOqnD3G-BB9u5Gu9zb079kVuk4J9Q_DGpwh9aSM7EnlMqSkoarBfhJdAl60ijTmxCecGAYNf30P6GLaXjQerA4cV9J/s200/CSA22492.JPG" width="200" /></a></div>
+[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+<i>prakticky telegraficky z Prahy:</i><br />
+– V zajetí motocyklů je malá výstava v obchodním centru Arkády Pankrác[<a href="http://www.motorkari.cz/clanky/moto-novinky/arkady-pankrac-v-zajeti-motocyklu-23933.html" target="_blank">1</a>], součástí je nabízena možnost nechat se vyfotit coby „nosáč[<a href="http://www.csfd.cz/film/37937-dva-nosaci-tankuji-super/" target="_blank">2</a>]“ na tříkolce. Obrázek 10×15 dostanete s sebou – zdarma.<br />
+– Jak se žilo za Rakouska–Uherska[<a href="http://www.mkcr.cz/cz/zpravodajstvi/zpravy/zjistete--jak-se-zilo-za-cisare-pana--na-vystave-monarchie-v-nove-budove-narodniho-muzea!-159728/tmplid-228" target="_blank">3</a>] je projekt prorůstající Národní muzeum, Vlastivědné muzeum, památník na Vítkově etc. Za zmínku stojí výstava Jak se jedlo za císaře pána[<a href="http://muzeum3000.nm.cz/aktuality/na-vystave-krme-jidlo-zradlo-se-dozvite-co-se-jedlo-za-cisare-pana" target="_blank">4</a>]. Jenom návštěva výstavy Sportsmeni v zemích&nbsp;českých – prezentovaná v památníku na Vítkově, mě zklamala[<a href="http://www.nm.cz/Historicke-muzeum/Pripravujeme-HM/Sportsmeni-v-zemich-Ceskych.html" target="_blank">5</a>], je rozsahem malá, textově chudobná, jen malinko o založení českého klubu turistů, účasti na olympiádách a pár kostýmů.<br />
+– Tamtéž, hluboko pod památníkem na Vítkově je teprve rok přístupná expozice laboratoře mauzolea K.G. Hororově děsivé, punc let padesátých zde sálá na každém kroku. Viz.[<a href="http://www.metropol.cz/zpravy/kultura/prijdte-se-podivat-na-laborator-moci-na-vitkov/" target="_blank">6</a>], kde je i video z prostor.<br />
+<br />

@@ -9,15 +9,46 @@ theme = 'PaperMod'
   ShowReadingTime = true      # Ukáže u článku odhad, jak dlouho se bude číst
   ShowShareButtons = false    # Vypne otravná tlačítka pro sdílení na sítě
 
+  [params.label]
+    icon = "/images/tyfoza.jpg"
+
+[permalinks]
+  posts = "/posts/:year/:month/:slug/"
+
+[menu]
+  [[menu.main]]
+    identifier = "fotogalerie"
+    name = "Fotogalerie"
+    url = "https://sites.google.com/view/tyfotoza/"
+    weight = 5
+
 [[menu.main]]
-name = "Témata"
+  identifier = "3d"
+  name = "3D"
+  url = "/tags/3d/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "bastleni"
+  name = "Bastlení"
+  url = "/tags/bastlení/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "v-strom"
+  name = "Suzuki V-Strom"
+  url = "/tags/suzuki-dl-650-k9/"
+  weight = 30
+
+[[menu.main]]
+name = "Další témata"
 url = "/tags/"
-weight = 10
+weight = 49
 
 [[menu.main]]
 name = "Hledat"
 url = "/search/"
-weight = 40
+weight = 50
 [markup.goldmark.renderer]
   unsafe = true
 

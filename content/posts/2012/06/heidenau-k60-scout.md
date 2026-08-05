@@ -1,0 +1,21 @@
+---
+title: "Heidenau K60 Scout"
+date: 2012-06-26T23:08:00.002Z
+url: "/posts/2012/06/heidenau-k60-scout/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhntvnveRL-SePXW2isqDB8-qFQFiwUhIK_zQMhh7W3etV8vAoNlFkqpy_1BLUcFUH3l0vWpvFPVjKKZFijtrycT-RI-QHBul8aCxw1UWKEJc1JFX3XnLUaxY_2di3T2z5PecUrlW4HJ7o/s200/270620122151.jpg"
+tags: ["Suzuki DL 650 K9", "Motopneu"]
+aliases:
+  - "/2012/06/heidenau-k60-scout.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhntvnveRL-SePXW2isqDB8-qFQFiwUhIK_zQMhh7W3etV8vAoNlFkqpy_1BLUcFUH3l0vWpvFPVjKKZFijtrycT-RI-QHBul8aCxw1UWKEJc1JFX3XnLUaxY_2di3T2z5PecUrlW4HJ7o/s1600/270620122151.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="155" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhntvnveRL-SePXW2isqDB8-qFQFiwUhIK_zQMhh7W3etV8vAoNlFkqpy_1BLUcFUH3l0vWpvFPVjKKZFijtrycT-RI-QHBul8aCxw1UWKEJc1JFX3XnLUaxY_2di3T2z5PecUrlW4HJ7o/s200/270620122151.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCo1d2Q4RN3jP0cNMYdbp6yrnWYxmluZymUxwG5a49J1y5JwGl-ENO6sRNHMOJ3O-a5xoJOWgVTg6yUiy-qJ73KnLzpvZugaAD0PF1CAIj1Y_kBPuSEbmF-KJkeXUiZfOi2dP9LF7zOfI/s1600/270620122148.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCo1d2Q4RN3jP0cNMYdbp6yrnWYxmluZymUxwG5a49J1y5JwGl-ENO6sRNHMOJ3O-a5xoJOWgVTg6yUiy-qJ73KnLzpvZugaAD0PF1CAIj1Y_kBPuSEbmF-KJkeXUiZfOi2dP9LF7zOfI/s200/270620122148.jpg" width="200" /></a></div>
+Mitas E-09 se reklamuje [<a href="/posts/2012/06/mitas-e-09-se-rozpada/" target="_blank">1</a>].&nbsp;K60 je kompromisní pneu na cestu i lehký offroad.&nbsp;Pozitivní recenze [<a href="http://lc8.cz/forum/default.aspx?g=posts&amp;t=1017" target="_blank">2</a>] [<a href="http://www.adventurebikerider.com/forum/27-technical/13291-heidenau-k60-scout.html" target="_blank">3</a>]. Zkusil jsem šotolinu, travnatou louku i měkkou hlínu a K60 příjemně překvapila. Prodejce udává nájezd patnáct tisíc kilometrů.<br />
+<i>Stav tachometru: 36000km</i><br />
+<i><br /></i>
+<i>přidáno 4.10.2012, stav tachometru 48000km,najeto 12tis.km</i><br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMut-nQhyphenhyphenoSjruEhI9sgrKJtWDlGjMbIat3V7Yfwyw6InpCdwvHnWvyZDiJ6QYjEep9-80xPmTypJc4BzMVncVQvjko8AjITf2R69kzLETOkrk1mC5PWzMnujNjsIaiHd43oDdp77ty4/s1600/04102012014.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMut-nQhyphenhyphenoSjruEhI9sgrKJtWDlGjMbIat3V7Yfwyw6InpCdwvHnWvyZDiJ6QYjEep9-80xPmTypJc4BzMVncVQvjko8AjITf2R69kzLETOkrk1mC5PWzMnujNjsIaiHd43oDdp77ty4/s200/04102012014.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLvldpcwibtJGL1SPztcRlQz_gQymbP2yOOi18HbWoRn65lupPf3Q2xVWdKIpPyohPphs7jGl8M7RmEmGxYlTyTs200H6Bx7B9VhP18JvwKpMogTiCZWiCmBVe9gkjAuedbez4gsG5CC8/s1600/04102012013.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLvldpcwibtJGL1SPztcRlQz_gQymbP2yOOi18HbWoRn65lupPf3Q2xVWdKIpPyohPphs7jGl8M7RmEmGxYlTyTs200H6Bx7B9VhP18JvwKpMogTiCZWiCmBVe9gkjAuedbez4gsG5CC8/s200/04102012013.jpg" width="200" /></a></div>
+<br />
+<i><br /></i>

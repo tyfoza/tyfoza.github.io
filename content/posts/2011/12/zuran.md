@@ -1,0 +1,12 @@
+---
+title: "Žuráň"
+date: 2011-12-08T16:45:00.005Z
+url: "/posts/2011/12/zuran/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8pJ0Bgul5e3MQwXiCrcIx3nJyJWn9UeYEDysV2Rm4l5Fn2bLsyoIuSer36wHxI_7S8qJnmnOdserOB-cKpYtGl8F_qow1NieTiRjyvFhPq3nI1hge_vGbJCCErkzmezIAlw1C54zN0Jc/s640/zuran_strom_panoramo1.jpg"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/12/zuran.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://sites.google.com/view/tyfotoza/"><img border="0" height="81" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8pJ0Bgul5e3MQwXiCrcIx3nJyJWn9UeYEDysV2Rm4l5Fn2bLsyoIuSer36wHxI_7S8qJnmnOdserOB-cKpYtGl8F_qow1NieTiRjyvFhPq3nI1hge_vGbJCCErkzmezIAlw1C54zN0Jc/s640/zuran_strom_panoramo1.jpg" width="640" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="https://sites.google.com/view/tyfotoza/"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2a8RzJaym30t-yn30nzCbe3wmAnu6B47DgYpdcDKZ5ZtED0X_GH7M8PqOVqJz0_swC94IdU5FPEVW4qP64CtgL3S7sOX3wZm3h9wfjdM5O7_hbbxOUF_v3yS28MccynTo8RZipfdyebB3/s640/zuran_strom_panoramo2.jpg" width="640" /></a></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5_JzttPk9t44vukc8qJffp3E5bE2kAn1vZz_JYh6JMkSeZFbO1h9ZIBk10H9O9yYEQLeIanIZyxXvSeJZI8WEEuLtKlFxtqdr3IPT5Vm94al-q4K257MbQIFkjI3DEqtbahLpHUOQLhM/s1600/zuran_zmenseny.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5_JzttPk9t44vukc8qJffp3E5bE2kAn1vZz_JYh6JMkSeZFbO1h9ZIBk10H9O9yYEQLeIanIZyxXvSeJZI8WEEuLtKlFxtqdr3IPT5Vm94al-q4K257MbQIFkjI3DEqtbahLpHUOQLhM/s400/zuran_zmenseny.jpg" width="400" /></a></div>&nbsp;[<a href="http://www.sports-tracker.com/#/workout/tyfoza/31revq76rt9o6rnl">trasa</a>]

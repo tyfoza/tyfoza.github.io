@@ -1,0 +1,13 @@
+---
+title: "Den dětí MŠ Havřice"
+date: 2011-06-01T10:00:00.008Z
+url: "/posts/2011/06/den-deti-ms-havrice/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivAUW25SFduYbqeAlYTmGACorvIRvhKV0_tYikPK-kWBHiP6Pio7wOEhVLdCcDU-tREt7KVGzKggJ0yz1AY-N8KJqSsPwp6x_gF3IObmEdAk1U8v9GkNvWeNLuXl24IvhCB-iKDkH3qZY/s320/01062011318.jpg"
+tags: ["Šerm.vystoupení", "Šerm"]
+aliases:
+  - "/2011/06/den-deti-ms-havrice.html"
+---
+
+Vystoupení, plné pečených žab, o obrácení zlého pana Markvarta na cestu dobra. Přínosem toho vystoupení byl objev, že útočího medvěda vystraší pouze malé káčátko.<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivAUW25SFduYbqeAlYTmGACorvIRvhKV0_tYikPK-kWBHiP6Pio7wOEhVLdCcDU-tREt7KVGzKggJ0yz1AY-N8KJqSsPwp6x_gF3IObmEdAk1U8v9GkNvWeNLuXl24IvhCB-iKDkH3qZY/s1600/01062011318.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivAUW25SFduYbqeAlYTmGACorvIRvhKV0_tYikPK-kWBHiP6Pio7wOEhVLdCcDU-tREt7KVGzKggJ0yz1AY-N8KJqSsPwp6x_gF3IObmEdAk1U8v9GkNvWeNLuXl24IvhCB-iKDkH3qZY/s320/01062011318.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN7aZ0NeUcLVzu2Pf5aIJaaQnJsGL5FrYdMfVAh4jRXqi_oT3aWsqmvOsBG8N-QlWqDKGhV4YiJigf-geJ09f8kmerb2yMKJ2Azskccr4T5yHkI4XyU_GaEc0WMZ7qM-zt1c4asTAIZsI/s1600/01062011317.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN7aZ0NeUcLVzu2Pf5aIJaaQnJsGL5FrYdMfVAh4jRXqi_oT3aWsqmvOsBG8N-QlWqDKGhV4YiJigf-geJ09f8kmerb2yMKJ2Azskccr4T5yHkI4XyU_GaEc0WMZ7qM-zt1c4asTAIZsI/s320/01062011317.jpg" width="320" /></a></div>

@@ -1,0 +1,19 @@
+---
+title: "255. výročí bitvy u Ostřetína 1758"
+date: 2013-06-23T22:40:00.001Z
+url: "/posts/2013/06/255-vyroci-bitvy-u-ostretina-1758/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh79nBoYMosliAcGzuGwtoK4j2J0KUgHlBDayjCkCG7c0E_GorR9YtC54REyhbuFQFexBmzQTk9b0XqatWp7jUaQwFAPNrlVvCpMuthFCUk2EYzOQEXRkP9SmrOkHAttG7Aq292Jx-XqBE/s640/P6230266.jpg"
+tags: ["Šerm.bitva", "Šerm", "Šerm.sedmiletka"]
+aliases:
+  - "/2013/06/255-vyroci-bitvy-u-ostretina-1758.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh79nBoYMosliAcGzuGwtoK4j2J0KUgHlBDayjCkCG7c0E_GorR9YtC54REyhbuFQFexBmzQTk9b0XqatWp7jUaQwFAPNrlVvCpMuthFCUk2EYzOQEXRkP9SmrOkHAttG7Aq292Jx-XqBE/s1600/P6230266.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh79nBoYMosliAcGzuGwtoK4j2J0KUgHlBDayjCkCG7c0E_GorR9YtC54REyhbuFQFexBmzQTk9b0XqatWp7jUaQwFAPNrlVvCpMuthFCUk2EYzOQEXRkP9SmrOkHAttG7Aq292Jx-XqBE/s640/P6230266.jpg" width="640" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc0lM0UIP6BxGqjB3xfyOgLx1wsfj4CUuRAqheTnp0NRXIdMX-YisZZgrSHcvok9ptbISqZhZYKKaBji9WsYzYUdvW-vunnqkExUj_tgIgIHtezDISh9IyKpLLnkKJt55zXyJygv3iUNk/s1600/P6220105.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc0lM0UIP6BxGqjB3xfyOgLx1wsfj4CUuRAqheTnp0NRXIdMX-YisZZgrSHcvok9ptbISqZhZYKKaBji9WsYzYUdvW-vunnqkExUj_tgIgIHtezDISh9IyKpLLnkKJt55zXyJygv3iUNk/s320/P6220105.jpg" width="240" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie_1n7ThC3WCrJsGkRagxhaU7Ur6ND5LMohbjly7RbsAsq1BwdmVGKr8SQ8e9nDGqnKIoDJf5_mJ87TQwzSNilhbwksfyKrgdyHokllsWNm3U33wRClOINLvcwRS5tPVVTIlmQIZ0X7jU/s1600/P6230279.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie_1n7ThC3WCrJsGkRagxhaU7Ur6ND5LMohbjly7RbsAsq1BwdmVGKr8SQ8e9nDGqnKIoDJf5_mJ87TQwzSNilhbwksfyKrgdyHokllsWNm3U33wRClOINLvcwRS5tPVVTIlmQIZ0X7jU/s320/P6230279.jpg" width="240" /></a></div>
+[<a href="https://plus.google.com/photos/112808416334199838029/albums/5893093526553502353?authkey=CLm1jbWvztK-cQ" target="_blank">fotky</a>] [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">z mobilu</a>] [<a href="http://prachensky.rajce.idnes.cz/Rekonstrukce_Bitvy_Sedmilete_Valky_-_Horni_Redice_-_22.6._-_23.6._2013/" target="_blank">cizí fotky</a>] a [<a href="https://www.youtube.com/watch?v=v_wVQpqxMkw" target="_blank">video</a>] z cizího zdroje<br />
+Velitel bačovského regimentu v rozhovoru řekl: „Tož chorvatské ovce sa majů dobře. A ty pruské taky.“

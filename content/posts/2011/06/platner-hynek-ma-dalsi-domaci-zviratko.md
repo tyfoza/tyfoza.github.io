@@ -1,0 +1,12 @@
+---
+title: "Platnéř Hynek má další domácí zvířátko"
+date: 2011-06-22T18:00:00.003Z
+url: "/posts/2011/06/platner-hynek-ma-dalsi-domaci-zviratko/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTeBBR1Yv1-cZbMfr6PXcNbZWau812OliUa7uYSHfnRtUtpjZpJDOUhSHVRwAPU9XyCA7-E58WFAUdeAMJkLiL9MpIit9vJQ0xBrZM2Mkssk0ufuLakuLZiHInGKbLT4AhkoRyjZV5xZs/s200/22062011423.jpg"
+tags: ["Tak jde čas"]
+aliases:
+  - "/2011/06/platner-hynek-ma-dalsi-domaci-zviratko.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTeBBR1Yv1-cZbMfr6PXcNbZWau812OliUa7uYSHfnRtUtpjZpJDOUhSHVRwAPU9XyCA7-E58WFAUdeAMJkLiL9MpIit9vJQ0xBrZM2Mkssk0ufuLakuLZiHInGKbLT4AhkoRyjZV5xZs/s1600/22062011423.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTeBBR1Yv1-cZbMfr6PXcNbZWau812OliUa7uYSHfnRtUtpjZpJDOUhSHVRwAPU9XyCA7-E58WFAUdeAMJkLiL9MpIit9vJQ0xBrZM2Mkssk0ufuLakuLZiHInGKbLT4AhkoRyjZV5xZs/s200/22062011423.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-Og5-rFPCHq4ED6C-5WyGtF93jIQSVPfYldKV0to308bzWrB3WEkE4ONi7Ns_S3AUHAQEhDqYZrDPhEbfBUUILwOdA8bH8Yba1ZtDvH7kjpjj84OqAblM3aNBQi1yR_sXfPIzxjxwl0/s1600/22062011422.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-Og5-rFPCHq4ED6C-5WyGtF93jIQSVPfYldKV0to308bzWrB3WEkE4ONi7Ns_S3AUHAQEhDqYZrDPhEbfBUUILwOdA8bH8Yba1ZtDvH7kjpjj84OqAblM3aNBQi1yR_sXfPIzxjxwl0/s200/22062011422.jpg" width="200" /></a></div>

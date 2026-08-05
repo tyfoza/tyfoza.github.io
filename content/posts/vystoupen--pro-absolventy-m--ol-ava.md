@@ -1,7 +1,0 @@
----
-title: "Vystoupení pro absolventy MŠ Olšava"
-date: 2012-06-19T16:51:00.002Z
-tags: ["Šerm", "Šerm.vystoupení"]
----
-
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLeV1UGnSnwEK-8FVcc5JY1jORAhHFyyO55L-Vv2CDml95qxskwVA9IrzPSii1xf1dMPGfF_drExXshm2_DZf14ETr7luQZJxAKijsU9CDO0nqp4hevJs77F2edKjTTQrUguTtA7brxZr4/s1600/190620122116.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="148" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLeV1UGnSnwEK-8FVcc5JY1jORAhHFyyO55L-Vv2CDml95qxskwVA9IrzPSii1xf1dMPGfF_drExXshm2_DZf14ETr7luQZJxAKijsU9CDO0nqp4hevJs77F2edKjTTQrUguTtA7brxZr4/s200/190620122116.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg22I0cfzL09tc55njXEhTV-tUj4vf_A7eg95BgS7lL_D3wU5nGwK0EhdaJghwUnG5NG88ocmzfHuuTDF-W8M-NttdpK0hWTaV8dtfl9WdGSEDKkFWYQcuZaCdsPJ4H6W2jCYifdGbb-RwX/s1600/190620122120.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="148" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg22I0cfzL09tc55njXEhTV-tUj4vf_A7eg95BgS7lL_D3wU5nGwK0EhdaJghwUnG5NG88ocmzfHuuTDF-W8M-NttdpK0hWTaV8dtfl9WdGSEDKkFWYQcuZaCdsPJ4H6W2jCYifdGbb-RwX/s200/190620122120.jpg" width="200" /></a></div>[<a href="https://picasaweb.google.com/112269704324559337988/20120619MSOlsavaVystoupeni?authuser=0&amp;feat=directlink" target="_blank">fotky</a>]

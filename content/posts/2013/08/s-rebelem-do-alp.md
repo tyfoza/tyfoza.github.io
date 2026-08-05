@@ -1,0 +1,10 @@
+---
+title: "S Rebelem do Alp"
+date: 2013-08-11T19:55:00Z
+url: "/posts/2013/08/s-rebelem-do-alp/"
+tags: ["Na cestě", "Cesty - 2013 Alpy"]
+aliases:
+  - "/2013/08/s-rebelem-do-alp.html"
+---
+
+Bylo na čase vylákat Ábi na výlet do Alp, však má řidičák více jak tři týdny, tak je třeba ověřit schopnosti. Kolem desáté ranní jsme se vybatolili z Brodu, povinšovali panu otcovi k narozeninám, posbírali křížky na čela od maminek; Filda si nabral do svého BMW plnou nádrž a vyrazili jsme na Vídeň. Dálniční známka na malinké stopětadvacítce vypadá vtipně. Cesta ubíhala velmi svižně, Rebel jede reálných stopět kilometrů v hodině - pokud veze Ábi - z kopce i stodeset. Kolem páté hodiny odpolední jsme se již procházeli po hřbitově v centru Solnohradu. Odtud to byla hodinka cesty do Taxenbachu, kde jsme za světla rozbili tábor v kempu Oberhasenberghof, který je vysoko nad Taxenbachem, dostupný po úzké, čtyři kilometry dlouhé asfaltové pěšince. Tady se Ábi poprvé setkala s obravdovými serpentinami. Však také říkala, den tam pojedeme, den tam budeme a tři dny se budeme vracet zpátky. Tedy zítra čeká Ábi ten jediný regenerační den dovolené.

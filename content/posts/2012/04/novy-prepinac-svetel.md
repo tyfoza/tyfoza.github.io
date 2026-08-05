@@ -1,0 +1,12 @@
+---
+title: "Nový přepínač světel Honda Rebel"
+date: 2012-03-28T14:00:00.001Z
+url: "/posts/2012/04/novy-prepinac-svetel/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukS81X8vQGcSPFtnJlpsfKkGohVZap7i1q8MBduHROsSsSC3sMGjOhdlZ04w8LZ3BPbZYtphWS0IClUM7xDkJ4rAS_tr9HJRb588zc7OSrBlJIye2QFme-2JzhxpXxnPb0rHkd2g7tUI/s320/290320121660.jpg"
+tags: ["Honda CA125 Rebel"]
+aliases:
+  - "/2012/04/novy-prepinac-svetel.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukS81X8vQGcSPFtnJlpsfKkGohVZap7i1q8MBduHROsSsSC3sMGjOhdlZ04w8LZ3BPbZYtphWS0IClUM7xDkJ4rAS_tr9HJRb588zc7OSrBlJIye2QFme-2JzhxpXxnPb0rHkd2g7tUI/s1600/290320121660.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukS81X8vQGcSPFtnJlpsfKkGohVZap7i1q8MBduHROsSsSC3sMGjOhdlZ04w8LZ3BPbZYtphWS0IClUM7xDkJ4rAS_tr9HJRb588zc7OSrBlJIye2QFme-2JzhxpXxnPb0rHkd2g7tUI/s320/290320121660.jpg" width="320" /></a></div>Původní přepínač, který se stiskem zasunul, přepnul dálková světla a dalším stiskem se vysunul a přepnul potkávací světla, přestal držet zapnutá dálková světla a začal fungovat jako další světelná houkačka. Plastové mikro výstupky, které umožňovaly zůstat ve správné pozici se ulámaly a nezbylo než celý přepínač vyměnit. Po malé úpravě a propilování správného tvaru byl umístěn nový kolébkový přepínač [<a href="http://www.pselectronic.cz/k5108-0205-vyp-k-c1560ab.html" target="_blank">1</a>] včetně plastové ochrany proti vlhkosti [<a href="http://www.pselectronic.cz/k5108-302-vyp-k-2013-kryt.html" target="_blank">2</a>].

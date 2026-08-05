@@ -1,0 +1,21 @@
+---
+title: "První letošní vyjížďka"
+date: 2011-03-20T17:48:00.006Z
+url: "/posts/2011/03/prvni-letosni-vyjizdka/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuOwALEmQRoDkM2ZtfNxYznVQsdJ2wK3deQG_lcG73Rv7uo3MwbYSSBM_-lqxpDo3-sZ5flmhP0toe90Mug8tIt1zoHzMAhyp1muldK3_oTLVoa5nb4gI0kw8c9502IrcjLR0nh9JRFVA/s320/IMG_2095.JPG"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/03/prvni-letosni-vyjizdka.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuOwALEmQRoDkM2ZtfNxYznVQsdJ2wK3deQG_lcG73Rv7uo3MwbYSSBM_-lqxpDo3-sZ5flmhP0toe90Mug8tIt1zoHzMAhyp1muldK3_oTLVoa5nb4gI0kw8c9502IrcjLR0nh9JRFVA/s1600/IMG_2095.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuOwALEmQRoDkM2ZtfNxYznVQsdJ2wK3deQG_lcG73Rv7uo3MwbYSSBM_-lqxpDo3-sZ5flmhP0toe90Mug8tIt1zoHzMAhyp1muldK3_oTLVoa5nb4gI0kw8c9502IrcjLR0nh9JRFVA/s320/IMG_2095.JPG" width="320" /></a></div>Na víkend počasí plánuje chladno, místy sněžení, takže alespoň malinkou, krátkou vyjížďku kolem komína, ať otestujeme intercom a vůbec nějak začneme sezónu.<br />
+<i>Hned ze startu jsme stihli i úplně první poruchu naší kawy - na benzince jsme vzali plnou nádrž, dohustili gumy a po sto metrech motor na první vytočení přes 7tis. začal chcípat, z motoru kapal olej, pak se motor nepravidelně rozběhl a začal pekelně čoudit - motor si cucnul oleje - a to všechno jenom proto, že jsem měl víčko od oleje jenom položené, nedotažené, takže v motoru nebyl potřebný tlak a něco se přihodilo, oleje výrazně ubylo. Motor ve "vyčoudil", olej jsem dolil, víčko dotáhl a je po problému - doufám.</i><br />
+A tak jsem napodruhé vyjeli z garáže. Po třiceti kilometrech bylo jasné, že toho zvládneme o kousek víc a když na sebe Saša nasoukala nepromok proti dešti a proti profouknutí, dali jsme i svižnější kousek po dálnici Otrokovice-Hulín.<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/cm8n88v30s2cscl3">Záznam z trasy</a>] je k dispozi - vždy odkaz vpravo nahoře.<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9ARkMu8jVqdqaU06QQbAabR0LXFGzmsg8QKiC1KEBqkK9onU0kETH8_3rO36EHT7ZVofR4ffx7TmfQ_7_OzwC5pwjC1zVJkxg72KSc7uRNWQ7FT8YNoWw25VZ8FZCSthwKhmVRm_OSN4/s1600/20032011515a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9ARkMu8jVqdqaU06QQbAabR0LXFGzmsg8QKiC1KEBqkK9onU0kETH8_3rO36EHT7ZVofR4ffx7TmfQ_7_OzwC5pwjC1zVJkxg72KSc7uRNWQ7FT8YNoWw25VZ8FZCSthwKhmVRm_OSN4/s320/20032011515a.jpg" width="320" /></a></div>Ve Zlíně jsme potkali Maja z Brna na jeho novém stroji [<a href="http://www.bikez.com/motorcycles/yamaha_xj_600_s_diversion_2001.php">Yamaha XJ600</a>] r.v. 2001- je to nadšenec, profík mechanik. Dělá auta a baví se motorkama. Vždycky koupí nějaký porouchaný nebo poškozený stroj, vyspraví ho, sveze se a pošle dál. Loni jezdil na sportovnější dvouválcové kapotáži [<a href="http://www.bikez.com/motorcycles/kawasaki_gpz_500_s_1998.php">Kawasaki GPZ 500 S</a>], pořídil to jako zadřený stroj, dělal výbrus, repas kliky a ve výsledku to bylo opravdu solidní svižné svezení.<br />
+Ptal jsem se Maja na ten můj problém s olejem a neviděl v tom problém, ale prý se tohle může stát když v motorové skříni není dostatečný tlak - jestě se k tomu musí vyjádři někdo další.<br />
+<br />
+Náš [<a href="/posts/2011/01/dratovy-intercom/">drátový intercom</a>] funguje skvěle. Do 100km/h si můžeme krásně povídat, na dálnici kolem 130km/h už to není ono, pořád se slyšíme, ale už to kolem moc sviští.<br />
+Naopak zcela zklamala [<a href="/posts/2010/12/kontrola-tlaku-v-pneu/">kontrola tlaku v pneu</a>], když otáčky jsou někde mezi 6-7tis. tak zařízení hlásí poruchu čidla předního kola kvůli rušení - prostě to není na tak starý stroj. V manuálu je o tom zmínka, prý mám kontaktovat prodejce.<br />
+Překvapením byl i nový [<a href="/posts/2011/01/doraz-rizeni/">doraz řízení</a>], poloměr otáčení naší kawy má být někde do 3m, aktuálně máme rejd alespoň dvakrát větší, je to nepříjemné a bude třeba dorazy zmenšit.

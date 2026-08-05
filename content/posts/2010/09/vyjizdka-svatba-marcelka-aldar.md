@@ -1,0 +1,25 @@
+---
+title: "Vyjížďka: Svatba - Marcelka + Aldar"
+date: 2010-09-04T22:00:00Z
+url: "/posts/2010/09/vyjizdka-svatba-marcelka-aldar/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg44CfeQcDsi9Eqp0zs4x8WqEYf5TN2U3DIsDeHphwRCely5muwfmAFHM_-zyLk6Gj3VxW5Znl9odKP09D4IwMOWmRA6XE7abgHdArCUC0ma2Yg_G4RS4OUtQn8Kphh9iqcUFR53xqnk4/s320/04092010300.jpg"
+tags: ["Na cestě"]
+aliases:
+  - "/2010/09/vyjizdka-svatba-marcelka-aldar.html"
+---
+
+Že na svatbu vyrazíme na motorce jsme věděli od začátku, žel začalo hodně pršet, takže krom pláštěnek jsme si obuli klasické gumáky, jelo se pěkně, protože cesta byla jen na 20minut [<a href="http://maps.google.cz/maps?f=d&amp;source=s_d&amp;saddr=Past%C3%BD%C5%99sk%C3%A1&amp;daddr=49.0198992,17.6398324+to:48.98743,17.52886+to:Nezn%C3%A1m%C3%A1+silnice&amp;hl=cs&amp;geocode=FSX66wIdfC0NAQ%3BFfv76wIdmCkNASmNcOTrKGoTRzEhty9SD68AEw%3BFSZ96wIdHHgLASkngBGbFUATRzGB9sdmD68AEw%3BFTkQ6wIdCqgKAQ&amp;mra=dvme&amp;mrcr=0&amp;mrsp=1&amp;sz=15&amp;via=1,2&amp;sll=49.022279,17.647047&amp;sspn=0.012439,0.039611&amp;brcurrent=5,0,0&amp;ie=UTF8&amp;ll=48.98585,17.566109&amp;spn=0.099584,0.316887&amp;z=12">Uherský Brod - Blatnice pod Svatým Antonínkem</a>].<br />
+Svatba byla u [<a href="http://cs.wikipedia.org/wiki/Svat%C3%BD_Anton%C3%ADnek">studánky</a>] kde údajně věrozvěstové křtili naše slovanské předky.<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg44CfeQcDsi9Eqp0zs4x8WqEYf5TN2U3DIsDeHphwRCely5muwfmAFHM_-zyLk6Gj3VxW5Znl9odKP09D4IwMOWmRA6XE7abgHdArCUC0ma2Yg_G4RS4OUtQn8Kphh9iqcUFR53xqnk4/s1600/04092010300.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg44CfeQcDsi9Eqp0zs4x8WqEYf5TN2U3DIsDeHphwRCely5muwfmAFHM_-zyLk6Gj3VxW5Znl9odKP09D4IwMOWmRA6XE7abgHdArCUC0ma2Yg_G4RS4OUtQn8Kphh9iqcUFR53xqnk4/s320/04092010300.jpg" width="320" /></a></div><br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqlbKSKOu2N5aT3o1hVc_eoZlQL4KNxGG7aALeesyc81YSjTM97BuUfgjdmzohK9p0uyHiGWfyUBvjvR6zjswA7k_YXJtijKWs1K9Mra88vs1e0sbDiJwfrGC6fbMTTt7qBdeXtPK_GH8/s1600/04092010301.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqlbKSKOu2N5aT3o1hVc_eoZlQL4KNxGG7aALeesyc81YSjTM97BuUfgjdmzohK9p0uyHiGWfyUBvjvR6zjswA7k_YXJtijKWs1K9Mra88vs1e0sbDiJwfrGC6fbMTTt7qBdeXtPK_GH8/s320/04092010301.jpg" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">svatebčané brodící se v lodičkách blátem, nevěsta vlekoucí bílé šaty mokrou trávou - romantika každým coulem</td></tr>
+</tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjexnj9wSD1s1Vxc6S-fW7SFoGKQS4R6dvgKUW4NUc4jeQpay0mJADiUx3knvU6HWDKe3utTvsAEEHkelkjcrWM_CZF3Me5No3Ucr3bAqGFgzrjajQ3QOP1jWYnZwnQeHYkPHJW2h_0Xs/s1600/04092010309.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjexnj9wSD1s1Vxc6S-fW7SFoGKQS4R6dvgKUW4NUc4jeQpay0mJADiUx3knvU6HWDKe3utTvsAEEHkelkjcrWM_CZF3Me5No3Ucr3bAqGFgzrjajQ3QOP1jWYnZwnQeHYkPHJW2h_0Xs/s320/04092010309.jpg" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">vzali se</td></tr>
+</tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePLw__-mOWWXZM_taVdkxsNoK0RDfEoxCt2HNqk1cxffefM5GRSj4JV4XHCUpGJNaZpl6s9lyJuOEvxSHpsPGLUgVabdHKaUlymt128M_hoojYJzIprCjwOluYd-926pE4KpxSV70838/s1600/04092010311.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePLw__-mOWWXZM_taVdkxsNoK0RDfEoxCt2HNqk1cxffefM5GRSj4JV4XHCUpGJNaZpl6s9lyJuOEvxSHpsPGLUgVabdHKaUlymt128M_hoojYJzIprCjwOluYd-926pE4KpxSV70838/s320/04092010311.jpg" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">s ohledem na nefomální obuv přála Saša novomanželům za naše JZD všechno nejlepší</td></tr>
+</tbody></table><div class="separator" style="clear: both; text-align: center;"><br />
+</div>

@@ -1,7 +1,0 @@
----
-title: "Maker Faire Ostrava..."
-date: 2024-06-01T16:59:00.061Z
-tags: ["Bastlení.Makerfaire", "Bastlení"]
----
-
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="400" src="https://www.youtube.com/embed/LkERO8kCAT8" width="640" youtube-src-id="LkERO8kCAT8"></iframe></div><div class="separator" style="clear: both; text-align: right;">autor videa: <a href="https://www.youtube.com/@DavidNedvidekCZ" target="_blank">@DavidNedvidekCZ</a></div><div><br /></div><div style="text-align: justify;"><span>&nbsp;&nbsp; &nbsp;</span>Zahaleni dýmem doutnajícího uhlí z kovářské výhně – inu, Ostrava. Tak vcházeli účastníci festivalu hlavním vchodem trojhalí Karolina. Prezentace projektů VŠB TUO[<a href="https://makerfaire.cz/makeri/entry/1513/" target="_blank">1</a>][<a href="https://makerfaire.cz/makeri/entry/1512/" target="_blank">2</a>][<a href="https://makerfaire.cz/makeri/entry/1539/" target="_blank">3</a>] byla velmi důstojná. Setkání bylo jednodenní a díky tomu byli všichni (nejen návštěvnící) pozitivně komunikačně naladěni.&nbsp;</div><div style="text-align: justify;"><span>&nbsp;&nbsp; &nbsp;</span>Venku měli prezentaci[<a href="https://makerfaire.cz/makeri/entry/1541/">4</a>] youtubeři <a href="https://www.youtube.com/@jiribekr" target="_blank">@jiribekr</a>&nbsp;a <a href="https://www.youtube.com/@amperak" target="_blank">@amperak</a>&nbsp;a byli výborní jako vždy.&nbsp;</div><div style="text-align: justify;"><br /></div>

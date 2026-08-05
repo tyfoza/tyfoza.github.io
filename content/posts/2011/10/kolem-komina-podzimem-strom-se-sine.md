@@ -1,0 +1,13 @@
+---
+title: "Kolem komína podzimem Strom se šine"
+date: 2011-10-24T14:00:00.021Z
+url: "/posts/2011/10/kolem-komina-podzimem-strom-se-sine/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5W5TzgtSF4n1aM3YbmEtoiSPuIpUqZ5M-DpC0Q-5_pxmqzUSkceAbPg8p5Ye9CD3wgOkA7iCNfOriA6v9e_TZOdA8QIDHHina1dxF2kYL3r8RB6PuNVXifkZEtacPZen1mIo54V-s88N3/s400/IMG_0302.JPG"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/10/kolem-komina-podzimem-strom-se-sine.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5W5TzgtSF4n1aM3YbmEtoiSPuIpUqZ5M-DpC0Q-5_pxmqzUSkceAbPg8p5Ye9CD3wgOkA7iCNfOriA6v9e_TZOdA8QIDHHina1dxF2kYL3r8RB6PuNVXifkZEtacPZen1mIo54V-s88N3/s1600/IMG_0302.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5W5TzgtSF4n1aM3YbmEtoiSPuIpUqZ5M-DpC0Q-5_pxmqzUSkceAbPg8p5Ye9CD3wgOkA7iCNfOriA6v9e_TZOdA8QIDHHina1dxF2kYL3r8RB6PuNVXifkZEtacPZen1mIo54V-s88N3/s400/IMG_0302.JPG" width="400" /></a></div>Z Rubanisk do Dobrkovic a z Pašovic po zelené turistické značce na Maršov. Pod cestě jsem potkal malý kopec, ve stínu, zarostlá polní cesta - na ten už Anakee2 nestačily. Po několikerém neúspěšném pokusu o vyjetí nezbylo než nechat kolo prokluzovat a pořádně pod plynem bez spojky jít vedle stroje a tlačit. Šlo to velmi pomalu a úmorně, ale šlo. Doufám, že s jednou s opravdovým offroad obutím si Strom takového dokopce ani nevšimne.<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCvGlKqZAgGvDlyRuFSpheR1EvWlZsHwDESbGbqvphevP8J2BNLWScDkYZr9n94f7YZANyzo8Y4mZYNqx0Exi0slpPmLFvMrd1Hx-lFPZBwQHmDcCp841P1hEBvjE5Ij61iGK-gYcqAGmX/s1600/IMG_0307.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCvGlKqZAgGvDlyRuFSpheR1EvWlZsHwDESbGbqvphevP8J2BNLWScDkYZr9n94f7YZANyzo8Y4mZYNqx0Exi0slpPmLFvMrd1Hx-lFPZBwQHmDcCp841P1hEBvjE5Ij61iGK-gYcqAGmX/s400/IMG_0307.JPG" width="400" /></a></div>[<a href="https://photos.app.goo.gl/ExLQfwRDzac45X9V7">víc fotek</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/5aps35iha156sipl">záznam z trasy</a>]

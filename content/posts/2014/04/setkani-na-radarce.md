@@ -1,0 +1,38 @@
+---
+title: "Setkání na Radarce"
+date: 2014-04-12T10:49:00Z
+url: "/posts/2014/04/setkani-na-radarce/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhteugX758BQdxorkuRk6wmcWFVJSNn5qXZ40KKHcG1vbvakZ_3qu2wXcC7hjeNb_BfCkua2wAnwnMEi5dfYaTHaLNO4rlyVQCRZkalwXcMKhuMHF9x5ftHEoGeGImkVayb_RiIQbSts499/s1600/WP_20140412_022.jpg"
+tags: ["Video", "Cesty - akce offroad"]
+aliases:
+  - "/2014/04/setkani-na-radarce.html"
+---
+
+<div style="text-align: justify;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhteugX758BQdxorkuRk6wmcWFVJSNn5qXZ40KKHcG1vbvakZ_3qu2wXcC7hjeNb_BfCkua2wAnwnMEi5dfYaTHaLNO4rlyVQCRZkalwXcMKhuMHF9x5ftHEoGeGImkVayb_RiIQbSts499/s1600/WP_20140412_022.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhteugX758BQdxorkuRk6wmcWFVJSNn5qXZ40KKHcG1vbvakZ_3qu2wXcC7hjeNb_BfCkua2wAnwnMEi5dfYaTHaLNO4rlyVQCRZkalwXcMKhuMHF9x5ftHEoGeGImkVayb_RiIQbSts499/s1600/WP_20140412_022.jpg" height="358" width="640" /></a></div>
+fotky: [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">tyf</a>][<a href="http://aron2006.rajce.idnes.cz/Radarka_2014/" target="_blank">aron</a>][<a href="http://bystricke.zonerama.com/Album/303194" target="_blank">bystricke</a>][<a href="http://netvor.rajce.idnes.cz/Radarka_-_enduroskola_jaro_2014/" target="_blank">netvor</a>]</div>
+<div style="text-align: justify;">
+trasy: na trať[<a href="http://www.sports-tracker.com/#/workout/tyfoza/acemlefea8sn1r9r" target="_blank">1</a>], sjezdy k rybníku[<a href="http://www.sports-tracker.com/#/workout/tyfoza/91nqgel5904dfi10" target="_blank">2</a>], kolem přehrady po červené[<a href="http://www.sports-tracker.com/#/workout/tyfoza/385g1taa794bgmoa" target="_blank">3</a>]</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+V areálu Radarka[<a href="http://www.radarka.cz/" target="_blank">4</a>] u Náměšti nad Oslavou proběhlo setkání příznivců fóra BMW GS[<a href="http://www.bmwgs.cz/forum/viewthread.php?thread_id=20819&amp;rowstart=0" target="_blank">5</a>], součástí byla volitelně enduroškola[<a href="http://www.enduroskola.cz/" target="_blank">6</a>] Milana Holého[<a href="http://www.enduroskola.cz/treneri" target="_blank">7</a>] určená převážně začínajícím jezdcům na velkých cestovních endurech. Enduroškoly jsem se přímo neúčastnil, ale vypadala výživně; dvě skupiny pod vedením instruktorů kroužili po louce v areálu Radarky, pak se naučili jak zvládnout drobné sjezdy a výjezdy na malinké trati [<a href="https://drive.google.com/file/d/0B0a5X1seqElyMEQzVWZmZGhNOUE/edit?usp=sharing" target="_blank">8</a>] tamtéž. Nakonec jeli frekventanti vyzkoušet nově nabyté návyky na motokrosovou trať&nbsp;mezi obcemi Studenec a Okarec. Za pět stovek účastnického poplatku nemohl nikdo očekávat individuální přístup – jako úvod do jízdy v terénu na velké motorce to bylo skvělé – viděli jsme pády, viděli jsme skoky plánované více i méně, viděli jsme slalomy a viděli jsme udřené tváře potících se enduristů. Koho terén na velkém enduru zaujme, má možnost pokračovat dalšími lekcemi již v menších skupinách.<br />
+Radarka je místo, kde na vás dýchne atmosféra vojenského ležení let osmdesátých století dvacátého, nikoli osmnáctého[<a href="/posts/2013/06/255-vyroci-bitvy-u-ostretina-1758/" target="_blank">9</a>], aby nedošlo k pomýlení; ale do moderních dob odkazuje i název areálu.<br />
+Večer páteční byl o stmelování kolektivu do pozdních hodin, proložený přesuny od plamenometem rozhicovaných kamen k drkotání zubů při poslechu živé kapely, která hrála venku při teplotě lehce nad nulou a zpět. Proběhla tombola moderovaná Joem vesele tak, že se smějeme ještě teď. Vyhráli jsme hrníček, heč!<br />
+Ráno následovalo děsivé zjištění, že na snídani má nárok pouze ten, kdo si ji večer objednal. Tato informace se utopila snad v moravských vzorcích; MilanH večer v ruce držíc pozdrav z Velkých Pavlovic v podobě stopky ořechovice, řka – cože, další nejlepší domácí, nechci, už nikdy – panáka vypil a otřepavše se vyrazil k vedlejší skupince s rukou napřaženou k další ochutnávce nejlepší domácí lavorovice. Krátce by se řeklo, že večer byl klidný a krom jednoho zbořeného stanu a omylem poblitého malého géesa se nic zvláštního nestalo.<br />
+Dopoledne vzal Joe naši skupinku na motokrosovou trať, tam jsme svou drahou chotí jsme objevovali, jak to nejlépe dělat – tedy jak jet nejlépe offroad v tandemu, ale to si zaslouží svůj blogový zápisek viz.[<a href="/posts/2014/04/offroad-v-tandemu/" target="_blank">10</a>] Pak jsme vyrazili k rybníku na pěkné sjezdy a výjezdy, jeden je kamenitý a druhý kořenitý; škoda, že nepršelo, protože v mokru by sjezd složený jen z kluzkých kořenů mohl být opravdu pěkný.<br />
+Odpoledne jsem si po sté vynadal, jakže jsem mohl doma nechat picí vak – camelbak, pořídil petku do trumpety[<a href="/posts/2012/11/schranka-misto-druheho-vyfuku/" target="_blank">11</a>] a vyrazili jsme s Pachem po Aronově stopě, tedy po turistických značkách kolem Dalešické přehrady. Bylo to padesát kilometrů po pěkném a lehkém terénu.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://ytimg.googleusercontent.com/vi/OV-Qn1QwI38/0.jpg" height="400" width="640"><param name="movie" value="https://youtube.googleapis.com/v/OV-Qn1QwI38&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="640" height="400"  src="https://youtube.googleapis.com/v/OV-Qn1QwI38&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<div style="text-align: center;">
+Mr.Pertla uvádí...</div>
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/E4vM-mV0mpw/0.jpg" height="400" width="640"><param name="movie" value="https://www.youtube.com/v/E4vM-mV0mpw?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="640" height="400"  src="https://www.youtube.com/v/E4vM-mV0mpw?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<div style="text-align: center;">
+Toliho caféracer BMW K100 – jeho prezentační video viz.[<a href="http://youtu.be/rNFNSlaZx-U" target="_blank">12</a>]<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/NZXh3UOutVk/0.jpg" height="400" width="640"><param name="movie" value="https://www.youtube.com/v/NZXh3UOutVk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="640" height="400"  src="https://www.youtube.com/v/NZXh3UOutVk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+</div>

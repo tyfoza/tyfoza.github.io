@@ -1,0 +1,12 @@
+---
+title: "ACW Železné 2023..."
+date: 2023-06-03T21:11:00.007Z
+url: "/posts/2023/06/acw-zelezne-2023/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7DDhCzcVuo6ZzRC-vDsmhEMcxeainy0cmG-P8zSME_IObqBG6HDXcvAaein6skt4_HheIJZhSq3EatbsZ9YD1NIzY80J-rjkcqtDA4Z8Tk6HxvvdfKCbtYCEkXZCDJghl_aof38Du8LEguS7hiUW830y92uuinEjx3W7s92Zomqbjp_d90NxmNaWaOzZc/w640-h418/001.jpg"
+tags: ["Šerm.bitva", "Šerm", "Šerm.ACW"]
+aliases:
+  - "/2023/06/acw-zelezne-2023.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7DDhCzcVuo6ZzRC-vDsmhEMcxeainy0cmG-P8zSME_IObqBG6HDXcvAaein6skt4_HheIJZhSq3EatbsZ9YD1NIzY80J-rjkcqtDA4Z8Tk6HxvvdfKCbtYCEkXZCDJghl_aof38Du8LEguS7hiUW830y92uuinEjx3W7s92Zomqbjp_d90NxmNaWaOzZc/s1474/001.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="962" data-original-width="1474" height="418" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7DDhCzcVuo6ZzRC-vDsmhEMcxeainy0cmG-P8zSME_IObqBG6HDXcvAaein6skt4_HheIJZhSq3EatbsZ9YD1NIzY80J-rjkcqtDA4Z8Tk6HxvvdfKCbtYCEkXZCDJghl_aof38Du8LEguS7hiUW830y92uuinEjx3W7s92Zomqbjp_d90NxmNaWaOzZc/w640-h418/001.jpg" width="640" /></a></div><p>&nbsp;[<a href="https://eu.zonerama.com/EmillyFox/Album/9944141" target="_blank">fotky</a>] Majdaléna Tymešová (Emily Fox)</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilDa9bLofKOwaak7mlG8hMvOuxHic6kpZ2SkBsIlMBsO-Ao14_oxnJe087VkW8q9G9J_A_2VxjOFt-D1j5t2LaFtJLYSnFqRyW3mJ7yhwMiEcx6xuUN32pSqCHBtjnxDNOvpaHH2yViFIeObfi4GecgrSE1CybQnvOOKq2bY0oqL_oxtpN2tixqeo0uFTq/s1024/od-14-hodin-prohlidka-tabora-za-hradiskem-3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="724" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilDa9bLofKOwaak7mlG8hMvOuxHic6kpZ2SkBsIlMBsO-Ao14_oxnJe087VkW8q9G9J_A_2VxjOFt-D1j5t2LaFtJLYSnFqRyW3mJ7yhwMiEcx6xuUN32pSqCHBtjnxDNOvpaHH2yViFIeObfi4GecgrSE1CybQnvOOKq2bY0oqL_oxtpN2tixqeo0uFTq/w452-h640/od-14-hodin-prohlidka-tabora-za-hradiskem-3.png" width="452" /></a></div><br /><p><br /></p>

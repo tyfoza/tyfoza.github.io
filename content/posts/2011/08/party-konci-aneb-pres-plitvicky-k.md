@@ -1,0 +1,22 @@
+---
+title: "Párty končí, aneb přes Plitvičky k domovu"
+date: 2011-08-17T20:30:00.007Z
+url: "/posts/2011/08/party-konci-aneb-pres-plitvicky-k/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY2TAlitWEQFhpTFaYri-CZuJgRJNTmtXlL9MlD7Ogz8T8nso8dXNr1yON9qvHO099RKLkEnXc4Le1z7VBYYjbn65Z2XHrSP8woYui_L1qVE2CT7NnQOt06_yj6jzlft9-bG3yqV3VDbWl/s320/17082011821.jpg"
+tags: ["Cesty - 2011 Jadran"]
+aliases:
+  - "/2011/08/party-konci-aneb-pres-plitvicky-k.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY2TAlitWEQFhpTFaYri-CZuJgRJNTmtXlL9MlD7Ogz8T8nso8dXNr1yON9qvHO099RKLkEnXc4Le1z7VBYYjbn65Z2XHrSP8woYui_L1qVE2CT7NnQOt06_yj6jzlft9-bG3yqV3VDbWl/s1600/17082011821.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY2TAlitWEQFhpTFaYri-CZuJgRJNTmtXlL9MlD7Ogz8T8nso8dXNr1yON9qvHO099RKLkEnXc4Le1z7VBYYjbn65Z2XHrSP8woYui_L1qVE2CT7NnQOt06_yj6jzlft9-bG3yqV3VDbWl/s320/17082011821.jpg" width="320" /></a></div>
+Ráno jsme vstali hodně brzy, abychom stihli pár fotek v Moščeničce na molu, než se tam nahnou lidé a lodě. Dopoledne jsme sbalili ležení, kluci nabalili auto a hodinu před polednem, již řádně odhlášeni, jsme opustili kemp. Felicie řízená Venóšem nám jela v patách jen pár kilometrů do Opatije, kde nás kruhový objezd odstředil a kluci pokračovali stejnou cestou do Slovinska přes Jezersko do rakouského Eisen Kappel a pak po dálnici k domovu, měli by dorazil před půlnocí.<br />
+Naše skupinka na dvou kolech pokračovala podél pobřeží do Rijeki, kde nás navigace krásně provedla celým městem, abychom se vrátili na cestu za Rijekou směrem ostrov Krk, kterou již důvěrně známe, po ní jsme pokračovali až do Senj, kde jsme se rozloučili s mořem a vyrazili do vnitrozemí. Po pár desítkách kilometrů serpentin v horách se podstatně ochladilo a na Plitvičkách jsme zaparkovali v Park zone No. 2. někdy kolem čtvrté hodiny odpolední. Motorky parkují zdarma, auta sedm kuna za hodinu. Uvařili jsme kafé na vařiči mezi stroji, něco málo pojedli. Ábi zatím, vybavená lesklými sklíčky a korálky na výměnu s domorodci vyrazila obhlédnout vstup, mapu a vyjednat jak to tady vlastně funguje. Pan FFF se rozhodl, jsouc zcela odrazen neutuchajícím proudem turistů, že si ustele mezi stroji na místo vařiče a zůstane s knihou a odpočinkem.<br />
+Karlos, Ábi a já jsme sešli dlouhou cestu dolů k prvnímu jezeru, abychom se nalodili. Pomocný historik brblal jako chorá vrána, že tolik neujde a že je to poprvé co platil za to, aby se mohl někde procházet. První loďku jsme stihli těsně a druhá nám ujela před nosem. Další jela za třicet minut a množí se tady lidé geometrickou řadou, loď má jen sto míst, tak se snad vejdeme. Uff.<br />
+Neuvěřitelné, loďka nás převezla přes největší jezero, je tady obrovská občerstvovna a davy turistů, paní u pokladny byla vtipná, praví že platím třicet devět a ptám se kuna? A ona říká ne, euro :) Dali jsme si Ožujsko bezalkoholno pivo a vzpomínáme na našeho pankera Fildu. Pokračujeme se podívat na "Veliki slap", v hlavě se nám přehrává film, kde pravil Vinnetou: "to stříbrný lesk kaskád dal jezeru jméno." Byla to příjemná vycházka, obejít jedno jezero je okruh asi osm ikilometrů. U vodopádu byla tlačenice jako v nuceném výseku, když přivezli slona Péťu.<br />
+Fildu jsme našli čtoucího a spokojeného. Pokračovali jsme osm kilometrů směrem na Zagreb do kempu Korana. Kemp je to obrovský, ceny standardní (cca tisíc korun za čtyři lidi, dva stany, tři motorky a noc). Přemýšlíme, co tady lidé, nejméně sto kilometrů od pobřeží vlastně dělají. Naštěstí hned ráno odjíždíme a další zkoumání místních zvyklostí si necháme na přístě. Večeři jsme měli ze zásob ještě z domu, nám zbylo deset nudlových polévek, Karlos jich má ještě osm a našel konzervu masa, fazolí a ryb.<br />
+<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/3qq4gi4bua3uamnu">trasa</a>] Moščenička Draga-Plitvická jezera<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/9e9js7j23hrsc141">trasa</a>] po Plitvičkách - pěšky!<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/frl3buuj2id4mlij">trasa</a>] autocamp Korana

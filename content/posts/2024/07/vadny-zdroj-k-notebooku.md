@@ -1,0 +1,12 @@
+---
+title: "Vadný zdroj k notebooku..."
+date: 2024-07-09T21:02:00.010Z
+url: "/posts/2024/07/vadny-zdroj-k-notebooku/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGg-snOmZwDFSVBKHMIok0qJh6eTt2g2zf3Wwf-QkILo00VszHxA7f9YAi0w8YPQJiRNPRKd-hWzJ6G2QtNPqm5bSQO3rTqqmTbQeGgUN1QBRmjgG3crojPfZuSFPAgvh68ENmr9hGLejUJ6r4WYXvd9rGS7ExOpQuEdNtIYi7_ARbFc9qCTlKSuVk_4o8/s320/VadnyZdroj.jpg"
+tags: ["Bastlení"]
+aliases:
+  - "/2024/07/vadny-zdroj-k-notebooku.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGg-snOmZwDFSVBKHMIok0qJh6eTt2g2zf3Wwf-QkILo00VszHxA7f9YAi0w8YPQJiRNPRKd-hWzJ6G2QtNPqm5bSQO3rTqqmTbQeGgUN1QBRmjgG3crojPfZuSFPAgvh68ENmr9hGLejUJ6r4WYXvd9rGS7ExOpQuEdNtIYi7_ARbFc9qCTlKSuVk_4o8/s4032/VadnyZdroj.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2268" data-original-width="4032" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGg-snOmZwDFSVBKHMIok0qJh6eTt2g2zf3Wwf-QkILo00VszHxA7f9YAi0w8YPQJiRNPRKd-hWzJ6G2QtNPqm5bSQO3rTqqmTbQeGgUN1QBRmjgG3crojPfZuSFPAgvh68ENmr9hGLejUJ6r4WYXvd9rGS7ExOpQuEdNtIYi7_ARbFc9qCTlKSuVk_4o8/s320/VadnyZdroj.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqvY67FVc701Cpf-u0-PYvR_rtpFAavMTNphqdxNHWd18KQpUnaBIa5mTlUCeUX5LXxQy_29xsLvLSYzuxzNlAQU28FzxjVFknU7rq1IWN3bHEAcG9mruWeYJVwv5J2AzlDHx1h5AEiBZtGpiscC_ohUUcDQuLq1r6rOmdfRn6VRWKixSI6_BsYDfMcb3/s4032/DobryZdroj.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2268" data-original-width="4032" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqvY67FVc701Cpf-u0-PYvR_rtpFAavMTNphqdxNHWd18KQpUnaBIa5mTlUCeUX5LXxQy_29xsLvLSYzuxzNlAQU28FzxjVFknU7rq1IWN3bHEAcG9mruWeYJVwv5J2AzlDHx1h5AEiBZtGpiscC_ohUUcDQuLq1r6rOmdfRn6VRWKixSI6_BsYDfMcb3/s320/DobryZdroj.jpg" width="320" /></a></div><br /><div style="text-align: left;">Jaký je rozdíl mezi vadným a dobrým zdrojem k notebooku. Zajímavé bylo, že notebook se nabíjel, ale při zapnutí s nabíječkou se choval podivně. Měření zdroje v zátěži.</div>

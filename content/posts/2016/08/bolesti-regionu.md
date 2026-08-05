@@ -1,0 +1,20 @@
+---
+title: "Bolesti regionu..."
+date: 2016-08-05T20:58:00Z
+url: "/posts/2016/08/bolesti-regionu/"
+cover:
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazJdiogE0xjYcgMULhT5pnFTXRyecWrPLyIhn0wj7_c5S9r9m-YJZK8xeW6GLWQMK-hobmCNhpvAG9FnVSxQuBU1seKnITjPqK_Roo1pJRnXaoJu39QRqWdgY1ns_WYQfCc6oDx6BjWt6/s640/20160805_182043.jpg"
+tags: ["Tak jde čas"]
+aliases:
+  - "/2016/08/bolesti-regionu.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazJdiogE0xjYcgMULhT5pnFTXRyecWrPLyIhn0wj7_c5S9r9m-YJZK8xeW6GLWQMK-hobmCNhpvAG9FnVSxQuBU1seKnITjPqK_Roo1pJRnXaoJu39QRqWdgY1ns_WYQfCc6oDx6BjWt6/s1600/20160805_182043.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazJdiogE0xjYcgMULhT5pnFTXRyecWrPLyIhn0wj7_c5S9r9m-YJZK8xeW6GLWQMK-hobmCNhpvAG9FnVSxQuBU1seKnITjPqK_Roo1pJRnXaoJu39QRqWdgY1ns_WYQfCc6oDx6BjWt6/s640/20160805_182043.jpg" width="640" /></a></div>
+[<a href="https://goo.gl/photos/NVGy6hyCLYDjUv126" target="_blank">fotky</a>] [<a href="http://olesnice.katolik.cz/prilohy/article/415/kc_brozura.pdf" target="_blank">podrobnosti</a>] [<a href="https://mapy.cz/s/WwVY" target="_blank">mapa</a>]<br />
+<div style="text-align: justify;">
+V pátek pátého srpna, sešlo se procesí sestávající se asi ze dvou stovek poutníků, aby bylo účastno žehnání nové křížové cesty v Olešnici, křížové cesty nazvané Bolesti regionu. Byl jsem u toho a bylo to úžasné. Křížová cesta, stala se přímo cestou krizovou, kdy pršelo tím více, čím se procesí blížilo na kopec, kde bylo zastavení poslední. Na kopci nad sjezdovkou v Olešnici bylo připraveno místo pro polní mši. Zmoklí poutníci se nahoře vyskládali do laviček a žehnající Mons. Jiří Mikuláš se zeptal, zda mše bude tady nebo zda se přesuneme dolů do obce do kostela. Procesí jednohlasně řka - tady - otec Lazárek, místní farář, vzal si slovo a hrdě do mikrofonu ohlásil: V tom případě velím; začněte grilovat! Vše proběhlo podle plánu, všichni spokojení, křížová cesta požehnaná. Jediná změna, ke které došlo, že předpovědi počasí predikovali, že bude pršet k večeru. A ono se vypršelo na procesí a s večerem už to bylo jen lepší.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Podrobný [<a href="http://olesnice.katolik.cz/prilohy/article/415/kc_brozura.pdf" target="_blank">text</a>] ke křížové cestě vysvětluje jednotlivá zastavení, symboliku i události na které odkazují. Je to velmi aktuální, doporučuji k prolistování.</div>
