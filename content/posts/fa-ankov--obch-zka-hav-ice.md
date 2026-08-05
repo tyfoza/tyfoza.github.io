@@ -1,0 +1,7 @@
+---
+title: "Fašanková obchůzka Havřice"
+date: 2011-03-05T15:00:00.002Z
+tags: ["Tak jde čas"]
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraogttrlnTtVSnWIqMLrNl6AGPy6Fqu36niCArkf__rOL9sN6poxdr6i_p65nFZTN5x3tmiOcfUS6xnmeMqIsfXakG8Y1_8jw9FBjthg78vh79XLRp8HV3gkb3a2VY2eqC_wUMiV4m_lq/s1600/05032011508.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraogttrlnTtVSnWIqMLrNl6AGPy6Fqu36niCArkf__rOL9sN6poxdr6i_p65nFZTN5x3tmiOcfUS6xnmeMqIsfXakG8Y1_8jw9FBjthg78vh79XLRp8HV3gkb3a2VY2eqC_wUMiV4m_lq/s320/05032011508.jpg" width="320" /></a></div>[<a href="https://picasaweb.google.com/tyfoza/20110305Fasank?feat=directlink">víc fotek</a>]

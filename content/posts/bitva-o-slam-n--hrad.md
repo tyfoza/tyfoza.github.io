@@ -1,0 +1,22 @@
+---
+title: "Bitva o slaměný hrad..."
+date: 2015-08-29T21:51:00.001Z
+tags: ["Šerm", "Šerm.vystoupení"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/O3yh_nOaUlo/0.jpg" frameborder="0" height="400" src="https://www.youtube.com/embed/O3yh_nOaUlo?feature=player_embedded" width="640"></iframe></div>
+fotky<br />
+[<a href="https://picasaweb.google.com/112269704324559337988/20150829SlamenyHradSKUB?authuser=0&amp;feat=directlink" target="_blank">1</a>] Tyf<br />
+[<a href="http://elenkas.rajce.idnes.cz/Bitva_o_slameny_hrad_srpen_2015/" target="_blank">2</a>] Elen Sladká, bitva o hrad<br />
+[<a href="http://elenkas.rajce.idnes.cz/Bitva_o_slameny_hrad_srpen_2015_-_vyroba_zbroje_a_detska_bitva/" target="_blank">3</a>] Elen Sladká, výroba zbrojí a dětská bitva<br />
+[<a href="https://www.facebook.com/richard.kastner.77/media_set?set=a.1640185786229246.1073741835.100007135212226&amp;type=3&amp;pnref=story&amp;hc_location=ufi" target="_blank">4</a>] Richard Kastner<br />
+[<a href="https://www.facebook.com/media/set/?set=a.1120214091340855.1073742207.517798524915751&amp;type=3" target="_blank">5</a>] Katka Mařáková<br />
+<br />
+odezva v médiích<br />
+[<a href="http://www.novinky.cz/vase-zpravy/zlinsky-kraj/uherske-hradiste/4487-33020-o-slameny-hrad-se-bojovalo-v-uherskem-brode.html" target="_blank">6</a>] Novinky.cz<br />
+[<a href="http://www.idobryden.cz/spolecnost/na-hrad-se-spotrebovalo-deset-tun-materialu/ce7bbaf8-4ef0-11e5-a6ec-005056ab0011/" target="_blank">7</a>] Dobrý den s kurýrem<br />
+[<a href="https://youtu.be/gxYkT7_0jpo?t=4m46s" target="_blank">8</a>] TV Slovácko<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5k7FeXXKR5mlJgiHOTqE2_KFSIPm6z-LgX6ZFyZUNfO1Xz5BMH8yxqVehsD-Hip6Kt4mYhKASoFomA0r-tK3czkWwYnStUPzoWh5uJoiKjnOi4PkUyyv8hHRqNg6TkRkDrSz-zV76fbQc/s1600/WP_20150829_039.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5k7FeXXKR5mlJgiHOTqE2_KFSIPm6z-LgX6ZFyZUNfO1Xz5BMH8yxqVehsD-Hip6Kt4mYhKASoFomA0r-tK3czkWwYnStUPzoWh5uJoiKjnOi4PkUyyv8hHRqNg6TkRkDrSz-zV76fbQc/s640/WP_20150829_039.jpg" width="640" /></a></div>
+<br />

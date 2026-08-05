@@ -1,0 +1,13 @@
+---
+title: "Elektrocentrála nejede - zapalování"
+date: 2011-06-25T10:11:00.012Z
+tags: ["Tak jde čas"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSPA8XqYGjlX99YZJDXDYO58w4TdiEivl8Of5vOsn6doopiKv8O4yNA2Rh9H_RGxL75eBy8YWNsMP3xeq4lLiwhq8ISNZhi0KiksPD6bSV3Iw9A4j3qg9cp3_fYW-gEWKyP4TdmwOCU18/s1600/25062011430.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSPA8XqYGjlX99YZJDXDYO58w4TdiEivl8Of5vOsn6doopiKv8O4yNA2Rh9H_RGxL75eBy8YWNsMP3xeq4lLiwhq8ISNZhi0KiksPD6bSV3Iw9A4j3qg9cp3_fYW-gEWKyP4TdmwOCU18/s200/25062011430.jpg" width="150" /></a></div>
+FFF byl tak hodný, že mně půjčil Rebela, tak jsem si mohl k Hynkovi vyjet na dvou kolech. Brodění zvládl Rebel na výbornou, ale enduro jízda ve stupačkách je neuskutečnitelná.<br />
+Když jsem začal rozebírat kontaktní kladívkové zapalování, tak to chvílemi vypadalo, že to nedělám ani tak já, jako Abišaj, který si nedal ani chvilku oddechu a v nestřežené chvíli odnesl zapalovací svíčku neznámo kam.<br />
+Zapalování je funkční, jiskru ale nedává ani na svíčce ani kabelem proti kostře. Vypadá to, že je magneto příliš slabé na jiskru. V plánu je připojit celé zapalování na autobaterii a nastartovat bez magneta, případně v budoucnosti magneto oživit. <br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVL-F4aU7Udb5uGZ_u7Ow30le2Z5pRVOWcDOVU1oERqyNNEIlJ7C-ix6XkkfI3a1Fq_s2mtxBYRTZ3-2_MdmXj-H1LDJm0Wci2HVUAkDaY03ZJ8QPfQNXAY8MQoMn2AZi62emBQ_Oz8W0/s1600/25062011432.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVL-F4aU7Udb5uGZ_u7Ow30le2Z5pRVOWcDOVU1oERqyNNEIlJ7C-ix6XkkfI3a1Fq_s2mtxBYRTZ3-2_MdmXj-H1LDJm0Wci2HVUAkDaY03ZJ8QPfQNXAY8MQoMn2AZi62emBQ_Oz8W0/s200/25062011432.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1sPPHw2H-la_JmyohO3dnTqUgtpzC3_evNNKhfQF525E5xNeAYVGNxh2XQRDF_sdl1myEhqd-5SOG77NA_b9_yKcTwJc4K8Uxv5EAwni-mof3NpVvFG_lRb5ZqqIKtiACngXcQKfC-Eg/s1600/25062011431.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1sPPHw2H-la_JmyohO3dnTqUgtpzC3_evNNKhfQF525E5xNeAYVGNxh2XQRDF_sdl1myEhqd-5SOG77NA_b9_yKcTwJc4K8Uxv5EAwni-mof3NpVvFG_lRb5ZqqIKtiACngXcQKfC-Eg/s200/25062011431.jpg" width="200" /></a></div>

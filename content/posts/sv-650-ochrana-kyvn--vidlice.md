@@ -1,0 +1,9 @@
+---
+title: "SV 650 ochrana kyvné vidlice"
+date: 2012-06-02T10:00:00.013Z
+tags: ["Jiné moto"]
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4hp2Cn68eT_nSkjCa57S4kyWdIpsh0pKKCkE1pqQ9Ys_-XbWl5A04BFgsLqVZjaw2jcyY0sE4Ds3gqLqtG3JFM4IHyZ2b8K6ihNftj-0RyqQBuYSDLc7nN2rwIY26JQMz-xSPDE1XJC1X/s1600/020620122004.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="148" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4hp2Cn68eT_nSkjCa57S4kyWdIpsh0pKKCkE1pqQ9Ys_-XbWl5A04BFgsLqVZjaw2jcyY0sE4Ds3gqLqtG3JFM4IHyZ2b8K6ihNftj-0RyqQBuYSDLc7nN2rwIY26JQMz-xSPDE1XJC1X/s200/020620122004.jpg" width="200" /></a></div>Nejen na Stromu hlodá řetěz gumu chrání kyvnou vidlici [<a href="http://tyfoza.blogspot.cz/2012/05/vyhlodana-guma-chranici-zadni-kyvnou.html" target="_blank">1</a>]. Důležitá informace je, že tato SV650 má najeto 52tis. km. Vyřešeno vlepením kusu gumy z pásového dopravníku.<br />
+[<a href="https://picasaweb.google.com/112269704324559337988/20120601AnubisovaOchrana?authuser=0&amp;feat=directlink" target="_blank">fotky</a>]<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ0GiiTQebuYgDWBaFLOd-t7_i9MfVHI3_vu48tfQTzJuZV0P21W-MCWU28TyRUFbm17Zbe3aHLqTjlZVc8bn4_rOWQT_mUKqFb8TDsxwcVSMjkb9JDRRApE8B1Z7oO1foYM4y4RufkwBi/s1600/IMG_4470.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ0GiiTQebuYgDWBaFLOd-t7_i9MfVHI3_vu48tfQTzJuZV0P21W-MCWU28TyRUFbm17Zbe3aHLqTjlZVc8bn4_rOWQT_mUKqFb8TDsxwcVSMjkb9JDRRApE8B1Z7oO1foYM4y4RufkwBi/s320/IMG_4470.JPG" width="320" /></a></div>

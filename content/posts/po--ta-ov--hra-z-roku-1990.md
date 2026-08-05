@@ -1,0 +1,12 @@
+---
+title: "Počítačová hra z roku 1990"
+date: 2012-02-26T22:30:00.030Z
+tags: ["Video", "Počítače"]
+---
+
+Mad Dog McCree je westernová střílečka z roku 1990, která překonala svoji dobu. Je to interaktivní film, postavy jsou hrané, prostředí reálné, kvalita grafiky odpovídá době vydání. V roce 2004 se dočkala remasterování, kdy vyšla tatáž hra, ale v moderním DVD kabátě. O hře anglicky[<a href="http://en.wikipedia.org/wiki/Mad_Dog_McCree" target="_blank">1</a>], celý příběh hry ve formě návodu česky[<a href="http://www.madukas.cz/clanky/navody-/CREECREE.html" target="_blank">2</a>].<br />
+Všechny hry tohoto typu od American Laser Games[<a href="http://www.databaze-her.cz/vyvojari/american-laser-games/" target="_blank">4</a>] jsou bez problémů dostupné[<a href="http://warez.f60s.com/forums/t/169671.aspx" target="_blank">5</a>] a spustitelné na moderních strojích. Jako hra na párty jsou všechny podobně příjemné jako Frets on Fire[<a href="http://wiki.ubuntu.cz/Frets%20on%20Fire" target="_blank">6</a>].<br />
+Na youtube je hodně ukázek, jak hra vypadá[<a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=H6BbjxAsdIg" target="_blank">7</a>]&nbsp;- trailer na druhý díl hry Mad Dog McCree - Lost Gold - z roku 1994[<a href="http://www.youtube.com/watch?v=Sy_Eb2XjzYk" target="_blank">8</a>].<br />
+Jako správný greenhorn přikládám video svoje - první díl hry - aneb jak jsem zachránil město. Bylo to vyčerpávající a pouze na nejsnažší obtížnost, ale zachránil a na dvacátý pokus vyhrál i poslední souboj a padouch bídně zhynul. A jak se všichni radovali.<br />
+Na počest dvaadvaceti letům, které hra slaví, má video délku dvě minuty a dvaadvacet vteřin. <br />
+<div class="separator" style="clear: both; text-align: center;"><object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/vsTvXf_yaDQ/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/vsTvXf_yaDQ?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><embed width="320" height="266"  src="http://www.youtube.com/v/vsTvXf_yaDQ?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>

@@ -1,0 +1,9 @@
+---
+title: "Závaží do řídítek"
+date: 2011-04-11T21:02:00.003Z
+tags: ["Kawasaki GPZ 550"]
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhludqtcmtV7O5HPExiEaeLlU8-eHua2pYeruepw-Urk_86wB3DgHcuEcEBb2OzzbM9tbAkx7bvpSb31tyxguHVM_9wOCw_mx8J_NRyvBJJCg99f-CwstRHHjDAMt9PKiScNJ_AG9ofIKk/s1600/618.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhludqtcmtV7O5HPExiEaeLlU8-eHua2pYeruepw-Urk_86wB3DgHcuEcEBb2OzzbM9tbAkx7bvpSb31tyxguHVM_9wOCw_mx8J_NRyvBJJCg99f-CwstRHHjDAMt9PKiScNJ_AG9ofIKk/s320/618.jpg" width="320" /></a></div><br />
+[<a href="http://eshop.motoservis-travnicek.cz/riditka-zavazicka-372/zavazicka-374/zavazicka-do-riditek-dural-4063.html">Motoshop Trávníček</a>] má špunty do řídítek za pusu, tak jsem je namontoval. Mají cca 30mm, na delší jsem neměl odvahu a na barvená už vůbec. Uvidíme, jestli to bude poznat. Údajně to má chránit řídítka při pádu a přenášet vibrac z řídítek ven z osy. U naší kawy by teď při položení měla být páčka brzdy/spojky víc chráněná. Vnitřní průměř řídítek 18mm.<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9IC8vUK7OsliO_rl4thLEpVYv2CYac3JeALxujF36XdMbVn1ra2gY6wihyhJ-8u5Px6JsEilROQy245yB-Vyl3IiBkZ6prH0V21bUzGv-SquWcSdb0TzVOD8_6jDorlWz2SjDmEgpm1U/s1600/IMG_3131.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="137" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9IC8vUK7OsliO_rl4thLEpVYv2CYac3JeALxujF36XdMbVn1ra2gY6wihyhJ-8u5Px6JsEilROQy245yB-Vyl3IiBkZ6prH0V21bUzGv-SquWcSdb0TzVOD8_6jDorlWz2SjDmEgpm1U/s320/IMG_3131.JPG" width="320" /></a></div>

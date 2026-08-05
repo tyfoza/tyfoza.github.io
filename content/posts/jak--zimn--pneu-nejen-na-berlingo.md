@@ -1,0 +1,9 @@
+---
+title: "Jaké zimní pneu nejen na Berlingo..."
+date: 2015-10-27T22:43:00Z
+tags: ["Citroën Berlingo 2.0 HDI"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioVW6ygQNo2j0mmF2iftjw90hdwCz-C0KyX94eKPLFejElcsuS2nBNaPInUMFDNsMpW44QqEosY-G_kR-2Xt7Pe6rvL5jQtldwKv-NxOvTEvHHo1w5C9RaWyVDJeZ05Tw9u-KegUbw9rJu/s1600/WP_20151026_004.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioVW6ygQNo2j0mmF2iftjw90hdwCz-C0KyX94eKPLFejElcsuS2nBNaPInUMFDNsMpW44QqEosY-G_kR-2Xt7Pe6rvL5jQtldwKv-NxOvTEvHHo1w5C9RaWyVDJeZ05Tw9u-KegUbw9rJu/s640/WP_20151026_004.jpg" width="640" /></a></div>
+Podle testů závislých i nezávislých[<a href="http://www.pneunet.cz/hodnoceni-pneumatik/14909/nokian-w+-*/" target="_blank">1</a>] si Nokian stojí slušně. Podle dTestu[<a href="https://www.dtest.cz/clanek-4647/test-zimnich-pneumatik-2015" target="_blank">2</a>] 2015 se Nokian umístil v první třetině. Mně osobně přesvědčila tato dvě videa [<a href="https://www.youtube.com/watch?v=_p9yF0FQETA" target="_blank">3</a>][<a href="https://www.youtube.com/watch?v=00GoXT0YD6M" target="_blank">4</a>]. Přišel jsem do svého oblíbeného pneuservisu[<a href="http://www.pneuservisnejedlik.cz/" target="_blank">5</a>] a říkám, že bych chtěl zimní pneu, které opravdu fungují, bude se na nich jezdit bezpečně a spolehlivě. A pozor! Taktéž jsem řekl, že mně nevadí, že by se sjely za jednu zimu. Protože nevím jak u vás, ale za poslední patnáct zim mám pocit, že vždycky zimní pneu fungovaly jen první zimu. Druhou, výjimečně třetí už prostě nefungovaly správně, i když vzorek ještě splňoval limity.

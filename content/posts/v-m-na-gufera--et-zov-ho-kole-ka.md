@@ -1,0 +1,22 @@
+---
+title: "Výměna gufera řetězového kolečka"
+date: 2014-03-01T11:50:00Z
+tags: ["Suzuki DL 650 K9"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_VWdtQ7XE1SvYEq2pqBY2TiUJUg1WUU8xMp9HMQyxRLYrMbTMwyHOXw7ZEKZ_sRzBbq5l-EM-6ID1ndLg_itiMC8bSUy8wH2UJH0qhWerULgG3Ss9Pw6A0OsWzAUbnQmwxkt7XNKnd-K/s1600/WP_20140301_006.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_VWdtQ7XE1SvYEq2pqBY2TiUJUg1WUU8xMp9HMQyxRLYrMbTMwyHOXw7ZEKZ_sRzBbq5l-EM-6ID1ndLg_itiMC8bSUy8wH2UJH0qhWerULgG3Ss9Pw6A0OsWzAUbnQmwxkt7XNKnd-K/s1600/WP_20140301_006.jpg" width="640" /></a></div>
+[<a href="https://picasaweb.google.com/112269704324559337988/20140301VymenaGuferaRetezovehoKoleckaVStrom?authuser=0&amp;feat=directlink" target="_blank">fotky</a>]<br />
+Gufero <span style="font-size: xx-small;">09283-36003</span> úspěšně vyměněno. Zároveň s ním se mění i vnitřní O-kroužek <span style="font-size: xx-small;">09280-24010</span>.<br />
+Podrobný návod [<a href="http://blacklabadventures.com/2012/07/22/replacing-a-clutch-pushrod-seal-and-countershaft-seal/" target="_blank">1</a>].<br />
+K sehnání byl pouze originál Suzuki na Partsdepot.cz[<a href="http://www.partsdepot.cz/" target="_blank">2</a>].<br />
+<br />
+<i>z komentářů</i><br />
+<span style="background-color: white; font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif; font-size: 14.4444446563721px; line-height: 21.7777786254883px; text-align: justify;"><i>Len by som chcel upresnit ze nieje len original - pomerne bezne sa da zohnat gufero GP 36x50x7 - je sice o 1mm sirsie - ale to nicomu nevadi kedze miesta je za nim dost. Daval som zan 1,2 EUR.</i></span><br />
+<span style="background-color: white; font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif; font-size: 14.4444446563721px; line-height: 21.7777786254883px; text-align: justify;"><i><br /></i></span>
+<span style="background-color: white; font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif; font-size: 14.4444446563721px; line-height: 21.7777786254883px; text-align: justify;"><i>přidáno 3.4.2016 (na tachometru 100tis. km) gufero vydrželo 2 roky</i></span><br />
+<span style="background-color: white; font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif; font-size: 14.4444446563721px; line-height: 21.7777786254883px; text-align: justify;"><i>- další výměna gufera řetězového kolečka</i></span><br />
+<span style="background-color: white; font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif; font-size: 14.4444446563721px; line-height: 21.7777786254883px; text-align: justify;"><i>- gufero&nbsp;</i></span><i style="font-family: georgia, utopia, 'palatino linotype', palatino, serif; font-size: 14.4444px; line-height: 21.7778px; text-align: justify;">36×50×7 &nbsp;</i><i style="font-family: georgia, utopia, 'palatino linotype', palatino, serif; font-size: 14.4444px; line-height: 21.7778px; text-align: justify;">z komentářů</i><br />
+<span style="background-color: white; font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif; font-size: 14.4444446563721px; line-height: 21.7777786254883px; text-align: justify;"><i>- o-kroužek originál, je to rozměr 2,4×</i></span><span style="font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif;"><span style="font-size: 14.4444px; line-height: 21.7778px;"><i>23,7 a takový jsem nikde v alternativě nenašel</i></span></span><br />
+<span style="font-family: &quot;georgia&quot; , &quot;utopia&quot; , &quot;palatino linotype&quot; , &quot;palatino&quot; , serif;"><span style="font-size: 14.4444px; line-height: 21.7778px;"><i><br /></i></span></span>
+<span style="font-family: georgia, utopia, palatino linotype, palatino, serif;"><span style="font-size: 14.4444px; line-height: 21.7778px;"><i>další výměna gufera 13.4.2016</i></span></span>

@@ -1,0 +1,10 @@
+---
+title: "Lom v zimě"
+date: 2011-12-30T17:55:00.001Z
+tags: ["Tak jde čas", "Lom"]
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP-lZX6rfEhZlVY2WMYzduhibGwPSVW0txfwfQfvQr9kWJ4KKxn4NmgLYybsEgpkzNSNW3uvE801mEY_8sfp2YTBPTrhBmPB0i1GVLF9n9TjwJObug3PBGxKgkKAadYOHC6MKeF9nLMdjN/s1600/291220111475.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP-lZX6rfEhZlVY2WMYzduhibGwPSVW0txfwfQfvQr9kWJ4KKxn4NmgLYybsEgpkzNSNW3uvE801mEY_8sfp2YTBPTrhBmPB0i1GVLF9n9TjwJObug3PBGxKgkKAadYOHC6MKeF9nLMdjN/s320/291220111475.jpg" width="320" /></a></div>Krátký výlet za lyžováním. Autem. Na Lomu je plus tři stupně, sníh&nbsp;nikde, takové pěkné jaro. Dřevěný plot před boudou a uhnil, taky je&nbsp;možné, že Véna při střílení na karimatku sekaným olovem přispěl ke konci&nbsp;plotu, to bude předmětem dalšího zkoumání. Ale již teď odhaduji, co bude&nbsp;námětem jarní brigády.<br />
+Sjezdovka skiareálu Olešnice je opravdu v provozu. Jednou oba vleky a je&nbsp;tady příjemně plno, jezdí se až do deváté hodiny večerní. Ledovec&nbsp;funguje, sníh je mokrý a těžký, ale věřím, že ještě na konci května tady&nbsp;budou lyžaři kličkovat mezi pasoucími se ovcemi.&nbsp;Parkování u sjezdovky je blátivý offroad, všechna zaparkovaná auta jsou&nbsp;kropenatá od kusů bláta, která rozhazují ostatní dosud nezaparkovaná&nbsp;auta.<br />
+Z oken jsme nesundali okenice, takže ranní probuzení v pravé poledne nebylo žádným překvapením. V pátek "ráno" nás překvapil sníh, přes noc napadlo alespoň tři centimetry pěkného sněhu, který roztaje.<br />
+[<a href="https://picasaweb.google.com/tyfoza/20111229LomVZime?authuser=0&amp;feat=directlink">víc fotek</a>]

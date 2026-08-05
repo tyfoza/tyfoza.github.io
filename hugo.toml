@@ -1,0 +1,27 @@
+baseURL = 'https://tyfoza.github.io/'
+locale = 'cs'
+title = 'Tyfoza blog'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"       # Automaticky se přepne na tmavý podle systému čtenáře
+  ShowThemeToggle = true      # Přidá tlačítko pro přepínání světlý/tmavý režim nahoru
+  ShowReadingTime = true      # Ukáže u článku odhad, jak dlouho se bude číst
+  ShowShareButtons = false    # Vypne otravná tlačítka pro sdílení na sítě
+
+[[menu.main]]
+name = "Témata"
+url = "/tags/"
+weight = 10
+
+[[menu.main]]
+name = "Hledat"
+url = "/search/"
+weight = 40
+[markup.goldmark.renderer]
+  unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

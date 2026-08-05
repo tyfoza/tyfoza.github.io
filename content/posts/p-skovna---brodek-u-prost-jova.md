@@ -1,0 +1,10 @@
+---
+title: "Pískovna – Brodek u Prostějova"
+date: 2013-07-18T16:30:00Z
+tags: ["Motokrosová trať"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaY2IAf3aG1xblcXggZwNgYbLodqa16ucf1qC8C-qmpNKfUsI_3N86d4YksY7JYu9J8QLAcpqMLZgNpB30T_EWs1nI7AchIUmKY_oyxoBEKhUnqDtH5ETEgHMYHy1QsExALZEOlDQEwPPG/s1600/18072013478.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaY2IAf3aG1xblcXggZwNgYbLodqa16ucf1qC8C-qmpNKfUsI_3N86d4YksY7JYu9J8QLAcpqMLZgNpB30T_EWs1nI7AchIUmKY_oyxoBEKhUnqDtH5ETEgHMYHy1QsExALZEOlDQEwPPG/s640/18072013478.jpg" width="640" /></a></div>
+[<a href="https://picasaweb.google.com/112269704324559337988/20130718TratBrodekUProstejovaZarusta?authuser=0&amp;feat=directlink" target="_blank">fotky</a>]<br />
+Přírodní trať[<a href="http://tyfoza.blogspot.cz/2012/03/zahajeni-sezony-brodek-u-prostejova.html" target="_blank">1</a>], která zarůstá tak, až je to místy nepříjemné. Zůstaly vyjeté koleje a to je asi tak všechno. Dva výjezdy/sjezdy jsou použitelné pro velká cestovní endura a za sucha lze určitě jet i na univerzálních pneu.

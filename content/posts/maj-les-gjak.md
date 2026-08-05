@@ -1,0 +1,9 @@
+---
+title: "Majáles GJAK"
+date: 2012-05-12T12:00:00Z
+tags: ["Tak jde čas"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM4FQlWHofcvJ9VV6Kfvezz6shvPH7Z44xOQvwlKPYnLr_Ak3RrXj4sUpWpwph3d8LzAsrjuOpfZup9btVG8pw9IEQ_-z15Ug6smiYGTnK2DjwrmXk9nq3IREoZ9f1SnhTaQZ6kBus6hL1/s1600/120520121883.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM4FQlWHofcvJ9VV6Kfvezz6shvPH7Z44xOQvwlKPYnLr_Ak3RrXj4sUpWpwph3d8LzAsrjuOpfZup9btVG8pw9IEQ_-z15Ug6smiYGTnK2DjwrmXk9nq3IREoZ9f1SnhTaQZ6kBus6hL1/s200/120520121883.jpg" width="150" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdTicekkcEFokYpWyb_abejGDbRMsly3DpUE5EzwTFo6-iJd9yoIRZkyMPHY-r7KRUFvob-LtiSeJ9P9Np_PubF6sipXqbD2PH_dxBIFZb19kZjGFWCJvhytVZEQw6hkP7msG7n-U6GId/s1600/120520121886.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdTicekkcEFokYpWyb_abejGDbRMsly3DpUE5EzwTFo6-iJd9yoIRZkyMPHY-r7KRUFvob-LtiSeJ9P9Np_PubF6sipXqbD2PH_dxBIFZb19kZjGFWCJvhytVZEQw6hkP7msG7n-U6GId/s200/120520121886.jpg" width="150" /></a></div>
+[<a href="https://picasaweb.google.com/112269704324559337988/20120512MajalesUB?authuser=0&amp;feat=directlink" target="_blank">fotky</a>]

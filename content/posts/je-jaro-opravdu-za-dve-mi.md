@@ -1,0 +1,12 @@
+---
+title: "Je jaro opravdu za dveřmi?"
+date: 2013-04-01T07:49:00.001Z
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjMZhJFHNS4EAFqcRiMQSmj5nXSav86qUjYPuaMNspK-fwoBoeSKAwPRcShH__KZFc8noJast67SY8FVGkMVOF-jDvlRFRWRKufaYT7AetKfeI5-aRhMmQHKC_eHF8RMW3T8W18XPVk0gz/s1600/IMG_8297.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjMZhJFHNS4EAFqcRiMQSmj5nXSav86qUjYPuaMNspK-fwoBoeSKAwPRcShH__KZFc8noJast67SY8FVGkMVOF-jDvlRFRWRKufaYT7AetKfeI5-aRhMmQHKC_eHF8RMW3T8W18XPVk0gz/s640/IMG_8297.jpg" width="640" /></a></div>
+[<a href="https://picasaweb.google.com/112269704324559337988/20130401JeJaroZaDvermi?authuser=0&amp;feat=directlink" target="_blank">fotky</a>]<br />
+Včera jsme posunuli čas – na letní. Nevím, jestli to bylo moudré.<br />
+Kalendář ukazuje duben – Velikonoce – pohled z okna říká prosinec – Vánoce.<br />
+Tak nebo tak už se dárků nedočkáme.<br />
+Jestli jsme v březnu lezli za kamna, tak v dubnu tam ještě pobudeme.

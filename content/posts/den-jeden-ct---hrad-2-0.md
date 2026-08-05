@@ -1,0 +1,68 @@
+---
+title: "Den jedenáctý, hrad 2.0..."
+date: 2019-06-24T20:24:00.001Z
+tags: ["Cesty - 2019 Španělsko"]
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm_JgMQZW2eA4B2y0HYlXpMv4SNQcLfhS0HvztX4iRh8nz6I4TYmhvoffevMc3VHLn9kxx6inau6gr0pvpRaX8hc9gvqniOvVreL7akzz2NBoGfjtWvXCOaoc2PdUrX21HN-teicaMCTae/s1600/PSX_20190624_130051_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1003" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm_JgMQZW2eA4B2y0HYlXpMv4SNQcLfhS0HvztX4iRh8nz6I4TYmhvoffevMc3VHLn9kxx6inau6gr0pvpRaX8hc9gvqniOvVreL7akzz2NBoGfjtWvXCOaoc2PdUrX21HN-teicaMCTae/s640/PSX_20190624_130051_resized.jpg" width="400" /></a></div>
+<div dir="ltr">
+[<a href="https://photos.app.goo.gl/qqSGaQtbrFWyECQ77" target="_blank">fotky</a>]<br />
+<br />
+&nbsp;&nbsp;&nbsp; Ač jsme v zemi s mořem; rybám a plodům moře se zatím pořád úspěšně vyhýbám. Mám obavy, že kdybych si dal klobásu z chobotnice, vypadne ze mě v noci ze spacáku chapadlo.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Kdo z vás ví, z jakého filmu je věta: ,,Vsadím se s vámi o večeři pro celý tábor, že dnes ráno se svými přáteli posnídám na hradbách.'' Vsázím, že Sestra věděla hned. Napovím, že ji řekl hrabě de la Fère při obléhání La Rochelle a která vedla k nejlepšímu balení na piknik vůbec viz [<a href="https://youtu.be/kWNlszJZv6Y">video</a>].</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-BRe5P289W4Y66p7DVS1mXndJXeSgwsa39Qp6g3a0tknDU6A5I8jrYi-1y8KE3B9kBx8usi7PIdDr6Ij8c6k7bYmt0mmhBhivh3X8ay1jWCtqUOjnmUKjsIA-Q9Hk794Zt-eZlJUDfhuc/s1600/20190624_133104_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-BRe5P289W4Y66p7DVS1mXndJXeSgwsa39Qp6g3a0tknDU6A5I8jrYi-1y8KE3B9kBx8usi7PIdDr6Ij8c6k7bYmt0mmhBhivh3X8ay1jWCtqUOjnmUKjsIA-Q9Hk794Zt-eZlJUDfhuc/s640/20190624_133104_resized.jpg" width="640" /></a></div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; Tak dneska jsme si to splnili. Byl to oběd s výhledem na římský akvadukt a obé bylo skvělé.</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC8UA0QhRgqcrzVun-FuuBxg8PWiUg5AiUC8DcDbgUZ1lz7N9kcX5qgN7d2zc1iG-HUPsfdWeMW0uy68tl8KJVQlwdmghwBRKG8NQ3oTfvvm3dXpmqOfQ5su6YALSQ2k4dTUuUqeB6kxjy/s1600/20190624_121318_011_saved_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC8UA0QhRgqcrzVun-FuuBxg8PWiUg5AiUC8DcDbgUZ1lz7N9kcX5qgN7d2zc1iG-HUPsfdWeMW0uy68tl8KJVQlwdmghwBRKG8NQ3oTfvvm3dXpmqOfQ5su6YALSQ2k4dTUuUqeB6kxjy/s640/20190624_121318_011_saved_resized.jpg" width="640" /></a></div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; Tak už je prozrazeno, že cílem naší dnešní cesty bylo město Segovia s jedním s nejlépe dochovaných...[<a href="https://cs.m.wikipedia.org/wiki/Akvadukt_v_Segovii">wiki</a>]. Úplně vidím zaměstnanecký zájezd firmy Slovácké vodárny a kanalizace do Segovia, jak se strýci ptají na informačním centru: ,,Tak, paninko, kde to tady máte? Jsme tady kvůli jakémusi vodovodu. Máme ho opravit nebo vyměnit?''</div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; Je opravdu monumentální. Prošli jsme město, prozkoumali katedrálu s nevyšší věží ve Španělsku. Dalším zastavením byl hrad [<a href="https://cs.m.wikipedia.org/wiki/Alc%C3%A1zar_v_Segovii">Alcázar</a>].<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Segovia je obrovsky turisticky&nbsp; navštěvované město, trochu jako Praha. Kam se podívám, tam leží japonec a ti co neleží, tak fotí.</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieWZcP74D_1EJJ2oDL_GiEP8d12pQo25y08W5acfu3v9jVXeP6mfmqTO1pQ3veAi8_Iuyq7r7iO1bu-gZtRV3zQigbPpx6kZHw_pIOwvg-tkfDgmaB5K9efkcS6F8rC9n6hKDiijzqK0yX/s1600/20190624_144832_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieWZcP74D_1EJJ2oDL_GiEP8d12pQo25y08W5acfu3v9jVXeP6mfmqTO1pQ3veAi8_Iuyq7r7iO1bu-gZtRV3zQigbPpx6kZHw_pIOwvg-tkfDgmaB5K9efkcS6F8rC9n6hKDiijzqK0yX/s640/20190624_144832_resized.jpg" width="640" /></a></div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; Hrad Alcázar a před ním zaparkovaný ,,trebuchet'' mně připomněl akademickou diskusi, kdy jsme při stavbě brodské lávky, kdy byla postavena zatím jen obří kovová ,,véčka'' a my chtěli zkusit s pořádnou prakovou gumou natahovanou zahradním malotraktorem vystřelit automat na kávu z nádraží až na hvězdárnu.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Prošel jsem celý hrad s audioprůvodcem u ucha a se slovníkem v mobilu.</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhURS71rA3bTK3IVJOTwKTp_BD83x_KSh28Fi3x_ybp19lWeaCiqSI-3NgtVQBfsMHm-ySDr-XvvsrT6_w7whUtEEhRYTO0wKxN8vgLn6UjIbk_D9k5JsHiHAeCiQZOjlYcirdMN0pLjJOl/s1600/20190624_152652_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhURS71rA3bTK3IVJOTwKTp_BD83x_KSh28Fi3x_ybp19lWeaCiqSI-3NgtVQBfsMHm-ySDr-XvvsrT6_w7whUtEEhRYTO0wKxN8vgLn6UjIbk_D9k5JsHiHAeCiQZOjlYcirdMN0pLjJOl/s640/20190624_152652_resized.jpg" width="360" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+Zakladatel muzea Karel III.</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYwJvHWfcTJny7PDhnN6Vn-KlHeIES3mssr1hBF4-hSMINPEoaIse9EzoUwiY3tX6e5uN_3_mhgAHeo1EAsOVvuWL8BkVZ_ukyB-wxBxo-po18h0HuXmwyOpD4tqIZ5wKTJqncKe0Y9o2_/s1600/20190624_152707_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYwJvHWfcTJny7PDhnN6Vn-KlHeIES3mssr1hBF4-hSMINPEoaIse9EzoUwiY3tX6e5uN_3_mhgAHeo1EAsOVvuWL8BkVZ_ukyB-wxBxo-po18h0HuXmwyOpD4tqIZ5wKTJqncKe0Y9o2_/s640/20190624_152707_resized.jpg" width="360" /></a></div>
+<div class="separator" style="clear: both; text-align: left;">
+&nbsp; &nbsp; &nbsp; První ředitel muzea hrabě de Gazzola (1689-1780).</div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/0cEGoAl3mOQ/0.jpg" frameborder="0" height="400" src="https://www.youtube.com/embed/0cEGoAl3mOQ?feature=player_embedded" width="640"></iframe></div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; Cesta dolů z věží vypadá takto.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjREtRugOrAHQkN4jnFmT2Z2j4MDZumEpTyxiWHlHs-j0UmjBb8rCw3zRDE-vZytbCdbFJVgHfM6Bc8R_VzRFGhhNHqD4WKHE_Wd6Z4xhyphenhyphenbEnuMi_JomUl1P9Hyy3dGTuEssVR0IJC1_tcJ/s1600/20190624_181043_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjREtRugOrAHQkN4jnFmT2Z2j4MDZumEpTyxiWHlHs-j0UmjBb8rCw3zRDE-vZytbCdbFJVgHfM6Bc8R_VzRFGhhNHqD4WKHE_Wd6Z4xhyphenhyphenbEnuMi_JomUl1P9Hyy3dGTuEssVR0IJC1_tcJ/s640/20190624_181043_resized.jpg" width="640" /></a></div>
+</div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; Další cíl bylo město Ávila. [<a href="https://zajimavaevropa.cz/spanelsko/avila-dokonale-zachovale-opevnene-mesto-a-rodiste-slavne-svetice/">Opevnění</a>], obrovská obludnost objímající celé centrum města a určitě stojí za shlédnutí.<br />
+<br /></div>
+<div dir="ltr">
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjfihjqRvgH2lQ1Q-1OJmr9ut6SVo-RnPFnsdiEaUOc8Bh3SuzKql0RPzBTPs5QnO-3vkz8O4Ao5p4zGKtPxPrFmXQPks42Une82DrZwa2UlvV-F2SwQMN1TdOsCZevCApl9f9sUJ4O06I/s1600/20190624_175911_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjfihjqRvgH2lQ1Q-1OJmr9ut6SVo-RnPFnsdiEaUOc8Bh3SuzKql0RPzBTPs5QnO-3vkz8O4Ao5p4zGKtPxPrFmXQPks42Une82DrZwa2UlvV-F2SwQMN1TdOsCZevCApl9f9sUJ4O06I/s640/20190624_175911_resized.jpg" width="360" /></a></div>
+&nbsp;&nbsp;&nbsp; Naproti tomu stojí místo stejně významné, žel menší a tím je komůrka, kde přebývala [<a href="https://cs.m.wikipedia.org/wiki/Terezie_od_Je%C5%BE%C3%AD%C5%A1e">Ninja od Ježíše]</a>.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFig4kVODSwofQF5yqbUfWpMWfrfm4GWTf_hDBI_lO5O4PfAljheKMqWnAyUs3AmFBCA8ZFQ-X2HlCFh64EVJ68v9HF5wGYnTlxqm8fd0VCI4kt139AaqeQE7FfUOtNYCgjkCjlQ1ZgoiJ/s1600/20190624_175159_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFig4kVODSwofQF5yqbUfWpMWfrfm4GWTf_hDBI_lO5O4PfAljheKMqWnAyUs3AmFBCA8ZFQ-X2HlCFh64EVJ68v9HF5wGYnTlxqm8fd0VCI4kt139AaqeQE7FfUOtNYCgjkCjlQ1ZgoiJ/s640/20190624_175159_resized.jpg" width="640" /></a></div>
+&nbsp; &nbsp; &nbsp;V relikviáři mají její prst obrostlý plísní... a měla fakt pěkný rukopis.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uJg-py2AHs31gD_RmkIN8EwYh1vWpDYVGkKl-ZkMrHRpbVPdQTYEq4iIotf3WCZcyFtkLkbJjymkFN3uGSQqCF7acCTAq4Tz2xK1VD4zXwm8r-OUXL3MKjywfWt0toZ6rL4FN2p50A-P/s1600/20190624_181929_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uJg-py2AHs31gD_RmkIN8EwYh1vWpDYVGkKl-ZkMrHRpbVPdQTYEq4iIotf3WCZcyFtkLkbJjymkFN3uGSQqCF7acCTAq4Tz2xK1VD4zXwm8r-OUXL3MKjywfWt0toZ6rL4FN2p50A-P/s640/20190624_181929_resized.jpg" width="640" /></a></div>
+</div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; [<a href="https://es.m.wikipedia.org/wiki/Catedral_de_%C3%81vila">Katedrála v Ávile]</a> je ač zvenčí méně zdobná, tak obrovská a ještě větší. Projíždíme drobnými cestičkami po centru, pocit jako v Portu. Cestičky dlážděné, uzounké, člověk má pocit, že už jede lo chodníku a pak v protisměru potká popeláře. Večer se vracíme do El Escorial, kde máme domovský kemp. Jediné místo, kde jsme strávili tři noci po sobě a čtyři celkem.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGh7xotXNShyCOk3Mqhboo9-F427Isbdhosov6d3BFpbZgUgBBuavFoBKLfUlWJJ1xqG8sDKmQsEughyphenhyphenXvtBKYmd0LBFSx6_m-tW4n5DoYaaSuWSQO2kV50vAbgeBHcEXN-Ift8EJiUg1Z/s1600/5242019234022.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGh7xotXNShyCOk3Mqhboo9-F427Isbdhosov6d3BFpbZgUgBBuavFoBKLfUlWJJ1xqG8sDKmQsEughyphenhyphenXvtBKYmd0LBFSx6_m-tW4n5DoYaaSuWSQO2kV50vAbgeBHcEXN-Ift8EJiUg1Z/s640/5242019234022.jpg" width="640" /></a></div>
+</div>
+<div dir="ltr">
+&nbsp;&nbsp;&nbsp;&nbsp; Jediné rozumné víno, které není litrové a má šroubovací uzávěr.</div>
