@@ -5,3 +5,22 @@
     object-fit: cover;
     margin: 0 auto;
 }
+
+/* Odskočení prvního řádku u každého odstavce v článku */
+.post-content p {
+    text-indent: 1.5em;
+    margin-bottom: 0.5em; /* zmenší vertikální mezeru, aby text vypadal víc jako v knize */
+}
+
+/* Zruší odskočení pro první odstavec po nadpisu (typografické pravidlo) */
+.post-content h1 + p,
+.post-content h2 + p,
+.post-content h3 + p {
+    text-indent: 0;
+}
+
+/* Povolení obrázků i na stránkách štítků, které PaperMod v základu schovává */
+.tag-entry .entry-cover {
+    display: block !important;
+}
+

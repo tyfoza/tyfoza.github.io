@@ -15,8 +15,10 @@ theme = 'PaperMod'
   [params.cover]
     hiddenInSingle = true
 
+
 [permalinks]
   posts = "/posts/:year/:month/:slug/"
+
 
 [menu]
   [[menu.main]]
@@ -34,7 +36,7 @@ theme = 'PaperMod'
 [[menu.main]]
   identifier = "bastleni"
   name = "Bastlení"
-  url = "/tags/bastlení/"
+  url = "/tags/bastlen%C3%AD/"
   weight = 20
 
 [[menu.main]]
@@ -54,6 +56,12 @@ url = "/search/"
 weight = 50
 [markup.goldmark.renderer]
   unsafe = true
+
+[[menu.main]]
+  identifier = "archives"
+  name = "Archiv"
+  url = "/archives/"
+  weight = 60
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
