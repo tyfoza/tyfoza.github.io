@@ -12,6 +12,9 @@ theme = 'PaperMod'
   [params.label]
     icon = "/images/tyfoza.jpg"
 
+  [params.cover]
+    hiddenInSingle = true
+
 [permalinks]
   posts = "/posts/:year/:month/:slug/"
 
