@@ -1,3 +1,42 @@
+<style>
+/* 1. Výchozí stav: na mobilu schováme citát i naši novou mezeru */
+.moudro-dne-wrapper,
+.mezera-pro-clanek {
+    display: none;
+}
+
+/* 2. Na PC box ukážeme a chytře oddělíme od toku stránky */
+@media (min-width: 768px) {
+    .moudro-dne-wrapper {
+        display: block;
+        position: relative; /* Slouží jako kotva pro absolutní pozici */
+        height: 0;          /* Kontejner nezabere ŽÁDNÉ místo, vymaže "ducha" původního boxu */
+        overflow: visible;
+    }
+
+    .moudro-dne {
+        position: absolute; /* Vytrhne citát z toku textu, už nikdy nebude odtlačovat články */
+        right: -180px;      /* PÁČKA 1: Posun doprava k nápisu Archiv (lze ladit) */
+        top: -70px;         /* PÁČKA 2: Posun nahoru/dolů k horní liště (lze ladit) */
+        width: 250px;
+    }
+
+    .moudro-dne-text {
+        font-size: 1rem;
+        line-height: 1.4;
+        text-align: justify;
+        color: var(--secondary);
+        opacity: 0.65;
+    }
+
+    .mezera-pro-clanek {
+        display: block;
+        height: 40px;       /* PÁČKA 3: Tímto číslem přesně určíš mezeru JEN nad prvním článkem */
+    }
+}
+</style>
+
+
 /* Zmenšení obrázků v seznamu příspěvků v PaperModu */
 .post-entry .entry-cover img {
     max-height: 200px; /* Omezení maximální výšky */
@@ -34,4 +73,17 @@
     border: none !important;
     background: transparent !important;
     margin: 0 auto !important;
+}
+
+
+/* Zmenšení popisků u obrázků z Bloggeru */
+.tr-caption {
+    font-size: 0.85rem !important;
+    color: #666 !important;
+}
+
+/* Rozmazané pozadí pro zvětšené obrázky */
+dialog::backdrop {
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(3px);
 }
