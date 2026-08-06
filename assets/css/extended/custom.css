@@ -1,4 +1,3 @@
-<style>
 /* 1. Výchozí stav: na mobilu schováme citát i naši novou mezeru */
 .moudro-dne-wrapper,
 .mezera-pro-clanek {
@@ -34,7 +33,6 @@
         height: 40px;       /* PÁČKA 3: Tímto číslem přesně určíš mezeru JEN nad prvním článkem */
     }
 }
-</style>
 
 
 /* Zmenšení obrázků v seznamu příspěvků v PaperModu */
