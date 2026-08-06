@@ -2,7 +2,8 @@
 title: "Veselé Vánoce..."
 date: 2019-12-25T11:01:00.003Z
 url: "/posts/2019/12/vesele-vanoce/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2019/12/vesele-vanoce.html"
 ---

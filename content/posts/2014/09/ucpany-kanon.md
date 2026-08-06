@@ -2,6 +2,7 @@
 title: "Ucpaný kanón"
 date: 2014-09-19T23:10:00Z
 url: "/posts/2014/09/ucpany-kanon/"
+summary: "Nebyli jsme schopní odpálit kanón přes zátravku, něco se ucpalo. Nezbylo než do hlavně umístit dlouhou zápalnou šňůru a zasypat trochou střelného prachu a pokusit odpálit zepředu. Spoléhali jsme na to, že papírová kartuš prohoří. A povedlo se na poprvé. Po vychladnutí jsme zalili hlaveň horkou vodou s jarem a díky gumovému/záchodovému zvonu se povedlo hlaveň vyčistit a po vylití konečně vypadly i zbytky papíru, který bránil odpálení."
 tags: ["Šerm"]
 aliases:
   - "/2014/09/ucpany-kanon.html"

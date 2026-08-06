@@ -2,6 +2,7 @@
 title: "Den sedmý..."
 date: 2020-01-25T06:56:00Z
 url: "/posts/2020/01/den-sedmy/"
+summary: "Sucre ráno: Hostel, kde parkuju motorku je stejně jako celé Sucre v jakési typické koloniální architektuře. Pár století se tady potomkům Evropanů mohlo žít opravdu hezky. A mně se dobře spalo, až do devíti. Běžný obchod je otevřený třeba 6-11, 15-21. Nemusíte mít strach, že by mámy byly tak dlouho od dětí, protože ty malé mají v obchodě s sebou a kluci, co se vrátili ze školy jdou po své práci. Umývači nádobí v jídelnách, čističi bot. Domácí příprava do školy se neřeší, ale úkoly děti dostávají. Škola se dělá ve škole. Navíc v lednu a únoru mají školní prázdniny, proto jsou děti v práci celý den. Míchaná vajíčka, šunka, sýr, zelenina. Jedna velká dobrota. Hned vedle je Museo de tesoro a conquistadora přec zajímá zlato, stříbro, měď a drahé kamení. Komentovaná prohlídka asi na hodinu a začíná za půl. Tak to stihnu ještě pozevlit na náměstí. Běhá tady malinký samojed a snaží se lovit..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-sedmy.html"

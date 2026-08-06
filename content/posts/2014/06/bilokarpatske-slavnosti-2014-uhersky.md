@@ -2,7 +2,8 @@
 title: "Bílokarpatské slavnosti 2014 Uherský Brod"
 date: 2014-06-14T16:29:00.001Z
 url: "/posts/2014/06/bilokarpatske-slavnosti-2014-uhersky/"
-tags: ["Šerm.vystoupení", "Šerm"]
+summary: "[ fotky ]"
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2014/06/bilokarpatske-slavnosti-2014-uhersky.html"
 ---

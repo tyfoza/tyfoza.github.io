@@ -2,7 +2,8 @@
 title: "Zvolte si politika svého srdce..."
 date: 2013-09-18T14:02:00.001Z
 url: "/posts/2013/09/zvolte-si-politika-sveho-srdce/"
-tags: ["Video", "Tak jde čas"]
+summary: "(námět/scénář/kamera/střih: Maruška Římovská) Přijďte k nám na výstavu [ 1 ]. Vernisáž 24. října 2013 v 17h."
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2013/09/zvolte-si-politika-sveho-srdce.html"
 ---

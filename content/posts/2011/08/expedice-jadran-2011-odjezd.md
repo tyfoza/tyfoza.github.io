@@ -2,7 +2,8 @@
 title: "Expedice Jadran 2011 - odjezd"
 date: 2011-08-11T06:30:00.014Z
 url: "/posts/2011/08/expedice-jadran-2011-odjezd/"
-tags: ["Cesty - 2011 Jadran", "Honda CA125 Rebel"]
+summary: "Sbalení, připravení a nadšení odjíždíme. Předpovědi počasí na cestu jsou příznivé, dnes by mělo být kolem Vídně i v Alpách kolem Klagenfurtu slunečno bez přeháněk a v noci teplých 12 stupňů. Plán expedice je takový, že dnes jsme vyjeli čtyři na třech motorkách a zítra ráno vyrazí hlavní část výpravy autem a setkáme se v pátek ve 14:00 na Slovinském hradě Predjama. Naše stroje značkami a kubaturami pokrývají celé spektrum, výkonem od devíti do osmdesáti kilowatů též. Karlos na Kawasaki GPZ 1100 obložený brašnami, tankvaky a jinými vaky jako palestinský gratulant cé čtyřkou. Prý má sbaleno vše, jenom pétanque se už nevešel. FFF na Hondě Rebel CA 125 se stanem za zády (nepostaveným pochopitelně). Tyf s Ábi v tandemu na Suzuki V-Strom 650, máme tři kufry a všechny jsou plné. Na motorkách s sebou vezeme vše na táboření a celý výlet, pouze šnorchlovací vybavení za námi pojede v autě, protože..."
+tags: ["Honda CA125 Rebel", "Cesty - 2011 Jadran"]
 aliases:
   - "/2011/08/expedice-jadran-2011-odjezd.html"
 ---

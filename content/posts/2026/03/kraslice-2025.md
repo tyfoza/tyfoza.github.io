@@ -2,6 +2,7 @@
 title: "Kraslice 2025..."
 date: 2026-03-25T22:39:00.003Z
 url: "/posts/2026/03/kraslice-2025/"
+summary: "[ fotky ] Martina Trousilová Malí [ eggboti ] opět v akci. Čeká nás premiéra dokumentárního filmu, kde eggboti vystoupí [ ivysilani ]. Návod na stavbu [ eggbota ]."
 tags: ["Tak jde čas"]
 aliases:
   - "/2026/03/kraslice-2025.html"

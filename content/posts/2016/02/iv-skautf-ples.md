@@ -2,6 +2,7 @@
 title: "IV. ŠKAUTF ples"
 date: 2016-02-13T21:57:00Z
 url: "/posts/2016/02/iv-skautf-ples/"
+summary: "[ fotky ] V pořadí již čtvrtý ples multilaterální platformy ŠKAUTF viz [ skautf.sytes.net ] Velké díky pořadatelům a také všem zúčastněným. Už teď se těším na další swing. Snad dřív než zase za rok."
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/02/iv-skautf-ples.html"

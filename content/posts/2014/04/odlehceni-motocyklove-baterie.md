@@ -2,6 +2,7 @@
 title: "Odlehčení motocyklové baterie"
 date: 2014-04-01T21:04:00.002Z
 url: "/posts/2014/04/odlehceni-motocyklove-baterie/"
+summary: "[ fotky ] Místo 4.6kg těžké olověné baterie lze použít baterii lithium–iontovou[ 1 ], která váží pouze 0.9kg. Nevýhoda je, že ji nelze použít v teplotách pod nulou. Dodal MotoTrávníček[ 2 ] a mají ji na eshopu tady[ 3 ] JMT YTX14H-FP - cena 2617Kč, 4Ah Baterie typu LiFePO4. přidáno 16.9.2014 Baterie funguje naprosto bez problémů. Ani po mnoho a mnoha opakovaných startech v offroadu se nevyskytlo, že by nebyla nabita na 3/3. Má na sobě kontrolní diody LED - tři. A testovací tlačítko a ukáže stav nabití. Zatím vždy 3/3. kolega elektronik se vyjádřil ohledně zkušenosti provozu LiFePO4 baterie v nízkých a vysokých teplotách: Při mrazu se nevybíjejí, pouze dají menší startovací proud. Naprosto bez problémů je startování při -15 °C. Klidně i -30 °C (motorka pravděpodobně nenastartuje, ale akumulátor to neponičí). Jinými slovy, provoz LiFePO4 akumulátoru při mrazech v ČR jej trvale nepoškodí,..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6lWhGeJeiU2HezS8tX7KAHXF9pXvWDZHRBpjF0UBl1vDRVUUxQFfNhHWypwHGmVpJLnLweHi47Cn8UCg85xXYF8aoPjQ6bmxAU0ca16zeCnU4omRgbB9ZJIFDwubfU7-3xf-1TjVjKWkN/s1600/WP_20140331_019.jpg"
 tags: ["Suzuki DL 650 K9"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6lWhGeJeiU2HezS8tX7KAHXF9pXvWDZHRBpjF0UBl1vDRVUUxQFfNhHWypwHGmVpJLnLweHi47Cn8UCg85xXYF8aoPjQ6bmxAU0ca16zeCnU4omRgbB9ZJIFDwubfU7-3xf-1TjVjKWkN/s1600/WP_20140331_019.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6lWhGeJeiU2HezS8tX7KAHXF9pXvWDZHRBpjF0UBl1vDRVUUxQFfNhHWypwHGmVpJLnLweHi47Cn8UCg85xXYF8aoPjQ6bmxAU0ca16zeCnU4omRgbB9ZJIFDwubfU7-3xf-1TjVjKWkN/s1600/WP_20140331_019.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6lWhGeJeiU2HezS8tX7KAHXF9pXvWDZHRBpjF0UBl1vDRVUUxQFfNhHWypwHGmVpJLnLweHi47Cn8UCg85xXYF8aoPjQ6bmxAU0ca16zeCnU4omRgbB9ZJIFDwubfU7-3xf-1TjVjKWkN/s1600/WP_20140331_019.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
 Místo 4.6kg těžké olověné baterie lze použít baterii lithium–iontovou[<a href="http://tyf.sweb.cz/lithium-iont/navod-baterie.jpg" target="_blank">1</a>], která váží pouze 0.9kg.<br />
 Nevýhoda je, že ji nelze použít v teplotách pod nulou.<br />

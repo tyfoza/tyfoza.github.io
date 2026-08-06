@@ -2,7 +2,8 @@
 title: "Offroad v tandemu"
 date: 2014-04-12T08:00:00Z
 url: "/posts/2014/04/offroad-v-tandemu/"
-tags: ["Motokrosová trať", "Video", "Na cestě"]
+summary: "Přenesme se přes zbytečné otázky typu, proč jezdit offroad v tandemu. Ona odpověď je totiž jednoduchá. Po asfaltu nás to už tolik nebaví a žádný terénní extrém stejně nepojedeme. Jako cíl nám stačí nám pohodlně zvládnou motokrosovou trať v rychlostech kolem 25km/h a nějakou tu polní cestu, povláčené pole nebo píseček v rychlostech maximálně 60-70km/h. Občas si vyjet společně na výlet na nějakou navigačku případně se toulat po turistických značkách. Tedy snažili jsme se objevit, jak správně jet v offroadu v tandemu a po všech kombinacích možností postojů jsme snad zjistili, jak to bude fungovat. Zkusili jsme to různě: oba ve stupačkách, řidič ve stupačkách spolujezdec sedí vpředu na místě řidiče, řidič sedí a spolujezdec jede ve stupačkách atd. Předpokládám, že jezdec zvládne svoji motorku řídit bezpečně v offroadu vsedě spoléhajíce na podvozek motorky. Je důležité, aby spolujezdec viděl..."
+tags: ["Na cestě", "Motokrosová trať", "Video"]
 aliases:
   - "/2014/04/offroad-v-tandemu.html"
 ---

@@ -2,6 +2,7 @@
 title: "Vlčice trénuje..."
 date: 2016-10-21T18:29:00Z
 url: "/posts/2016/10/vlcice-trenuje/"
+summary: "Těšíte se s námi?"
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/10/vlcice-trenuje.html"

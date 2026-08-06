@@ -2,7 +2,8 @@
 title: "Piškoti na mašině"
 date: 2012-03-18T22:59:00.005Z
 url: "/posts/2012/03/piskoti-na-masine/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/03/piskoti-na-masine.html"
 ---

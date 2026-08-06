@@ -2,6 +2,7 @@
 title: "Šupléry útočí..."
 date: 2008-12-06T08:29:00Z
 url: "/posts/2008/12/suplery-utoci/"
+summary: ""
 tags: ["Tak jde čas"]
 aliases:
   - "/2008/12/suplery-utoci.html"

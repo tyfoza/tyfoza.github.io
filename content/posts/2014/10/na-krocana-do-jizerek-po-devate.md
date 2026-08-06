@@ -2,9 +2,10 @@
 title: "Na Krocana do Jizerek podeváté"
 date: 2014-10-11T16:49:00Z
 url: "/posts/2014/10/na-krocana-do-jizerek-po-devate/"
+summary: "fotky [ 1 ][ 2 ][ 3 ][ 4 ] trasa [ 5 ][ 6 ] Oficiální zpráva akce od Pardála viz. [ 7 ] Další video [ 8 ][ 9 ][ 10 ][ 11 ] naše vítězná skupina „Bigaři“ + jeden Strom a jedna Tenérka"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1lK4Wp4Fsf3mGmGKZSUjkWeThE8W6m5j_IC2Ss7bwy4RfozIyPox_-LTRUD5WFa3YwUc9nwgXEJnhOZU_zlysTfq0dU-lpRFX0lPKUq-aZeHhjhOF6ZGEoAKckbrdgLXbNZdtXAxskXNq/s1600/WP_20141011_012.jpg"
-tags: ["Video", "Cesty - akce offroad"]
+tags: ["Cesty - akce offroad", "Video"]
 aliases:
   - "/2014/10/na-krocana-do-jizerek-po-devate.html"
 ---
@@ -16,6 +17,6 @@ trasa [<a href="http://www.sports-tracker.com/#/workout/tyfoza/543aae5ee4b03f851
 Oficiální zpráva akce od Pardála viz. [<a href="http://www.rockway.eu/novinky/Krocan-podzim-2014.html" target="_blank">7</a>]<br />
 Další video [<a href="http://youtu.be/hCCtaEd_jIU" target="_blank">8</a>][<a href="https://www.youtube.com/watch?v=y21BU1ymjr4" target="_blank">9</a>][<a href="http://youtu.be/8rQCOpAZ35k" target="_blank">10</a>][<a href="http://youtu.be/hnQq57dQBZw" target="_blank">11</a>]<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1lK4Wp4Fsf3mGmGKZSUjkWeThE8W6m5j_IC2Ss7bwy4RfozIyPox_-LTRUD5WFa3YwUc9nwgXEJnhOZU_zlysTfq0dU-lpRFX0lPKUq-aZeHhjhOF6ZGEoAKckbrdgLXbNZdtXAxskXNq/s1600/WP_20141011_012.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1lK4Wp4Fsf3mGmGKZSUjkWeThE8W6m5j_IC2Ss7bwy4RfozIyPox_-LTRUD5WFa3YwUc9nwgXEJnhOZU_zlysTfq0dU-lpRFX0lPKUq-aZeHhjhOF6ZGEoAKckbrdgLXbNZdtXAxskXNq/s1600/WP_20141011_012.jpg" height="360" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1lK4Wp4Fsf3mGmGKZSUjkWeThE8W6m5j_IC2Ss7bwy4RfozIyPox_-LTRUD5WFa3YwUc9nwgXEJnhOZU_zlysTfq0dU-lpRFX0lPKUq-aZeHhjhOF6ZGEoAKckbrdgLXbNZdtXAxskXNq/s1600/WP_20141011_012.jpg" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: center;">
 naše vítězná skupina „Bigaři“ + jeden Strom a jedna Tenérka</div>

@@ -2,6 +2,7 @@
 title: "Zásilka z USA aneb C.K. byrokracie sílí"
 date: 2011-12-21T21:28:00.012Z
 url: "/posts/2011/12/zasilka-z-usa/"
+summary: "Přišel poštou dopis z celní pošty v Praze, že tam mají zásilku pro mě z USA. Objednal jsem v e-shopu po internetu a obratem zaplatil převodem z VISA karty. Aby zásilku celní úřad propustil do volného oběhu, musím doložit - (1) prohlášení, že zboží je neobchodního charakteru, (2) specifikaci zboží - o jaké zboží se jedná a k jaké použití je určeno, (3) doklad o platbě - zápis z paypal, výpis z banky, (4) doklad o druhu a ceně zboží - objednávku, screenshot z eshopu atd. (5) plnou moc pro Českou Poštu, aby mě mohla zastupovat v celním řízení (za úplatu). Docela papírování, ještě že akceptují skenované dokumenty zaslané mailem. Zajímalo by mě, zda je právně platná - taková plná moc, kterou vyplním, podepíšu, oskenuju a pošlu z freemailu. Minule [ 1 ], tj. v červnu 2011 přišly ze Států pístní kroužky na Kawu bez papírování, s vyměřeným DPH, jenom si odpočaly v Praze asi dvacet dní. Takže..."
 tags: ["Tak jde čas"]
 aliases:
   - "/2011/12/zasilka-z-usa.html"

@@ -2,6 +2,7 @@
 title: "Harley Davidson Electra Glide..."
 date: 2019-07-12T20:38:00.001Z
 url: "/posts/2019/07/harley-davidson-electra-glide/"
+summary: "[ fotky ] Neuvěřitelný zátah motoru o objemu bez tří deci dva litry s váhou čtyři metráky. Pokud vám někdo tvrdí, že takový mastodont má ochotu k zatáčení letadlové lodi, tak na téhle lokomotivě projel málo ostrých zatáček – reálně je překvapivě hravá, ale vyžaduje specifické vedení přenesením váhy a impulsem do řídítek. Na šestku dunivě brumláme při dvou tisíci otáčkách krajinou s pocitem, že si můžeme nekonečným asfaltem vymazat hlavu... jenže... z adní odpružení má chod sedm a půl centimetru a to je důvod, proč při přejetí nerovnosti dojde ke specifickému nakopnutí zadku motorky a kostrče posádky – to je věc, kvůli které lidé na H&D jezdí, je to přímý odkaz na stroje typu hardtail, tedy s neodpruženým zadním kolem. Zkusili jsme si tento koráb ve verzi z roku 2012 a také ročník 2018 s motorem 1800ccm a kitem Screamin eagle. Podvozek funguje vždy velmi podobně a je to rys, který mě..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmk8u1zGmoLuu-QYyJJVCtnboROtTvJdjswg1Z7fkY06sm4hsYA9GCfMiVFpwrfTEZ7R6UJmSwrcEaX3wVMT1ebqwkLxYaJnwWiHQfemNEbeJeYRp_v0dnxSWIhf34aNIcUewQym5jPxQ/s640/20190704_200434_resized.jpg"
 tags: ["Jiné moto"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmk8u1zGmoLuu-QYyJJVCtnboROtTvJdjswg1Z7fkY06sm4hsYA9GCfMiVFpwrfTEZ7R6UJmSwrcEaX3wVMT1ebqwkLxYaJnwWiHQfemNEbeJeYRp_v0dnxSWIhf34aNIcUewQym5jPxQ/s1600/20190704_200434_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmk8u1zGmoLuu-QYyJJVCtnboROtTvJdjswg1Z7fkY06sm4hsYA9GCfMiVFpwrfTEZ7R6UJmSwrcEaX3wVMT1ebqwkLxYaJnwWiHQfemNEbeJeYRp_v0dnxSWIhf34aNIcUewQym5jPxQ/s640/20190704_200434_resized.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmk8u1zGmoLuu-QYyJJVCtnboROtTvJdjswg1Z7fkY06sm4hsYA9GCfMiVFpwrfTEZ7R6UJmSwrcEaX3wVMT1ebqwkLxYaJnwWiHQfemNEbeJeYRp_v0dnxSWIhf34aNIcUewQym5jPxQ/s1600/20190704_200434_resized.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://photos.app.goo.gl/wu21xrr5WyEc8rF36" target="_blank">fotky</a>]<br />
 <br />
 <span style="text-align: justify;">&nbsp; &nbsp; &nbsp;Neuvěřitelný zátah motoru o objemu bez tří deci dva litry s váhou čtyři metráky. Pokud vám někdo tvrdí, že takový mastodont má ochotu k zatáčení letadlové lodi, tak na téhle lokomotivě projel málo ostrých zatáček – reálně je překvapivě hravá, ale vyžaduje specifické vedení přenesením váhy a impulsem do řídítek.</span><br />

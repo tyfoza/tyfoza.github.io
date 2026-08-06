@@ -2,9 +2,10 @@
 title: "Zahraniční folklórní soubory v muzeu"
 date: 2014-06-25T06:34:00Z
 url: "/posts/2014/07/zahranicni-folklorni-soubory-v-muzeu/"
+summary: "[ fotky ] holky eskymačky byly nejlepší"
 cover:
     image: "https://scontent-a-fra.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10502131_552382718207410_8524733480537399416_n.jpg"
-tags: ["Video", "Tak jde čas"]
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2014/07/zahranicni-folklorni-soubory-v-muzeu.html"
 ---
@@ -14,6 +15,6 @@ aliases:
 [<a href="https://www.facebook.com/media/set/?set=a.552380981540917.1073741848.363707637074920&amp;type=1" target="_blank">fotky</a>]<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://scontent-a-fra.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10502131_552382718207410_8524733480537399416_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="266" src="https://scontent-a-fra.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10502131_552382718207410_8524733480537399416_n.jpg" width="400" /></a></div>
+{{< obr600 "https://scontent-a-fra.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10502131_552382718207410_8524733480537399416_n.jpg" "Ilustrace k článku" "400" >}}</div>
 <div style="text-align: center;">
 holky eskymačky byly nejlepší</div>

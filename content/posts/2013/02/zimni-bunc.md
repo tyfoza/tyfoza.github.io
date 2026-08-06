@@ -2,7 +2,8 @@
 title: "Zimní Bunč"
 date: 2013-02-11T18:00:00.001Z
 url: "/posts/2013/02/zimni-bunc/"
-tags: ["Video", "Na cestě"]
+summary: "[ fotky ][ trasa ]"
+tags: ["Na cestě", "Video"]
 aliases:
   - "/2013/02/zimni-bunc.html"
 ---

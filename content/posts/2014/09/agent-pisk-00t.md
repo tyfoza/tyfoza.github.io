@@ -2,6 +2,7 @@
 title: "Agent Pišk 00T"
 date: 2014-09-15T20:58:00.002Z
 url: "/posts/2014/09/agent-pisk-00t/"
+summary: ""
 tags: ["Tak jde čas"]
 aliases:
   - "/2014/09/agent-pisk-00t.html"

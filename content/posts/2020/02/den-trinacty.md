@@ -2,6 +2,7 @@
 title: "Den třináctý..."
 date: 2020-02-01T04:52:00.001Z
 url: "/posts/2020/02/den-trinacty/"
+summary: "Cochabamba Celou noc opravdu vydatně pršelo a na plechové střeše nad mou komůrkou bez oken kapky řvaly tolik, že jsem si musel dát sluchátka na spaní. Motorka ráno vypada docela umytě. Svítí slunce a modré nebe. Neváhám a před snídaní chci na kopec nad městem, kde rozpíná své svaté ruce Cristo de la Concordia https://cs.m.wikipedia.org/wiki/Cristo_de_la_Concordia Každý místní kočabamban vám v první větě k monumentu řekne, že je větší než ten v Riu. Ale kdo by si poměřoval Ježíše. Ne to není vtipné, musím to vyškrtnout. Shora, stojíce 230m nad městem vidím, jak je rozlehlé. Je to něco jako Santa Cruz de la Sierra, ale v mírnějším pásu, se vzrostlými palmami uprostřed širokých ulic. Celkově se říká, že je toto město lépe udržované. Například se to pozná podle toho, že všude chodí oražově uniformovaní prodejci a kontroloři parkovacích lístků. Platí i pro motorky, jinak mně dají..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-trinacty.html"

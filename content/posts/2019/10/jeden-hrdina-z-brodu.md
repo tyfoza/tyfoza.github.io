@@ -2,6 +2,7 @@
 title: "Dominik, bojovník z Brodu..."
 date: 2019-10-20T07:01:00Z
 url: "/posts/2019/10/jeden-hrdina-z-brodu/"
+summary: ""
 tags: ["Video"]
 aliases:
   - "/2019/10/jeden-hrdina-z-brodu.html"

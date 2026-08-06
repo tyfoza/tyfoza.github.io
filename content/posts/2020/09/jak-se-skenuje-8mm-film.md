@@ -2,6 +2,7 @@
 title: "Jak se skenuje 8mm film..."
 date: 2020-09-15T18:51:00.018Z
 url: "/posts/2020/09/jak-se-skenuje-8mm-film/"
+summary: "[ www.digihandi.cz ]"
 aliases:
   - "/2020/09/jak-se-skenuje-8mm-film.html"
 ---

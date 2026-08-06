@@ -2,7 +2,8 @@
 title: "Píše se rok 1469..."
 date: 2016-05-21T09:16:00.002Z
 url: "/posts/2016/05/pise-se-rok-1469/"
-tags: ["Video", "Šerm.bitva", "Šerm"]
+summary: "oficiální video Maruška Kadlčíková Římovská fotky – z celé akce [ 1 ] Robin Provodovský – bitva [ 2 ][ 3 ] Elenka Sladká – život v táboře [ 4 ] Elenka Sladká – Boží soud [ 5 ] Elenka Sladká video – TV Slovácko [ 6 ] Bylo nebylo, po dlouhé době se nám, tedy ŠKUBu (Šermířskému klubu Uherský Brod) podařilo uspořádat v našem městě další historickou bitvu. V pořadí již čtvrtou. Ona to nebyla jen bitva – konečně to byl celý historický den, v němž proběhly dva bitevní střety, několikero ukázek ze života a výcviku vojenské jednotky konce patnáctého století, nahlédnutí do tajů historické hudby a to vše zarámováno obrovským historickým táborem. Jen pro zajímavost uvedu, že celá akce vykryla prostor 1,3 hektaru. Tentokrát lví kus práce odvedl spolek FÄHNLEIN RATTENSCHWANZ [ 7 ] a autentičnost akce byla podpořena záštitou Vojenského historického ústavu [ 8 ]. Zásadní poděkování patří Městu Uherský..."
+tags: ["Šerm", "Šerm.bitva", "Video"]
 aliases:
   - "/2016/05/pise-se-rok-1469.html"
 ---

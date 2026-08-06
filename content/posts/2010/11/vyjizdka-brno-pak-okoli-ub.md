@@ -2,6 +2,7 @@
 title: "Vyjížďka: Brno a pak okolí UB"
 date: 2010-11-14T16:57:00Z
 url: "/posts/2010/11/vyjizdka-brno-pak-okoli-ub/"
+summary: "Dnes vyšlo moc pěkné počasí, kolem 18 stupňů, takže se nám podařily dva výlety v tandemu. Záznam z trasy: [ Uherský Brod-Brno-Uherský Brod ] [ blízké okolí Uherského Brodu ] Vpravo byl přidán stálý odkaz na mé záznamy ze Sport-trackeru, protože při posílání příspěvku z mobilu nejsem schopen zjistit přesný odkaz na konkrétní trasu."
 tags: ["Na cestě"]
 aliases:
   - "/2010/11/vyjizdka-brno-pak-okoli-ub.html"

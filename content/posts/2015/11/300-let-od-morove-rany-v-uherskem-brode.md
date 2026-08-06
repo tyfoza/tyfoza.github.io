@@ -2,7 +2,8 @@
 title: "300 let od morové rány v Uherském Brodě..."
 date: 2015-11-20T20:08:00Z
 url: "/posts/2015/11/300-let-od-morove-rany-v-uherskem-brode/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2015/11/300-let-od-morove-rany-v-uherskem-brode.html"
 ---

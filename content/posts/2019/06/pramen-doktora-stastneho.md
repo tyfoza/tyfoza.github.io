@@ -2,7 +2,8 @@
 title: "Pramen doktora Šťastného..."
 date: 2019-06-03T06:08:00Z
 url: "/posts/2019/06/pramen-doktora-stastneho/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2019/06/pramen-doktora-stastneho.html"
 ---

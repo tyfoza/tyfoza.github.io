@@ -2,6 +2,7 @@
 title: "nová Kawa"
 date: 2010-06-18T03:00:00.008Z
 url: "/posts/2010/11/zaciname/"
+summary: "Dnes jsem pořídil jetou Kawasaki KZ 550 (též GPZ 550 A2) r.v.1981, má najeto 71586 km. Až na pár drobností jako je ložisko předního kola, rozjeté podtlaky, klepající ventily, špatný lak, olej tekoucí z předních tlumičů, chybějící lanko otáčkoměru, ošoupané sedlo atd. vypadá velmi zachovale. Odkazy jsou doplňovány postupně [ specifikace ] [ servisní manuál ] [ dobové srovnání ] motorek do $1500 [ bitzforbikes.co.uk ] nákupy dílů [ flatracer.com ] Pozn. Spojkové lanko používám Unitrack pro GPZ 1100 r.v. 1982 z [ alda-moto ] Kyjov, mají ho v e-shopu. SPZ 3Z4044"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-ATXiYMxQDe8Q7RSuCH_kj7ZECi4TGuCvBjFO2ZxehtsT_9CoT2kMd_lWVUdcCccdAYE9Mset5igDfhmvCWvQo717iR5zUCxzJDDdfM-ISLJcvU7U9I909TSgzJo9CM8OrIYxUOJuMKo/s320/kz550-717021.jpg"
 tags: ["Kawasaki GPZ 550"]
@@ -9,7 +10,7 @@ aliases:
   - "/2010/11/zaciname.html"
 ---
 
-<div class="mobile-photo"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-ATXiYMxQDe8Q7RSuCH_kj7ZECi4TGuCvBjFO2ZxehtsT_9CoT2kMd_lWVUdcCccdAYE9Mset5igDfhmvCWvQo717iR5zUCxzJDDdfM-ISLJcvU7U9I909TSgzJo9CM8OrIYxUOJuMKo/s1600/kz550-717021.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" height="230" id="BLOGGER_PHOTO_ID_5534601448481563442" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-ATXiYMxQDe8Q7RSuCH_kj7ZECi4TGuCvBjFO2ZxehtsT_9CoT2kMd_lWVUdcCccdAYE9Mset5igDfhmvCWvQo717iR5zUCxzJDDdfM-ISLJcvU7U9I909TSgzJo9CM8OrIYxUOJuMKo/s320/kz550-717021.jpg" width="320" /></a></div></div>Dnes jsem pořídil jetou Kawasaki KZ 550 (též GPZ 550 A2)&nbsp; r.v.1981, má najeto 71586 km.<br />
+<div class="mobile-photo"><div class="separator" style="clear: both; text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-ATXiYMxQDe8Q7RSuCH_kj7ZECi4TGuCvBjFO2ZxehtsT_9CoT2kMd_lWVUdcCccdAYE9Mset5igDfhmvCWvQo717iR5zUCxzJDDdfM-ISLJcvU7U9I909TSgzJo9CM8OrIYxUOJuMKo/s1600/kz550-717021.jpg" "Ilustrace k článku" "320" >}}</div></div>Dnes jsem pořídil jetou Kawasaki KZ 550 (též GPZ 550 A2)&nbsp; r.v.1981, má najeto 71586 km.<br />
 Až na pár drobností jako je ložisko předního kola, rozjeté podtlaky, klepající ventily, špatný lak, olej tekoucí z předních tlumičů, chybějící lanko otáčkoměru, ošoupané sedlo atd. vypadá velmi zachovale.<br />
 <br />
 <i>Odkazy jsou doplňovány postupně</i> [<a href="http://www.bikez.com/motorcycles/kawasaki_gpz_550_1981.php">specifikace</a>]<br />

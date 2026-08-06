@@ -2,9 +2,10 @@
 title: "Oživme hrad... Částkov..."
 date: 2015-08-30T17:58:00.001Z
 url: "/posts/2015/08/ozivme-hrad/"
+summary: "[ fotky ] [ info o tvrzi ] Oživování hradu O jakém hradu má být řeč? No přece o tvrzi v Částkově, kterou místní běžně nazývají hradem… Dostalo se mně cti být pozván na kulturní akci\" Oživme hrad\", kterou pořádalo částkovské občanské sdružení tuto neděli v prostoru bývalé tvrze v Částkově. Měl to být jakýsi pokus jak dostat tuto lokalitu do povědomí občanů Částkova. Zaparkoval jsem svoje auto poblíž kaple a pak už šel jenom pár desítek metrů k vyhlédnuté lokalitě, tedy k místu, na kterém stála ve 14. století tvrz, patřící rodu Vlčků.Jako první mně padla do oka nevelká, ale zřetelně ohraničená vyvýšenina. Kolem ní se daly při trošce fantazie najít i torsa tvrz obklopujících valů. A právě na tomto vskutku romantickém místě se poslední srpnovou neděli odehrávaly děje, které si dovolím následně barvitě popsat. Nebyl jsem ovšem zdaleka první příchozí, v podhradí na lavičkách anebo jen tak v..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-S9tHSBhgKI5Ts_-EAVuGozcbe_PF8ohEHf6qRY4hV-vn-BvUJ0GsRpTFSpuAm9WSbYitYNQCS_jDXfT_mVUnSGmmcaBp3XGp7F911yE70heeclEuaZNTtXuUZ9nbGjpfOMC_B13TlFy-/s640/dru%25C5%25BEina+Kunhuty.JPG"
-tags: ["Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2015/08/ozivme-hrad.html"
 ---
@@ -13,7 +14,7 @@ aliases:
 </div>
 <div style="text-align: center;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-S9tHSBhgKI5Ts_-EAVuGozcbe_PF8ohEHf6qRY4hV-vn-BvUJ0GsRpTFSpuAm9WSbYitYNQCS_jDXfT_mVUnSGmmcaBp3XGp7F911yE70heeclEuaZNTtXuUZ9nbGjpfOMC_B13TlFy-/s1600/dru%25C5%25BEina+Kunhuty.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-S9tHSBhgKI5Ts_-EAVuGozcbe_PF8ohEHf6qRY4hV-vn-BvUJ0GsRpTFSpuAm9WSbYitYNQCS_jDXfT_mVUnSGmmcaBp3XGp7F911yE70heeclEuaZNTtXuUZ9nbGjpfOMC_B13TlFy-/s640/dru%25C5%25BEina+Kunhuty.JPG" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-S9tHSBhgKI5Ts_-EAVuGozcbe_PF8ohEHf6qRY4hV-vn-BvUJ0GsRpTFSpuAm9WSbYitYNQCS_jDXfT_mVUnSGmmcaBp3XGp7F911yE70heeclEuaZNTtXuUZ9nbGjpfOMC_B13TlFy-/s1600/dru%25C5%25BEina+Kunhuty.JPG" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] &nbsp; &nbsp;[<a href="https://docs.google.com/document/d/17vA0NYp1rQ8nwoy6Ns9wfxqQD9i9E-ZN3E0kDnFhE9w/edit?usp=sharing" target="_blank">info o tvrzi</a>]</div>
 <div style="text-align: justify;">
 Oživování hradu</div>
@@ -42,5 +43,5 @@ Tato se rozhodně na výsost podařila!<br />
 <i>Jaromír Slavíček</i></div>
 <div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVovav1MxbrFoXFvL_tlkBbnXrS2At5DfnFxmWeDhbOqQFuBcqlge39anUGXIqTpp-YOlBU1x11dcqPZj8tvoAS8GwJ043qtLJ31hjocy_yX2ZpE1-uPrg83skuYosfylE9mAhXDZnXO2P/s1600/Hrad_15.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="460" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVovav1MxbrFoXFvL_tlkBbnXrS2At5DfnFxmWeDhbOqQFuBcqlge39anUGXIqTpp-YOlBU1x11dcqPZj8tvoAS8GwJ043qtLJ31hjocy_yX2ZpE1-uPrg83skuYosfylE9mAhXDZnXO2P/s640/Hrad_15.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVovav1MxbrFoXFvL_tlkBbnXrS2At5DfnFxmWeDhbOqQFuBcqlge39anUGXIqTpp-YOlBU1x11dcqPZj8tvoAS8GwJ043qtLJ31hjocy_yX2ZpE1-uPrg83skuYosfylE9mAhXDZnXO2P/s1600/Hrad_15.jpg" "Ilustrace k článku" "640" >}}</div>
 <br /></div>

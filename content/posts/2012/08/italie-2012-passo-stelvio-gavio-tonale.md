@@ -2,6 +2,7 @@
 title: "Itálie 2012 - Passo Stelvio, Gavio, Tonale a Campo Carlo Magna"
 date: 2012-08-10T21:24:00.002Z
 url: "/posts/2012/08/italie-2012-passo-stelvio-gavio-tonale/"
+summary: "Dnešní den by se dal bagatelizovat slovy - dnes se nic zvláštního nestalo. Až na těch pár průsmyků... Na cestu jsme vyrazili v pravé poledne, Passo Stelvio je údajně nejkrásnější a je to pravda. Serpentinám se tady říká \"tornale\" a trvalo hodně dlouho, než jsme zjistili, jak projet vracečku tak, abychom nevjíděli do protisměru jako všichni ostatní řidiči aut a většiny motorek. Ale jde to a už to všichni umíme. Pod vrcholem Stelvia je pořízena přiložená fotka \"yolo\" pro Ježka. Většina zatáček je bez svodilel, při sjezdech do údolí je na jedné straně skála a na druhé buď hlubina nebo neprostupná bílá mlha. Cesty jsou tak úzké, že širší obytná auta a dodávky před zatáčkou troubí a nezřídka se stalo, že se potkali dva obyčejné osobáky v zatáčce a jeden musel kus couvat někam, kde byla silnice širší. Všechny krávy mají na krku zvonce. Cesta před Passo Gavio byla výrazně méně kvalitní, na..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5c92Kqx4YNbp_wPlGYbos57X-hJ_VdeElj2r-XsJQrxfYFxtm8OpIfBjfqdwXSiLYbzR95v8BLc1OQUfn1uUk5GQ819Lwxv2bWDYFt-e1u0_a_010KV4G_9Xjga8KMoBEUiMe9Xw2_Zg/s320/100820122362-791624.jpg"
 tags: ["Cesty - 2012 Itálie"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5c92Kqx4YNbp_wPlGYbos57X-hJ_VdeElj2r-XsJQrxfYFxtm8OpIfBjfqdwXSiLYbzR95v8BLc1OQUfn1uUk5GQ819Lwxv2bWDYFt-e1u0_a_010KV4G_9Xjga8KMoBEUiMe9Xw2_Zg/s1600/100820122362-791624.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5775160746621026930" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5c92Kqx4YNbp_wPlGYbos57X-hJ_VdeElj2r-XsJQrxfYFxtm8OpIfBjfqdwXSiLYbzR95v8BLc1OQUfn1uUk5GQ819Lwxv2bWDYFt-e1u0_a_010KV4G_9Xjga8KMoBEUiMe9Xw2_Zg/s320/100820122362-791624.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5c92Kqx4YNbp_wPlGYbos57X-hJ_VdeElj2r-XsJQrxfYFxtm8OpIfBjfqdwXSiLYbzR95v8BLc1OQUfn1uUk5GQ819Lwxv2bWDYFt-e1u0_a_010KV4G_9Xjga8KMoBEUiMe9Xw2_Zg/s1600/100820122362-791624.jpg" "Ilustrace k článku" >}}</div>
 Dnešní den by se dal bagatelizovat slovy - dnes se nic zvláštního nestalo. Až na těch pár průsmyků... <br />
 Na cestu jsme vyrazili v pravé poledne, Passo Stelvio je údajně nejkrásnější a je to pravda. Serpentinám se tady říká "tornale" a trvalo hodně dlouho, než jsme zjistili, jak projet vracečku tak, abychom nevjíděli do protisměru jako všichni ostatní řidiči aut a většiny motorek. Ale jde to a už to všichni umíme. Pod vrcholem Stelvia je pořízena přiložená fotka "yolo" pro Ježka. <br />
 Většina zatáček je bez svodilel, při sjezdech do údolí je na jedné straně skála a na druhé buď hlubina nebo neprostupná bílá mlha. Cesty jsou tak úzké, že širší obytná auta a dodávky před zatáčkou troubí a nezřídka se stalo, že se potkali dva obyčejné osobáky v zatáčce a jeden musel kus couvat někam, kde byla silnice širší. <br />

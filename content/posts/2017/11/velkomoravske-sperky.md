@@ -2,7 +2,8 @@
 title: "Velkomoravské šperky..."
 date: 2017-11-04T14:02:00.004Z
 url: "/posts/2017/11/velkomoravske-sperky/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ mjakub.cz ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2017/11/velkomoravske-sperky.html"
 ---

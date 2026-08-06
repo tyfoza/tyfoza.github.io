@@ -2,6 +2,7 @@
 title: "Základní vybavení..."
 date: 2016-03-18T12:20:00.004Z
 url: "/posts/2016/03/zakladni-vybaveni/"
+summary: "[ fotky ] s popiskama Co mám s sebou na motorce, když jedu bez kufrů. Mám dva úložné prostory, jeden běžný pod sedlem a druhý v přídavné schránce místo druhého výfuku [ 1 ] Jen základní vybavení pro případné improvizované opravy. Celková váha vybavení s sebou je 4,5kg – byly získány třeba výměnou olověné baterie za lehčí [ 2 ] a taky vyhozením tří kilového centrálního stojanu. Pár drobností z minula - Jak se hodilo mít s sebou řezací plátek viz [ 3 ]. - Ještě jedna takové improvizovaná oprava, které se povedla [ 4 ]. - Občas se dějí věci, které se na cestě nepovedlo opravit, ale zvládly se prakticky na počkání v servise [ 5 ][ 6 ]."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSLZII0Pj7ooz05avce2fzI9YO7NR7BGVcBYqPt_F9UY_RqP4JIoPe1dS1mD1eOAftfdFZOZVq4o306X53xjqCnu0FABYR0HSH4tAyjOeccKZQ1ASDK6fqbGZMIxCgBZgl7uc85iXtcK9z/s400/WP_20160318_004.jpg"
 tags: ["Suzuki DL 650 K9"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSLZII0Pj7ooz05avce2fzI9YO7NR7BGVcBYqPt_F9UY_RqP4JIoPe1dS1mD1eOAftfdFZOZVq4o306X53xjqCnu0FABYR0HSH4tAyjOeccKZQ1ASDK6fqbGZMIxCgBZgl7uc85iXtcK9z/s1600/WP_20160318_004.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="267" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSLZII0Pj7ooz05avce2fzI9YO7NR7BGVcBYqPt_F9UY_RqP4JIoPe1dS1mD1eOAftfdFZOZVq4o306X53xjqCnu0FABYR0HSH4tAyjOeccKZQ1ASDK6fqbGZMIxCgBZgl7uc85iXtcK9z/s400/WP_20160318_004.jpg" width="400" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSLZII0Pj7ooz05avce2fzI9YO7NR7BGVcBYqPt_F9UY_RqP4JIoPe1dS1mD1eOAftfdFZOZVq4o306X53xjqCnu0FABYR0HSH4tAyjOeccKZQ1ASDK6fqbGZMIxCgBZgl7uc85iXtcK9z/s1600/WP_20160318_004.jpg" "Ilustrace k článku" "400" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] s popiskama<br />
 <br />
 Co mám s sebou na motorce, když jedu bez kufrů. Mám dva úložné prostory, jeden běžný pod sedlem a druhý v přídavné schránce místo druhého výfuku [<a href="/posts/2012/11/schranka-misto-druheho-vyfuku/" target="_blank">1</a>]<br />

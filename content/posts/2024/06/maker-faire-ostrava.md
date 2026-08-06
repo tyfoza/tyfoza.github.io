@@ -2,7 +2,8 @@
 title: "Maker Faire Ostrava..."
 date: 2024-06-01T16:59:00.061Z
 url: "/posts/2024/06/maker-faire-ostrava/"
-tags: ["Bastlení", "Bastlení.Makerfaire"]
+summary: "autor videa: @DavidNedvidekCZ Zahaleni dýmem doutnajícího uhlí z kovářské výhně – inu, Ostrava. Tak vcházeli účastníci festivalu hlavním vchodem trojhalí Karolina. Prezentace projektů VŠB TUO[ 1 ][ 2 ][ 3 ] byla velmi důstojná. Setkání bylo jednodenní a díky tomu byli všichni (nejen návštěvnící) pozitivně komunikačně naladěni. Venku měli prezentaci[ 4 ] youtubeři @jiribekr a @amperak a byli výborní jako vždy."
+tags: ["Bastlení.Makerfaire", "Bastlení"]
 aliases:
   - "/2024/06/maker-faire-ostrava.html"
 ---

@@ -2,7 +2,8 @@
 title: "Výročí 120 let gymnázia JAK..."
 date: 2016-10-14T17:26:00.002Z
 url: "/posts/2016/10/vyroci-120-let-gymnazia-jak/"
-tags: ["Video", "Tak jde čas"]
+summary: "Gymnázium Jana Amose Komenského v Uherském Brodě slaví sto dvacáté narozeniny. [ gjak.cz ] [ fotky ] od Maryšky Švehlíkové [ fotky ] od Elenky Sladké Šermířský klub Uherský Brod na akademii viz.[ 1 ] Přepis řeči Jana Amose: Kam jsem přišel, přišla zkáza. Teď jsem přišel udělat pořádek sem. Víte vy vůbec, po kom je pojmenováno naše gymnázium? Jan Amos Komenský, ale který! Jsem tady, abych napravil všeobecný historicky vžitý komeniologický omyl a to nemyslím jen mé rodiště. Ve skutečnosti, jsme totiž byli bratři – tři. Jan Amos Komenský Brodský, Jan Amos Komenský Nivnický a Jan Amos Komenský Bánovský. Snad si nemyslíte, že takové rozsáhlé dílo napsal jeden člověk. My jsme na to byli tři. Jak by bylo možné, abych zároveň reformoval anglické školství, s Kristýnou královnou švédskou spřádal vojenskou invazi do zemí koruny České a v Lešně dopisoval Všenápravu. To jste si museli všimnout, že..."
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2016/10/vyroci-120-let-gymnazia-jak.html"
 ---

@@ -2,6 +2,7 @@
 title: "z Olešnice"
 date: 2013-06-14T21:30:00Z
 url: "/posts/2013/06/z-olesnice/"
+summary: ""
 tags: ["Motokrosová trať", "Video"]
 aliases:
   - "/2013/06/z-olesnice.html"

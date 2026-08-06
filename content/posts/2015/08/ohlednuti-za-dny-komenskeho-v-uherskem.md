@@ -2,6 +2,7 @@
 title: "Ohlédnutí za Dny Komenského v Uherském Brodě..."
 date: 2015-08-30T20:08:00Z
 url: "/posts/2015/08/ohlednuti-za-dny-komenskeho-v-uherskem/"
+summary: ""
 tags: ["Tak jde čas"]
 aliases:
   - "/2015/08/ohlednuti-za-dny-komenskeho-v-uherskem.html"

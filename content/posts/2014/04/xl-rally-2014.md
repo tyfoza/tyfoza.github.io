@@ -2,7 +2,8 @@
 title: "XL Rally 2014"
 date: 2014-04-05T16:09:00Z
 url: "/posts/2014/04/xl-rally-2014/"
-tags: ["Video", "Cesty - akce offroad"]
+summary: "fotky: [ 1 ][ 2 ] Malebný kraj, dobře najetá trasa, nezbytné minimum přesunů po asfaltu a bohužel sucho. Takové bylo jarní XLko. Bydlení a slušná kuchyně v novém areálu penzionu Hulín[ 3 ], start i cíl tamtéž. Díky za pěknou akci! Připojil jsem mikrofon, který mám vlepený v přilbě k interkomu[ 4 ], takže zvuk je teď malinko lepší. Jen výjezd viz. [ 5 ] (heslo je jméno vítěze malými písmeny)"
+tags: ["Cesty - akce offroad", "Video"]
 aliases:
   - "/2014/04/xl-rally-2014.html"
 ---

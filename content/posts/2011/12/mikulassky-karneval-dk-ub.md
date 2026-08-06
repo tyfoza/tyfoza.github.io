@@ -2,6 +2,7 @@
 title: "Mikulášský karneval DK UB"
 date: 2011-12-02T15:00:00Z
 url: "/posts/2011/12/mikulassky-karneval-dk-ub/"
+summary: "[ víc fotek ]"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoxcfLaNywO4EPL2GVH9Oa0bYKCpwlPScvBhqob0oc8ccDGPIuxftm4smR9hvYVUuVTr39y4R5sLVPrz5peehCQN2tY0ydK6qLknQDU7kUTVBNdHtpZUHbKB5mSzNlWQiWL_iJFF6AtrIY/s320/IMG_1163.JPG"
 tags: ["Tak jde čas"]
@@ -9,4 +10,4 @@ aliases:
   - "/2011/12/mikulassky-karneval-dk-ub.html"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoxcfLaNywO4EPL2GVH9Oa0bYKCpwlPScvBhqob0oc8ccDGPIuxftm4smR9hvYVUuVTr39y4R5sLVPrz5peehCQN2tY0ydK6qLknQDU7kUTVBNdHtpZUHbKB5mSzNlWQiWL_iJFF6AtrIY/s1600/IMG_1163.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="179" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoxcfLaNywO4EPL2GVH9Oa0bYKCpwlPScvBhqob0oc8ccDGPIuxftm4smR9hvYVUuVTr39y4R5sLVPrz5peehCQN2tY0ydK6qLknQDU7kUTVBNdHtpZUHbKB5mSzNlWQiWL_iJFF6AtrIY/s320/IMG_1163.JPG" width="320" /></a></div>[<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>]
+<div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoxcfLaNywO4EPL2GVH9Oa0bYKCpwlPScvBhqob0oc8ccDGPIuxftm4smR9hvYVUuVTr39y4R5sLVPrz5peehCQN2tY0ydK6qLknQDU7kUTVBNdHtpZUHbKB5mSzNlWQiWL_iJFF6AtrIY/s1600/IMG_1163.JPG" "Ilustrace k článku" "320" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>]

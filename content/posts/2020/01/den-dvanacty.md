@@ -2,6 +2,7 @@
 title: "Den dvanáctý..."
 date: 2020-01-31T02:59:00.001Z
 url: "/posts/2020/01/den-dvanacty/"
+summary: "San Pedro de Tiquina Ráno mě budí bubnování deště, na osm mám domluvenou snídani. Volská oka, mamita je dělá tak, že vyklepne vejce do vrstvy horkého oleje. Mňam. Dokonce k tomu přidá hromadu vařené zeleniny. Včera večer jsme tady s malinkou holčičkou hladili modrooké zvíře, mám krátké video viz https://youtu.be/r9jqigEVCpI Copacabana? Ráno balím motorku a chci vyrazit 40km serpeninami do Copacabana. Zhruba v polovině cesty houstne déšť, v dáli vidím temno takové, že nelze rozpoznat, kde končí obloha a začíná hladina jezera. Na silnici začíná být mlha, že by se dala krájet. Nechci přejet místního hombre de carrizo=Rákosníčka. Otáčím se zpět. Při čekání na přívoz ověřuji na budce s informacemi pro loďky a vypadá to, že tři dny bude na západní části jezera deštivo, že s lodí nevyjde nikdo. Nalodil jsem se a přemýšlím, jak je to vlastně se slavnou Cestou smrti a její sjízdností dnes...."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-dvanacty.html"

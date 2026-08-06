@@ -2,7 +2,8 @@
 title: "Strašení pod radnicí..."
 date: 2018-09-09T19:59:00.002Z
 url: "/posts/2018/09/straseni-pod-radnici/"
-tags: ["Šerm.vystoupení", "Šerm", "Strašidla"]
+summary: "[ fotky ] Johny – velké díky za pěkné fotky [ fotky ] Maryška Švehlíková [ fotky ] Elenka Sladká [ fotky ] něco málo z mobilu"
+tags: ["Strašidla", "Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2018/09/straseni-pod-radnici.html"
 ---

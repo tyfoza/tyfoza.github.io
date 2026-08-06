@@ -2,9 +2,10 @@
 title: "Sraz T.K.C. 2012"
 date: 2012-04-28T21:53:00Z
 url: "/posts/2012/04/sraz-tkc-2012/"
+summary: "Setkání lidí [ 1 ], co jezdí „offroad“ na velkých motorkách, bez rozdílu značek i kubatur. Potkali se tady KTM Adventure, GéSa, Cagiva i Ural se sajdkárou. Vyjíždku předem pořadatelé naplánovali, projeli a zanesli do mapy. Fixkou. Tato mapa visela ve společenské místnosti na nástěnce a dobrovolní navigátoři jednotlivých skupin trávili večer tím, že se střídali u nástěnky a překreslovali trasu. Připojil jsem se ke skupině V-Stromů vedené KTMkama, jeli s náma ještě stará SuperTenérka, GéSa a Dominator. Naše skupina měla to štěstí, že byla vedená člověkem, který měl trasu projetou a tak jsme nebloudili. Ale byli jiní, kteří zakufrovali, našli jiný brod přes potok a tak se pak děly věci. První projela holka na Yamaze 250 a ostatní za ní potupně utopili motorky. Nejhůř dopadl ograra s Uralem se sajdkárou, který najel do vody, lodička vedle něho začala plavat, navedla ho do hluboké vody, kde..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQoID1C1o1LoPl53lhBoBVpb_m8S91cPfDYP-HDRR-HglXtBosTRe_u3rkWOfh43ujyOqS7QJwlq_-tmZaVY4KiKYoNgXIaZdU2gpP0ehyF-E50c5vfQDuUY7yjq13rDDEn5oPXF-8yWJD/s400/IMG_3960.JPG"
-tags: ["Video", "Na cestě", "Cesty - akce offroad"]
+tags: ["Cesty - akce offroad", "Na cestě", "Video"]
 aliases:
   - "/2012/04/sraz-tkc-2012.html"
 ---
@@ -13,7 +14,7 @@ aliases:
 <br />
 <div style="text-align: justify;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQoID1C1o1LoPl53lhBoBVpb_m8S91cPfDYP-HDRR-HglXtBosTRe_u3rkWOfh43ujyOqS7QJwlq_-tmZaVY4KiKYoNgXIaZdU2gpP0ehyF-E50c5vfQDuUY7yjq13rDDEn5oPXF-8yWJD/s1600/IMG_3960.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQoID1C1o1LoPl53lhBoBVpb_m8S91cPfDYP-HDRR-HglXtBosTRe_u3rkWOfh43ujyOqS7QJwlq_-tmZaVY4KiKYoNgXIaZdU2gpP0ehyF-E50c5vfQDuUY7yjq13rDDEn5oPXF-8yWJD/s400/IMG_3960.JPG" width="400" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQoID1C1o1LoPl53lhBoBVpb_m8S91cPfDYP-HDRR-HglXtBosTRe_u3rkWOfh43ujyOqS7QJwlq_-tmZaVY4KiKYoNgXIaZdU2gpP0ehyF-E50c5vfQDuUY7yjq13rDDEn5oPXF-8yWJD/s1600/IMG_3960.JPG" "Ilustrace k článku" "400" >}}</div>
 Setkání lidí [<a href="http://t-k-c.webnode.cz/" target="_blank">1</a>], co jezdí „offroad“ na velkých motorkách, bez rozdílu značek i kubatur. Potkali se tady KTM Adventure, GéSa, Cagiva i Ural se sajdkárou. Vyjíždku předem pořadatelé naplánovali, projeli a zanesli do mapy. Fixkou. Tato mapa visela ve společenské místnosti na nástěnce a dobrovolní navigátoři jednotlivých skupin trávili večer tím, že se střídali u nástěnky a překreslovali trasu. Připojil jsem se ke skupině V-Stromů vedené KTMkama, jeli s náma ještě stará SuperTenérka, GéSa a Dominator. Naše skupina měla to štěstí, že byla vedená člověkem, který měl trasu projetou a tak jsme nebloudili.</div>
 </div>
 <div style="text-align: justify;">

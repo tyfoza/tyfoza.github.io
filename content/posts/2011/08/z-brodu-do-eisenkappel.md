@@ -2,6 +2,7 @@
 title: "Z Brodu do Eisenkappel"
 date: 2011-08-11T21:02:00.006Z
 url: "/posts/2011/08/z-brodu-do-eisenkappel/"
+summary: "Denní plán jsme splnili. Kolem půl desáte hodiny večerní jsme dorazili do cíle, kousek za spící lázeňské město a horské středisko Bad Eisenkappel. FFF jel celou dobu jako první a jenom když nebylo jasné kudy, tak jsem jel s navigací jako první. Díky rychlosti, kterou určuje FFF vychází spotřeba velmi příjemná - Rebel 3.6 litru, můj V-Strom 4.1 a Karlos s GPZ jede za 4.5 litru. Dnešní porce kilometrů 519, čas strávený na cestě včetně přestávek dvanáct hodin. Průměrná rychlost 43km/h. Nikam přec nespěcháme. Cesta přes Krumbach byla plná motorkářů, navštívili jsme místního \"Trampa\". Povrchy silnic jsou skvělé, ale rychlých zatáček si moc neužijeme, protože Fildův Rebel do kopce malinko ztrácí dech. Po ujetí asi 450km, někde uprostřed serpentin Krubachu hlásil Filda, že mu to nechce jet. Tak jsme zastavili (u toho \"Trampa\") aby motor trochu vychladl a FFF dolil tři deci oleje a vše je zas..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3K_vG7KLS59PIPu1hVHsjpN1dVnlo6z9HTwoyGX8bPf_lKBpOP4Sewd54EFSl5_ECc2O2NG1hTfZhXAX5F-02ZH8OJ3281zcQOwc4SB6XTW43dVNjgLBbvzwhAdWNzYrU5_NOy1gFmuPI/s320/12082011611.jpg"
 tags: ["Cesty - 2011 Jadran"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3K_vG7KLS59PIPu1hVHsjpN1dVnlo6z9HTwoyGX8bPf_lKBpOP4Sewd54EFSl5_ECc2O2NG1hTfZhXAX5F-02ZH8OJ3281zcQOwc4SB6XTW43dVNjgLBbvzwhAdWNzYrU5_NOy1gFmuPI/s1600/12082011611.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3K_vG7KLS59PIPu1hVHsjpN1dVnlo6z9HTwoyGX8bPf_lKBpOP4Sewd54EFSl5_ECc2O2NG1hTfZhXAX5F-02ZH8OJ3281zcQOwc4SB6XTW43dVNjgLBbvzwhAdWNzYrU5_NOy1gFmuPI/s320/12082011611.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3K_vG7KLS59PIPu1hVHsjpN1dVnlo6z9HTwoyGX8bPf_lKBpOP4Sewd54EFSl5_ECc2O2NG1hTfZhXAX5F-02ZH8OJ3281zcQOwc4SB6XTW43dVNjgLBbvzwhAdWNzYrU5_NOy1gFmuPI/s1600/12082011611.jpg" "Ilustrace k článku" "320" >}}</div>
 Denní plán jsme splnili. Kolem půl desáte hodiny večerní jsme dorazili do cíle, kousek za spící lázeňské město a horské středisko Bad Eisenkappel. FFF jel celou dobu jako první a jenom když nebylo jasné kudy, tak jsem jel s navigací jako první. Díky rychlosti, kterou určuje FFF vychází spotřeba velmi příjemná - Rebel 3.6 litru, můj V-Strom 4.1 a Karlos s GPZ jede za 4.5 litru.<br />
 Dnešní porce kilometrů 519, čas strávený na cestě včetně přestávek dvanáct hodin. Průměrná rychlost 43km/h. Nikam přec nespěcháme.<br />
 Cesta přes Krumbach byla plná motorkářů, navštívili jsme místního "Trampa". Povrchy silnic jsou skvělé, ale rychlých zatáček si moc neužijeme, protože Fildův Rebel do kopce malinko ztrácí dech.<br />

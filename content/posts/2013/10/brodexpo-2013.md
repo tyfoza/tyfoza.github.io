@@ -2,6 +2,7 @@
 title: "BRODexpo 2013"
 date: 2013-10-18T20:40:00.003Z
 url: "/posts/2013/10/brodexpo-2013/"
+summary: "Sašenka virtuálně svařuje... [ fotky ] Před Domem kultury je živo, projíždí kolem nás historický monocykl, obhlížíme skútry ve stánku Kentoya[ 1 ]; blížíme se ke stánku Azub[ 2 ], vyhýbáme se lehokolu a kocháme se nádhernými svařenci na vystaveném hliníkovém rámu. Vcházíme dovnitř, skrz automatická vrata Hörmann[ 3 ]; model železnice, automatický kotel na tuhá paliva, který zvládne pětidenní bezobslužný provoz. Necháváme si spočítat stravenky v automatickém počítadle na lístky s integrovanou čtečkou čárových kódů. První patro – na uvítanou mě pětkrát objíždí místní robot – malinké automatické vozítko, je k němu uvázaný balónek, aby ho někdo nezašlápl. Zkoušíme měkkost terénních pneu modelu offroadového auta firmy Astramodel[ 4 ], na terase se prohání jeho rádiem řízený závodní speciál a polovinu zrcadlového sálu zabírá obří autodráha stejné firmy; taktéž nabízí k vyzkoušení simulátor..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgeEH59jv4pIghS6GdK4ZG_KDPsEaqitcl30cJwM_3vuyUQV83Zrn9I_EbeXMlTxderI7A6vKYoILdtx39jJIGqXwtRqpBZfWdbvkiPwwKmTZOQBPStj9jEPa8-4FMR1Z6f3jBWKI-3Nf/s640/P3070016.jpg"
 tags: ["Tak jde čas"]
@@ -9,8 +10,8 @@ aliases:
   - "/2013/10/brodexpo-2013.html"
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgeEH59jv4pIghS6GdK4ZG_KDPsEaqitcl30cJwM_3vuyUQV83Zrn9I_EbeXMlTxderI7A6vKYoILdtx39jJIGqXwtRqpBZfWdbvkiPwwKmTZOQBPStj9jEPa8-4FMR1Z6f3jBWKI-3Nf/s1600/P3070016.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgeEH59jv4pIghS6GdK4ZG_KDPsEaqitcl30cJwM_3vuyUQV83Zrn9I_EbeXMlTxderI7A6vKYoILdtx39jJIGqXwtRqpBZfWdbvkiPwwKmTZOQBPStj9jEPa8-4FMR1Z6f3jBWKI-3Nf/s640/P3070016.jpg" width="640" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgeEH59jv4pIghS6GdK4ZG_KDPsEaqitcl30cJwM_3vuyUQV83Zrn9I_EbeXMlTxderI7A6vKYoILdtx39jJIGqXwtRqpBZfWdbvkiPwwKmTZOQBPStj9jEPa8-4FMR1Z6f3jBWKI-3Nf/s1600/P3070016.jpg" "Ilustrace k článku" "640" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Sašenka virtuálně svařuje...</td></tr>
 </tbody></table>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />

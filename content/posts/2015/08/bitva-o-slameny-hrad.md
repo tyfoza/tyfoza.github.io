@@ -2,9 +2,10 @@
 title: "Bitva o slaměný hrad..."
 date: 2015-08-29T21:51:00.001Z
 url: "/posts/2015/08/bitva-o-slameny-hrad/"
+summary: "fotky [ 1 ] Tyf [ 2 ] Elen Sladká, bitva o hrad [ 3 ] Elen Sladká, výroba zbrojí a dětská bitva [ 4 ] Richard Kastner [ 5 ] Katka Mařáková odezva v médiích [ 6 ] Novinky.cz [ 7 ] Dobrý den s kurýrem [ 8 ] TV Slovácko"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5k7FeXXKR5mlJgiHOTqE2_KFSIPm6z-LgX6ZFyZUNfO1Xz5BMH8yxqVehsD-Hip6Kt4mYhKASoFomA0r-tK3czkWwYnStUPzoWh5uJoiKjnOi4PkUyyv8hHRqNg6TkRkDrSz-zV76fbQc/s640/WP_20150829_039.jpg"
-tags: ["Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2015/08/bitva-o-slameny-hrad.html"
 ---
@@ -23,5 +24,5 @@ odezva v médiích<br />
 [<a href="http://www.idobryden.cz/spolecnost/na-hrad-se-spotrebovalo-deset-tun-materialu/ce7bbaf8-4ef0-11e5-a6ec-005056ab0011/" target="_blank">7</a>] Dobrý den s kurýrem<br />
 [<a href="https://youtu.be/gxYkT7_0jpo?t=4m46s" target="_blank">8</a>] TV Slovácko<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5k7FeXXKR5mlJgiHOTqE2_KFSIPm6z-LgX6ZFyZUNfO1Xz5BMH8yxqVehsD-Hip6Kt4mYhKASoFomA0r-tK3czkWwYnStUPzoWh5uJoiKjnOi4PkUyyv8hHRqNg6TkRkDrSz-zV76fbQc/s1600/WP_20150829_039.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5k7FeXXKR5mlJgiHOTqE2_KFSIPm6z-LgX6ZFyZUNfO1Xz5BMH8yxqVehsD-Hip6Kt4mYhKASoFomA0r-tK3czkWwYnStUPzoWh5uJoiKjnOi4PkUyyv8hHRqNg6TkRkDrSz-zV76fbQc/s640/WP_20150829_039.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5k7FeXXKR5mlJgiHOTqE2_KFSIPm6z-LgX6ZFyZUNfO1Xz5BMH8yxqVehsD-Hip6Kt4mYhKASoFomA0r-tK3czkWwYnStUPzoWh5uJoiKjnOi4PkUyyv8hHRqNg6TkRkDrSz-zV76fbQc/s1600/WP_20150829_039.jpg" "Ilustrace k článku" "640" >}}</div>
 <br />

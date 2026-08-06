@@ -2,15 +2,16 @@
 title: "Piškotová lady"
 date: 2013-08-25T09:21:00Z
 url: "/posts/2013/08/piskotova-lady/"
+summary: "[ fotky ] Všechno nejlepší ke druhým narozeninám. Dostat hlavu koně (jako dort) potěší každého příznivce rodiny Corleone."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_t3IsVYNPFwvYdbZ_0qi2Xsh-bSTqCEf_fyt0JSyogvXV7eWRyZvO5sW8LFnpcG9fUpkMojKCyvUmkz0nNsbnH8nkFTGb_3jnMhjwGhVFZZ4wFQNMQWooU1_uC1nkC36xBV4cQNcXfgm/s640/u+stolu.gif"
-tags: ["Video", "Tak jde čas"]
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2013/08/piskotova-lady.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_t3IsVYNPFwvYdbZ_0qi2Xsh-bSTqCEf_fyt0JSyogvXV7eWRyZvO5sW8LFnpcG9fUpkMojKCyvUmkz0nNsbnH8nkFTGb_3jnMhjwGhVFZZ4wFQNMQWooU1_uC1nkC36xBV4cQNcXfgm/s1600/u+stolu.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_t3IsVYNPFwvYdbZ_0qi2Xsh-bSTqCEf_fyt0JSyogvXV7eWRyZvO5sW8LFnpcG9fUpkMojKCyvUmkz0nNsbnH8nkFTGb_3jnMhjwGhVFZZ4wFQNMQWooU1_uC1nkC36xBV4cQNcXfgm/s640/u+stolu.gif" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_t3IsVYNPFwvYdbZ_0qi2Xsh-bSTqCEf_fyt0JSyogvXV7eWRyZvO5sW8LFnpcG9fUpkMojKCyvUmkz0nNsbnH8nkFTGb_3jnMhjwGhVFZZ4wFQNMQWooU1_uC1nkC36xBV4cQNcXfgm/s1600/u+stolu.gif" "Ilustrace k článku" "640" >}}</div>
 <div class="separator" style="clear: both;">
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
 <div class="separator" style="clear: both;">

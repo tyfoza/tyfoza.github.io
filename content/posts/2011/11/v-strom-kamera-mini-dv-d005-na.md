@@ -2,6 +2,7 @@
 title: "V-Strom a kamera Mini DV D005 na řídítkách"
 date: 2011-11-20T20:00:00.002Z
 url: "/posts/2011/11/v-strom-kamera-mini-dv-d005-na/"
+summary: "kamera na uchycení pravého zrcátka Video je bez třesu - V-Strom na řídítka příliš vibrací nepřenáší a zrcátka se netřepou do 140km/h - pro srovnání viz. [ 1 ] - stejná kamera na řídítkách na Kawasaki GPZ 550 1981."
 tags: ["Suzuki DL 650 K9", "Video"]
 aliases:
   - "/2011/11/v-strom-kamera-mini-dv-d005-na.html"

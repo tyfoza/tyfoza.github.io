@@ -2,6 +2,7 @@
 title: "Jak znovu nastartovat hubnutí..."
 date: 2018-02-25T20:29:00Z
 url: "/posts/2018/02/jak-znovu-nastartovat-hubnuti/"
+summary: "Moje osobní zkušenost, jak znovu nastartovat hubnutí aneb zase ztrácím tělesný tuk. Loni se mně hubutí zaseklo po osmi měsících, ztrátě 33kg váhy, ztrátě 12% tělesného tuku a ztrátě 37cm v pase Prostě bylo 87kg, 90cm v pase a ač mám tuku ještě spoustu tuku tak tělo se už žádného zbavovat nechtělo (jedl jsem tak 10000-11000kJ denně = redukce) s tím, že jsem v sobotu měl cheat day. Co s tím? U spousty lidí tady a holek obzvláště tady vidím problém. Napadne vás snížení kalorického příjmu. Prostě budu jíst méně. Bohužel to je cesta do dietologického pekla. Nejde to dělat do nekonečna. Hledám cestu, jak se zbavovat tuku při komfortním kalorickém příjmu. Připisuji na základně komentáře: tím myslím, že vážíš 70kg, dáš si nízký kalorický příjem, zhubneš 5kg a stopka - dál to nejde a ty chceš hubnout víc... tak co? snížíš příjem, zhubneš další 3kg, skoro hladovíš, jíš pod bazál a nehubneš a tak..."
 tags: ["Životní styl"]
 aliases:
   - "/2018/02/jak-znovu-nastartovat-hubnuti.html"

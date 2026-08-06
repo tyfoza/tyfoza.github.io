@@ -2,6 +2,7 @@
 title: "Itálie 2012 - Dolomity a domů"
 date: 2012-08-19T11:18:00.001Z
 url: "/posts/2012/08/italie-2012-dolomity-domu/"
+summary: "Ráno v sedm nás vzbudila kostelní zvonkohra. Ihned jsem vyrazil zjistit, kdy je mše. Večer jsme s Karlosem bloudili kolem kostela, ale nikde nebyla žádná informační cedule ani nástěnka. Mše je dnes o půl osmé. Tedy to nejdůležitější z dnešního dne jsme stihli hned ráno, zatímco Karlos s Erikou mohou ještě vyspávat a Anubis vyrazil hledat nějaký obchod. Naše ležení na parkovišti a přilehlé louce, asi dvě stovky metrů od kostela bylo příjemné a nikým nerušené. Až na kompresor, zcela zničujícího neustále vyjícího a štěkajícího psa, pouliční osvětlení a půlhodinový interval kostelního zvonu. Hned z rána nám to pěkně a vesela začíná - toaleta pod věží s vyhlídkou nefunguje, tak nás hodná paní zavedla do kostela. Bylo už mši, šel jsem poslední. Ábi šla čekat ven a vzala mně k sobě bundu. A odjela s Vénou. To že mně nechají zamčít v kostele jsem trochu čekal, ale že mně odjede s klíčema od..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRHV5IF_ZipYx4A3D08t-RO1CBAbAjmQ_ixy4oMS_Vwi1iSBD-ludsqVPkKuyi_7NW-6GGuRjqiZWYo2ncb1WXzP9LwbOVSqwEPI_H1l8zTF_0Lx2mKqxt_t0fwuyoVfBXSSYfg7lGYo/s320/190820122609-710009.jpg"
 tags: ["Cesty - 2012 Itálie"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRHV5IF_ZipYx4A3D08t-RO1CBAbAjmQ_ixy4oMS_Vwi1iSBD-ludsqVPkKuyi_7NW-6GGuRjqiZWYo2ncb1WXzP9LwbOVSqwEPI_H1l8zTF_0Lx2mKqxt_t0fwuyoVfBXSSYfg7lGYo/s1600/190820122609-710009.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5778342532642940130" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRHV5IF_ZipYx4A3D08t-RO1CBAbAjmQ_ixy4oMS_Vwi1iSBD-ludsqVPkKuyi_7NW-6GGuRjqiZWYo2ncb1WXzP9LwbOVSqwEPI_H1l8zTF_0Lx2mKqxt_t0fwuyoVfBXSSYfg7lGYo/s320/190820122609-710009.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRHV5IF_ZipYx4A3D08t-RO1CBAbAjmQ_ixy4oMS_Vwi1iSBD-ludsqVPkKuyi_7NW-6GGuRjqiZWYo2ncb1WXzP9LwbOVSqwEPI_H1l8zTF_0Lx2mKqxt_t0fwuyoVfBXSSYfg7lGYo/s1600/190820122609-710009.jpg" "Ilustrace k článku" >}}</div>
 Ráno v sedm nás vzbudila kostelní zvonkohra. Ihned jsem vyrazil zjistit, kdy je mše. Večer jsme s Karlosem bloudili kolem kostela, ale nikde nebyla žádná informační cedule ani nástěnka. Mše je dnes o půl osmé. Tedy to nejdůležitější z dnešního dne jsme stihli hned ráno, zatímco Karlos s Erikou mohou ještě vyspávat a Anubis vyrazil hledat nějaký obchod. <br />
 Naše ležení na parkovišti a přilehlé louce, asi dvě stovky metrů od kostela bylo příjemné a nikým nerušené. Až na kompresor, zcela zničujícího neustále vyjícího a štěkajícího psa, pouliční osvětlení a půlhodinový interval kostelního zvonu. <br />
 Hned z rána nám to pěkně a vesela začíná - toaleta pod věží s vyhlídkou nefunguje, tak nás hodná paní zavedla do kostela. Bylo už mši, šel jsem poslední. Ábi šla čekat ven a vzala mně k sobě bundu. A odjela s Vénou. To že mně nechají zamčít v kostele jsem trochu čekal, ale že mně odjede s klíčema od motorky a já se po ránu projdu pro klíče a zpět, to už mě trošku překvapilo. <br />

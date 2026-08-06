@@ -2,6 +2,7 @@
 title: "Čezeta má nový výtrus"
 date: 2011-09-13T19:05:00.007Z
 url: "/posts/2011/09/cezeta-ma-novy-vybrus/"
+summary: "Proběhly nějaké drobné opravy a úpravy na staré Čezetě. Protože po posledních projíždkách loni si brodský patriot J.K. stěžoval, že motor nechce do otáček, že \"saje falešný vzduch.\" Pravda byla jinde, byl prasklý pístní kroužek a vadné těsnění pod válcem i pod hlavou. Protože podle tachometru má najeto téměř 40tis. kilometrů, pořídili jsme nový píst, kroužky, ojniční čep a nový výbrus. Takže teď jsme v záběhu. Nesmí se jezdit na plný plyn a nesmí se jezdit ve dvou. Další drobnost je instalace dvouklíčové brzdy do předního bubnu, má brzdit výrazně lépe než brzda jednoklíčová. Žel buben už má svoje roky, tak bude chvíli trvat než se lamely obroucí a přizpůsobí. Momentálně je výsledek nepřesvědčivý, ale věříme, že se to zlepší. Když ne, bude třeba na původní jednoklíč nanýnovat nové obložení a budeme tam, kde jsme teď. Nové obložení v hrbatém bubnu... A ještě postřeh - je neuvěřtelné, jak..."
 tags: ["ČZ 477.00"]
 aliases:
   - "/2011/09/cezeta-ma-novy-vybrus.html"

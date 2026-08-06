@@ -2,7 +2,8 @@
 title: "Improvizovaná oprava prasklé kyvné vidlice"
 date: 2012-07-07T16:00:00Z
 url: "/posts/2012/07/improvizovana-oprava-praskle-kyvne/"
-tags: ["Video", "Honda CA125 Rebel"]
+summary: ""
+tags: ["Honda CA125 Rebel", "Video"]
 aliases:
   - "/2012/07/improvizovana-oprava-praskle-kyvne.html"
 ---

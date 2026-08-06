@@ -2,7 +2,8 @@
 title: "Odpoledne pro tatínky s dětmi"
 date: 2015-03-20T04:02:00.001Z
 url: "/posts/2015/03/odpoledne-pro-tatinky-s-detmi/"
-tags: ["Šerm.vystoupení", "Šerm"]
+summary: "[ fotky ] Bylo, nebylo. V jedné mateřské školce[ 1 ] naplánovali paní učitelky setkání s názvem „Den s mým tátou.“ Tatínci přišli, děti přišly a náš Šermířský klub[ 2 ] byl u toho. Něco jsme si zahráli, něco jsme se nasmáli a spokojení odešli vstříc svým domovům – my, šermíři – paní učitelky – tatínci i děti..."
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2015/03/odpoledne-pro-tatinky-s-detmi.html"
 ---

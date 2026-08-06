@@ -2,7 +2,8 @@
 title: "Jan zpívá"
 date: 2011-05-03T17:00:00.004Z
 url: "/posts/2011/05/jan-zpiva/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2011/05/jan-zpiva.html"
 ---

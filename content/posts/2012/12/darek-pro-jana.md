@@ -2,7 +2,8 @@
 title: "Dárek pro Jana"
 date: 2012-12-28T13:40:00Z
 url: "/posts/2012/12/darek-pro-jana/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/12/darek-pro-jana.html"
 ---

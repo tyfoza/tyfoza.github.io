@@ -2,6 +2,7 @@
 title: "Den třetí, díl druhý..."
 date: 2020-01-22T00:37:00.001Z
 url: "/posts/2020/01/den-treti-dil-druhy/"
+summary: "Místo odpočinku jsem našel lepší plán. Vyrazil jsem do muzea, všechna podle webu zavírají v šest a jen Muzeum nezávislosti v sedm. Půl hodina cesty ve špičce do středu města, kterou jsem se zkusil objet okolními uličkami, ve výsledku to trvalo stejně dlouho. Celá budova muzea, protože je vládní byla obehnána provázkem s nápisy nevstupovat, nachystané pneumatiky s vlajkou, asi k zapálení. Chystá se tu nějaká demonstrace a zítra se prý má všechno vyřešit. Jde o nějaké složitosti v mnohonárodnostím státě Bolívie. Už včera večer tady kolem náměstí postávali chlapíci s megafony a hulákali na lidi, aby se připojili. Prvně jsem to chápal tak, že to patří k večernímu koloritu, protože lidí bylo v parku hodně a úplně řvouny přehlíželi. Pár pravidel silničního provozu tady: 1. Pokud se tam vejdu, tak tam jedu. 2. Červená znamená zpomal. 3. Předost zprava platí pouze pokud auto zpomalí. 4. Pokud..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-treti-dil-druhy.html"

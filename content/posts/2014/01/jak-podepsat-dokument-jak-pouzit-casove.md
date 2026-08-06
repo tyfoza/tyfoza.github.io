@@ -2,6 +2,7 @@
 title: "Jak podepsat dokument a jak používat časové razítko"
 date: 2014-01-11T15:59:00.003Z
 url: "/posts/2014/01/jak-podepsat-dokument-jak-pouzit-casove/"
+summary: "Update 2021: Kdo hledá jen jak podepsat PDF smlouvu tak, aby byla platná podle EU 910/2014, tak dávám nový aktuální návod viz [ Jak podepsat dokument podle EU 910/2014 a jak používat časové razítko ] Certifikát nebo elektronický podpis. Obé znamená totéž. U nás jsou nejpoužívanější autority pro vydávání certifikátů a razítek Postsignum[ 1 ] provozované Českou Poštou a První certifikační autorita[ 2 ]. Možná je jich víc, ale já je neznám. Postsignum nabízí certifikáty použitelné k podpisu dokumentů. Stejně tak Postsignum nabízí službu časového razítka[ 3 ]. Pomocí programu JSignPdf[ 4 ] můžete dokumentry PDF jak podepisovat, tak dokument vybavit časovým razítkem. Cena jednoho časového razítka je 2–3Kč. K čemu je časové razítko[ 5 ]? K ověření datumu a času vzniku dokumentu. Elektronický podpis je k ověření totožnosti původce dokumentu podobně jako běžný podpis. Pokud už máte pořízený..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEDJNJIavmkfTfDl0anysVZWcuR8vMk8FYeCDeBcZ-G06LlGaFd6QOaY_wD2JEwD-wQhFydD7RcZWNDD3fR1byGYCtTLdQCChjndhQkgDJ16lModp0zDMFktzIEa-kN_GbNu-gJHTQjEm/s1600/razitko.JPG"
 tags: ["Počítače"]
@@ -44,7 +45,7 @@ Pokud už máte pořízený balíček časových razítek, tak na zákaznickém 
 <div style="text-align: justify;">
 <span style="font-family: inherit;">Nastavení program JSignPdf[<a href="http://jsignpdf.sourceforge.net/" target="_blank">11</a>] – pokud máte svůj certifikát uložený v počítači, vyberte úložiště </span><span style="font-family: Courier New, Courier, monospace;">WINDOWS-MY</span><span style="font-family: inherit;">, pokud máte svůj podpis na chráněném klíči v USB, najděte ho tam. Nastavení časových razítek musí obsahovat správnou adresu serveru&nbsp;</span><span style="font-family: Courier New, Courier, monospace;">TSA URL</span>.</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEDJNJIavmkfTfDl0anysVZWcuR8vMk8FYeCDeBcZ-G06LlGaFd6QOaY_wD2JEwD-wQhFydD7RcZWNDD3fR1byGYCtTLdQCChjndhQkgDJ16lModp0zDMFktzIEa-kN_GbNu-gJHTQjEm/s1600/razitko.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="412" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEDJNJIavmkfTfDl0anysVZWcuR8vMk8FYeCDeBcZ-G06LlGaFd6QOaY_wD2JEwD-wQhFydD7RcZWNDD3fR1byGYCtTLdQCChjndhQkgDJ16lModp0zDMFktzIEa-kN_GbNu-gJHTQjEm/s1600/razitko.JPG" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEDJNJIavmkfTfDl0anysVZWcuR8vMk8FYeCDeBcZ-G06LlGaFd6QOaY_wD2JEwD-wQhFydD7RcZWNDD3fR1byGYCtTLdQCChjndhQkgDJ16lModp0zDMFktzIEa-kN_GbNu-gJHTQjEm/s1600/razitko.JPG" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: justify;">
 Výše zmíněné martyrium čeká třeba na geodetické kanceláře, které mají od první ledna tohoto roku povinnost posílat data pro katastrální úřad podepsané a opatřené časovým razítkem...</div>
 <br />

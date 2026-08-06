@@ -2,6 +2,7 @@
 title: "Den osmnáctý..."
 date: 2020-02-05T22:50:00Z
 url: "/posts/2020/02/den-osmnacty/"
+summary: "Tupiza, den opočinkový Protože jsem offroadový výlet kvůli defektu musel definitivně zrušit a čeká mě už jen dvoudenní návrat po asfaltu do Santa Cruz, tak si ve městě Tupiza dopřávám pohodu a klid. Konečně je čas projít město a poklábosit s místními. Parta strýců na autobusové/taxi zastávce, která vypadá víc jak pánský klub než zastávka, zastaví mě. A všechno je zajímá a mě zajímá všechno. Pak přišel jen starší pár, pravděpodobně jediný vousatý místní boliviánec a chtěl se vyfotit se mnou a pak si nás fotili i ti strýci ze zastávky. Taková odpolední pohoda. S obědem jsem nespěchal, paní měla v té hospůdce pár turistů a malé dítě v kočárku, tak jsem si ho pohoupal. A pak jsme řešili, že už i tady v Bolívii začínají být holky, které záměrně odkládají mateřství až na 25 let života. Žalostnila nad tím, jak je to na první dítě pozdě a tohle, že je její třetí. Vtipné. Navštívil jsem místo,..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-osmnacty.html"

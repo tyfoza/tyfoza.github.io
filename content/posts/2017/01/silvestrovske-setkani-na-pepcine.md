@@ -2,15 +2,16 @@
 title: "Silvestrovské setkání na Pepčíně..."
 date: 2016-12-31T20:44:00Z
 url: "/posts/2017/01/silvestrovske-setkani-na-pepcine/"
+summary: "video [ 1 ][ 2 ][ 3 ] Určitě se ptáte, jak tradiční setkání prožil písmák brodský, pan Slavíček, že Ježku: Setkání na Pepčíně, místě nám všem tak důvěrně známém! Zámeček, zvaný Pepčín, byl začátkem minulého století postaven v tudorovském slohu, neměl však svou historii dlouhého trvání. Již v pohnutých válečných dobách hodně utrpěl na svém vzhledu, po nich pak i nadále chátral, aby byl začátkem osmdesátých let pro špatný stav zcela odstraněn. Na Silvestra se stává dobrou tradicí se setkávat na místech něčím nás oslovujících. Příkladem může být vrchol Velké Javořiny, kde si lidé v tento den podávají ruce jak z naší, tak i slovenské strany, a to nejednou za svízelných klimatických podmínek. Na Uherskobrodsku se v podobném duchu střetávají v prostoru uvedeného, nyní již neexistujícího zámečku. Chtějí si se svými přáteli a známými nejenom v uvedeném místě zavzpomínat, ale současně se i oddat..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAx_agwL0KEoyxipBsV1a5Ien56u_bIeZpVAT3SUGnY2SaTMh2iYwVEZWPnjGNtOVb0CHTmqPJaYmzhhXN5CXGeRvNG0geNxB1r5g8X5diN7woGhKqLCzQpGr_wwc-X1B-ymAn6F1EUKxT/s640/02.jpg"
-tags: ["Video", "Šerm", "Tak jde čas"]
+tags: ["Tak jde čas", "Šerm", "Video"]
 aliases:
   - "/2017/01/silvestrovske-setkani-na-pepcine.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAx_agwL0KEoyxipBsV1a5Ien56u_bIeZpVAT3SUGnY2SaTMh2iYwVEZWPnjGNtOVb0CHTmqPJaYmzhhXN5CXGeRvNG0geNxB1r5g8X5diN7woGhKqLCzQpGr_wwc-X1B-ymAn6F1EUKxT/s1600/02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAx_agwL0KEoyxipBsV1a5Ien56u_bIeZpVAT3SUGnY2SaTMh2iYwVEZWPnjGNtOVb0CHTmqPJaYmzhhXN5CXGeRvNG0geNxB1r5g8X5diN7woGhKqLCzQpGr_wwc-X1B-ymAn6F1EUKxT/s640/02.jpg" width="512" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAx_agwL0KEoyxipBsV1a5Ien56u_bIeZpVAT3SUGnY2SaTMh2iYwVEZWPnjGNtOVb0CHTmqPJaYmzhhXN5CXGeRvNG0geNxB1r5g8X5diN7woGhKqLCzQpGr_wwc-X1B-ymAn6F1EUKxT/s1600/02.jpg" "Ilustrace k článku" "512" >}}</div>
 <div class="separator" style="clear: both; text-align: justify;">
 video [<a href="https://www.instagram.com/p/BOrm-DjB-Pc/" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=KpZrcMktKMQ" target="_blank">2</a>][<a href="https://www.youtube.com/watch?v=54p8dHxwNAg" target="_blank">3</a>]</div>
 <div class="separator" style="clear: both; text-align: justify;">
@@ -46,7 +47,7 @@ K doladění působivé atmosféry nám všem snad už jenom chyběla představa
 <div class="separator" style="clear: both; text-align: justify;">
 Z jeho úst se záhy nato k davu nesla slova našim srdcím blízká a duši oslovující. Krátce nato se jal se sotva znatelným úsměvem ve tváři v hlubokém zamyšlení procházet kolem základů svého zámečku. Neopomínal však svým kloboukem v ruce kynout lidu kolem něho stojícímu. Nemohlo být tedy symboličtějšího zakončení tohoto silvestrovského setkání…L.P.2016.</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdYAtwM7uzCb8D92iwccI6twDIHLWKcY9g7yWcQt9gHmYd2n-qRV19VL0JnHX2dmtqAuhksdJF2cYtG3_9J-9d02d7gifvTDgp1siSMmoUumQDkyJUm0FTFsrMRKU5rASavXgwcknQmrRy/s1600/15672721_1389334721097775_3969975736362837683_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdYAtwM7uzCb8D92iwccI6twDIHLWKcY9g7yWcQt9gHmYd2n-qRV19VL0JnHX2dmtqAuhksdJF2cYtG3_9J-9d02d7gifvTDgp1siSMmoUumQDkyJUm0FTFsrMRKU5rASavXgwcknQmrRy/s640/15672721_1389334721097775_3969975736362837683_n.jpg" width="440" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdYAtwM7uzCb8D92iwccI6twDIHLWKcY9g7yWcQt9gHmYd2n-qRV19VL0JnHX2dmtqAuhksdJF2cYtG3_9J-9d02d7gifvTDgp1siSMmoUumQDkyJUm0FTFsrMRKU5rASavXgwcknQmrRy/s1600/15672721_1389334721097775_3969975736362837683_n.jpg" "Ilustrace k článku" "440" >}}</div>
 <div class="separator" style="clear: both; text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

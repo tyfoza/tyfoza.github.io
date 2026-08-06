@@ -2,7 +2,8 @@
 title: "Pátý výroční zimní lom"
 date: 2012-01-29T21:00:00.009Z
 url: "/posts/2012/01/paty-vyrocni-zimni-lom/"
-tags: ["Video", "Lom"]
+summary: "[ fotky ]"
+tags: ["Lom", "Video"]
 aliases:
   - "/2012/01/paty-vyrocni-zimni-lom.html"
 ---

@@ -2,6 +2,7 @@
 title: "Druhé smrtozeniny"
 date: 2014-08-03T18:42:00.004Z
 url: "/posts/2014/08/druhe-smrtozeniny/"
+summary: "Kleofáš [ 1 ][ 2 ] aneb vzpomeňte na Pana Domácího..."
 tags: ["Tak jde čas"]
 aliases:
   - "/2014/08/druhe-smrtozeniny.html"

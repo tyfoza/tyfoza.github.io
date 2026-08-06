@@ -2,6 +2,7 @@
 title: "Z Brodu do Sibiu"
 date: 2011-07-18T22:05:00.004Z
 url: "/posts/2011/07/z-brodu-do-sibiu/"
+summary: "Během cesty se nic zvláštního nestalo. Kurděje jsme nedostali. Přes Maďarsko po dálnicích, známka pro moto stojí v brodské směnárně 85 korun na čtyři dny, boční kufry mají povoleno maximální rychlost 120km/h a toho jsme se drželi. Po dálnici jsme nejeli rychleji než sto čtyřicet. Maďarské dálnice jsou jako nové a nebyly ucpané. Strávili jsme celý den v sedle a po ujetí 600km Saša prohlásila, že jí to připadá jako bychom ujeli teprve šedesát. Sezení pohodlné, po třech hodinách jízdy už tuhnou kolena, takže zastávka co dvě až tři hodiny je tak akorát. Stabilní rychlost 120, na šestku, šest tisíc otáček, spotřeba asi 5.5 litru. Navigace Nokia Ovi mapy bezchybná, mapy aktuální. Pasy jsme vytáhli jen při vjezdu do Rumunska, nahlédli a poslali nás dál. Při vjezdu do Rumunska se platí za použití cest, motorky neplatí. Opušťením Maďrska jsme zpomalili, hlavní tah na Bukurešť je obousměrná..."
 tags: ["Cesty - 2011 Rumunsko"]
 aliases:
   - "/2011/07/z-brodu-do-sibiu.html"

@@ -2,7 +2,8 @@
 title: "Farní ples v Uherském Brodě"
 date: 2013-02-09T18:29:00Z
 url: "/posts/2013/02/farni-ples-v-uherskem-brode/"
-tags: ["Video", "Tak jde čas"]
+summary: "zahájení plesu polonézou mladých módní přehlídka Luhačovického okrašlovacího spolku Calma[ 1 ] pozn. autorem záznamu je Stanislav Kadlčík[ 2 ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2013/02/farni-ples-v-uherskem-brode.html"
 ---

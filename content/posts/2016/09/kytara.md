@@ -2,6 +2,7 @@
 title: "Kytara..."
 date: 2016-09-03T13:39:00Z
 url: "/posts/2016/09/kytara/"
+summary: ""
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/09/kytara.html"

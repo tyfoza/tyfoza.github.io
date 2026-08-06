@@ -2,6 +2,7 @@
 title: "Lom Plešivec, Karlštejn a Pekelné doly"
 date: 2012-04-27T14:53:00Z
 url: "/posts/2012/04/lom-plesivec-karlstejn-pekelne-doly/"
+summary: "Dopoledne jsem hledal lom u kopce Plešivec u obce Suchomasty kousek od Kalštejna, pořádají se v něm enduroškoly, tak jsem si to šel projet se Stromíkem. Pěkné to tam je, dostupné po zelené turistické značce tak, že člověk nemusí objíždět žádné zákazy a závory. Trať je tam hodně proježděná, pár výjezů, ale žádné extrémy jako v Brodku u Prostějova, vše příjemně akční pro matrodontí enduro stroje, píseček i mazlavé bláto. Pár set metrů z toho lomu je i klasická zachovalá hlinitá motokrosová trať. Pak odpolední přesun do Pekelných dolů zase přes ucpanou Prahu, do České Lípy a po cestě třetí třídy do místa, kde se schází motorkáři. Je to tady samá pěkná Africa Twin, sportovní cesťáky s ufony v kombinézách a teď přijelo i jedno ČZ175 prase. Asi jinej gang. [ fotky ][ cesta ]"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5fyCuOmtNPIcuVXcv6eCu1_ntdL2e3BKTVhQ3fcocj6IApQloxe-nHQHL7MXWS-fcp5_fgNA3UneMfixgNx2FJydhSjERE42KukguC6W1hsQLxaIh9KysR5heXNwhRDRvCt70b9HYyw/s200/270420121849m-741742.jpg"
 tags: ["Na cestě"]
@@ -11,11 +12,11 @@ aliases:
 
 <div class="mobile-photo">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5fyCuOmtNPIcuVXcv6eCu1_ntdL2e3BKTVhQ3fcocj6IApQloxe-nHQHL7MXWS-fcp5_fgNA3UneMfixgNx2FJydhSjERE42KukguC6W1hsQLxaIh9KysR5heXNwhRDRvCt70b9HYyw/s1600/270420121849m-741742.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" height="150" id="BLOGGER_PHOTO_ID_5736095223354062386" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5fyCuOmtNPIcuVXcv6eCu1_ntdL2e3BKTVhQ3fcocj6IApQloxe-nHQHL7MXWS-fcp5_fgNA3UneMfixgNx2FJydhSjERE42KukguC6W1hsQLxaIh9KysR5heXNwhRDRvCt70b9HYyw/s200/270420121849m-741742.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiltI-kecCT3KClZbSzQwXmDrVmt6Wz5wmy1MDP3exgjKDqDaMc9wY8Jkn4529CmaULFa4tyU0fobvPba7_8Un4Fl959zy1HdKrd9ZjSif1NchN40owzQd-pIM4SW9jvCF17DAHWdlw068/s1600/270420121848m-737722.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" height="150" id="BLOGGER_PHOTO_ID_5736095205413750754" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiltI-kecCT3KClZbSzQwXmDrVmt6Wz5wmy1MDP3exgjKDqDaMc9wY8Jkn4529CmaULFa4tyU0fobvPba7_8Un4Fl959zy1HdKrd9ZjSif1NchN40owzQd-pIM4SW9jvCF17DAHWdlw068/s200/270420121848m-737722.jpg" width="200" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5fyCuOmtNPIcuVXcv6eCu1_ntdL2e3BKTVhQ3fcocj6IApQloxe-nHQHL7MXWS-fcp5_fgNA3UneMfixgNx2FJydhSjERE42KukguC6W1hsQLxaIh9KysR5heXNwhRDRvCt70b9HYyw/s1600/270420121849m-741742.jpg" "Ilustrace k článku" "200" >}}{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiltI-kecCT3KClZbSzQwXmDrVmt6Wz5wmy1MDP3exgjKDqDaMc9wY8Jkn4529CmaULFa4tyU0fobvPba7_8Un4Fl959zy1HdKrd9ZjSif1NchN40owzQd-pIM4SW9jvCF17DAHWdlw068/s1600/270420121848m-737722.jpg" "Ilustrace k článku" "200" >}}</div>
 </div>
 <div class="mobile-photo">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOTPXqezL1K4q3lnHqi9ZkfchWP36HX67V3cot01aEAkSCjjgXKxMET_pHao3NNMvyBZG0RYnA9X8E8wFzvGXx3Xlmssk4T9QGt66v6KYvIIqCDKryanP4ekBio2LyCKLLkRgktdNsA4/s1600/Screenshot0016m-740278.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5736095213303384834" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOTPXqezL1K4q3lnHqi9ZkfchWP36HX67V3cot01aEAkSCjjgXKxMET_pHao3NNMvyBZG0RYnA9X8E8wFzvGXx3Xlmssk4T9QGt66v6KYvIIqCDKryanP4ekBio2LyCKLLkRgktdNsA4/s320/Screenshot0016m-740278.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOTPXqezL1K4q3lnHqi9ZkfchWP36HX67V3cot01aEAkSCjjgXKxMET_pHao3NNMvyBZG0RYnA9X8E8wFzvGXx3Xlmssk4T9QGt66v6KYvIIqCDKryanP4ekBio2LyCKLLkRgktdNsA4/s1600/Screenshot0016m-740278.jpg" "Ilustrace k článku" >}}</div>
 </div>
 <div class="mobile-photo">
 </div>

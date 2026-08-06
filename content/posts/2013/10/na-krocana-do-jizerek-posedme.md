@@ -2,6 +2,7 @@
 title: "Na Krocana do Jizerek posedmé"
 date: 2013-10-12T20:17:00Z
 url: "/posts/2013/10/na-krocana-do-jizerek-posedme/"
+summary: "[ fotky ] [ trasa ] [ fotky na cenduro.cz ] V místě, kam by se sotva Krakonoš na SERku odvážil, v horách kde vládne mocný duch hor Muhu[ 1 ], tam děly se věci mezi nebem a blátem. O technice enduro jízdy, o výběru pneu nebo kontrolovaném dávkování výkonu motoru, o fyzické přípravě, vybavení motocyklu nebo jezdce se asi dočtete jinde. Tohle bude takové lyrickoepické postesknutí nad tím, že vydržíme jet pouze pár hodin. Myslím, že ve skupině lidí, kteří se o víkendu potkali, šlo o pocity a prožitky. Odvézt si domů na vozíku nebo v tranzitu blátem obézní motorku a v hlavě zážitek. Pro někoho denní chleba sklízený v Qwertlandu, pro jiné příjemné zpestření nudných dní a pro někoho akce, o níž bude jednou vyprávět vnoučatům – Ok, to už je asi moc velká fabulace – ale vážně, pokud někdy letos motosezóna skončí a má mít někde tečku, tak tohle by mohla být pořádná inkoustová kaňka před tím, než..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmzWsWwILx26Y7egmqKRn1wU3HKs6S01NJSAIo99gNF2Qu-PWOQLe7KMIgdgGogToxY5_oa63XJaT8rHxbOVt8V4pg-G0HNZHV4ZFJxVbG4izcPbQv16oIctaY6Upa_M6VWLaTOxji0Shz/s640/P3010046.jpg"
 tags: ["Cesty - akce offroad"]
@@ -12,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmzWsWwILx26Y7egmqKRn1wU3HKs6S01NJSAIo99gNF2Qu-PWOQLe7KMIgdgGogToxY5_oa63XJaT8rHxbOVt8V4pg-G0HNZHV4ZFJxVbG4izcPbQv16oIctaY6Upa_M6VWLaTOxji0Shz/s1600/P3010046.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmzWsWwILx26Y7egmqKRn1wU3HKs6S01NJSAIo99gNF2Qu-PWOQLe7KMIgdgGogToxY5_oa63XJaT8rHxbOVt8V4pg-G0HNZHV4ZFJxVbG4izcPbQv16oIctaY6Upa_M6VWLaTOxji0Shz/s640/P3010046.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmzWsWwILx26Y7egmqKRn1wU3HKs6S01NJSAIo99gNF2Qu-PWOQLe7KMIgdgGogToxY5_oa63XJaT8rHxbOVt8V4pg-G0HNZHV4ZFJxVbG4izcPbQv16oIctaY6Upa_M6VWLaTOxji0Shz/s1600/P3010046.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/5cm3euk5gfo06tvo" target="_blank">trasa</a>] [<a href="http://www.cenduro.cz/forum/viewthread.php?thread_id=1463&amp;pid=46678#post_46636" target="_blank">fotky na cenduro.cz</a>]<br />
 V místě, kam by se sotva Krakonoš na SERku odvážil, v horách kde vládne mocný duch hor Muhu[<a href="http://www.nmps.cz/aktuality/muhu.pdf" target="_blank">1</a>], tam děly se věci mezi nebem a blátem.<br />
 O technice enduro jízdy, o výběru pneu nebo kontrolovaném dávkování výkonu motoru, o fyzické přípravě, vybavení motocyklu nebo jezdce se asi dočtete jinde. Tohle bude takové lyrickoepické postesknutí nad tím, že vydržíme jet pouze pár hodin.<br />

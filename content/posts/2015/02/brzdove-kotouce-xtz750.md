@@ -2,6 +2,7 @@
 title: "Brzdové kotouče XTZ750"
 date: 2015-02-26T16:21:00Z
 url: "/posts/2015/02/brzdove-kotouce-xtz750/"
+summary: "Potřeba výměna brzdových kotoučů roste s mírou jejich opotřebení. Když váš brzdový kotouč vypadá jako řezací nůž v masně, v horní části má hranu velikosti kaňonu a nové brzdové destičky přeformátuje podle svého tvaru, nezbývá než pomalu začít rozvažovat o možné výměně. Mně osobně toto uvažovaní zabralo celou sezónu. Již jednou jsem kotouče měnil, za použité z druhé ruky, relativně zachovalé a určitě lepší než mé původní [ 1 ]. Vydržely 30tis. km. Teď potřebujeme čtyři – mám dvě přední kola; jedno na silnici, druhé do terénu. Výměna brzdových kotoučů prospěje i destičkám, budou se sjíždět stejnoměrně a to i po výměně kola. Originální kotouč přední má 4mm a zadní má 5mm a jsou vzájemně zaměnitelné. Na fóru nadšených jezdců SuperTenere[ 2 ] je člověk, který tyto kotouče vyrábí, řezáno z plotny 5mm. Reálná cena za čtyři kotouče včetně poštovné byla v ceně jednoho originálního kotouče[ 3 ]...."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj44LLqI28sbyBrJ8qHvFNHRA_KyIZK4NAzJHPuRht42Y45X1dXBee1Y8ygD02KeF-vun3uo-8EDShoTLicovlnE8xu8sbxcJhPioWJxAcdD2hlc5noNMZtfK5_mRF4siPRDnUbsE3q9etP/s1600/kotouce.jpg"
 tags: ["Suzuki DL 650 K9"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj44LLqI28sbyBrJ8qHvFNHRA_KyIZK4NAzJHPuRht42Y45X1dXBee1Y8ygD02KeF-vun3uo-8EDShoTLicovlnE8xu8sbxcJhPioWJxAcdD2hlc5noNMZtfK5_mRF4siPRDnUbsE3q9etP/s1600/kotouce.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj44LLqI28sbyBrJ8qHvFNHRA_KyIZK4NAzJHPuRht42Y45X1dXBee1Y8ygD02KeF-vun3uo-8EDShoTLicovlnE8xu8sbxcJhPioWJxAcdD2hlc5noNMZtfK5_mRF4siPRDnUbsE3q9etP/s1600/kotouce.jpg" height="472" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj44LLqI28sbyBrJ8qHvFNHRA_KyIZK4NAzJHPuRht42Y45X1dXBee1Y8ygD02KeF-vun3uo-8EDShoTLicovlnE8xu8sbxcJhPioWJxAcdD2hlc5noNMZtfK5_mRF4siPRDnUbsE3q9etP/s1600/kotouce.jpg" "Ilustrace k článku" "640" >}}</div>
 Potřeba výměna brzdových kotoučů roste s mírou jejich opotřebení. Když váš brzdový kotouč vypadá jako řezací nůž v masně, v horní části má hranu velikosti kaňonu a nové brzdové destičky přeformátuje podle svého tvaru, nezbývá než pomalu začít rozvažovat o možné výměně. Mně osobně toto uvažovaní zabralo celou sezónu. Již jednou jsem kotouče měnil, za použité z druhé ruky, relativně zachovalé a určitě lepší než mé původní [<a href="/posts/2013/08/vymena-prednich-brzdovych-kotoucu-xtz/" target="_blank">1</a>]. Vydržely 30tis. km.<br />
 Teď potřebujeme čtyři – mám dvě přední kola; jedno na silnici, druhé do terénu. Výměna brzdových kotoučů prospěje i destičkám, budou se sjíždět stejnoměrně a to i po výměně kola.<br />
 Originální kotouč přední má 4mm a zadní má 5mm a jsou vzájemně zaměnitelné.<br />

@@ -2,6 +2,7 @@
 title: "Vyjížďka: Burza veteránů, Slavkov u Brna"
 date: 2010-06-26T20:01:00Z
 url: "/posts/2010/06/vyjizdka-burza-veteranu-slavkov-u-brna/"
+summary: "Ráno v 8h jsem vyrazil v Brodu na Kawě, s sebou jen pláštěnku a trochu peněz. Burza veteránů ve Slavkově u Brna patří k těm větším veteránským akcím v okolí. Neuvěřitelné množství krámů, věcí cenných i běžných. Nebýt na motorce tak jsem si domů odvezl kompletní potápěčský historický oblek, víc řekne [ pár obrázků ]. Domů jsem si přivezl granát \"vajíčko\" a průchodku zapalování na ČZ125T pro kterou jsem tam jel. Google Latitude [ záznam z trasy ] z UB-Slavkov u Brna-zastávka v Modré u Velehradu-UB."
 tags: ["Na cestě"]
 aliases:
   - "/2010/06/vyjizdka-burza-veteranu-slavkov-u-brna.html"

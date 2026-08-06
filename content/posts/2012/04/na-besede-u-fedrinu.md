@@ -2,7 +2,8 @@
 title: "Na besedě u Fedrinů"
 date: 2012-04-13T17:00:00.005Z
 url: "/posts/2012/04/na-besede-u-fedrinu/"
-tags: ["Video", "Na cestě"]
+summary: "[ cesta ]"
+tags: ["Na cestě", "Video"]
 aliases:
   - "/2012/04/na-besede-u-fedrinu.html"
 ---

@@ -2,6 +2,7 @@
 title: "CéTéčko mého lokte..."
 date: 2015-10-31T10:40:00.001Z
 url: "/posts/2015/10/cetecko-meho-lokte/"
+summary: "Čtyři měsíce po vykloubení mám zrehabilitováno a rozcvičeno, ale pořád zůstalo omezení hybnosti lokte a ruka se nedá úplně natáhnout. Pořád chybí asi 20°. Můj výborný ortoped Mudr. Vrána[ 1 ] pravil, že bez 3D náhledu se dál nepohneme, tak to bylo jedno rychlé CT a hle – 5mm úlomek kosti a další 2mm – jsou tam a hybnosti nebrání. Žel hlavička radia, tedy mé levé kosti vřetenní byla poškozena, nalomena a nesrostla ideálně. Řešení částečné další rehabilitací. Nabídli mně umělý kloub, který jsem zdvořile odmítl. Hurá do posilovny, abych nabyl bývalého objemu a síly..."
 tags: ["Tak jde čas"]
 aliases:
   - "/2015/10/cetecko-meho-lokte.html"

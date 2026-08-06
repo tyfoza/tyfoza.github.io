@@ -2,7 +2,8 @@
 title: "FFF je rozený průvodce"
 date: 2012-06-23T06:00:00.002Z
 url: "/posts/2012/06/fff-je-rozeny-pruvodce/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/06/fff-je-rozeny-pruvodce.html"
 ---

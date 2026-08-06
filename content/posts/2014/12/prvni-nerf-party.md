@@ -2,7 +2,8 @@
 title: "První NERF párty"
 date: 2014-12-28T12:00:00Z
 url: "/posts/2014/12/prvni-nerf-party/"
-tags: ["Video", "NERF"]
+summary: "[ fotky ] válečný zpravodaj Rabbitka A slovy „nebuď NERFní,“ to do mě našil. A to jsem měl vestu i přilbu s nápisem PRESS, čili nebojová figura. Tak by se dala popsat první NERF párty nově vzniklého uskupení – zatím pracovní název NERF!UB. Uvidíme, co se ujme jako oficiální název. Čerstvé zprávy přímo z bojiště/ze hřiště."
+tags: ["NERF", "Video"]
 aliases:
   - "/2014/12/prvni-nerf-party.html"
 ---

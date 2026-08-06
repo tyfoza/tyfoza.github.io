@@ -2,6 +2,7 @@
 title: "Svět mechanické hudby- flašinety v muzeu..."
 date: 2016-10-27T18:18:00Z
 url: "/posts/2016/10/svet-mechanicke-hudby-flasinety-v-muzeu/"
+summary: "Svět mechanické hudby - další info viz [ mjakub.cz ] oficiální video muzejní od Marušky viz [ video ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/10/svet-mechanicke-hudby-flasinety-v-muzeu.html"

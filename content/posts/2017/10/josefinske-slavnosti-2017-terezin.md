@@ -2,9 +2,10 @@
 title: "Josefínské slavnosti 2017, Terezín..."
 date: 2017-10-08T20:28:00.003Z
 url: "/posts/2017/10/josefinske-slavnosti-2017-terezin/"
+summary: "[ fotky ] moje z mobilu [ článek ] a profi fotky v Litoměřickém deníku Tentokrát byla denní bitva i noční bitva zážitkem, na který dlouho nezapomeneme. Po kotníky v blátě, místy v dešti, čpící střelným prachem a spokojení jako štěňátka – to jsou naši grenzři (chorvatští hraničáři) náš druhý banálský grenzinfantery regiment"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgus7M6LcTbUYMPm6UCZWSLOLQC-u6e__FwMD-AOERKnnb0UuFGES-uXSAQt8mfTzOxOw4VjaBuIDJCnwd1B3GAhe9W-AAksNbeknasXsdeNH-Zb5tLQTM_z2v3ix_b0VyWUY0wcg44wwVt/s640/chorvati.jpg"
-tags: ["Šerm.bitva", "Šerm", "Šerm.sedmiletka"]
+tags: ["Šerm", "Šerm.bitva", "Šerm.sedmiletka"]
 aliases:
   - "/2017/10/josefinske-slavnosti-2017-terezin.html"
 ---
@@ -21,6 +22,6 @@ aliases:
 Tentokrát byla denní bitva i noční bitva zážitkem, na který dlouho nezapomeneme. Po kotníky v blátě, místy v dešti, čpící střelným prachem a spokojení jako štěňátka – to jsou naši grenzři (chorvatští hraničáři)<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgus7M6LcTbUYMPm6UCZWSLOLQC-u6e__FwMD-AOERKnnb0UuFGES-uXSAQt8mfTzOxOw4VjaBuIDJCnwd1B3GAhe9W-AAksNbeknasXsdeNH-Zb5tLQTM_z2v3ix_b0VyWUY0wcg44wwVt/s1600/chorvati.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="789" data-original-width="1600" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgus7M6LcTbUYMPm6UCZWSLOLQC-u6e__FwMD-AOERKnnb0UuFGES-uXSAQt8mfTzOxOw4VjaBuIDJCnwd1B3GAhe9W-AAksNbeknasXsdeNH-Zb5tLQTM_z2v3ix_b0VyWUY0wcg44wwVt/s640/chorvati.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgus7M6LcTbUYMPm6UCZWSLOLQC-u6e__FwMD-AOERKnnb0UuFGES-uXSAQt8mfTzOxOw4VjaBuIDJCnwd1B3GAhe9W-AAksNbeknasXsdeNH-Zb5tLQTM_z2v3ix_b0VyWUY0wcg44wwVt/s1600/chorvati.jpg" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: center;">
 náš druhý banálský grenzinfantery regiment</div>

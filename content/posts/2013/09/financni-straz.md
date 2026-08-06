@@ -2,6 +2,7 @@
 title: "Finanční stráž"
 date: 2013-09-27T20:23:00Z
 url: "/posts/2013/09/financni-straz/"
+summary: "[ fotky ] Vernisáž výstavy Peníze habsburských panovníků [ 1 ], kde se naše jednotka účastnila coby finanční stráž v muzejní pokladnici. Zprávička z Dobrého dne s kurýrem viz. [ 2 ]."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ-HHPobRc1-B-mCtSi8WPYf9S8zP1JxkU2dq53IQ4uz1Jhd61XHTcjq7E1teVmgFYmZ5bHR9kcXijtcJyEM0RqP9pnnPFOg8iE7JHNqVrvDF-9cwPpA8mgnYZUAQlVQPkwnm4z6peZ4Ah/s640/P2160024.jpg"
 tags: ["Šerm"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ-HHPobRc1-B-mCtSi8WPYf9S8zP1JxkU2dq53IQ4uz1Jhd61XHTcjq7E1teVmgFYmZ5bHR9kcXijtcJyEM0RqP9pnnPFOg8iE7JHNqVrvDF-9cwPpA8mgnYZUAQlVQPkwnm4z6peZ4Ah/s1600/P2160024.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ-HHPobRc1-B-mCtSi8WPYf9S8zP1JxkU2dq53IQ4uz1Jhd61XHTcjq7E1teVmgFYmZ5bHR9kcXijtcJyEM0RqP9pnnPFOg8iE7JHNqVrvDF-9cwPpA8mgnYZUAQlVQPkwnm4z6peZ4Ah/s640/P2160024.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ-HHPobRc1-B-mCtSi8WPYf9S8zP1JxkU2dq53IQ4uz1Jhd61XHTcjq7E1teVmgFYmZ5bHR9kcXijtcJyEM0RqP9pnnPFOg8iE7JHNqVrvDF-9cwPpA8mgnYZUAQlVQPkwnm4z6peZ4Ah/s1600/P2160024.jpg" "Ilustrace k článku" "640" >}}</div>
 <br />
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
 Vernisáž výstavy Peníze habsburských panovníků [<a href="http://www.mjakub.cz/?idc=1195" target="_blank">1</a>], kde se naše jednotka účastnila coby finanční stráž v muzejní pokladnici.<br />

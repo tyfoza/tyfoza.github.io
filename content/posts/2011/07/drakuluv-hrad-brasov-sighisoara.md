@@ -2,6 +2,7 @@
 title: "Drákulův hrad Bran, Brašov, Shigišoara"
 date: 2011-07-22T21:36:00.013Z
 url: "/posts/2011/07/drakuluv-hrad-brasov-sighisoara/"
+summary: "Rozloučeni se Zdenálem a Lucií si dopřáváme kolem desáté hodiny ranní kávu a snídani v shopping centru Carefour v Bukurešti. Pokračujeme směrem k vesničce Bran, kde stojí hrad patřící rodu řečených Drákulů (podle draka v erbu). Po cestě je hodně kolon a dopravních kolapsů, autem bychom to nezvládli vůbec, ale takto se buď zprava nebo zleva pořád stabilně prokousáme dál. Nejdelší kolona měla asi 20km. Projíždíme lázeňské město Sinai, jsme v Transylvánii, což je, jak mě po interkomu zdatně informuje Saša, část Sedmihradska a znamená to něco jako \"hodně lesů.\" Celá tato oblast je docela bohatá a byla vystavěná německými, rakouskými a maďarskými protestanty, co sem odcházeli v období reformace. Hrad Bran je krásný [ 1 ], chvílemi vypadal jako Kokoří a chvílemi jako Buchlov. Prohlídka je individuální bez průvodce od místnosti k místnosti a celá je situovaná tak, že vchodem do hradu neustále..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKXmuuLb2epK-wkBy8vrD5wKaGK9nLO3bytv4MAPlLkAICTt6epvcuxoP219eIHvZz7T2s_X7mnYr-COMhyu-T0UJA1IpGWPXqzR_7HFKQyXH5UCT8uw7H4o3WUZBytTtk34-SLR9r5cA/s200/22072011536-773341.jpg"
 tags: ["Cesty - 2011 Rumunsko"]
@@ -11,7 +12,7 @@ aliases:
 
 <div class="mobile-photo">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKXmuuLb2epK-wkBy8vrD5wKaGK9nLO3bytv4MAPlLkAICTt6epvcuxoP219eIHvZz7T2s_X7mnYr-COMhyu-T0UJA1IpGWPXqzR_7HFKQyXH5UCT8uw7H4o3WUZBytTtk34-SLR9r5cA/s1600/22072011536-773341.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" height="150" id="BLOGGER_PHOTO_ID_5632340543374133714" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKXmuuLb2epK-wkBy8vrD5wKaGK9nLO3bytv4MAPlLkAICTt6epvcuxoP219eIHvZz7T2s_X7mnYr-COMhyu-T0UJA1IpGWPXqzR_7HFKQyXH5UCT8uw7H4o3WUZBytTtk34-SLR9r5cA/s200/22072011536-773341.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1IUKgPxmr1MRiwl_qzK1AHmyU5DUx8k_O_6xSBq6JRtMTiLj4N9_PrGGPRyNqB96ECen1yq1szX-r8eQVxIXJASh0hIupfIk7gSft_102AHe8xUsFdxTQUl4BV6sh-i9ncBCkkPzJK4/s1600/22072011534-771695.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" height="150" id="BLOGGER_PHOTO_ID_5632340534920984642" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1IUKgPxmr1MRiwl_qzK1AHmyU5DUx8k_O_6xSBq6JRtMTiLj4N9_PrGGPRyNqB96ECen1yq1szX-r8eQVxIXJASh0hIupfIk7gSft_102AHe8xUsFdxTQUl4BV6sh-i9ncBCkkPzJK4/s200/22072011534-771695.jpg" width="200" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKXmuuLb2epK-wkBy8vrD5wKaGK9nLO3bytv4MAPlLkAICTt6epvcuxoP219eIHvZz7T2s_X7mnYr-COMhyu-T0UJA1IpGWPXqzR_7HFKQyXH5UCT8uw7H4o3WUZBytTtk34-SLR9r5cA/s1600/22072011536-773341.jpg" "Ilustrace k článku" "200" >}}{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1IUKgPxmr1MRiwl_qzK1AHmyU5DUx8k_O_6xSBq6JRtMTiLj4N9_PrGGPRyNqB96ECen1yq1szX-r8eQVxIXJASh0hIupfIk7gSft_102AHe8xUsFdxTQUl4BV6sh-i9ncBCkkPzJK4/s1600/22072011534-771695.jpg" "Ilustrace k článku" "200" >}}</div>
 </div>
 <div class="mobile-photo">
 </div>

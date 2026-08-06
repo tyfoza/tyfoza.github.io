@@ -2,6 +2,7 @@
 title: "Den devatenáctý..."
 date: 2020-02-06T00:07:00Z
 url: "/posts/2020/02/den-devatenacty/"
+summary: "Tupiza Vstávám opravdu v 7h ráno, poprvé za celou dobu pobytu jsem si nařídil budík a byl potřeba. Loučím se kulatým majitelem hostelu, jeho paní se chtěla se mnou vyfotit, protože jsem první gringo z Česka, kterého tady mají ubytovaného. Je malinko chladno, ale nebe modré. V dáli je obloha temná a blýská se. Vyfotil jsem pár fotek, trochu se přioblékl a jedu si po krásném asfaltu, zatáčka střídá zatáčku. Řekl bych, že nebude co zapsat, protože se vracím po asfaltu zpátky do Santa Cruz de la Sierra. Jenže... Cotagaita Malá vesnice po cestě. Pro jistotu jedu v nepromoku, trochu mží. Pak začalo pršel víc a pak opravdu moc moc a za městečkem Cotagaita se valí přes cestu z hor něco jako blátivá řeka, do toho nevjedu. Vidím jak proud unáší přes cestu kompletní kolo z náklaďáku, ano to těžké obuté, se železým diskem. Udělal jsem krátké video o chvilku později ten strom vlevo padnul a byl taky..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-devatenacty.html"

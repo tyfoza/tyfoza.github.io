@@ -2,7 +2,8 @@
 title: "Atariáda..."
 date: 2026-05-02T21:42:00.010Z
 url: "/posts/2026/05/atariada/"
-tags: ["Počítače", "Počítače.8bit"]
+summary: ""
+tags: ["Počítače.8bit", "Počítače"]
 aliases:
   - "/2026/05/atariada.html"
 ---

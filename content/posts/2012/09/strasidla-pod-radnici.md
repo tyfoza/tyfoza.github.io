@@ -2,7 +2,8 @@
 title: "Strašidla pod radnicí"
 date: 2012-09-16T21:48:00.006Z
 url: "/posts/2012/09/strasidla-pod-radnici/"
-tags: ["Šerm.vystoupení", "Šerm", "Strašidla"]
+summary: "[ fotky ] Reportáž TV Slovácko o strašidlech pod radnicí [ 1 ] a celá reportáž ze Dne památek [ 2 ]."
+tags: ["Strašidla", "Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2012/09/strasidla-pod-radnici.html"
 ---

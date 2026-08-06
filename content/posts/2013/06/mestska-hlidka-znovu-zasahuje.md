@@ -2,9 +2,10 @@
 title: "Městská hlídka znovu zasahuje..."
 date: 2013-06-09T14:21:00.003Z
 url: "/posts/2013/06/mestska-hlidka-znovu-zasahuje/"
+summary: "[ fotky ] Šermířský klub Uherský Brod na Bílokarpatských slavnostech v Uherském Brodě. Volně historizující průvod Přemysla Otakara II. v režii Divadla Brod a manévry Městské hlídky kolem."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB0RR5T2fBwqW61kYFRkwQshMe0wC2DB3qTDKj9ysoOHmFuSs-fareHRkZE-45W582nmfr7vxz9nm93b_vjyB-K9XUTfCa3YVADvr66YedZanu-6H7geFacjbttlCOv14SJMVC28G9ebll/s640/IMG_9626.jpg"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení", "Video"]
 aliases:
   - "/2013/06/mestska-hlidka-znovu-zasahuje.html"
 ---
@@ -12,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB0RR5T2fBwqW61kYFRkwQshMe0wC2DB3qTDKj9ysoOHmFuSs-fareHRkZE-45W582nmfr7vxz9nm93b_vjyB-K9XUTfCa3YVADvr66YedZanu-6H7geFacjbttlCOv14SJMVC28G9ebll/s1600/IMG_9626.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB0RR5T2fBwqW61kYFRkwQshMe0wC2DB3qTDKj9ysoOHmFuSs-fareHRkZE-45W582nmfr7vxz9nm93b_vjyB-K9XUTfCa3YVADvr66YedZanu-6H7geFacjbttlCOv14SJMVC28G9ebll/s640/IMG_9626.jpg" width="480" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB0RR5T2fBwqW61kYFRkwQshMe0wC2DB3qTDKj9ysoOHmFuSs-fareHRkZE-45W582nmfr7vxz9nm93b_vjyB-K9XUTfCa3YVADvr66YedZanu-6H7geFacjbttlCOv14SJMVC28G9ebll/s1600/IMG_9626.jpg" "Ilustrace k článku" "480" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
 Šermířský klub Uherský Brod na Bílokarpatských slavnostech v Uherském Brodě.<br />
 Volně historizující průvod Přemysla Otakara II. v režii Divadla Brod a manévry Městské hlídky kolem.<br />

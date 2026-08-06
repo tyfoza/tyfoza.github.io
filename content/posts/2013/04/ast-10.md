@@ -2,6 +2,7 @@
 title: "Tripmaster AST 1.0 – představení funkcí"
 date: 2013-04-06T07:50:00Z
 url: "/posts/2013/04/ast-10/"
+summary: "Neformální představení funkcí tripmasteru a palubního počítače AST 1.0 aneb drobnosti z jedné garáže přímo na internet."
 tags: ["AST - palubní počítač", "Video"]
 aliases:
   - "/2013/04/ast-10.html"

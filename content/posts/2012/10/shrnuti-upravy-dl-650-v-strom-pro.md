@@ -2,6 +2,7 @@
 title: "Shrnutí úpravy V-Strom pro lehkou offroad jízdu"
 date: 2012-08-30T22:17:00Z
 url: "/posts/2012/10/shrnuti-upravy-dl-650-v-strom-pro/"
+summary: "– pro Céčkové gumy byl vyměněn přední blatník za zvýšený[ 1 ] (změna oproti fotografii) – zvětšení světlé výšky – prodloužení předních teleskopů[ 2 ] a změna přepákování[ 3 ] – rozšířené padací rámy[ 4 ] – zubaté stupačky přední[ 5 ] i zadní[ 6 ] – sklápěcí řadící páka[ 7 ] a sklápěcí páka zadní brzdy[ 8 ] – ochrana předních teleskopů[ 9 ] – ochrana rukou a páček – „blástry[ 10 ]“ – na opravdový offroad montujeme krom céčkových gum[ 11 ] také ochranu tyčky spojky[ 12 ] a menší řetězové kolečko[ 13 ] pro poměr převodu 13/47. – instalována univerzální sklopná zrcátka[ 14 ] (změna) – přibyly úpravy pro ostřejší enduro jízdu[ 15 ]"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPG3yQDLUfeRKsShQX1pqPHuQLw0SfPH1Ewwd1Ovvpq8Zh7tTZPBM8LW1zW7_C4aVz_-lV1kjrwBNhFctLT4XcNyMJsItCP3c69DNKXyYs9X_VIFFrIlnBPcPN8APo7rNU3MDC8L53AbU/s640/drobne_upravy.jpg"
 tags: ["Suzuki DL 650 K9"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPG3yQDLUfeRKsShQX1pqPHuQLw0SfPH1Ewwd1Ovvpq8Zh7tTZPBM8LW1zW7_C4aVz_-lV1kjrwBNhFctLT4XcNyMJsItCP3c69DNKXyYs9X_VIFFrIlnBPcPN8APo7rNU3MDC8L53AbU/s1600/drobne_upravy.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="362" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPG3yQDLUfeRKsShQX1pqPHuQLw0SfPH1Ewwd1Ovvpq8Zh7tTZPBM8LW1zW7_C4aVz_-lV1kjrwBNhFctLT4XcNyMJsItCP3c69DNKXyYs9X_VIFFrIlnBPcPN8APo7rNU3MDC8L53AbU/s640/drobne_upravy.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPG3yQDLUfeRKsShQX1pqPHuQLw0SfPH1Ewwd1Ovvpq8Zh7tTZPBM8LW1zW7_C4aVz_-lV1kjrwBNhFctLT4XcNyMJsItCP3c69DNKXyYs9X_VIFFrIlnBPcPN8APo7rNU3MDC8L53AbU/s1600/drobne_upravy.jpg" "Ilustrace k článku" "640" >}}</div>
 – pro Céčkové gumy byl vyměněn přední blatník za zvýšený[<a href="/posts/2012/10/vymena-predniho-blatniku/" target="_blank">1</a>] <i>(změna oproti fotografii)</i><br />
 – zvětšení světlé výšky – prodloužení předních teleskopů[<a href="/posts/2012/03/prodlouzeni-prednich-teleskopu-v-strom/" target="_blank">2</a>] a změna přepákování[<a href="/posts/2011/10/prepakovani-tlumice-kyvne-vidlice/" target="_blank">3</a>]<br />
 – rozšířené padací rámy[<a href="/posts/2012/03/mala-uprava-padacich-ramu/" target="_blank">4</a>]<br />

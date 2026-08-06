@@ -2,7 +2,8 @@
 title: "Emulátor 8bitového Atari, joystick a 64bitový Windows"
 date: 2014-11-27T00:20:00.004Z
 url: "/posts/2014/11/emulator-8bitoveho-atari-joystick/"
-tags: ["Počítače", "Počítače.8bit"]
+summary: "Dvě otázky: Lze k moderním 64bitovým Windows připojit Atari joystick z roku 1985? Bude fungovat i v emulátoru? Prosté dvě odpovědi: Ano. Ano. Stačí nainstalovat ovladač pro připojení joysticku do paralelního portu LPT: ppjoysetup-0-8-4-6 [ 1 ][ 2 ] V konfiguraci PPJoy přidáme nový joystick - virtuální pro testování nebo paralelní a pro naše zapojení vyhovuje LPT JoyStick. Existuje i obrázkový návod[ 3 ]. Připojení digitálního joysticku[ 4 ] Atari s konektorem Canon 9 pin podle atari800emu-doc-LPTJoy nebo nápovědy Atari800win Plus: LPTjoy interface (designed by Petr Sumbera) [ CANON 25 MALE ] [ CANON 9 M ] (acknowledge) 10 ........................... 4 (right) (busy) 11 ........................... 3 (left) (out of paper) 12 ........................... 2 (down) (select) 13 ........................... 1 (up) (error) 15 ........................... 6 (button) (strobe) 1..."
+tags: ["Počítače.8bit", "Počítače"]
 aliases:
   - "/2014/11/emulator-8bitoveho-atari-joystick.html"
 ---

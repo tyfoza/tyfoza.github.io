@@ -2,6 +2,7 @@
 title: "Společný endurotrénink potřetí..."
 date: 2016-07-05T19:55:00Z
 url: "/posts/2016/07/spolecny-endurotrenink-potreti/"
+summary: "[ fotky ]"
 tags: ["Cesty - akce offroad"]
 aliases:
   - "/2016/07/spolecny-endurotrenink-potreti.html"

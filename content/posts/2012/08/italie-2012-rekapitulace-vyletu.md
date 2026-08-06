@@ -2,6 +2,7 @@
 title: "Itálie 2012 - Rekapitulace výletu"
 date: 2012-08-19T21:55:00.007Z
 url: "/posts/2012/08/italie-2012-rekapitulace-vyletu/"
+summary: "Cestovní kancelář Hyzdil a Pizdil, dvanáct dnů na výletě. Čtyři motocykly, čtyři řidiči, dvě spolujezdkyně. Tři dny na pláži a ve vlnách. Celkem najeto 3500 kilometrů. Fotky z výletu z mého mobilu E90 [ 1 ] a fotky od Karlose [ 2 ] a fotky od Vény [ 3 ]. Trasa na Sporttrackeru po jednotlivých dnech [ 4 ] čísla 149-160. Kompletní trasa na mapách Google [ 5 ]. Podrobný deník z cesty viz. [ 6 ]."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJLgHYXnzMPvQOGqpr8zmqPb5XlNLV4_-LFVSiQw5SREWk3jext5k3fHzdJRvNCIxT6XV6RDeNnWBMhr3qkUm7u5j3W1S9ExC_K8RWJbV7c9yV8uaVBxVKafDJikuoSUi4QRTbx9W5tWtM/s200/IMG_9029.JPG"
 tags: ["Cesty - 2012 Itálie"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJLgHYXnzMPvQOGqpr8zmqPb5XlNLV4_-LFVSiQw5SREWk3jext5k3fHzdJRvNCIxT6XV6RDeNnWBMhr3qkUm7u5j3W1S9ExC_K8RWJbV7c9yV8uaVBxVKafDJikuoSUi4QRTbx9W5tWtM/s1600/IMG_9029.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJLgHYXnzMPvQOGqpr8zmqPb5XlNLV4_-LFVSiQw5SREWk3jext5k3fHzdJRvNCIxT6XV6RDeNnWBMhr3qkUm7u5j3W1S9ExC_K8RWJbV7c9yV8uaVBxVKafDJikuoSUi4QRTbx9W5tWtM/s200/IMG_9029.JPG" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGdovuWKA5iNmurwfWOUsIyWdeOKzYHGagMoAdZ6tQKIuPvTbOyWkXyF_gV4pWbk1SQky_lQIKFANY9ov6ebiN1FYnLwZYE8J7pNKY4_2PWuOqMLA_auPGNqdbFhSTq6ihEPFXu-Bl_RM/s1600/bruegel-land-of-cockaigne-big-jpe3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="153" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGdovuWKA5iNmurwfWOUsIyWdeOKzYHGagMoAdZ6tQKIuPvTbOyWkXyF_gV4pWbk1SQky_lQIKFANY9ov6ebiN1FYnLwZYE8J7pNKY4_2PWuOqMLA_auPGNqdbFhSTq6ihEPFXu-Bl_RM/s200/bruegel-land-of-cockaigne-big-jpe3.jpg" width="200" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJLgHYXnzMPvQOGqpr8zmqPb5XlNLV4_-LFVSiQw5SREWk3jext5k3fHzdJRvNCIxT6XV6RDeNnWBMhr3qkUm7u5j3W1S9ExC_K8RWJbV7c9yV8uaVBxVKafDJikuoSUi4QRTbx9W5tWtM/s1600/IMG_9029.JPG" "Ilustrace k článku" "200" >}}{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGdovuWKA5iNmurwfWOUsIyWdeOKzYHGagMoAdZ6tQKIuPvTbOyWkXyF_gV4pWbk1SQky_lQIKFANY9ov6ebiN1FYnLwZYE8J7pNKY4_2PWuOqMLA_auPGNqdbFhSTq6ihEPFXu-Bl_RM/s1600/bruegel-land-of-cockaigne-big-jpe3.jpg" "Ilustrace k článku" "200" >}}</div>
 <br />
 Cestovní kancelář Hyzdil a Pizdil, dvanáct dnů na výletě. Čtyři motocykly, čtyři řidiči, dvě spolujezdkyně. Tři dny na pláži a ve vlnách.&nbsp;Celkem najeto 3500 kilometrů.<br />
 Fotky z výletu z mého mobilu E90 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] a fotky od Karlose [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">2</a>] a fotky od Vény [<a href="https://plus.google.com/photos/104894960420588359093/albums/5779210680881630465" target="_blank">3</a>].<br />

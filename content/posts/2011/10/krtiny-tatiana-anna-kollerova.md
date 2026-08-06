@@ -2,7 +2,8 @@
 title: "Křtiny - Tatiana Anna Kollerová"
 date: 2011-10-15T09:00:00.005Z
 url: "/posts/2011/10/krtiny-tatiana-anna-kollerova/"
-tags: ["Video", "Tak jde čas"]
+summary: "Navazujeme na předchozí příspěvek[ 1 ]. [ zobrazit fotky ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2011/10/krtiny-tatiana-anna-kollerova.html"
 ---

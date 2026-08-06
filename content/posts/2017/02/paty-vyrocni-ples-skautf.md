@@ -2,7 +2,8 @@
 title: "Pátý výroční ples ŠKAUTF"
 date: 2017-02-11T21:11:00Z
 url: "/posts/2017/02/paty-vyrocni-ples-skautf/"
-tags: ["Video", "Tak jde čas"]
+summary: "Pátý výroční ples multilaterální platformy ŠKAUTF [ 1 ]. Potkalo a bavilo se na padesát členů těchto tří uherskobrodských spolků a bylo to výživné tanečně i nutričně. Děkujeme všem zúčastněným. A za rok zas! fotky od Peti Rabbitky viz [ 2 ]. Úvodní slovo plesu bylo tentokrát zpívané. Sestříhané video z plesu od Peti Rabbitky. Ostravská sekce ŠKUBu přispěla do programu soubojem čajových mistrů. Obvyklí podezřelí opět v plné formě. Kdo neviděl „Fazole“? Loňský vstup viz [ 3 ] oficiální videoklipy 12piet viz [ 4 ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2017/02/paty-vyrocni-ples-skautf.html"
 ---

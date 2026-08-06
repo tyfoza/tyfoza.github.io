@@ -2,6 +2,7 @@
 title: "Lokalizace a úprava fontů..."
 date: 2016-03-19T23:51:00.002Z
 url: "/posts/2016/03/lokalizace-uprava-fontu/"
+summary: "Motivace Řešili jste už někdy, že potřebujete použít nějaké nezvyklé písmo, které si stáhnete někde z internetu a ono neobsahuje české znaky? Pokud potřebujeme pár písmenek, tak to obvykle vyřešíme tak, že ručně dokreslíme háčky a čárky tam, kde je potřebujeme. Nebo třeba sázíte korektovanou maďarštinu a ve vašem fontu chybí ú s dvěmi čárkami a třeba místo ó s dvěmi čárkami se vám zobrazuje í se stříškou. A přitom by stačilo chybějící písmenka doplnit a některá jen zaměnit... Zdroje písem na internetu Kde získáme písma? Nejlépe stáhnout zrovinka české fonty, pak to bude bez práce - takže ceskefonty.cz/.com [ 1 ][ 2 ] Ale písma z oblíbeného Dafont.com [ 3 ] už češtinu mít nemusí. A proto lokalizace, počeštění. Jak doplnit háčky a čárky do vektorového písma. Ale ona plnohodnotná lokalizace, tedy počeštění vektorového písma je docela snadná a nemyslím, že reálně zabere víc než čtvrt hodiny..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_C2ONqCoH09xVVOqe3QDAyLP-7JmULWLye-VJpjWkA8HM7hF5SlBp6KKgTm23pahnkLgXi6Bf48Be9hUPEIpPdmPdAZp3TQG5k3XbRx0kClaJ8MfTV0bj4mf3P5BmF4lC6eX5RGw1-1ej/s640/fontforge.png"
 tags: ["Počítače"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_C2ONqCoH09xVVOqe3QDAyLP-7JmULWLye-VJpjWkA8HM7hF5SlBp6KKgTm23pahnkLgXi6Bf48Be9hUPEIpPdmPdAZp3TQG5k3XbRx0kClaJ8MfTV0bj4mf3P5BmF4lC6eX5RGw1-1ej/s1600/fontforge.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="204" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_C2ONqCoH09xVVOqe3QDAyLP-7JmULWLye-VJpjWkA8HM7hF5SlBp6KKgTm23pahnkLgXi6Bf48Be9hUPEIpPdmPdAZp3TQG5k3XbRx0kClaJ8MfTV0bj4mf3P5BmF4lC6eX5RGw1-1ej/s640/fontforge.png" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_C2ONqCoH09xVVOqe3QDAyLP-7JmULWLye-VJpjWkA8HM7hF5SlBp6KKgTm23pahnkLgXi6Bf48Be9hUPEIpPdmPdAZp3TQG5k3XbRx0kClaJ8MfTV0bj4mf3P5BmF4lC6eX5RGw1-1ej/s1600/fontforge.png" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: justify;">
 <i><br />
 </i></div>

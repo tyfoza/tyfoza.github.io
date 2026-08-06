@@ -2,7 +2,8 @@
 title: "Opavou a Ostravou..."
 date: 2015-10-07T21:59:00Z
 url: "/posts/2015/10/opavou-ostravou/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ fotky ] Kratce. Jeden z posledních teplých dnů pozdního babího léta. Jeden celý pracovní den věnovaný výletu a získaný čekáním na servis auta. Slezské zemské muzeum v Opavě – prohlídka sbírky preparovaných housenek. Hojně a vtipně komentovaná doktorem Gajdošíkem. Pokus o krmení kinetických soch v parku, neplánovaná přednáška o šermu pro široké osazenstvo veřejné jídelny a odpolední toulky Ostravou. Prosím opakovat co nejdříve."
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2015/10/opavou-ostravou.html"
 ---

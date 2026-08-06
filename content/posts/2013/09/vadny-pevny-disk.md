@@ -2,7 +2,8 @@
 title: "Vadný pevný disk"
 date: 2013-09-09T16:19:00Z
 url: "/posts/2013/09/vadny-pevny-disk/"
-tags: ["Video", "Počítače"]
+summary: "Nepříjemná věc, disk se roztočí a cvaká a cvaká a pak se vypne. Systém ho nenajde. Již dvakrát pomohlo disk otevřít a po zapnutí ručně vyvést ramínko s hlavami mimo místo, kde se zaseklo. Minule byl disk plný fotek a vyčetlo se jich asi 90%. Tentokrát se podařilo zkopírovat 100% dat bez chyb, ale čtení některých souborů trvalo velmi dlouho. Minulý úspěšný pokus (10. 2. 2011) Pokud se disk neroztočí, může být vadný motor - lze vyměnit. Pokud je ale vadná deska, bohužel nelze použít jinou z jiného – byť stejného disku. Deska obsahuje záznam o rozložení disku a pokus o výměnu celou věc jenom zhorší a data stejně nepřečtete. Pokud disk nefunguje a obsahuje velmi velmi cenná data, dají se vytěžit. Než riskovat zásah do elektroniky, je lépe využít službu specializované firmy Lama Expert[ 1 ], která má velmi vysokou úspěšnost obnovy dat z vadných disků a diskových polí. Obnova dat stojí..."
+tags: ["Počítače", "Video"]
 aliases:
   - "/2013/09/vadny-pevny-disk.html"
 ---

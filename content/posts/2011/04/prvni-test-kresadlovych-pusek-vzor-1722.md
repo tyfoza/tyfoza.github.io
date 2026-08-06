@@ -2,7 +2,8 @@
 title: "První test křesadlových pušek vzor 1722"
 date: 2011-04-01T16:00:00.003Z
 url: "/posts/2011/04/prvni-test-kresadlovych-pusek-vzor-1722/"
-tags: ["Video", "Šerm"]
+summary: ""
+tags: ["Šerm", "Video"]
 aliases:
   - "/2011/04/prvni-test-kresadlovych-pusek-vzor-1722.html"
 ---

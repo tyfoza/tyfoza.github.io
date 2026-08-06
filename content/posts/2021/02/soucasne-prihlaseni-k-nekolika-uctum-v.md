@@ -2,6 +2,7 @@
 title: "Současné přihlášení k několika účtům v chrome..."
 date: 2021-02-23T09:30:00.005Z
 url: "/posts/2021/02/soucasne-prihlaseni-k-nekolika-uctum-v/"
+summary: "Sdílíme jeden počítač s Windows. Běžné řešení je, že každý člen domácnosti má svůj účet a neustále se přehlašují na své účty podle toho, kdo co potřebuje dělat. Jenže ne vždy je komfortní používat více uživatelských účtů. Jak to vyřešit bez přehlašování. Řešení je použít různé webové prohlížeče. Jeden má prohlížeč Opera[ 1 ], druhý Firefox[ 2 ], třetí Chrome[ 3 ]. Tohle funguje docela povedeně. Jiný případ je, když potřebujeme mít Google Chrome zároveň přihlášený na dva účty zároveň. Nebo na dva facebookové/twitter/cokoli účty. Lze snadno vyřešit použitím prohlížeče Vivaldi[ 4 ], který používá Google Chrome rozšíření. Zkuste používat dva oddělené google disky a nebo publikovat na dva twitter a dva facebook účty, tak aby to bylo pohodlné a nemuseli jste se pořád odhlašovat a přihlašovat."
 tags: ["Počítače"]
 aliases:
   - "/2021/02/soucasne-prihlaseni-k-nekolika-uctum-v.html"

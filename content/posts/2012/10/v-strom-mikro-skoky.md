@@ -2,6 +2,7 @@
 title: "V-Strom a mikro skoky"
 date: 2012-10-22T19:16:00.001Z
 url: "/posts/2012/10/v-strom-mikro-skoky/"
+summary: ""
 tags: ["Suzuki DL 650 K9", "Video"]
 aliases:
   - "/2012/10/v-strom-mikro-skoky.html"

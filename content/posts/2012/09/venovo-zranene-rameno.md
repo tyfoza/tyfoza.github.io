@@ -2,6 +2,7 @@
 title: "Vénovo zraněné rameno"
 date: 2012-09-23T16:00:00Z
 url: "/posts/2012/09/venovo-zranene-rameno/"
+summary: "Záznam, jak došlo ke zranění. Stalo se to někdy před vystoupením, kdy pomalu nastupovala bojovná nálada. Nic zlomeného, něco utrženého. Jaké přesně je to zranění viz. [ 1 ]. Operaci má mít v pondělí ráno. Přejeme brzké uzdravení. přidáno 14.10.2012: J ak se takové zranění opraví? viz. [ 2 ]"
 tags: ["Šerm"]
 aliases:
   - "/2012/09/venovo-zranene-rameno.html"

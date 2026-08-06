@@ -2,7 +2,8 @@
 title: "Tříkrálová sbírka v Uherském Brodě"
 date: 2010-01-08T16:00:00.004Z
 url: "/posts/2010/01/trikralova-sbirka/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2010/01/trikralova-sbirka.html"
 ---

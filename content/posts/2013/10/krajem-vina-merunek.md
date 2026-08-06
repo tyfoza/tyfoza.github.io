@@ -2,6 +2,7 @@
 title: "Krajem vína a meruněk"
 date: 2013-10-26T09:31:00Z
 url: "/posts/2013/10/krajem-vina-merunek/"
+summary: "[ fotky ][ trasa ]"
 tags: ["Cesty - akce offroad"]
 aliases:
   - "/2013/10/krajem-vina-merunek.html"

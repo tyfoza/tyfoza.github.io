@@ -2,15 +2,16 @@
 title: "Tripmaster AST 1.0 aneb levný palubní počítač pro motocykl"
 date: 2013-04-02T23:00:00Z
 url: "/posts/2013/04/tripmaster-ast-10-aneb-levny-palubni/"
+summary: "AST 1.0 [ fotky ] Co je AST Jedná se o komunitní produkt od rallye nadšenců pro rallye nadšence. Je to tripmaster, tachometr, voltmetr a teploměr v jednom. Prvotní myšlenka Pro účast na rallye potřebujeme tripmaster, jet rallye bez něho je nepohodlné a někdy snad i nemožné. Lidé co rallye jezdí poradili, co takové zařízení má umět, tak vzniklo zajímavé zadání pro tvorbu palubního počítače, který se se dá, krom jiných funkcí, použít i jako přesný tripmaster. Viz. diskuse k tématu AST na cenduro.cz viz.[ 1 ]. Požadavky, jimž palubní počítač AST vyhovuje Je robustní, prachotěsný, odolný stříkající i tekoucí vodě, umístěný v masivním hliníkovém boxu. Displej je vidět na přímém slunci i v naprosté tmě. Obsahuje dálkové ovládání. Co umí AST 1.0 (jaké má režimy) Tripmaster – dvě nastavitelná počitadla kilometrů, čas strávený na rallye, průměrná a maximální rychlost, možnost korekce nepřesnosti..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpTT6inY1MuhE-EPWWhwDFAtpoOlK3ST0-mAP856D6yizkb2NF_3B8uWifUpb1LSGBLX09AOVz-lilBuZ73Tvv1-xYJI8Z2H1Y8_1w5zxc-_UDmw0YNmuAXgT76IjFUlttrlIBlTKjWk/s320/31032013060.jpg"
-tags: ["Suzuki DL 650 K9", "AST - palubní počítač"]
+tags: ["AST - palubní počítač", "Suzuki DL 650 K9"]
 aliases:
   - "/2013/04/tripmaster-ast-10-aneb-levny-palubni.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpTT6inY1MuhE-EPWWhwDFAtpoOlK3ST0-mAP856D6yizkb2NF_3B8uWifUpb1LSGBLX09AOVz-lilBuZ73Tvv1-xYJI8Z2H1Y8_1w5zxc-_UDmw0YNmuAXgT76IjFUlttrlIBlTKjWk/s1600/31032013060.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpTT6inY1MuhE-EPWWhwDFAtpoOlK3ST0-mAP856D6yizkb2NF_3B8uWifUpb1LSGBLX09AOVz-lilBuZ73Tvv1-xYJI8Z2H1Y8_1w5zxc-_UDmw0YNmuAXgT76IjFUlttrlIBlTKjWk/s320/31032013060.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpTT6inY1MuhE-EPWWhwDFAtpoOlK3ST0-mAP856D6yizkb2NF_3B8uWifUpb1LSGBLX09AOVz-lilBuZ73Tvv1-xYJI8Z2H1Y8_1w5zxc-_UDmw0YNmuAXgT76IjFUlttrlIBlTKjWk/s1600/31032013060.jpg" "Ilustrace k článku" "320" >}}</div>
 <div style="text-align: center;">
 AST 1.0</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
@@ -71,7 +72,7 @@ Vstup senzoru od kola zvládne jazýčkové relé i Hallův snímač. Hallův sn
 <br />
 <div>
 <div class="separator" style="clear: both; font-style: italic; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvuHb9Rj84YVW8PeJwlmyvhlLbU8PSyjSkf2vFWQgVhDZT7hJFwdZ4IbQBp6V2T4HrBC8uTiwtAK5jNZ0o0ngSzmR8Vql-1Sqhj58uBslUZQZ0r671zqW2DMArptYuXxQtRDiJ_qZ1ss/s1600/AST+deska.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvuHb9Rj84YVW8PeJwlmyvhlLbU8PSyjSkf2vFWQgVhDZT7hJFwdZ4IbQBp6V2T4HrBC8uTiwtAK5jNZ0o0ngSzmR8Vql-1Sqhj58uBslUZQZ0r671zqW2DMArptYuXxQtRDiJ_qZ1ss/s320/AST+deska.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvuHb9Rj84YVW8PeJwlmyvhlLbU8PSyjSkf2vFWQgVhDZT7hJFwdZ4IbQBp6V2T4HrBC8uTiwtAK5jNZ0o0ngSzmR8Vql-1Sqhj58uBslUZQZ0r671zqW2DMArptYuXxQtRDiJ_qZ1ss/s1600/AST+deska.jpg" "Ilustrace k článku" "320" >}}</div>
 <div style="text-align: center;">
 základní deska verze 0.4, schéma zapojení viz.[<a href="https://docs.google.com/file/d/0B-IBT7wOoyMAMzhBN3Axb1VhcFk/edit?usp=sharing" target="_blank">3</a>]<br />
 <div style="text-align: left;">

@@ -2,6 +2,7 @@
 title: "Třetí smrtozeniny..."
 date: 2015-08-03T20:07:00Z
 url: "/posts/2015/08/treti-smrtozeniny/"
+summary: "Přesně před třemi roky nás opustil náš pan Domácí. Věnujte mu s námi štěkavou vzpomínku. Viz. [ 1 ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2015/08/treti-smrtozeniny.html"

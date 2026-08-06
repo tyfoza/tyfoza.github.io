@@ -2,6 +2,7 @@
 title: "Tržiště světa v muzeu v Uherském Brodě..."
 date: 2015-05-21T23:08:00Z
 url: "/posts/2015/05/trziste-sveta-v-muzeu-jakomenskeho/"
+summary: "[ fotky ] Tržiště světa[ 1 ] - výstava historických kostýmů nad nimiž srdce šermířské přímo zaplesá. Podrobnosti o exponátech kostym.cz [ 2 ]. Naši osmnáctkoví Chorvati byli u toho a patnáctkový Švýcaři taky."
 tags: ["Tak jde čas"]
 aliases:
   - "/2015/05/trziste-sveta-v-muzeu-jakomenskeho.html"

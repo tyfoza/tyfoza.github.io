@@ -2,7 +2,8 @@
 title: "Černý Janek, Faskar 2012"
 date: 2012-09-15T15:00:00.012Z
 url: "/posts/2012/09/cerny-janek-faskar-2012/"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+summary: "[ fotky ]"
+tags: ["Šerm", "Šerm.vystoupení", "Video"]
 aliases:
   - "/2012/09/cerny-janek-faskar-2012.html"
 ---

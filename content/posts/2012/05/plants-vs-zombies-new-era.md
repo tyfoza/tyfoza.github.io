@@ -2,7 +2,8 @@
 title: "Plants vs. zombies NEW ERA"
 date: 2012-05-09T22:47:00.001Z
 url: "/posts/2012/05/plants-vs-zombies-new-era/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/05/plants-vs-zombies-new-era.html"
 ---

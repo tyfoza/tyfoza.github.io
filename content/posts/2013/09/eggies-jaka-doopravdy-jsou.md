@@ -2,6 +2,7 @@
 title: "Eggies – jaká doopravdy jsou..."
 date: 2013-09-16T16:49:00.004Z
 url: "/posts/2013/09/eggies-jaka-doopravdy-jsou/"
+summary: "Napadlo vás někdy uvařit vejce bez skořápky? Jde to. A docela snadno. Krátký video návod s klasickou a rychlou metodou „ztraceného vejce“ Kdo neumí uvařit ztracené vejce – ať dál ani nečte. Dostaly se nám totiž do kuchyně Eggies, jako velmi vtipný a milý dárek. Eggies jsou formičky na vajíčka. Má to být způsob, jak snadno uvařit vejce bez skořápky. Někdo je zná z televizní reklamy viz. [ 2 ]. Ideální předmět k testování, zda je ta věc opravdu tak zázračná, jak tvrdí reklama. A krátce lze říci – zas takový zázrak to není – funguje to, ale má to své několikeré „ale.“ Výrobce[ 3 ] a jeho prezentace výrobku říká – rozbít vejce do formičky – vařit – obrátit formičku. A vše je hotovo. Doplnil bych, že Eggies je třeba vytřít troškou oleje a vejce natvrdo se ve formičce vaří alespoň sedmnáct minut. Taktéž výrobce neuvádí krok poslední a nezbytný – jako je párání nezbytnou součástí šití, je..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX_WVaPygP2hBJofkb-l_l4zJpOHuMqM2w4KfqH7sawxIBUT-7kuFPm7KlVS4GuP9XxldKwV_hoJW2s4YAUpTG-kPVWYD37LGrRdKnMuVh8yg2hW8N8OQ3s4il3h8tdg7BsvcTZj8rgUc/s320/Eggies+signed.jpg"
 tags: ["Tak jde čas"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX_WVaPygP2hBJofkb-l_l4zJpOHuMqM2w4KfqH7sawxIBUT-7kuFPm7KlVS4GuP9XxldKwV_hoJW2s4YAUpTG-kPVWYD37LGrRdKnMuVh8yg2hW8N8OQ3s4il3h8tdg7BsvcTZj8rgUc/s1600/Eggies+signed.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX_WVaPygP2hBJofkb-l_l4zJpOHuMqM2w4KfqH7sawxIBUT-7kuFPm7KlVS4GuP9XxldKwV_hoJW2s4YAUpTG-kPVWYD37LGrRdKnMuVh8yg2hW8N8OQ3s4il3h8tdg7BsvcTZj8rgUc/s320/Eggies+signed.jpg" height="320" width="212" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX_WVaPygP2hBJofkb-l_l4zJpOHuMqM2w4KfqH7sawxIBUT-7kuFPm7KlVS4GuP9XxldKwV_hoJW2s4YAUpTG-kPVWYD37LGrRdKnMuVh8yg2hW8N8OQ3s4il3h8tdg7BsvcTZj8rgUc/s1600/Eggies+signed.jpg" "Ilustrace k článku" "212" >}}</div>
 Napadlo vás někdy uvařit vejce bez skořápky? Jde to. A docela snadno.<br />
 Krátký video návod s klasickou a rychlou metodou „ztraceného vejce“<br />
 <div class="separator" style="clear: both; text-align: center;">

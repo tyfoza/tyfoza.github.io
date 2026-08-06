@@ -2,6 +2,7 @@
 title: "Den první, dopoledne..."
 date: 2019-06-14T07:59:00.001Z
 url: "/posts/2019/06/den-prvni/"
+summary: "Tentokrát to bude moto výlet do Španělska s drobnou změnou, tedy letecky a motorku půjčit na místě od [ wellcomebikersespana.com ]. Na [ kiwi.com ] jsme vybrali v lednu letenky do Madridu. Odlet v pátek 14.6. v 11:30 z Prahy. Vše vychází krásně i s časovou rezervou na vlakový spoj a s ním vždy spojená zpoždění. České aerolinie určitě ví, že jsme prokrastinauti, tedy lidé, kteří rádi odkládají věci na poslední chvíli, aby se svezli na vlně kreativního stresu, proto nám, s omluvou, dva dny před odletem oznámili, že se let přesunuje na 10:10, čímž nás dostali do zajímavého časové presu s rezervou 3min, kterou stejně ztratíme bezvýznamným blouděním. Tedy je nezbytné první plánování. Do motovaku balíme helmy, stan a nepromoky. Je zajímavé uvažovat tak, že zavazadlo, které mám musím po vybalení na motorku srulovat, smrsknou, komprimovat nebo vyhodit. Rozměrově jako příruční zavazadlo vítězí..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikQ7Y1YLESm04ESst9iJZwFJrVqa3ENPzk4TwWpVx279x1TN2dTFcB1Hs1q5musTjYcqbgAA_TtD4hANAvsqFqGo6QCjY2kM5Oy1THl4a5nsktQSHa8RDsspB0BKX3FE9t3psel2Bh8rBZ/s320/20190614_101921_resized.jpg"
 tags: ["Cesty - 2019 Španělsko"]
@@ -21,12 +22,12 @@ Jak čekáme, vidíme na letištní plochu, sledujeme vozík s odbavenými zavaz
 <div dir="ltr">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikQ7Y1YLESm04ESst9iJZwFJrVqa3ENPzk4TwWpVx279x1TN2dTFcB1Hs1q5musTjYcqbgAA_TtD4hANAvsqFqGo6QCjY2kM5Oy1THl4a5nsktQSHa8RDsspB0BKX3FE9t3psel2Bh8rBZ/s1600/20190614_101921_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1280" data-original-width="720" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikQ7Y1YLESm04ESst9iJZwFJrVqa3ENPzk4TwWpVx279x1TN2dTFcB1Hs1q5musTjYcqbgAA_TtD4hANAvsqFqGo6QCjY2kM5Oy1THl4a5nsktQSHa8RDsspB0BKX3FE9t3psel2Bh8rBZ/s320/20190614_101921_resized.jpg" width="180" /></a></div>
+<img data-original-height="1280" data-original-width="720" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikQ7Y1YLESm04ESst9iJZwFJrVqa3ENPzk4TwWpVx279x1TN2dTFcB1Hs1q5musTjYcqbgAA_TtD4hANAvsqFqGo6QCjY2kM5Oy1THl4a5nsktQSHa8RDsspB0BKX3FE9t3psel2Bh8rBZ/s320/20190614_101921_resized.jpg" width="180" / alt="Ilustrace k článku"></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxCQAK6yodMMat4fHKTTchKSXw7nug0M96bth22yR5xK709wV55Wf84Wql-AjRTjOr5lc19UHAZQ5_BxjsoURdSqTKF3bf2k01k4W6upmeMWNGK3Zf6EfmrjLrQBxJ_k8fBRDdOtRrGkFO/s1600/20190614_102723_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="720" data-original-width="1280" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxCQAK6yodMMat4fHKTTchKSXw7nug0M96bth22yR5xK709wV55Wf84Wql-AjRTjOr5lc19UHAZQ5_BxjsoURdSqTKF3bf2k01k4W6upmeMWNGK3Zf6EfmrjLrQBxJ_k8fBRDdOtRrGkFO/s320/20190614_102723_resized.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxCQAK6yodMMat4fHKTTchKSXw7nug0M96bth22yR5xK709wV55Wf84Wql-AjRTjOr5lc19UHAZQ5_BxjsoURdSqTKF3bf2k01k4W6upmeMWNGK3Zf6EfmrjLrQBxJ_k8fBRDdOtRrGkFO/s1600/20190614_102723_resized.jpg" "Ilustrace k článku" "320" >}}</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXSs-_JAWDxzuaA-QI5cv7LdwcejZY7uA2Pow0zMG-IZCODZfyzFyEmmEkYUez5kaTf9s9yqa5t9ZlUy3IJtsKPOH3OlpbvU2UYnRkUrQ8SdiBf5wZR_Wl-qI9zgKhcFW9XghahqC7DZV0/s1600/20190614_102842_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="720" data-original-width="1280" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXSs-_JAWDxzuaA-QI5cv7LdwcejZY7uA2Pow0zMG-IZCODZfyzFyEmmEkYUez5kaTf9s9yqa5t9ZlUy3IJtsKPOH3OlpbvU2UYnRkUrQ8SdiBf5wZR_Wl-qI9zgKhcFW9XghahqC7DZV0/s320/20190614_102842_resized.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXSs-_JAWDxzuaA-QI5cv7LdwcejZY7uA2Pow0zMG-IZCODZfyzFyEmmEkYUez5kaTf9s9yqa5t9ZlUy3IJtsKPOH3OlpbvU2UYnRkUrQ8SdiBf5wZR_Wl-qI9zgKhcFW9XghahqC7DZV0/s1600/20190614_102842_resized.jpg" "Ilustrace k článku" "320" >}}</div>
 <div dir="ltr">
 <br /></div>

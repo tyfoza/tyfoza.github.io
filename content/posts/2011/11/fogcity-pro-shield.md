@@ -2,6 +2,7 @@
 title: "Ochrana proti zamlžení přilby FogCity Pro Shield"
 date: 2011-11-04T16:12:00.011Z
 url: "/posts/2011/11/fogcity-pro-shield/"
+summary: "Když je přilba úplně zavřená, tak jedinou ochranou proti zamlžení je buď vyhřívání nebo dvojité sklo nebo obojí. FogCity je clona proti zamlžení, vlepí se na hledí tak, že drží jenom na okrajích a uvnitř zůstane vzduchová mezera. Je dostupná ve verzi čirá nebo zatmavovací a volitelná je ochrana proti poškrábání. Takhle moje je z [ yshop.cz ] jak se to do přilby FogCity vlepuje Nutnost pořizovat tuhle komponentu vznikla na dálnici večer při cestě z Temelína. Bylo docela fryšno, takže hledí přilby bylo řádně vychlazené. Když jsem přilbu zavřel, na tři výdechy se zamlžila. Když jsem nechal škvíru proti mlžení, tak díky větru se mně rozslzely oči a omrzl nos. A tak jsem, za svitu luny, sto kilometrů po dálnici, střídavě otvíral a zavíral hledí, zadržoval dech, na tachometru stopadesát a na samotné řízení už nezbýval čas. Přidáno 5. 11. Tak konečně otestováno. Funguje to. Hledí zcela..."
 tags: ["Suzuki DL 650 K9", "Video"]
 aliases:
   - "/2011/11/fogcity-pro-shield.html"

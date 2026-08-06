@@ -2,7 +2,8 @@
 title: "Piškotová koleda"
 date: 2012-12-25T11:00:00Z
 url: "/posts/2012/12/piskotova-koleda/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/12/piskotova-koleda.html"
 ---

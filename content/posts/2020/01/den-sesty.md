@@ -2,6 +2,7 @@
 title: "Den šestý..."
 date: 2020-01-24T22:30:00Z
 url: "/posts/2020/01/den-sesty/"
+summary: "Villa Serrano: Ráno celé městečko žije, zkusil jsem vyrazit na snídani, ale žádná věc, kterou nabízeli ve mně nevzbudila důvěru. Až na překapávanou kávu. Snídám sto gramový pytlík ořechů ze zásob. Mám ořechy, tak 400g a pak sušené maso, ale vůbec dobře nevoní, mám obavu, jestli mu horko v kufru neublížilo, ale prý je to nezkazitelné. Je to takový můj trpasličí chleba, tady věc poslední záchrany. Ale nikdy nebylo tak zle, aby se musel jíst trpasličí chléb. Vedle vchodu do ubytovny U rybáře sedí strýc s pytlem v kterém se zálibně prohrabuje. Prodává koku. Kdejaký člověk tady má vyboulenou skráň a cucá koku. Při výjezdu s motorkou ze dvorečka ubytovny zjišťuju, že platforma pro uloží zadního kufru je opravu velmi volná, včerejší natřásání na offroadu zanechalo stopy. Navštívil jsem opravnu motocyklů, povykládal se servisáky, půjčil si nástrčné klíče a malý inbus. Od začátku mělo uložení..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-sesty.html"

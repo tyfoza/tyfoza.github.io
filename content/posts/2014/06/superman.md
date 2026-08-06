@@ -2,6 +2,7 @@
 title: "Superman"
 date: 2014-06-27T11:09:00.001Z
 url: "/posts/2014/06/superman/"
+summary: "Od osmibitové verze z roku 1986 přes XBoxovou z roku 2006 až po naprosto realistickou 3D letošní..."
 tags: ["Tak jde čas"]
 aliases:
   - "/2014/06/superman.html"

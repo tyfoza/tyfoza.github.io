@@ -2,7 +2,8 @@
 title: "Bitva u Liberce 2014"
 date: 2014-04-26T18:56:00.001Z
 url: "/posts/2014/04/bitva-u-liberce/"
-tags: ["Video", "Šerm.bitva", "Šerm", "Šerm.sedmiletka"]
+summary: "Fotky z tábora [ 1 ]. Další fotky[ 2 ]. Zprávy a fotky z médií [ 3 ][ 4 ]. Vstup ze zpravodajství ČT24[ 5 ]. Bitva u Liberce viz. [ 6 ]. Musica Viva v kostele Sv. Vojtěcha viz.[ 7 ]."
+tags: ["Šerm", "Šerm.bitva", "Šerm.sedmiletka", "Video"]
 aliases:
   - "/2014/04/bitva-u-liberce.html"
 ---

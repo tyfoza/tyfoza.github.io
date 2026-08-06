@@ -2,6 +2,7 @@
 title: "Malý mobilní a rychlý notebook na práci..."
 date: 2015-11-30T23:24:00Z
 url: "/posts/2015/12/maly-mobilni-rychly-notebook-na-praci/"
+summary: "Rok se sešel s rokem a přišel čas rozhodnout se, zda je lepší mít stolní počítač a notebook nebo pouze notebook. Již rok u mě věrně slouží stroječek Acer E11 (ES1-111M) viz [ 1 ], se kterým jsem nadmíru spokojen. Procesor Intel Celeron N2840 @ 2,16GHz dosahuje výkonu 1059 jednotek[ 2] . Požadavky na nový stroj - rychlost a ticho. Tedy přichází v úvahu pouze stroje fanless tedy bez ventilátoru. Dáme dohromady slušný pracovní notebook - procesor Intel Celeron N2940 @ 1,83GHz s výkonem 1786 jednotek[ 3 ]. Co mě opravňuje k tomu říci, že takový výkon dnes dostačuje na práci? S úpěchem v mnoha firmách používáme jako kancelářské počítače mašiny se základní deskou s integrovaným procesorem se stejným výkonem viz[ 4 ][ 5 ]. Takový notebook existuje, Acer ho vyrábí ve verzi 11,6\" pod názvem Acer TravelMate B115-M [ 6 ][ 7 ]. Existují i větší notebook se stejně nenáročným procesorem ve verzích..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiHuiMNEZMfsgeJsLZ0MQR8noQYcppHii3-1GUj7fECMC5VaNBxRjVtvGGRfDgdkRGDAP3St2hEynyJQUrUD4d9hz_IQ7ofMW2nCzfyxrC-Nk6XqkzaxZMFQPfZz5puq4bZQKgyKsxMxt/s640/acer+comenius.jpg"
 tags: ["Počítače"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiHuiMNEZMfsgeJsLZ0MQR8noQYcppHii3-1GUj7fECMC5VaNBxRjVtvGGRfDgdkRGDAP3St2hEynyJQUrUD4d9hz_IQ7ofMW2nCzfyxrC-Nk6XqkzaxZMFQPfZz5puq4bZQKgyKsxMxt/s1600/acer+comenius.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="334" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiHuiMNEZMfsgeJsLZ0MQR8noQYcppHii3-1GUj7fECMC5VaNBxRjVtvGGRfDgdkRGDAP3St2hEynyJQUrUD4d9hz_IQ7ofMW2nCzfyxrC-Nk6XqkzaxZMFQPfZz5puq4bZQKgyKsxMxt/s640/acer+comenius.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiHuiMNEZMfsgeJsLZ0MQR8noQYcppHii3-1GUj7fECMC5VaNBxRjVtvGGRfDgdkRGDAP3St2hEynyJQUrUD4d9hz_IQ7ofMW2nCzfyxrC-Nk6XqkzaxZMFQPfZz5puq4bZQKgyKsxMxt/s1600/acer+comenius.jpg" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: justify;">
 Rok se sešel s rokem a přišel čas rozhodnout se, zda je lepší mít stolní počítač a notebook nebo pouze notebook. Již rok u mě věrně slouží stroječek Acer E11 (ES1-111M) viz [<a href="/posts/2014/12/maly-lehky-svizny-notebook/" target="_blank">1</a>], se kterým jsem nadmíru spokojen. Procesor Intel Celeron N2840 @ 2,16GHz dosahuje výkonu 1059 jednotek[<a href="https://www.cpubenchmark.net/cpu.php?cpu=Intel+Celeron+N2840+%40+2.16GHz&amp;id=2388" target="_blank">2]</a>.&nbsp;</div>
 <div style="text-align: justify;">

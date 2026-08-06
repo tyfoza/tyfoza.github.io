@@ -2,6 +2,7 @@
 title: "Zvýšení podvozku V-Strom"
 date: 2012-04-12T07:07:00Z
 url: "/posts/2012/04/zvyseni-podvozku-v-strom/"
+summary: "Jak zvýšit podvozek V-Stromu? Dosažená světlá výška 220mm. (1) zvýšit zadek: kratší kosti na přepákování zadního tlumiče viz. [ 1 ] (2) zvýšit předek: prodloužení předních teleskopů pro zvýšení vpředu viz. [ 2 ] a [ 3 ] Je to vyšší, je to použitelné v terénu. Při této úpravě je nutné prodloužit boční stojan, případně i centrální strojan. Nadvaří je v každé zámečnické dílně a komaxit stojí pár korun. srovnání světlé výšky kTM 990 Adventue a Suzuki DL 650 V-Strom po zvýšení podvozku pozn pro google: adaptéry pro zvýšení podvozku V-Strom, prodloužení předních vidlic / teleskopů V-Strom, zvětšení světlé výšky V-Strom, zvednutí podvozku V-Strom, V-Strom je enduro..."
 tags: ["Suzuki DL 650 K9"]
 aliases:
   - "/2012/04/zvyseni-podvozku-v-strom.html"

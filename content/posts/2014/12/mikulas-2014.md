@@ -2,6 +2,7 @@
 title: "Mikuláš 2014"
 date: 2014-12-05T10:56:00Z
 url: "/posts/2014/12/mikulas-2014/"
+summary: "zdroj TV Slovácko [ 1 ] fotky [ 2 ] fotky z karnevalu [ 3 ] od Elen Sladké Mikulášský maraton je úspěšně za námi. Mám to snadné, ať jsem kde jsem, tak vždy v roli Mikuláše. Sášenka to měla dalko těžší. Ráno ve školce anděl, odpoledne na karnevalu Sněhurka a večer na náměstí čert. Děkujeme všem zúčastněným, kteří nám pomohli s realizací nejen materiální, ale i personální a nebáli se načernit si obličeje, aby se jich jiní mohli bát."
 tags: ["Šerm", "Tak jde čas"]
 aliases:
   - "/2014/12/mikulas-2014.html"

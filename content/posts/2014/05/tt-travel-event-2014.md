@@ -2,6 +2,7 @@
 title: "TT Travel event 2014"
 date: 2014-05-25T21:40:00Z
 url: "/posts/2014/05/tt-travel-event-2014/"
+summary: "[ oficiální fotogalerie ] Lidé mají v oblibě se sdružovat a obzvláště ti, které spojuje nějaký společný zájem. A když je to zájem o turistiku a cestování, nemusí se scházet v nejbližší knajpě. Takže tentokrát na Slapech. Jo, to cestování a turistiku myšleno jest pochopitelně na motocyklech. Aby to nevypadalo, že jsme parta baťůžkářů, co vyrazila uspokojit své potřeba společným výšlapem. Cestování v jedné stopě, snad místy s případným sidecarem či podpůrným kamionem na dosah. Ať jezdíte po asfaltu, máte rádi šotolinu nebo opravdový offroad, tato akce byla a je tím pravým pro vás. Potkat, pohovořit, družit se a snít. Každý si našel své vyžití. Koho odradila předpověď a zůstal v kempu, mohl volné chvíle trávit na testovacích motocyklech KTM a BMW, vyzkoušet si nějakou elektronickou vychytávku od Interphone nebo ochutnat voňavé AdventureMenu. Kdo chtěl strávit den v sedle mohl vyrazit na..."
 tags: ["Cesty - akce offroad"]
 aliases:
   - "/2014/05/tt-travel-event-2014.html"

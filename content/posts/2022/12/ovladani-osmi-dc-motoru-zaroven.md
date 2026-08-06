@@ -2,6 +2,7 @@
 title: "Ovládání osmi DC motůrků zároveň..."
 date: 2022-12-08T17:26:00.004Z
 url: "/posts/2022/12/ovladani-osmi-dc-motoru-zaroven/"
+summary: "Jak ovládat osm motůrků zároveň Zadání Je připojených 8 stejnosměrných motorů. Pro každý motor chceme mít možnost přehledně nastavit následující sekvenci: čekej pohybuj se nastavenou dobu nastaveným směrem čekej pohybuj se nastavenou dobu nastaveným směrem opakuj sekvenci Potřebujeme nějakou možnost kontroly, aby bylo vidět pro všechny motory najednou, která část sekvence právě běží. K čemu to slouží? Zapnutí Při zapnutí si načte nastavení z vnitřní paměti EEPROM. Všechna nastavení rychlostí, časů, směrů si pamatuje. Po zapnutí přepne na zobrazení průběhů. Pokud minutu nikdo nesáhne na tlačítko, vypne podsvícení displeje. Stisk jakéhokoliv tlačítka displej rozsvítí. Ovládání (šipky) má jen JEDNO ovládací tlačítko a čtyři směrové šipky RST = reset - resetuje celý systém Nastavení - SELECT SELECT dlouhý stisk - vstup do nastavení a každý další stisk SELECT si přepíná motor, který chceme..."
 cover:
     image: "https://lh6.googleusercontent.com/gvr0K3WPxlUSYKFtvGK0w5oNMwrphP0CLd_BLYCL-VbE8bOet5gUX_Zg-xohorggnYPCSolYvcCiSg1yvFTmWFavoMcK0bVOMuIPKfUJLUTjgv7cjM4mQrX2h2QCklL42bW9LmOmc6_B6phle3O098U"
 tags: ["Bastlení"]

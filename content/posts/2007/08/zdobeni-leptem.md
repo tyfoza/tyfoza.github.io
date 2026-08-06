@@ -2,6 +2,7 @@
 title: "Zdobení leptem"
 date: 2007-08-20T21:41:00.002Z
 url: "/posts/2007/08/zdobeni-leptem/"
+summary: "Plán byl jednoduchý, realizace malinko náročnější. Cílem bylo vyzkoušet, jak náročné je leptat, čili zdobit zbroje nebo zbraně leptem. Touhle zábavou jsme strávili celé léto 2007. hotová nákolenka - rostlinný motiv je z fólie, gryf je ruční malba Leptadlo Kyselina sírová akumulátorová, je v každé drogerii. Mícháme s peroxidem vodíku aspoň 30%, lepší je 50%. Obě koncentrace jsou bez problémů dostupné a prodejné. Vždy se namíchá v malém množství kyselina s peroxidem, poměr 1:1 - stačí půl deci kyseliny a půl deci peroxidu. Takové leptadlo je aktivní asi pět minut, leptaný předmět natíráme štětcem s umělými štětinami. Až se směs vyčerpá, namícháme další. Na nic levnějšího jsme nepřišli. Krytí Nejlepší krytí je lak na nehty (hustá acetonová barva). Když je třeba vytvořit krytí podle šablony, není možné lepit fólii z plotru přímo na kov, protože není ideálně rovný, fólie nepřilne a linie je..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCCLEOCLtgdxUdL-ieIB9tRh17GMsbuQ-Fy4vX-rXob51wKoJPaWJWH8H7nknUHsavUqPbm-yfkc7zBkJbQX8Na1ebuBDqORYfrub_b-ZCkO0hK3selLjnRIUoJamCRT03iiQa0LtoO0M/s320/kolena_detail.jpg"
 tags: ["Pokusy a postupy"]
@@ -10,8 +11,8 @@ aliases:
 ---
 
 Plán byl jednoduchý, realizace malinko náročnější. Cílem bylo vyzkoušet, jak náročné je leptat, čili zdobit zbroje nebo zbraně leptem. Touhle zábavou jsme strávili celé léto 2007.<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCCLEOCLtgdxUdL-ieIB9tRh17GMsbuQ-Fy4vX-rXob51wKoJPaWJWH8H7nknUHsavUqPbm-yfkc7zBkJbQX8Na1ebuBDqORYfrub_b-ZCkO0hK3selLjnRIUoJamCRT03iiQa0LtoO0M/s1600/kolena_detail.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCCLEOCLtgdxUdL-ieIB9tRh17GMsbuQ-Fy4vX-rXob51wKoJPaWJWH8H7nknUHsavUqPbm-yfkc7zBkJbQX8Na1ebuBDqORYfrub_b-ZCkO0hK3selLjnRIUoJamCRT03iiQa0LtoO0M/s320/kolena_detail.jpg" width="269" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCCLEOCLtgdxUdL-ieIB9tRh17GMsbuQ-Fy4vX-rXob51wKoJPaWJWH8H7nknUHsavUqPbm-yfkc7zBkJbQX8Na1ebuBDqORYfrub_b-ZCkO0hK3selLjnRIUoJamCRT03iiQa0LtoO0M/s1600/kolena_detail.jpg" "Ilustrace k článku" "269" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">hotová nákolenka - rostlinný motiv je z fólie, gryf je ruční malba</td></tr>
 </tbody></table>
 <i><b>Leptadlo</b></i><br />
@@ -32,8 +33,8 @@ Kvalita leptu závisí nejvíce na přípravě povrchu před nanášením krytí
 <br />
 Povídání tom, jak jsme hledali správný postup, úvahy o koncentracích atd. je sepsáno v textu<br />
 [<a href="https://docs.google.com/leaf?id=0B-IBT7wOoyMAZDA5MDQ1NzQtNWEwMC00YjQyLTk0YTgtMGEyYTQ1NDdmMWFi&amp;hl=cs&amp;authkey=CLqurfgD">Jak se leptala ocel</a>]<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTg6u23gPpj567hyphenhyphenvA4c8IOlR-FHcjGZbp-NK-PdwyXeGWpZjec_HEuHSCFQuVkro1_2nshRJ7IerszJRzjuaCq3qIOJ-4X4YfXqqUA-MzDYENFRrbpbYEK5tQsL07TCtJ7OYdnTEWVTQ/s1600/zzz_tyf_lepta.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTg6u23gPpj567hyphenhyphenvA4c8IOlR-FHcjGZbp-NK-PdwyXeGWpZjec_HEuHSCFQuVkro1_2nshRJ7IerszJRzjuaCq3qIOJ-4X4YfXqqUA-MzDYENFRrbpbYEK5tQsL07TCtJ7OYdnTEWVTQ/s320/zzz_tyf_lepta.jpg" width="240" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTg6u23gPpj567hyphenhyphenvA4c8IOlR-FHcjGZbp-NK-PdwyXeGWpZjec_HEuHSCFQuVkro1_2nshRJ7IerszJRzjuaCq3qIOJ-4X4YfXqqUA-MzDYENFRrbpbYEK5tQsL07TCtJ7OYdnTEWVTQ/s1600/zzz_tyf_lepta.jpg" "Ilustrace k článku" "240" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">celý víkend v akci, pěkně na ulici před domem, sousedi nás milují</td></tr>
 </tbody></table>
 Dalši výsledky naší leptéřské dílny:<br />

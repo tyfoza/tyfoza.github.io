@@ -2,7 +2,8 @@
 title: "Přišli jsme k vám na koledu..."
 date: 2015-12-25T17:10:00Z
 url: "/posts/2015/12/prisli-jsme-k-vam-na-koledu/"
-tags: ["Video", "Tak jde čas"]
+summary: "Veselé Vánoce!"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2015/12/prisli-jsme-k-vam-na-koledu.html"
 ---

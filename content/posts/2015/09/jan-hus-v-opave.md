@@ -2,7 +2,8 @@
 title: "Jan Hus v Opavě..."
 date: 2015-09-04T22:47:00.001Z
 url: "/posts/2015/09/jan-hus-v-opave/"
-tags: ["Šerm.bitva", "Šerm"]
+summary: "[ fotky ] Městské slavnosti v Opavě pořádané Spolkem živá historie[ 1 ]. Byli jsem u toho a bylo to velkolepé. Bitva, program, divadlo, historické tance, dobová módní přehlídka, dětská papírová bitva, lukostřelnice, řemesla a dobé jídlo i pití. Tohle všechno a něco navíc. Třeba velkoplošná filmová projekce, drsný turnaj nebo jemná křídla dravců nad hlavami diváků."
+tags: ["Šerm", "Šerm.bitva"]
 aliases:
   - "/2015/09/jan-hus-v-opave.html"
 ---

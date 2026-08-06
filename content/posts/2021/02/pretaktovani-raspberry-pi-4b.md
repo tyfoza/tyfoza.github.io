@@ -2,6 +2,7 @@
 title: "Přetaktování Raspberry Pi 4B..."
 date: 2021-02-11T06:59:00.022Z
 url: "/posts/2021/02/pretaktovani-raspberry-pi-4b/"
+summary: "Nastavení přetaktování, se kterým moje RPi běží už bezmála rok. Běžná frekvence je 1500MHz, ale počítač bez problémů běží na 2147MHz a změna ve výkonu je opravdu moc poznat. Toto přetaktování má smysl pouze, pokud používáte RPíčko jako desktop, jinde takový výkon asi potřeba nebude. /boot/config.txt [pi4] #moje pretaktovani over_voltage=7 arm_freq=2147 gpu_freq=750 Pozor, je to přetaktování, takže určitě existuje riziko, že může dojít k nějaké nestabilitě. Reálně to na stole opravdu funguje. Ale pokud by to Raspberry Pi mělo běžet někde nepřetržitě jako NAS nebo web server, tak bych byl s taktováním opatrný. Víme, že 1800MHz je bez problémů, protože tak je nastaven Raspbery Pi 400 přímo z výroby. Parametry, které lze v rámci taktová nastavovat viz [ 1 ]. Další informace [ 2 ][ 3 ]. Přetaktování a zahřívání procesoru se snímky z termokamery[ 4 ]."
 tags: ["Počítače.RaspberryPi"]
 aliases:
   - "/2021/02/pretaktovani-raspberry-pi-4b.html"

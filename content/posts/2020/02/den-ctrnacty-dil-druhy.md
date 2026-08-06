@@ -2,6 +2,7 @@
 title: "Den čtrnáctý, díl druhý..."
 date: 2020-02-02T16:54:00.001Z
 url: "/posts/2020/02/den-ctrnacty-dil-druhy/"
+summary: "Fiesta, rodinná oslava Je po čtvrté odpoledne a já se chystám přesunout na rodinnou oslavu. Jsou to první narozeniny vnučky, sešlost v domě rodičů otce malinké Ariane. Jsem tam mezi prvními, abych se správně naladil a seznámil. Tesně před odjezdem jsem zjistil, že oslava je tématická - kočičky. Tak si beru jediné triko, které tady mám, triko s vlkem žijícím v národním parku Picos de Europa na severu Španělska. Mám v plánu lovit a sežrat nějaké kočky. Vítá mě majitel domu, vysmátý strýc s tetováním lezoucím z pod rozepnuté košile a se znakem hippie na krku. Nemít ten znak tu nožičku dole, zapadl by mezi typické mercedesáře na konci omsdesátých let v Česku. Chce mě přivítat štamprlí, ale jak vidí, že jsem přijel na motorce ihned teskní nad tím, že na fiesty se jezdí taxíkem. Začátek je oddělený - ženy zvlášť mají svůj kroužek a muži v zahradním domku pijí a vedou moudré řeči. Začali jsme..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-ctrnacty-dil-druhy.html"

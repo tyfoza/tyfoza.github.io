@@ -2,6 +2,7 @@
 title: "Den pátý, díl druhý..."
 date: 2020-01-23T21:00:00Z
 url: "/posts/2020/01/den-paty-dil-druhy/"
+summary: "Navigace mapy.cz funguje dokonale, cestičky klikaté a je v nich každý ohyb. Ještě k obědu v obci Pucara. Sedělo tam si šest chlapíků a mezi nimi jeden stařík, kůže barvy dobře upražené kávy, klobouk, provaz omotaný šikmo přes hrudník, při odchodu jsem zjistil, že má i mačetu, kterou si odložil pod sebe na lavici když seděl. Když odcházel, ptám se, jak se jmenuje ten meč, který drží. Slovo machette řekl tak, že z něho šel strach, úplný pan Trej v moterkách. Všichni seděli u jednoho dlouhého stolu a měli tam místo a říkali, ať si přisednu. Vykládali jsme skoro půl hodiny, o situaci v Evropě, o jejich prezidentských starostech, o socialismu. V Bolívii jsou zemědělci a nemají průmysl, ptal se jaké fabriky máme u nás a co vyrábíme. Vykládali jsme o chovu prasat, slepic, produkci vajec. Když to shrnu, tak skoro všechno co se tady prodává, je bio domácí produkce bez jakékoli výstupní kontroly...."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-paty-dil-druhy.html"

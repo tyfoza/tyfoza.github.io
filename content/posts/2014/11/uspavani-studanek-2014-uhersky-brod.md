@@ -2,15 +2,16 @@
 title: "Uspávání studánek 2014, Uherský Brod"
 date: 2014-11-06T17:00:00.001Z
 url: "/posts/2014/11/uspavani-studanek-2014-uhersky-brod/"
+summary: "Beru si vodu z nebes; nejdříve tebe osvěžující dešti, který nám dáváš vláhu. Také tebe vodo země, všechny tvé řeky, potoky, moře, kterými nás omýváš. I tebe vodo z hlubin, jež nám dáváš pít. Sestřičky víly, počkejte! Chybí vám voda života, bez které vodu neuspíte. Z člověka pochází, skrze slzy radosti a smutku. Svazuji vás vody v jeden mocný tok, jenž brzy promění se v tichý led. Tak byla svázána veškerá voda světa se slzami člověka a vodě se dostalo pokoje, aby nabrala nové síly k jarnímu životu. [ fotky ] realizační tým: Knihovna Františka Kožíka Uherský Brod[ 1 ] Divadlo Brod[ 2 ] - O víle Jeřabince[ 3 ] Dům kultury Uherský Brod[ 4 ] Mateřská škola Svatopluka Čecha[ 5 ] Šermířský klub Uherský Brod[ 6 ]"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTqnIFd006YB1GPGQCukGu-D6ZMfh13oJ9c3Rm25XKvQnzEYEaZYDu1lPDUJG6rOeIsW_Cm1L4CpnD4JE6Fxb3NwAqKwi_L57JuiSc2lIk5JlLwD3aDX3FU4WGPBhGhni1IsanGyqOQFE/s1600/stud2014.jpg"
-tags: ["Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2014/11/uspavani-studanek-2014-uhersky-brod.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTqnIFd006YB1GPGQCukGu-D6ZMfh13oJ9c3Rm25XKvQnzEYEaZYDu1lPDUJG6rOeIsW_Cm1L4CpnD4JE6Fxb3NwAqKwi_L57JuiSc2lIk5JlLwD3aDX3FU4WGPBhGhni1IsanGyqOQFE/s1600/stud2014.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTqnIFd006YB1GPGQCukGu-D6ZMfh13oJ9c3Rm25XKvQnzEYEaZYDu1lPDUJG6rOeIsW_Cm1L4CpnD4JE6Fxb3NwAqKwi_L57JuiSc2lIk5JlLwD3aDX3FU4WGPBhGhni1IsanGyqOQFE/s1600/stud2014.jpg" width="195" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcJJosVil32zctIPl-D-qZ8c_pH6kZTEa1hN8yXpqbYBMy6ktgi9Sc3les9gfNUBQJkxaNKUnE-DXvXvrclhATrnTjWOgUhecG289c-3YOuFYKWzz5gZmM8P6xQ1VZo3-g6TRXVKgz8qdX/s1600/vily.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="134" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcJJosVil32zctIPl-D-qZ8c_pH6kZTEa1hN8yXpqbYBMy6ktgi9Sc3les9gfNUBQJkxaNKUnE-DXvXvrclhATrnTjWOgUhecG289c-3YOuFYKWzz5gZmM8P6xQ1VZo3-g6TRXVKgz8qdX/s1600/vily.jpg" width="200" /></a></div>
+<img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTqnIFd006YB1GPGQCukGu-D6ZMfh13oJ9c3Rm25XKvQnzEYEaZYDu1lPDUJG6rOeIsW_Cm1L4CpnD4JE6Fxb3NwAqKwi_L57JuiSc2lIk5JlLwD3aDX3FU4WGPBhGhni1IsanGyqOQFE/s1600/stud2014.jpg" width="195" / alt="Ilustrace k článku">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcJJosVil32zctIPl-D-qZ8c_pH6kZTEa1hN8yXpqbYBMy6ktgi9Sc3les9gfNUBQJkxaNKUnE-DXvXvrclhATrnTjWOgUhecG289c-3YOuFYKWzz5gZmM8P6xQ1VZo3-g6TRXVKgz8qdX/s1600/vily.jpg" "Ilustrace k článku" "200" >}}</div>
 <div class="separator" style="clear: both;">
 <i><br /></i></div>
 <div class="separator" style="clear: both;">
@@ -38,7 +39,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: left;">
 [<a href="http://elenkas.rajce.idnes.cz/Uspavani_studanek_2014/" target="_blank">fotky</a>]</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUt0lT6l3G0h9TZosf7WtzYIgp_sgvVEhdBlZ1w_tNu-wHXtSRzI6nRAVOB1C3_-uvk20j06e5AQhyphenhyphenj_NOjh98zryQtpYxO0UMyALBGkkgL9ZtOuwSwdPVmrjY1DZlH94DOW0Joeq_vV6p/s1600/Usp%C3%A1v%C3%A1n%C3%AD+stud%C3%A1nek+2014.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUt0lT6l3G0h9TZosf7WtzYIgp_sgvVEhdBlZ1w_tNu-wHXtSRzI6nRAVOB1C3_-uvk20j06e5AQhyphenhyphenj_NOjh98zryQtpYxO0UMyALBGkkgL9ZtOuwSwdPVmrjY1DZlH94DOW0Joeq_vV6p/s1600/Usp%C3%A1v%C3%A1n%C3%AD+stud%C3%A1nek+2014.jpg" width="283" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUt0lT6l3G0h9TZosf7WtzYIgp_sgvVEhdBlZ1w_tNu-wHXtSRzI6nRAVOB1C3_-uvk20j06e5AQhyphenhyphenj_NOjh98zryQtpYxO0UMyALBGkkgL9ZtOuwSwdPVmrjY1DZlH94DOW0Joeq_vV6p/s1600/Usp%C3%A1v%C3%A1n%C3%AD+stud%C3%A1nek+2014.jpg" "Ilustrace k článku" "283" >}}</div>
 <br />
 realizační tým:<br />
 Knihovna Františka Kožíka Uherský Brod[<a href="http://knihovna.ub.cz/" target="_blank">1</a>]<br />

@@ -2,6 +2,7 @@
 title: "Všechno nej seržantovi Olafovi..."
 date: 2019-06-08T07:52:00.001Z
 url: "/posts/2019/06/vsechno-nej-serzantovi-olafovi/"
+summary: "[ fotky ] hlavně modelů železnic v obci Pečky"
 tags: ["Šerm", "Šerm.ACW"]
 aliases:
   - "/2019/06/vsechno-nej-serzantovi-olafovi.html"

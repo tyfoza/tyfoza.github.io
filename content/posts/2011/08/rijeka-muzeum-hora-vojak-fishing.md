@@ -2,6 +2,7 @@
 title: "Rijeka muzeum, hora Vojak a fishing"
 date: 2011-08-16T17:42:00.005Z
 url: "/posts/2011/08/rijeka-muzeum-hora-vojak-fishing/"
+summary: "Hned ráno, kolem desáté, jsme se s Karlosem a Ábi přesunuli do Rijeky. Pomocný historik a saxofonistka šli honit módu a já zatím našel motoshop, kde jsem pořídil olej pro Stroma a dolil přesně sedm deci. Spotřeba deci a kousek oleje na tisíc kilometrů na cetách, které jezdíme, je naprostá pohoda. Zašel jsem navštívil místní muzeum Primorsky - národní - obrovské sály a v nich nějaký nábytek a občas nějaký obraz, expozice zbraní chudá a mladá, spousta modelů lodí. Jiné to bylo v městském muzeu Riječka, kde mají výstavu torpéd. Pěkné to mají převelice a expozice torpéd byla tak skvěle nainstalovaná, že z ní šel strach. Z Rijeky pokračujeme dobýt horu Vojak, kam včera severní cestou vylezl Kuba a Chip. Byli nahoře, hrdí na to, že zdolali převýšení a nahoře potkali nějaké mladé slečny v plážových žabkách, jak se tam fotí. A jak se tam dostali? Vede tam cesta, podle turistické mapy asfaltová..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9PUmOrSkgCpW4SQLWEk4ZdUb_7elXHz01LxwuY6B8mrrhHW9lVCl7_uy5mPkbGmbTLFVKfRPpIqTW58VDK9-5xulQxI7FYvAAHCpFEZgRUZjYHIJiraD4KZaqQ5NBPXZk7Wn0oHfkXyg/s320/16082011760-703267.jpg"
 tags: ["Cesty - 2011 Jadran", "Video"]
@@ -10,9 +11,9 @@ aliases:
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9PUmOrSkgCpW4SQLWEk4ZdUb_7elXHz01LxwuY6B8mrrhHW9lVCl7_uy5mPkbGmbTLFVKfRPpIqTW58VDK9-5xulQxI7FYvAAHCpFEZgRUZjYHIJiraD4KZaqQ5NBPXZk7Wn0oHfkXyg/s1600/16082011760-703267.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5641510857799296722" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9PUmOrSkgCpW4SQLWEk4ZdUb_7elXHz01LxwuY6B8mrrhHW9lVCl7_uy5mPkbGmbTLFVKfRPpIqTW58VDK9-5xulQxI7FYvAAHCpFEZgRUZjYHIJiraD4KZaqQ5NBPXZk7Wn0oHfkXyg/s320/16082011760-703267.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9PUmOrSkgCpW4SQLWEk4ZdUb_7elXHz01LxwuY6B8mrrhHW9lVCl7_uy5mPkbGmbTLFVKfRPpIqTW58VDK9-5xulQxI7FYvAAHCpFEZgRUZjYHIJiraD4KZaqQ5NBPXZk7Wn0oHfkXyg/s1600/16082011760-703267.jpg" "Ilustrace k článku" >}}</div>
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxlwCg6kPLmuiovao5VLbJIzE15tMAzCLkxP5orjQfOV4tgqGoOYcQw6A8PAFD4KqSHvj5TrXS-ITkYckds_toZ251SWEgNKDezWA3gtJbDr0ETvvQiXFRnmDCpATqr0wZYz_T15K4l9c/s1600/16082011751-704931.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5641510864574482994" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxlwCg6kPLmuiovao5VLbJIzE15tMAzCLkxP5orjQfOV4tgqGoOYcQw6A8PAFD4KqSHvj5TrXS-ITkYckds_toZ251SWEgNKDezWA3gtJbDr0ETvvQiXFRnmDCpATqr0wZYz_T15K4l9c/s320/16082011751-704931.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxlwCg6kPLmuiovao5VLbJIzE15tMAzCLkxP5orjQfOV4tgqGoOYcQw6A8PAFD4KqSHvj5TrXS-ITkYckds_toZ251SWEgNKDezWA3gtJbDr0ETvvQiXFRnmDCpATqr0wZYz_T15K4l9c/s1600/16082011751-704931.jpg" "Ilustrace k článku" >}}</div>
 Hned ráno, kolem desáté, jsme se s Karlosem a Ábi přesunuli do Rijeky. Pomocný historik a saxofonistka šli honit módu a já zatím našel motoshop, kde jsem pořídil olej pro Stroma a dolil přesně sedm deci. Spotřeba deci a kousek oleje na tisíc kilometrů na cetách, které jezdíme, je naprostá pohoda.<br />
 Zašel jsem navštívil místní muzeum Primorsky - národní - obrovské sály a v nich nějaký nábytek a občas nějaký obraz, expozice zbraní chudá a mladá, spousta modelů lodí. Jiné to bylo v městském muzeu Riječka, kde mají výstavu torpéd. Pěkné to mají převelice a expozice torpéd byla tak skvěle nainstalovaná, že z ní šel strach.<br />
 <div class="separator" style="clear: both; text-align: center;">

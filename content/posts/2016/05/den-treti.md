@@ -2,6 +2,7 @@
 title: "Den třetí..."
 date: 2016-05-04T20:58:00Z
 url: "/posts/2016/05/den-treti/"
+summary: "Nějaké dalši fotky jsou na Instagramu. Tady nahoře je odkaz nebo http://instagram.com/tyfoza Ráno se probouzíme sluníčkem až v devět ráno. Ač věžní hodiny bijí půl, čtvrt i tři čtvrtě i počet hodin v celou, neprobudilo nás nic. Inu, vstávat v devět. Ale po 1100km jsme ulehli před třetí hodinou ranní, takže zas tááákový odpočinek to nebyl. V noci 5 stupňů, ráno 20. Výborně. Místní psi jak pastevečtí, tak náhodní pouliční jali se nám přeznačkovat přední kolo na motorce. Opakovaně. A ještě. San Sebastián de Garabandal. Malá horská vesnička, malý kostelík. Na oltáři Svatý Šebestián a pod ním pelikán rvoucí si maso z prsou, aby mohl nakmit své tři mladé. Takto ho znám jako znak Louisiany. A mám ho i na opaskové sponě. Co dělá tady jsem nezjistil. V místní Hostérii, na jejíž terase jsme se uvelebili, zabydlelo se ono grupo de Americanos. Vyklubal se z toho zájezd amerických japonců mluvících..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZBEWwjhDOXQgJiOTayIh_P9ZqS9vOiUbY2fcovJfzxkuNRsqgH06sFGX2bIBLkkreBL9sz7oeg2qFeYwDNOQaB8VBFN-Tus-QXf9oJMsYJp6lCJvF87LhE_47COoSkMTf56JyDnYIjKna/s320/WP_20160504_051-740466.jpg"
 tags: ["Cesty - 2016 Španělsko"]
@@ -10,9 +11,9 @@ aliases:
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZBEWwjhDOXQgJiOTayIh_P9ZqS9vOiUbY2fcovJfzxkuNRsqgH06sFGX2bIBLkkreBL9sz7oeg2qFeYwDNOQaB8VBFN-Tus-QXf9oJMsYJp6lCJvF87LhE_47COoSkMTf56JyDnYIjKna/s1600/WP_20160504_051-740466.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6280941025074034194" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZBEWwjhDOXQgJiOTayIh_P9ZqS9vOiUbY2fcovJfzxkuNRsqgH06sFGX2bIBLkkreBL9sz7oeg2qFeYwDNOQaB8VBFN-Tus-QXf9oJMsYJp6lCJvF87LhE_47COoSkMTf56JyDnYIjKna/s320/WP_20160504_051-740466.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZBEWwjhDOXQgJiOTayIh_P9ZqS9vOiUbY2fcovJfzxkuNRsqgH06sFGX2bIBLkkreBL9sz7oeg2qFeYwDNOQaB8VBFN-Tus-QXf9oJMsYJp6lCJvF87LhE_47COoSkMTf56JyDnYIjKna/s1600/WP_20160504_051-740466.jpg" "Ilustrace k článku" >}}</div>
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqpMi2kMcT9OzWJfNNlWKIur9Ap-kUwFIPmeEnA-Q3VehAC34iAogZUnLp2rniF5bMtnbIVc3NTsjv2xaQAlmtyRAWlfVftgA_vF6X4KPjOFoxEi1VCaCujrtNGiGkeUZwRu_T_bsLPffk/s1600/WP_20160504_064-741770.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6280941029990901106" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqpMi2kMcT9OzWJfNNlWKIur9Ap-kUwFIPmeEnA-Q3VehAC34iAogZUnLp2rniF5bMtnbIVc3NTsjv2xaQAlmtyRAWlfVftgA_vF6X4KPjOFoxEi1VCaCujrtNGiGkeUZwRu_T_bsLPffk/s320/WP_20160504_064-741770.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqpMi2kMcT9OzWJfNNlWKIur9Ap-kUwFIPmeEnA-Q3VehAC34iAogZUnLp2rniF5bMtnbIVc3NTsjv2xaQAlmtyRAWlfVftgA_vF6X4KPjOFoxEi1VCaCujrtNGiGkeUZwRu_T_bsLPffk/s1600/WP_20160504_064-741770.jpg" "Ilustrace k článku" >}}</div>
 <div>
 <div style="font-family: Calibri,sans-serif; font-size: 11pt;">
 Nějaké dalši fotky jsou na Instagramu. Tady nahoře je odkaz nebo http://instagram.com/tyfoza<br />

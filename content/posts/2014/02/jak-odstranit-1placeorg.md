@@ -2,6 +2,7 @@
 title: "Jak odstranit 1place.org"
 date: 2014-02-21T10:19:00.003Z
 url: "/posts/2014/02/jak-odstranit-1placeorg/"
+summary: "Otravný program, který instaluje službu proxy serveru, přes něj přidává reklamy a otevírá vyskakovací okna. Ke dni 21.2.2014 není detekován žádným adware/spyware/care/combofix programem ani antiviry jako norton, avast, comodo, mcafee, eset (víc jsem jich nezkoušel). On to vlastně není ani virus nebo malware. Tento typ programu bude spíše nějaký harassware. Projevy - při hledání v googlu zobrazuje nejprve odkazy na 1place.org - přidává reklamy tam, kde nemají být na hlavní stránce www.google.com nebo pod články cs.wikipedia.org - reklamní proužek se sdělením „You need to update your version of media player“ - těsně po zapnutí počítače hlásí prohlížeč, že nemůže najít proxy server Kterak se této havěti snadno zbaviti 1) Jaký port používá nechtěná proxy? Ovládácí panel - Síť a Internet - Možnosti Internetu - Připojení - dole Nastavení místní sítě. Tam bude nastavený proxy server např...."
 tags: ["Počítače"]
 aliases:
   - "/2014/02/jak-odstranit-1placeorg.html"

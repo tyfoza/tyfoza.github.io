@@ -2,6 +2,7 @@
 title: "Nabíječka LiOn a všech dalších akumulátorů..."
 date: 2016-12-05T00:18:00Z
 url: "/posts/2016/12/nabijecka-lion-vsech-dalsich-akumulatoru/"
+summary: "[ návod ] k použití Dodal MotoTrávníček [ 1 ] za velmi rozumné peníze. Tím myslím asi 1/3 nákladů, co běžně stojí nabíječky určené pouze pro LiOn akumulátory. A tohle zařízení zvládně nabít až 120Ah LiOn a všechny další typy baterií včetně 6V nebo AGM. Znáte rozdíl mezi bateriemi AGM, GEL, EFB? Začněme u toho, co mají technologie společného. Jedná o tzv VRLA akumulátor (valve-regulated lead–acid battery), tedy ventilem řízené baterie. Ventil zároveň slouží jako přetlaková pojistka, pokud se uvnitř baterie nahromadí nadlimitní množství plynu. Nehrozí únik elektrolytu, technologie jsou odolné proti otřesům. Akumulátory na těchto technologiích jsou bezúdržbové. Snadno je poznáte tak, že nemají klasické šroubovací ventily pro dolévání. Pracují na principu kyslíkové rekombinace, je tak minimalizován únik plynů z baterie. Baterie jsou výkonnější při menší velikosti a váze. Technologie AGM..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xjl4lMbv1pzOQ33x0_qw-jP0uDJuKMkA6VYJxZfji-jJknFs8hYVe2quf-sPkuUek-hxVrkXZtPFT-luFkEbF0Ecbo4rqXmoE5yw5uLHtRiT56Anri4GJnkMJNLH0o2W3SkWcLleZ_fY/s640/nabijecka.jpg"
 tags: ["Suzuki DL 650 K9"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xjl4lMbv1pzOQ33x0_qw-jP0uDJuKMkA6VYJxZfji-jJknFs8hYVe2quf-sPkuUek-hxVrkXZtPFT-luFkEbF0Ecbo4rqXmoE5yw5uLHtRiT56Anri4GJnkMJNLH0o2W3SkWcLleZ_fY/s1600/nabijecka.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="428" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xjl4lMbv1pzOQ33x0_qw-jP0uDJuKMkA6VYJxZfji-jJknFs8hYVe2quf-sPkuUek-hxVrkXZtPFT-luFkEbF0Ecbo4rqXmoE5yw5uLHtRiT56Anri4GJnkMJNLH0o2W3SkWcLleZ_fY/s640/nabijecka.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xjl4lMbv1pzOQ33x0_qw-jP0uDJuKMkA6VYJxZfji-jJknFs8hYVe2quf-sPkuUek-hxVrkXZtPFT-luFkEbF0Ecbo4rqXmoE5yw5uLHtRiT56Anri4GJnkMJNLH0o2W3SkWcLleZ_fY/s1600/nabijecka.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://drive.google.com/file/d/0B-IBT7wOoyMARFNPVVpVa1hidXM/view?usp=sharing" target="_blank">návod</a>] k použití<br />
 <div style="text-align: justify;">
 Dodal MotoTrávníček [<a href="http://www.mototravnicek.cz/" target="_blank">1</a>] za velmi rozumné peníze. Tím myslím asi 1/3 nákladů, co běžně stojí nabíječky určené pouze pro LiOn akumulátory. A tohle zařízení zvládně nabít až 120Ah LiOn a všechny další typy baterií včetně 6V nebo AGM.</div>

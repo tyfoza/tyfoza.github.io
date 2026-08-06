@@ -1,7 +1,8 @@
 baseURL = 'https://tyfoza.github.io/'
-locale = 'cs'
+defaultContentLanguage = 'cs'
 title = 'Tyfoza blog'
 theme = 'PaperMod'
+summaryLength = 250
 
 [params]
   defaultTheme = "auto"       # Automaticky se přepne na tmavý podle systému čtenáře
@@ -49,6 +50,11 @@ theme = 'PaperMod'
 name = "Další témata"
 url = "/tags/"
 weight = 49
+
+[[menu.main]]
+  name = "Napsat Tyfovi"
+  url = "/kontakt/"
+  weight = 60
 
 [[menu.main]]
 name = "Hledat"

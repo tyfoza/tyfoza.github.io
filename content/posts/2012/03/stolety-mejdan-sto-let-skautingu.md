@@ -2,7 +2,8 @@
 title: "Stoletý mejdan, Dům kultury Uherský Brod"
 date: 2012-03-17T14:30:00.010Z
 url: "/posts/2012/03/stolety-mejdan-sto-let-skautingu/"
-tags: ["Video", "Tak jde čas"]
+summary: "Skautská besídka ke stému výročí skautingu se opravdu vyvedla, bylo to příjemné a veselé. Kdo skautem není, ten by se jím po shlédnutí estrády chtěl stát. [ fotky ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/03/stolety-mejdan-sto-let-skautingu.html"
 ---

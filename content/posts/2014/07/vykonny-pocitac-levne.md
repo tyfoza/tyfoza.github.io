@@ -2,6 +2,7 @@
 title: "Výkonný počítač a levně?"
 date: 2014-07-21T13:09:00Z
 url: "/posts/2014/07/vykonny-pocitac-levne/"
+summary: "Nejprve obecně. Myslíte, že se dá postavit výkonný počítač levně? Chcete si vybrat notebook a není vám jasné v čem se liší? Tak to zkusme rozlousknout. Je to výrazně jednodušší, než se na první pohled může zdát. Předpokládejme, že každý uvažuje racionálně a snaží se postavit slušný počítač za rozumné peníze, případně vybrat notebook s nejlepším poměrem cena/výkon. Stolní počítač i notebook dnes vlastně jedno jsou. Nezáleží na tom, zda chcete stolní počítač nebo notebook. Jak dlouho vám počítač vydrží záleží na tom, jak moc a jak často se bude přehřívat. Stolnímu počítači i notebooku je dobré jednou za rok vyčistit ventilátor a žebrování chladiče, případně vyměnit teplovodivou pastu[ 1 ] pod chladičem. Ve větším notebooku je uvnitř více místa a tak se všechno lépe chladí. Větší notebook s sebou nebudete tahat všude a tím snížíte pravděpodobnost, že ho někde upustíte a rozbijete. Jsou..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrFtBOdyJDoeSWNzDD4AH-LJOgDzsLPefSNrkNc_cHHhZqDbFiIS1o1NBiKQqQItJuYQ6QKNPkyc989r7gY8rUeaWA9c2oGXxsvrdpYu8tAzm8wGne9ZMCD_2FyT9mfEsGKaVkfOaHFhv/s1600/vykon+jadra+cena.png"
 tags: ["Počítače"]
@@ -120,4 +121,4 @@ To, co poznáme na myši, odezvu, rychlost počítače dělá rychlost pevného 
 Výkon procesoru je pěkná věc, ale ne vždy se celý výkon dá využít. Ne všechny úkoly/programy, které procesoru zadáme vytíží všechna jeho jádra, proto se v testech uvádí výkon jednoho jádra a my můžeme srovnávat téměř nesrovnatelné.</div>
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrFtBOdyJDoeSWNzDD4AH-LJOgDzsLPefSNrkNc_cHHhZqDbFiIS1o1NBiKQqQItJuYQ6QKNPkyc989r7gY8rUeaWA9c2oGXxsvrdpYu8tAzm8wGne9ZMCD_2FyT9mfEsGKaVkfOaHFhv/s1600/vykon+jadra+cena.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrFtBOdyJDoeSWNzDD4AH-LJOgDzsLPefSNrkNc_cHHhZqDbFiIS1o1NBiKQqQItJuYQ6QKNPkyc989r7gY8rUeaWA9c2oGXxsvrdpYu8tAzm8wGne9ZMCD_2FyT9mfEsGKaVkfOaHFhv/s1600/vykon+jadra+cena.png" height="372" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrFtBOdyJDoeSWNzDD4AH-LJOgDzsLPefSNrkNc_cHHhZqDbFiIS1o1NBiKQqQItJuYQ6QKNPkyc989r7gY8rUeaWA9c2oGXxsvrdpYu8tAzm8wGne9ZMCD_2FyT9mfEsGKaVkfOaHFhv/s1600/vykon+jadra+cena.png" "Ilustrace k článku" "640" >}}</div>

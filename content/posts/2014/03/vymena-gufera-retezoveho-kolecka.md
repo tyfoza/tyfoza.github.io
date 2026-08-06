@@ -2,6 +2,7 @@
 title: "Výměna gufera řetězového kolečka"
 date: 2014-03-01T11:50:00Z
 url: "/posts/2014/03/vymena-gufera-retezoveho-kolecka/"
+summary: "[ fotky ] Gufero 09283-36003 úspěšně vyměněno. Zároveň s ním se mění i vnitřní O-kroužek 09280-24010 . Podrobný návod [ 1 ]. K sehnání byl pouze originál Suzuki na Partsdepot.cz[ 2 ]. z komentářů Len by som chcel upresnit ze nieje len original - pomerne bezne sa da zohnat gufero GP 36x50x7 - je sice o 1mm sirsie - ale to nicomu nevadi kedze miesta je za nim dost. Daval som zan 1,2 EUR. přidáno 3.4.2016 (na tachometru 100tis. km) gufero vydrželo 2 roky - další výměna gufera řetězového kolečka - gufero 36×50×7 z komentářů - o-kroužek originál, je to rozměr 2,4× 23,7 a takový jsem nikde v alternativě nenašel další výměna gufera 13.4.2016"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_VWdtQ7XE1SvYEq2pqBY2TiUJUg1WUU8xMp9HMQyxRLYrMbTMwyHOXw7ZEKZ_sRzBbq5l-EM-6ID1ndLg_itiMC8bSUy8wH2UJH0qhWerULgG3Ss9Pw6A0OsWzAUbnQmwxkt7XNKnd-K/s1600/WP_20140301_006.jpg"
 tags: ["Suzuki DL 650 K9"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_VWdtQ7XE1SvYEq2pqBY2TiUJUg1WUU8xMp9HMQyxRLYrMbTMwyHOXw7ZEKZ_sRzBbq5l-EM-6ID1ndLg_itiMC8bSUy8wH2UJH0qhWerULgG3Ss9Pw6A0OsWzAUbnQmwxkt7XNKnd-K/s1600/WP_20140301_006.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_VWdtQ7XE1SvYEq2pqBY2TiUJUg1WUU8xMp9HMQyxRLYrMbTMwyHOXw7ZEKZ_sRzBbq5l-EM-6ID1ndLg_itiMC8bSUy8wH2UJH0qhWerULgG3Ss9Pw6A0OsWzAUbnQmwxkt7XNKnd-K/s1600/WP_20140301_006.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_VWdtQ7XE1SvYEq2pqBY2TiUJUg1WUU8xMp9HMQyxRLYrMbTMwyHOXw7ZEKZ_sRzBbq5l-EM-6ID1ndLg_itiMC8bSUy8wH2UJH0qhWerULgG3Ss9Pw6A0OsWzAUbnQmwxkt7XNKnd-K/s1600/WP_20140301_006.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
 Gufero <span style="font-size: xx-small;">09283-36003</span> úspěšně vyměněno. Zároveň s ním se mění i vnitřní O-kroužek <span style="font-size: xx-small;">09280-24010</span>.<br />
 Podrobný návod [<a href="http://blacklabadventures.com/2012/07/22/replacing-a-clutch-pushrod-seal-and-countershaft-seal/" target="_blank">1</a>].<br />

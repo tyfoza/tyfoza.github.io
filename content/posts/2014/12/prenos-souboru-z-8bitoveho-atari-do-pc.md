@@ -2,9 +2,10 @@
 title: "Přenos souborů z 8bitového Atari do PC"
 date: 2014-12-14T22:00:00.002Z
 url: "/posts/2014/12/prenos-souboru-z-8bitoveho-atari-do-pc/"
+summary: "XRZDISK komplet ke stažení viz. [ 0 ] Nezbytnost nezbytná. Aneb jak po pětadvaceti letech konečně zazálohovat staré programy, zdrojové kódy a texty uložené na 5.25\" disketách[ 1 ]. Je třeba je přenést z osmibitového Atari do PC, ať mám čím krmit emulátor. A třeba opět nahlédnout to tajů Turbo Basicu[ 2 ], Kyan Pascalu[ 3 ], Actionu[ 4 ] a Atmasu[ 5 ]. Prográmek pro přenos se jmenuje XRZ na počest slavné románové kódové tabulky[ 6 ]. XRZ 4B ATARI -> PC CABLE [ CANON 25 MALE ] [ CANON 9 FEMALE ] JOYPORT 0 2 .................... 6 trigger 0 $378, bit 0 13 .................... 1 output bit 0 12 .................... 2 output bit 1 10 .................... 3 output bit 3 11 .................... 4 output bit 4 25 .................... 8 GND [ CANON 9 FEMALE ] JOYPORT 1 15 .................... 1 output bit 5 $379, all output bits Paralelní port PC, z Atari jsou použity 4 bity joy portu 0 a 1. bit..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvF5BWvMIQcIKm3aMrk-nOYoBkTQiqmnjkuba5OiBknFcHrTmuAeZNbRPyKF3QkuC8hVKxhS1GbA15h8QYirvCHtPeK4AORnuq8hVYrLQhzPNvCz0ZYWI3UAyJrfDkELA8Q9rTLPumb_m/s1600/xrzrychlost.png"
-tags: ["Počítače", "Počítače.8bit"]
+tags: ["Počítače.8bit", "Počítače"]
 aliases:
   - "/2014/12/prenos-souboru-z-8bitoveho-atari-do-pc.html"
 ---
@@ -52,8 +53,8 @@ První chybná domněnka byla, že rychlost přenosu je limitovaná více rychlo
 <a href="https://docs.google.com/document/d/1vj6myLQH1gEN6NfHn5_Il12XTxg2c_mCBHUEjx7IQQw/edit?usp=sharing" target="_blank">XRZ4BO.PAS</a>[<a href="https://docs.google.com/document/d/1vj6myLQH1gEN6NfHn5_Il12XTxg2c_mCBHUEjx7IQQw/edit?usp=sharing" target="_blank">14</a>] odesílání jednoho souboru, čte po bajtu v Kyan Pascalu.<br />
 <br />
 A jak celý přenos urychlit? Turbo Basic XL má svůj kompiler a výsledný program je výrazně rychlejší a celý přenos taktéž. Program spouštěný přímo z interpretu Turbo Basicu – rychlost přenosu 40zn/sec. Kompilovaný TBasic 110zn/sec.<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvF5BWvMIQcIKm3aMrk-nOYoBkTQiqmnjkuba5OiBknFcHrTmuAeZNbRPyKF3QkuC8hVKxhS1GbA15h8QYirvCHtPeK4AORnuq8hVYrLQhzPNvCz0ZYWI3UAyJrfDkELA8Q9rTLPumb_m/s1600/xrzrychlost.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvF5BWvMIQcIKm3aMrk-nOYoBkTQiqmnjkuba5OiBknFcHrTmuAeZNbRPyKF3QkuC8hVKxhS1GbA15h8QYirvCHtPeK4AORnuq8hVYrLQhzPNvCz0ZYWI3UAyJrfDkELA8Q9rTLPumb_m/s1600/xrzrychlost.png" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvF5BWvMIQcIKm3aMrk-nOYoBkTQiqmnjkuba5OiBknFcHrTmuAeZNbRPyKF3QkuC8hVKxhS1GbA15h8QYirvCHtPeK4AORnuq8hVYrLQhzPNvCz0ZYWI3UAyJrfDkELA8Q9rTLPumb_m/s1600/xrzrychlost.png" "Ilustrace k článku" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">kompilovaný Turbo Basic XL se zapnutým zobrazováním</td></tr>
 </tbody></table>
 <i><b>S vypnutým zobrazením dosahuje rychlost přenosu 160zn/s, heč! (POKE 559,0)</b></i><br />

@@ -2,6 +2,7 @@
 title: "BMW F 800 GS...."
 date: 2019-06-25T12:33:00.001Z
 url: "/posts/2019/06/bmw-f-800-gs/"
+summary: "Krátce: Na silnici je to snová motorka. Pro dva pro cestování na asfaltu je to snová motorka. Po Španělsku jsme najeli lehce přes 3000km s motorkou BMW F 800 GS, měla najeto asi 50tis. km. Krom toho, že bych uvítal vyšší čelní štítek, můžu říct, že je to pohodlná motorka. Přepínání režimu cesta | déšť | offroad má smysl a je poznat na průběhu výkonu. Mělo to i zbytečnost jako elektronicky nastavitelné tlumení. Má to palubní počítač, kde je teplota i všechny druhy spotřeby. Dálniční spotřeba plně naložené motorky, ve dvou byla při 120kmh byla 5.8litru na 100km. Celkově jsme jeli a průměrnou spotřeboj 5.3l/100km. Ač budíky mají dvě nulovatelná počitadla, tak mě fakt zklamalo, že jsou jedom třímístná. Není k tomu žádný důvod a tak se nám počitadlo TRIP2 během cesty třikrát vynulovalo. Ještě, že to nezpůsobilo desbordamiento, tedy overflow error. Dálnice, úzké klikaté horské cestičky i sto..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSyuWpOz9b3uoq4h7FkB1uNkutPzqOcDjnFebLpFn9WwuQVZdLFAtaAZrDy1ObtVX-AiFcaQD11VmS5ew9ZTBwk058S-H-iDv-8VTF0eqHMmy-ArOZLoZrdpR3jtSHh_BMYOOcFcyi7Y9g/s640/20190615_141619_resized.jpg"
 tags: ["Jiné moto"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSyuWpOz9b3uoq4h7FkB1uNkutPzqOcDjnFebLpFn9WwuQVZdLFAtaAZrDy1ObtVX-AiFcaQD11VmS5ew9ZTBwk058S-H-iDv-8VTF0eqHMmy-ArOZLoZrdpR3jtSHh_BMYOOcFcyi7Y9g/s1600/20190615_141619_resized.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSyuWpOz9b3uoq4h7FkB1uNkutPzqOcDjnFebLpFn9WwuQVZdLFAtaAZrDy1ObtVX-AiFcaQD11VmS5ew9ZTBwk058S-H-iDv-8VTF0eqHMmy-ArOZLoZrdpR3jtSHh_BMYOOcFcyi7Y9g/s640/20190615_141619_resized.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSyuWpOz9b3uoq4h7FkB1uNkutPzqOcDjnFebLpFn9WwuQVZdLFAtaAZrDy1ObtVX-AiFcaQD11VmS5ew9ZTBwk058S-H-iDv-8VTF0eqHMmy-ArOZLoZrdpR3jtSHh_BMYOOcFcyi7Y9g/s1600/20190615_141619_resized.jpg" "Ilustrace k článku" "640" >}}</div>
 <div dir="ltr">
 &nbsp; &nbsp; &nbsp;Krátce:&nbsp; Na silnici je to snová motorka. Pro dva pro cestování na asfaltu je to snová motorka.</div>
 <div dir="ltr">

@@ -2,6 +2,7 @@
 title: "ACW Košice..."
 date: 2019-08-17T21:08:00.001Z
 url: "/posts/2019/08/acw-kosice/"
+summary: "[ fotky ] naše z mobilu [ fotky ] Pavel Košík [ fotky ] Gelo Mediální odezva viz Košice:Dnes [ novinový článek ]."
 tags: ["Šerm", "Šerm.ACW"]
 aliases:
   - "/2019/08/acw-kosice.html"

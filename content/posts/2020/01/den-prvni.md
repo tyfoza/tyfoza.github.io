@@ -2,6 +2,7 @@
 title: "Den první..."
 date: 2020-01-19T20:23:00Z
 url: "/posts/2020/01/den-prvni/"
+summary: "Den první. Praha, letiště Ruzyně Už při průchodu kontrolním rámem na letišti jsem pořád pípal. Tentokrát mě nesvlékali, ale pořádně prošacovali a objeli ručním detektorem. Baťůžek na pásu neprošel kontrolou, protože v něm byla vidět na rentgenu, či co za kouzlo to je, velká neprůhledná černá podezřelá věc. Byla to v alobalu zabalená oblíbená rolka z grilu. Jen pět nebo šest vajec a 200g vysokotučného sýra. Co si ostraha přičichla, pochopili a vrátili mně baťůžek. Hlásili se ke mně nějaké dvě holky španělské, že jedna z nich má taky motorku a kam že se chystám teď v zimě. Holka se pochválila jakou má motorku ona, ale musela mně to říct třikrát, než jsem pochopil, jak vyslovuje slovo \"scrambler\". Při startu jsem tentokrát nezapomněl zapnout rychloměr a naměřil jsem 86m/s (309,5km/h), když se letadlo odlepilo od země. Příště zkusím změřit i zrychlení 0-300km/h. Sedím u okénka a vedla..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-prvni.html"

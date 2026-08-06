@@ -2,7 +2,8 @@
 title: "Cena města Uherský Brod 2011"
 date: 2011-10-27T13:00:00.006Z
 url: "/posts/2011/10/cena-mesta-uhersky-brod-2011/"
-tags: ["Video", "Tak jde čas"]
+summary: "Uherskobrodský patriot Josef Koller obdržel Cenu města Uherský Brod."
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2011/10/cena-mesta-uhersky-brod-2011.html"
 ---

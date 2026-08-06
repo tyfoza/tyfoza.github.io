@@ -2,6 +2,7 @@
 title: "Externí disk s daty hlásí, že musí být naformátován"
 date: 2014-12-22T16:03:00Z
 url: "/posts/2014/12/externi-disk-s-daty-hlasi-ze-musi-byt-23/"
+summary: "Stalo se vám někdy, že vám externí disk s vašimi daty po připojení napsal: Disk v jednotce X: musí být před použitím naformátováno. Chcete provést formátování? Tato hláška vyděsí a nepotěší. Příčin může být mnoho a předpokládejme, že vyděšený uživatel zkusil běžné pokusy jako: – připojit externí disk k jinému počítači – vyměnit kabel – vyjmout disk z externího boxu a připojit ho přímo k počítači, abychom ověřili, že není vadná elektronika externího boxu A že všechny pokusy selhaly? Co dál? Zkusme připojit disk k počítači, na kterém běží nějaké linuxová distribuce – Ubuntu, Suse, cokoli. Systém nám disk automaticky nerozpozná a nepřipojí. Zjistíme pod jakým názvem zařízení se disk do systému připojuje, pak spustíme opravu a uvidíme. Pravděpodobnost úspěchu je vysoká v případě, že disk není příliš fyzicky poškozen. Záleží na tom, jak moc disk podivně chrochtá a rachtá při pokusech o..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGd-eWYUxS_QinseOdKLQ5eHceUqlQ3eEQY_kLUME2-QKXi85ggRjd9WxqCzlaEdTv8GHYlvQMmyJf4brlsfHTVVTFcPD8-5u1Lxe9Wtw1MWGnshuol84eDEcRDZBkuXCv0WOWAYX4iZ9Q/s1600/format.jpg"
 tags: ["Počítače"]
@@ -12,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: justify;">
 Stalo se vám někdy, že vám externí disk s vašimi daty po připojení napsal: Disk v jednotce X: musí být před použitím naformátováno. Chcete provést formátování?</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGd-eWYUxS_QinseOdKLQ5eHceUqlQ3eEQY_kLUME2-QKXi85ggRjd9WxqCzlaEdTv8GHYlvQMmyJf4brlsfHTVVTFcPD8-5u1Lxe9Wtw1MWGnshuol84eDEcRDZBkuXCv0WOWAYX4iZ9Q/s1600/format.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGd-eWYUxS_QinseOdKLQ5eHceUqlQ3eEQY_kLUME2-QKXi85ggRjd9WxqCzlaEdTv8GHYlvQMmyJf4brlsfHTVVTFcPD8-5u1Lxe9Wtw1MWGnshuol84eDEcRDZBkuXCv0WOWAYX4iZ9Q/s1600/format.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGd-eWYUxS_QinseOdKLQ5eHceUqlQ3eEQY_kLUME2-QKXi85ggRjd9WxqCzlaEdTv8GHYlvQMmyJf4brlsfHTVVTFcPD8-5u1Lxe9Wtw1MWGnshuol84eDEcRDZBkuXCv0WOWAYX4iZ9Q/s1600/format.jpg" "Ilustrace k článku" >}}</div>
 <div class="" style="clear: both; text-align: justify;">
 Tato hláška vyděsí a nepotěší. Příčin může být mnoho a předpokládejme, že vyděšený uživatel zkusil běžné pokusy jako:</div>
 <div class="" style="clear: both; text-align: justify;">

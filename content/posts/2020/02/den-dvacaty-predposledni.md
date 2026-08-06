@@ -2,6 +2,7 @@
 title: "Den dvacátý, předposlední..."
 date: 2020-02-07T01:09:00Z
 url: "/posts/2020/02/den-dvacaty-predposledni/"
+summary: "Sucre -> Santa Cruz Do cíle to mám necelých 500km. Ráno je mlžné a údolím se valí cancoury mraků. Vypadá to přesně... Tohle znám, tak raději jedu opatrně, abych někde omylem nepřejel Františka Peterku v jeho legendárním kostýmu s širákem a fajfkou: https://youtu.be/CyTxVY03P8I Ze Sucre je to 250km nádherných rychlých serpentin alpského typu. Povrch je dokonalý asfalt. Pravda, občas kámen, občas půl jízdního pruhu za nepřehlednou zatáčkou sypáno sesuvem, někde leží psi, jinde přechází kráva. Opravdu pěkná cesta, modré nebe, co víc si přát. Krásně strávené dopoledne. Pak následuje kruhový objezd, benzinka a cesta pokračuje směr Cochabamba, tam ale nejedu. Mým směrem na mě čeká 40km rozbitého asfaltu a šotoliny a pak skoro 200km opravdu mizerné úzké asfaltové cesty typu Tanvald/Vysočina. Cesty úzké, ale provoz obrovský. Jak se cesta šplhá nahoru a pak sestupuje dolů, tak vede skrz mraky...."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-dvacaty-predposledni.html"

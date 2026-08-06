@@ -2,7 +2,8 @@
 title: "Zvuk vadné klikové hřídele"
 date: 2011-06-23T20:00:00.003Z
 url: "/posts/2011/06/zvuk-vadne-klikove-hridele/"
-tags: ["Video", "Kawasaki GPZ 550"]
+summary: ""
+tags: ["Kawasaki GPZ 550", "Video"]
 aliases:
   - "/2011/06/zvuk-vadne-klikove-hridele.html"
 ---

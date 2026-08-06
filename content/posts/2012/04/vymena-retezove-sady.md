@@ -2,6 +2,7 @@
 title: "Výměna řetězové sady"
 date: 2012-04-30T19:25:00.001Z
 url: "/posts/2012/04/vymena-retezove-sady/"
+summary: "Je potřeba vyměnit řetězovou sadu? Aktuální původní z výroby má najeto třicet tisíc kilometrů. Řetězové kolečko vytahané, rozeta vytahaná, řetěz místy volný, místy tuhý, šponováky na dorazech a řetěz volnější. Ano. Výměna je třeba. Jak na to? Do servisu? Ne. Podle návodu [ 1 ] to vypadá snadno. Jaký řetěz? V-Strom potřebuje řetěz šířky 525. Model K9 vyžaduje 118 článků. Jaký výrobce řetezu? ČZ? Izumi? Tsubaki? Na japonskou motorku patří japonský řetěz. Něco jiného je to u netěsněných řetězů pro motokros - nejen japonci montují české řetězy, ale to není náš případ. Máme možnost mít D.I.D. VX [ 2 ](pevnost 41kN) nebo D.I.D. ZVMX [ 3 ](pevnost 46kN), který je odolnější proti opotřebení, někteří prodejci u něho píšou Heavy Duty. Podle prodejce vydrží o 40% déle. Jakou rozetu? Standardní ocelová? THF kalená? Nebo Supersprox [ 4 ]? Žil jsem v domnění, že Supersprox je rozeta co vydrží nejvíc..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnvFUfhBA247reInyZGk_LA93EBD1vplePp7tsgrZXE-ditMIrGB6FlUm0r6H6YO96369fhHVrDOrrRGmgQt1qAruIjcW7S08h_x737jKvsVC4s-mxImjEVnJqLeY6Vq1Irg4zyy3wAs/s400/NYTOVANI.JPG"
 tags: ["Suzuki DL 650 K9", "Video"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnvFUfhBA247reInyZGk_LA93EBD1vplePp7tsgrZXE-ditMIrGB6FlUm0r6H6YO96369fhHVrDOrrRGmgQt1qAruIjcW7S08h_x737jKvsVC4s-mxImjEVnJqLeY6Vq1Irg4zyy3wAs/s1600/NYTOVANI.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnvFUfhBA247reInyZGk_LA93EBD1vplePp7tsgrZXE-ditMIrGB6FlUm0r6H6YO96369fhHVrDOrrRGmgQt1qAruIjcW7S08h_x737jKvsVC4s-mxImjEVnJqLeY6Vq1Irg4zyy3wAs/s400/NYTOVANI.JPG" height="223" width="400" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnvFUfhBA247reInyZGk_LA93EBD1vplePp7tsgrZXE-ditMIrGB6FlUm0r6H6YO96369fhHVrDOrrRGmgQt1qAruIjcW7S08h_x737jKvsVC4s-mxImjEVnJqLeY6Vq1Irg4zyy3wAs/s1600/NYTOVANI.JPG" "Ilustrace k článku" "400" >}}</div>
 Je potřeba vyměnit řetězovou sadu? Aktuální původní z výroby má najeto třicet tisíc kilometrů. Řetězové kolečko vytahané, rozeta vytahaná, řetěz místy volný, místy tuhý, šponováky na dorazech a řetěz volnější. Ano. Výměna je třeba.<br />
 Jak na to? Do servisu? Ne. Podle návodu [<a href="http://www.suzukisv.cz/opravy/51-etzovka" target="_blank">1</a>] to vypadá snadno.<br />
 Jaký řetěz?&nbsp;V-Strom potřebuje řetěz šířky 525.&nbsp;Model K9 vyžaduje 118 článků.<br />

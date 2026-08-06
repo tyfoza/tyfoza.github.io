@@ -2,6 +2,7 @@
 title: "Křesadlová puška vzor 1722"
 date: 2011-02-24T12:54:00.001Z
 url: "/posts/2011/02/kresadlova-puska-vzor-1722/"
+summary: "Tak dvě pušky ze čtyř už máme k dispozici. Křesadlová puška vzor 1722, tormentační zkouška na střelbu kulemi. Ráže 18mm. Vyrobil puškař Miloš Skrbek [ puškařství ] [ o něm ]. Ještě chybí řemení a bodáky. Velitel Jakub jmenoval do funkce našeho zbrojíře Václava a tak máme [ fotky našich pušek ], podrobně rozebraný zámek..."
 cover:
     image: "http://www.guns-info.cz/images/articles/2007/msk5.jpg"
 tags: ["Šerm"]
@@ -11,4 +12,4 @@ aliases:
 
 Tak dvě pušky ze čtyř už máme k dispozici. Křesadlová puška vzor 1722, tormentační zkouška na střelbu kulemi. Ráže 18mm. Vyrobil puškař Miloš Skrbek [<a href="http://www.corporal.cz/nabidka/puskar_img/puskarstvi/index.html">puškařství</a>] [<a href="http://www.guns-info.cz/modules.php?name=News&amp;file=article&amp;sid=1551">o něm</a>]. Ještě chybí řemení a bodáky.<br />
 Velitel Jakub jmenoval do funkce našeho zbrojíře Václava a tak máme [<a href="http://leonardodacote.rajce.idnes.cz/flinta/">fotky našich pušek</a>], podrobně rozebraný zámek...<br />
-<div class="separator" style="clear: both; text-align: center;"><a href="http://www.guns-info.cz/images/articles/2007/msk5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="148" src="http://www.guns-info.cz/images/articles/2007/msk5.jpg" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "http://www.guns-info.cz/images/articles/2007/msk5.jpg" "Ilustrace k článku" "320" >}}</div>

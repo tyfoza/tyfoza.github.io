@@ -2,15 +2,16 @@
 title: "Dny Komenského 2014, Uherský Brod"
 date: 2014-03-24T16:19:00Z
 url: "/posts/2014/03/dny-komenskeho-2014-uhersky-brod/"
+summary: "Dny Komenského započaly. Podrobný program [ 1 ] a webové stránky DnyKomenskeho.ub.cz [ 2 ] Čeká nás zajímavý týden [ 3 ][ 4 ][ 5 ] Napsal i Slovácký deník[ 6 ] i Zlin.cz[ 7 ] a Dobrý den[ 8 ] Zpátky do lavic![ 9 ] – fotografie Elen Sladká viz.[ 10 ]"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIPDyzGd5QyBufs-mt8fF1Qa0iJjPY_18r6ulZMzsd9AJ5JtwGxH7dOWoM43Y-0c1TFfY9rFMgofL8On_4aNG7Mwo55_mGSqxL40y-vgEaQktUJ4MaB_3jM4uVd87SAYZn2obo6c5HrbFP/s1600/dilny_lidskosti.jpg"
-tags: ["Video", "Tak jde čas"]
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2014/03/dny-komenskeho-2014-uhersky-brod.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIPDyzGd5QyBufs-mt8fF1Qa0iJjPY_18r6ulZMzsd9AJ5JtwGxH7dOWoM43Y-0c1TFfY9rFMgofL8On_4aNG7Mwo55_mGSqxL40y-vgEaQktUJ4MaB_3jM4uVd87SAYZn2obo6c5HrbFP/s1600/dilny_lidskosti.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIPDyzGd5QyBufs-mt8fF1Qa0iJjPY_18r6ulZMzsd9AJ5JtwGxH7dOWoM43Y-0c1TFfY9rFMgofL8On_4aNG7Mwo55_mGSqxL40y-vgEaQktUJ4MaB_3jM4uVd87SAYZn2obo6c5HrbFP/s1600/dilny_lidskosti.jpg" height="320" width="249" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIPDyzGd5QyBufs-mt8fF1Qa0iJjPY_18r6ulZMzsd9AJ5JtwGxH7dOWoM43Y-0c1TFfY9rFMgofL8On_4aNG7Mwo55_mGSqxL40y-vgEaQktUJ4MaB_3jM4uVd87SAYZn2obo6c5HrbFP/s1600/dilny_lidskosti.jpg" "Ilustrace k článku" "249" >}}</div>
 Dny Komenského započaly.<br />
 Podrobný program [<a href="http://www.ccsh.cz/dokumenty/1659-den-za-dnem_m.pdf" target="_blank">1</a>] a webové stránky <a href="http://dnykomenskeho.ub.cz/" target="_blank">DnyKomenskeho.ub.cz</a>[<a href="http://dnykomenskeho.ub.cz/" target="_blank">2</a>]<br />
 Čeká nás zajímavý týden [<a href="http://www.mjakub.cz/nahledy/f2916_edutackynet.jpg" target="_blank">3</a>][<a href="http://www.mjakub.cz/nahledy/f2918_otviraknet.jpg" target="_blank">4</a>][<a href="http://www.mjakub.cz/nahledy/f2917_janovinet.jpg" target="_blank">5</a>]<br />

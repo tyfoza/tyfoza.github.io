@@ -2,6 +2,7 @@
 title: "Kolona Ábi"
 date: 2014-02-07T00:55:00Z
 url: "/posts/2014/02/kolona-abi/"
+summary: "[ fotky ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2014/02/kolona-abi.html"

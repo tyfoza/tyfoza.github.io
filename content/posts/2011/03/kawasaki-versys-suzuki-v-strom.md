@@ -2,9 +2,10 @@
 title: "Kawasaki Versys a Suzuki V-Strom"
 date: 2011-03-05T15:36:00.006Z
 url: "/posts/2011/03/kawasaki-versys-suzuki-v-strom/"
+summary: "[ srovnávací test ] Versys, V-Strom a Transalp [ srovnávací tabulka ] z [ katalog-motocyklu.cz ] [ srovnávací tabulka ] z [ databáze motocyklů ] jak vám bude motocykl slušet zjistíte na webu [ cycle-ergo.com ] [ článek ] V-Strom po 100tis. km [ článek ] Versys v Alpách, na okruhu a prvních 1000km přidáno 21.11.2011. Už mám V-Strom v garáži od léta, tak přikládám nejskvělejší test Suzuki V-Strom - od poloviny úplně nejvíc:"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGBVDPP0FbUksEqocsSFdbddGqWLCCfWAW0Oul_7en9ZOU47puF_VJdMQNDx4mPbEHAkQAHHcWEBW8Ot1tzNhKGpscNQak32BUz3j-3yuYSkL1SjfN-WdUb58MjI8k3ghGWlMuT61nN3o/s320/versys_v-strom.jpg"
-tags: ["Video", "Jiné moto"]
+tags: ["Jiné moto", "Video"]
 aliases:
   - "/2011/03/kawasaki-versys-suzuki-v-strom.html"
 ---
@@ -13,8 +14,8 @@ aliases:
 [<a href="http://srovnani.katalog-motocyklu.cz/kawasaki-versys-650/suzuki-v-strom-650-28r-2008-29/">srovnávací tabulka</a>] z [<a href="http://www.katalog-motocyklu.cz/">katalog-motocyklu.cz</a>]<br />
 [<a href="https://docs.google.com/document/d/16t06MA7DaaXKINt8AHW1h0SjycLp5p_FT8DjB42bEqg/edit?hl=cs&amp;authkey=CJPB_pkJ">srovnávací tabulka</a>] z &nbsp;[<a href="http://www.motocykl-online.cz/hasonlit.php">databáze motocyklů</a>]<br />
 <br />
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGBVDPP0FbUksEqocsSFdbddGqWLCCfWAW0Oul_7en9ZOU47puF_VJdMQNDx4mPbEHAkQAHHcWEBW8Ot1tzNhKGpscNQak32BUz3j-3yuYSkL1SjfN-WdUb58MjI8k3ghGWlMuT61nN3o/s1600/versys_v-strom.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGBVDPP0FbUksEqocsSFdbddGqWLCCfWAW0Oul_7en9ZOU47puF_VJdMQNDx4mPbEHAkQAHHcWEBW8Ot1tzNhKGpscNQak32BUz3j-3yuYSkL1SjfN-WdUb58MjI8k3ghGWlMuT61nN3o/s320/versys_v-strom.jpg" width="320" /></a></div><div align="center"><span style="font-size: x-small;">jak vám bude motocykl slušet zjistíte na webu [<a href="http://cycle-ergo.com/">cycle-ergo.com</a>]</span><br />
-<div align="left"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8cIK1eWnWAQHsOSikJ4PuHRF49Kuo48rleIqXsfn8iMAl8mZkcYd441_WP9j1XNac6OwPGiFECFl6jGOtKxq1pCcN25yo064clBw9kyFauLpueL0kjvhqSJM9SrEpHmCD-fJBD9q4sgg/s1600/f800s_versys_v-strom__horsepower_torque_chart.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8cIK1eWnWAQHsOSikJ4PuHRF49Kuo48rleIqXsfn8iMAl8mZkcYd441_WP9j1XNac6OwPGiFECFl6jGOtKxq1pCcN25yo064clBw9kyFauLpueL0kjvhqSJM9SrEpHmCD-fJBD9q4sgg/s320/f800s_versys_v-strom__horsepower_torque_chart.jpg" width="240" /></a></div><br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGBVDPP0FbUksEqocsSFdbddGqWLCCfWAW0Oul_7en9ZOU47puF_VJdMQNDx4mPbEHAkQAHHcWEBW8Ot1tzNhKGpscNQak32BUz3j-3yuYSkL1SjfN-WdUb58MjI8k3ghGWlMuT61nN3o/s1600/versys_v-strom.jpg" "Ilustrace k článku" "320" >}}</div><div><span style="font-size: x-small;">jak vám bude motocykl slušet zjistíte na webu [<a href="http://cycle-ergo.com/">cycle-ergo.com</a>]</span><br />
+<div align="left"><div class="separator" style="clear: both; text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8cIK1eWnWAQHsOSikJ4PuHRF49Kuo48rleIqXsfn8iMAl8mZkcYd441_WP9j1XNac6OwPGiFECFl6jGOtKxq1pCcN25yo064clBw9kyFauLpueL0kjvhqSJM9SrEpHmCD-fJBD9q4sgg/s1600/f800s_versys_v-strom__horsepower_torque_chart.jpg" "Ilustrace k článku" "240" >}}</div><br />
 [<a href="http://www.motorkari.cz/motodatabaze/zkusenosti-s-moto/test-dl650-v-stroma-po-stovce--14509.html">článek</a>] V-Strom po 100tis. km<br />
 [<a href="http://motoride.sk/c/3458/mr-univerzal--kawasaki-versys-v-alpach.html">článek</a>] Versys v Alpách, na okruhu a prvních 1000km<br />
 <br />

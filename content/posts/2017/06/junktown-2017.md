@@ -2,6 +2,7 @@
 title: "Junktown2017..."
 date: 2017-06-24T15:45:00.003Z
 url: "/posts/2017/06/junktown-2017/"
+summary: "[ fotky ]"
 tags: ["RZB"]
 aliases:
   - "/2017/06/junktown-2017.html"

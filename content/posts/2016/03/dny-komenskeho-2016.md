@@ -2,6 +2,7 @@
 title: "Dny Komenského 2016..."
 date: 2016-03-01T17:03:00Z
 url: "/posts/2016/03/dny-komenskeho-2016/"
+summary: "[ dnykomenskeho.ub.cz ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/03/dny-komenskeho-2016.html"

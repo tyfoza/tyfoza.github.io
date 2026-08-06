@@ -2,9 +2,10 @@
 title: "Darkovičky"
 date: 2012-05-08T21:20:00Z
 url: "/posts/2012/05/darkovicky/"
+summary: "[ fotky ][ trasa ] Dobytí opevnění [ 1 ] za pomoci tří moderních motocyklů a dvou děvčat. Medard online [ 2 ] hlásí sváteční úterý bez deště, FFF po telefonu ověřuje, zda je dnes muzeum pevností otevřeno, holky dopékají buchtu a řízky a před dům právě dobzučel Čmoudův „šicí stroj.“ Tahle nějak vypadalo naše dopoledne, když jsme se pak naskládali na stroje a vyrazili, vzpomněli jsme na film Volný jako pták [ 3 ]. V Ostravě jsme přistihli pana H v garáži, jak chystá svoji ATV na STK... Oběd se podával před vedlejší garáží, ATV jsme prolezli celé a pokračovali k opevnění v Darkovičkách. Ostnaté dráty, protitankové zátarasy, v poli tanky a sem tam betonová obluda. Prostě nádherné místo, volně přístupné, dá se dojet přímo tam. Prohlídku jsme na doporučení FFF odložili až na příště. A že tam bylo veselo: „Viděls u Darkoviček tu raketovou montáž? „Viděls?“ „No tož vidíš a já jsem ji neviděl.“..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPP0YC4MBEsy4ZQynAOUNFI7yhQvMiSo2hJhEiVTPMQUtmV4eooBSuUKl6JrqurFYE2HCObx0GhbO93ffDBqfkwupC81jt5cevwp1XP3ZWRSnOevjkC4M6O_2cr1EYETHpALZDWOFBa1G/s200/IMG_4216.JPG"
-tags: ["Video", "Na cestě"]
+tags: ["Na cestě", "Video"]
 aliases:
   - "/2012/05/darkovicky.html"
 ---
@@ -26,4 +27,4 @@ Ostnaté dráty, protitankové zátarasy, v poli tanky a sem tam betonová oblud
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPP0YC4MBEsy4ZQynAOUNFI7yhQvMiSo2hJhEiVTPMQUtmV4eooBSuUKl6JrqurFYE2HCObx0GhbO93ffDBqfkwupC81jt5cevwp1XP3ZWRSnOevjkC4M6O_2cr1EYETHpALZDWOFBa1G/s1600/IMG_4216.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="110" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPP0YC4MBEsy4ZQynAOUNFI7yhQvMiSo2hJhEiVTPMQUtmV4eooBSuUKl6JrqurFYE2HCObx0GhbO93ffDBqfkwupC81jt5cevwp1XP3ZWRSnOevjkC4M6O_2cr1EYETHpALZDWOFBa1G/s200/IMG_4216.JPG" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiGj-3OrtIaYo6w29Qs7Qm5YdMNGnTkKPFoh4J2ENwysuZJ1p2UPfUY0kGPXVNcZWFVIpQV-9El-BZAJRx1f1sk4oKflITO5ORucYAvCEKAbEvOALLPjEdkuNTQBt0kiUQ1TEgcPXM_OL/s1600/IMG_4171.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="110" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiGj-3OrtIaYo6w29Qs7Qm5YdMNGnTkKPFoh4J2ENwysuZJ1p2UPfUY0kGPXVNcZWFVIpQV-9El-BZAJRx1f1sk4oKflITO5ORucYAvCEKAbEvOALLPjEdkuNTQBt0kiUQ1TEgcPXM_OL/s200/IMG_4171.JPG" width="200" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPP0YC4MBEsy4ZQynAOUNFI7yhQvMiSo2hJhEiVTPMQUtmV4eooBSuUKl6JrqurFYE2HCObx0GhbO93ffDBqfkwupC81jt5cevwp1XP3ZWRSnOevjkC4M6O_2cr1EYETHpALZDWOFBa1G/s1600/IMG_4216.JPG" "Ilustrace k článku" "200" >}}{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiGj-3OrtIaYo6w29Qs7Qm5YdMNGnTkKPFoh4J2ENwysuZJ1p2UPfUY0kGPXVNcZWFVIpQV-9El-BZAJRx1f1sk4oKflITO5ORucYAvCEKAbEvOALLPjEdkuNTQBt0kiUQ1TEgcPXM_OL/s1600/IMG_4171.JPG" "Ilustrace k článku" "200" >}}</div>

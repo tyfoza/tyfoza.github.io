@@ -2,7 +2,8 @@
 title: "Křtění „zlatého kříže“ Uherský Brod"
 date: 2012-06-10T13:00:00.008Z
 url: "/posts/2012/06/krteni-zlateho-krize-uhersky-brod/"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+summary: "[ fotky ] [ reportáž TV Slovácko ]"
+tags: ["Šerm", "Šerm.vystoupení", "Video"]
 aliases:
   - "/2012/06/krteni-zlateho-krize-uhersky-brod.html"
 ---

@@ -2,6 +2,7 @@
 title: "Spojka seřízená podle manuálu"
 date: 2011-04-14T22:26:00.003Z
 url: "/posts/2011/04/spojka-serizena-podle-manualu/"
+summary: "Po troše trápení je vypínání spojky nastaveno naprosto přesně, jsem zvědavý jak dlouho to vydrží. Spojka teď vypíná úplně, viz. video. Držím zmáčklou spojku, zařadím za jedna a vyřadím."
 tags: ["Video"]
 aliases:
   - "/2011/04/spojka-serizena-podle-manualu.html"

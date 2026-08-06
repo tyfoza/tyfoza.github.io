@@ -2,6 +2,7 @@
 title: "V-Strom servis 51000km a nejen výměna ložisek"
 date: 2013-01-24T01:27:00Z
 url: "/posts/2013/01/v-strom-servis-51000km-nejen-vymena/"
+summary: "V-Strom se dožil padesáti tisíc kilometrů. Bylo nutné absolvovat servisní prohlídku a to především kontrolu ventilových vůli. Krom jiného zadní kolo mělo znatelnou vůli, když na stojanu člověk vzal kolo rukou, byla vůle v ložiskách znatelná; při jízdě se problém zatím neprojevil. Servis bravurně provedl motoservis Trávníček [ 1 ], který je rok od roku lepší a lepší. S množstvím servisovaných motorek nabývají zkušenosti a to je znát v přístupu i preciznosti práce. Jen tak dál, hoši! Ventily a rozvody Ventilové vůle byly v normě. Šponováky rozvodových řetězů jsou na pozici 12 z 25. Takže rozvodový řetězu je někde před polovinou životnosti. Výměna ložisek Zde je třeba zmínit, že v základu od výroby nemá Strom těsněné ložisko v rozetě, takže v případě offroadového použití stroje toto ložisko „vyrezne a vysype se“ jako první. 2× 6203/2RS MO 520-007 2× 6204/2RS MO 520-008 1× MO 520-029 Výměna..."
 tags: ["Suzuki DL 650 K9"]
 aliases:
   - "/2013/01/v-strom-servis-51000km-nejen-vymena.html"

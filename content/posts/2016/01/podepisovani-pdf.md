@@ -2,6 +2,7 @@
 title: "Podepisování PDF..."
 date: 2016-01-02T23:02:00Z
 url: "/posts/2016/01/podepisovani-pdf/"
+summary: "Freefilesign Funkční download viz [ 1 ] Další, kde by měl být také ke stažení [ 2 ] [ 3 ] [ 4 ]. Jednoduchá Javová aplikace na podepisování PDF, je zdarma a funguje spolehlivě. Instalace Javy pro windows tady [ 5 ]."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhALBuYQDPOSGlkGcak40SGdgOIAYmAAnJIrRwdL87yndF2wd2dL29X3JHHyW3U0B0KBtL-a3zILUd6So_PdRRA8Bvwy8aQ_mSaGPbbvNRPkCaAcqFHQ4aUM2PwG1pSQxLVYwg-xwcmXvPi/s320/podpisovac+pdf+navod.jpg"
 tags: ["Počítače"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhALBuYQDPOSGlkGcak40SGdgOIAYmAAnJIrRwdL87yndF2wd2dL29X3JHHyW3U0B0KBtL-a3zILUd6So_PdRRA8Bvwy8aQ_mSaGPbbvNRPkCaAcqFHQ4aUM2PwG1pSQxLVYwg-xwcmXvPi/s1600/podpisovac+pdf+navod.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhALBuYQDPOSGlkGcak40SGdgOIAYmAAnJIrRwdL87yndF2wd2dL29X3JHHyW3U0B0KBtL-a3zILUd6So_PdRRA8Bvwy8aQ_mSaGPbbvNRPkCaAcqFHQ4aUM2PwG1pSQxLVYwg-xwcmXvPi/s320/podpisovac+pdf+navod.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhALBuYQDPOSGlkGcak40SGdgOIAYmAAnJIrRwdL87yndF2wd2dL29X3JHHyW3U0B0KBtL-a3zILUd6So_PdRRA8Bvwy8aQ_mSaGPbbvNRPkCaAcqFHQ4aUM2PwG1pSQxLVYwg-xwcmXvPi/s1600/podpisovac+pdf+navod.jpg" "Ilustrace k článku" "320" >}}</div>
 <div>
 Freefilesign&nbsp;</div>
 <div>

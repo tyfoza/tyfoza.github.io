@@ -2,6 +2,7 @@
 title: "Den desátý, cíl La Paz..."
 date: 2020-01-29T03:54:00.001Z
 url: "/posts/2020/01/den-desaty-cil-la-paz/"
+summary: "Uyuni: Ještě ke včerejšímu Salaru. Koupil jsem si v lékárně jelení lůj. Jenže až po prvním použití jsem zjistil, že barví červěně. A když jsem si pak natřel rty, tak se na mě zbytek skupiny fakt divně díval a tak jsem jim svůj omyl vysvětlil. No ale vypadali, že mně to moc nevěří. Ráno u snídaně je to opět veselé. Pan domácí je mistr historek. Ale nejprve jsem začal pár dotazy a tady jsou odpovědi. Co říkají Boliviánci na přistěhovalce z Venezuely. Pokud pracují, není problém, ale prý jich většina nepracuje, ale jenom žebrá nebo přepadávají lidi. Žádná státní podpora tady neexistuje. A že jsou ty problémy v Santa Cruz, Cochabambě i Potosí. Když se sem tlačí přes hranice nesou ženy před sebou děti jako štít. Obecný názor je pustit sem pouze ty, kteří budou pracovat. Práce je tady dost, neplatí se moc, ale práce je. Jak tady funguje místní samospráva a proč jsou cesty tak v hrozném stavu...."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-desaty-cil-la-paz.html"

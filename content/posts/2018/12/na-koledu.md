@@ -2,7 +2,8 @@
 title: "Na koledu..."
 date: 2018-12-25T11:55:00Z
 url: "/posts/2018/12/na-koledu/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2018/12/na-koledu.html"
 ---

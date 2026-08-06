@@ -2,6 +2,7 @@
 title: "Výměna řídítek BMW F 650 GS Dakar"
 date: 2014-05-27T13:26:00Z
 url: "/posts/2014/05/vymena-riditek-bmw-f-650-gs/"
+summary: "[ fotky ] Jen jeden pád na místě[ 1 ] a řídítka byla ohnutá, páčka spojky ulomená. Řešením jsou nová pevná řídítka Renthal[ 2 ] a chrániče páček Acerbis[ 3 ] s kovovou výztuhou. V originále u BMW je integrované vyhřívaní rukojetí řešené odporovým drátkem omotaným pod gumovým gripem a kabel vede vybráním v závažíčku vnitřkem řídítka do středu, kde je díra pro vyvedení kabelu a ovládací tlačítko vyhřívaní. S novými řídítky by toto řešení bylo pracné a pravděpodobně by bylo potřeba brzy kupovat nové vyhřívané gripy, originál BMW, což FFF správně vyhodnotil jako neekonomické. Tedy instalujeme osvědčené vyhřívání gripů Oxford[ 4 ] a zároveň i zásuvku[ 5 ] na 12V."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnwN-CR8U50_Y9dFZx-PUc54KJc92LHXpvucdXWVsLJlidWZyTrno44cluYE_YQ3BDzM0vkgYFV2Gj5ba4IiHS42ZPbkhH9tkasx-TKiyzyaGZn368oVGAPzSBilvK4zkwzvy6kTedpK9/s1600/WP_20140530_009.jpg"
 tags: ["BMW F 650 GS Dakar"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnwN-CR8U50_Y9dFZx-PUc54KJc92LHXpvucdXWVsLJlidWZyTrno44cluYE_YQ3BDzM0vkgYFV2Gj5ba4IiHS42ZPbkhH9tkasx-TKiyzyaGZn368oVGAPzSBilvK4zkwzvy6kTedpK9/s1600/WP_20140530_009.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnwN-CR8U50_Y9dFZx-PUc54KJc92LHXpvucdXWVsLJlidWZyTrno44cluYE_YQ3BDzM0vkgYFV2Gj5ba4IiHS42ZPbkhH9tkasx-TKiyzyaGZn368oVGAPzSBilvK4zkwzvy6kTedpK9/s1600/WP_20140530_009.jpg" height="360" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnwN-CR8U50_Y9dFZx-PUc54KJc92LHXpvucdXWVsLJlidWZyTrno44cluYE_YQ3BDzM0vkgYFV2Gj5ba4IiHS42ZPbkhH9tkasx-TKiyzyaGZn368oVGAPzSBilvK4zkwzvy6kTedpK9/s1600/WP_20140530_009.jpg" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: justify;">
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
 <div style="text-align: justify;">

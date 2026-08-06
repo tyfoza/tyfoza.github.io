@@ -2,7 +2,8 @@
 title: "II. Ples ŠKAUTF"
 date: 2014-02-16T22:55:00.002Z
 url: "/posts/2014/02/iiples-skautf/"
-tags: ["Video", "Šerm", "Tak jde čas"]
+summary: "[ fotky ] od Velkého Konkáva [ fotky ] od Elen Sladké"
+tags: ["Tak jde čas", "Šerm", "Video"]
 aliases:
   - "/2014/02/iiples-skautf.html"
 ---

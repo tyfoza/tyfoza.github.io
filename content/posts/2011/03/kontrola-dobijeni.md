@@ -2,6 +2,7 @@
 title: "Kontrola dobíjení"
 date: 2011-03-19T16:00:00.003Z
 url: "/posts/2011/03/kontrola-dobijeni/"
+summary: "Otázka: Když mám na moto zapnuty všechny spotřebiče - světla, dobíjení mobilu, napájení interkomu, kontrolu tlaku v pneu a hlavně přídavná dálková světla (2x55W) - zvládá to alternátor i s dobíjením baterie? Našel jsem [ článek ], který popisuje víc, než je potřeba - měřil jsem jenom napětí na akumulátoru při běžícím motoru, otáčky na to nemají vliv, od volnoběhu do 9tis. se napětí nemění. Bez zapnutí čehokoli 14.84V, po zapnutí všeho kromě přídavných dálkových světel 13.85V a s dálkový světly 13.1V. Nekleslo to pod 12V, tak usuzuji, že je všechno vpořádku. Uvidíme co pak dál na cestě. Ještě bych zkusil udělat video se zvukem, protože v 9tis. v garáži má motorka opravdu pěkný zvuk."
 tags: ["Kawasaki GPZ 550"]
 aliases:
   - "/2011/03/kontrola-dobijeni.html"

@@ -2,6 +2,7 @@
 title: "Na čtyři hodiny k moři..."
 date: 2015-06-19T00:12:00Z
 url: "/posts/2015/06/na-ctyri-hodiny-k-mori/"
+summary: "[ fotky ] Nejkrásnější pohled na krajinu je ze sedla motocyklu. Kde jsou ty časy, kdy člověk balil den nebo dva předem, aby s úsvitem přidělené dovolené vyrazil. My jsme začali balit až ráno, cestovní pojíštěnice byla naklikaná hned a těsně před polednem jsme vyrazili. Pěkně v tandemu se třemi kufry po dálnici Vídeň-Solnohrad, přejezd do Bavorska, zjištění že poslední bus na Orlí Hnízdo[ 1 ] odjíždí ve čtyři odpoledne. Když v navigaci zadám nejkratší cestou bez dálnic, placených cest a tunelů, tak nás vede cestou nejkrásnější, úzkými stezkami a to včetně nezpevněných cest (Here Maps/Here Drive včetně map zdarma dostupná offline navigace pro Windows Phone i Android[ 2 ]). Někde před Insbruckem začalo na dálnici pořádně pršet. Před půlnocí prvního dne jsme ve žlutých nepromocích vyděsili klimbající ostrahu na recepci v kempu Zum See[ 3 ] ve městě San Valentino alla Muta. Najeto lehce přes..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9fJDZtcaeG3knjoviWO0b85cOud-zWgfggXHYG6IPuhP95ajT_gmn6hR-x4ktWxJuM1h7HxyoMLMg1Q45ZvpLRlhvYkAnm6UA06VrFQMsFssce4RkxmWcGNq80s32nVeDKi52IB8ikGTQ/s320/InstagramCapture_db163064-eece-446b-aefd-722d7b0fe779-779233.jpg"
 tags: ["Na cestě"]
@@ -11,7 +12,7 @@ aliases:
 
 <div class="mobile-photo">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9fJDZtcaeG3knjoviWO0b85cOud-zWgfggXHYG6IPuhP95ajT_gmn6hR-x4ktWxJuM1h7HxyoMLMg1Q45ZvpLRlhvYkAnm6UA06VrFQMsFssce4RkxmWcGNq80s32nVeDKi52IB8ikGTQ/s1600/InstagramCapture_db163064-eece-446b-aefd-722d7b0fe779-779233.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6162243758707630418" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9fJDZtcaeG3knjoviWO0b85cOud-zWgfggXHYG6IPuhP95ajT_gmn6hR-x4ktWxJuM1h7HxyoMLMg1Q45ZvpLRlhvYkAnm6UA06VrFQMsFssce4RkxmWcGNq80s32nVeDKi52IB8ikGTQ/s320/InstagramCapture_db163064-eece-446b-aefd-722d7b0fe779-779233.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9fJDZtcaeG3knjoviWO0b85cOud-zWgfggXHYG6IPuhP95ajT_gmn6hR-x4ktWxJuM1h7HxyoMLMg1Q45ZvpLRlhvYkAnm6UA06VrFQMsFssce4RkxmWcGNq80s32nVeDKi52IB8ikGTQ/s1600/InstagramCapture_db163064-eece-446b-aefd-722d7b0fe779-779233.jpg" "Ilustrace k článku" >}}</div>
 </div>
 <div>
 <div style="font-size: 11pt;">
@@ -47,6 +48,6 @@ aliases:
 <span style="font-family: inherit; font-size: 11pt;">Ráno nás ve stanu budí drobný déšť. Nejvyšší čas vyrazit k dalšímu cíli. Podle navigace je vzdálen 765km. Večeřím v Casablance, řekl agent W4C - my večeřeli v Brně. Zamířili jsme na sraz s názvem Cestuji na moto v Křižanově. Dnes to byl takový rychlý dálniční transfer, ale v úvodní přednášky o Africe jsme bez problémů stihli. No tož toť totok... Řekl by náš kovář.</span><br />
 <div style="font-size: 11pt;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYcRvqJMRW-ofDnuZbMkldNSogBpDEOjuKEGhyphenhyphenlfMiPp2ANVyD_BDjcFvrvygBj7cINxTcmlPc9WaHiSN6FF2CX5UUgp63o1K19XQTIyioIdnGPrup6eoe3r_XSkBhUAR0_f8C6o-7FNmr/s1600/trasa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYcRvqJMRW-ofDnuZbMkldNSogBpDEOjuKEGhyphenhyphenlfMiPp2ANVyD_BDjcFvrvygBj7cINxTcmlPc9WaHiSN6FF2CX5UUgp63o1K19XQTIyioIdnGPrup6eoe3r_XSkBhUAR0_f8C6o-7FNmr/s640/trasa.png" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYcRvqJMRW-ofDnuZbMkldNSogBpDEOjuKEGhyphenhyphenlfMiPp2ANVyD_BDjcFvrvygBj7cINxTcmlPc9WaHiSN6FF2CX5UUgp63o1K19XQTIyioIdnGPrup6eoe3r_XSkBhUAR0_f8C6o-7FNmr/s1600/trasa.png" "Ilustrace k článku" "640" >}}</div>
 <span style="font-size: 14.6666669845581px;">Krátký výlet úterý až pátek, najeto lehce přes dva tisíce kilometrů. Nakoukli&nbsp; jsme přes Rakousko, Německo, Švýcarsko do Itálie. Kéž by takových výletů bylo více...</span></div>
 </div>

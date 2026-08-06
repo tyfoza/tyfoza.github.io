@@ -2,15 +2,16 @@
 title: "Dobývání dětských hřišť"
 date: 2012-10-20T09:00:00.001Z
 url: "/posts/2012/10/dobyvani-detskych-hrist/"
+summary: "Cech zlodějů působící Uherském Ankh-Brodě svévolně obsadil pevnosti, kteréžto bylo nutné dobýt zpět. V tomto krásném podzimním dni Šermířský klub Uherský Brod v doprovodu dětí dobyl celkem šest hřišť, přebrodil jednu řeku a zachránil sud a tři tučňáky. Fotky Jelen [ 1 ] Bára [ 2 ] Reportáž TV Slovácko [ 3 ]"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUJHh_EKgZnu3dl9_PsXS6fUw4EvVkx5FdlKUw5OtVdZcpdwnhmmJ497PqETGTzYz94o8P-yPOrqNc9242Wz1Qtym8DIYnoMcyRawP0NdBqCIIgsVHUdZZtI5u1_3JKrlnEU_k2r7Wx-x/s640/PA209750.JPG"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení", "Video"]
 aliases:
   - "/2012/10/dobyvani-detskych-hrist.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUJHh_EKgZnu3dl9_PsXS6fUw4EvVkx5FdlKUw5OtVdZcpdwnhmmJ497PqETGTzYz94o8P-yPOrqNc9242Wz1Qtym8DIYnoMcyRawP0NdBqCIIgsVHUdZZtI5u1_3JKrlnEU_k2r7Wx-x/s1600/PA209750.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUJHh_EKgZnu3dl9_PsXS6fUw4EvVkx5FdlKUw5OtVdZcpdwnhmmJ497PqETGTzYz94o8P-yPOrqNc9242Wz1Qtym8DIYnoMcyRawP0NdBqCIIgsVHUdZZtI5u1_3JKrlnEU_k2r7Wx-x/s640/PA209750.JPG" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUJHh_EKgZnu3dl9_PsXS6fUw4EvVkx5FdlKUw5OtVdZcpdwnhmmJ497PqETGTzYz94o8P-yPOrqNc9242Wz1Qtym8DIYnoMcyRawP0NdBqCIIgsVHUdZZtI5u1_3JKrlnEU_k2r7Wx-x/s1600/PA209750.JPG" "Ilustrace k článku" "640" >}}</div>
 Cech zlodějů působící Uherském Ankh-Brodě svévolně obsadil pevnosti, kteréžto bylo nutné dobýt zpět. V tomto krásném podzimním dni Šermířský klub Uherský Brod v doprovodu dětí dobyl celkem šest hřišť, přebrodil jednu řeku a zachránil sud a tři tučňáky.<br />
 <br />
 Fotky Jelen [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] Bára [<a href="https://plus.google.com/photos/114100906774113374273/albums/5801422067476803521" target="_blank">2</a>]<br />

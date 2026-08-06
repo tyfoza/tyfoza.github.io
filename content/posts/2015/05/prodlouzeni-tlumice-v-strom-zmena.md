@@ -2,15 +2,16 @@
 title: "Prodloužení tlumiče V-Strom a změna světlé výšky..."
 date: 2015-05-20T15:38:00.004Z
 url: "/posts/2015/05/prodlouzeni-tlumice-v-strom-zmena/"
+summary: "[ fotky ] Ke stažení: [ výkres v PDF ] nebo [ výkres v DWG ]. Již před lety jsme řešili, jak zvýšit světlou výšku motocyklu Suzuki V-Strom. Změnili jsme přepákování[ 1 ], namontovali kratší kosti a dosáhli kýženého cíle. Ale za jakou cenu? Změnil se průběh tlumení, tlumič celkově ztvrdnul a jízda přestala být tak komfortní. Od října 2011 mám Stroma zvýšeného „na kostech“ o rozteči 120mm a funguje to a slouží dobře. Teď ale plánuju namontovat 18\" zadní kolo a je třeba s jistotou říci, že ani při maximálním propružení po nějakém pořádném skoku, nepotká se kolo a podsedlovka. A tady už je potřeba řešit délku samotného tlumiče. Afričani – kluci, co jezdí Hondy XRV – to mají snadné, protože mohou vyrobit delší vidličku u paty samotného tlumiče[ 2 ]. Jenže na V-Stromu je v té vidličce šroubek k ovládání tlumení. Začal jsem fantazírovat o tom, jak prodloužit tlumič a Roman.V to geniálně..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUJx3vsAKc6iav9mFVr1K5u2yg8MF8iKCMxJ0DSrAiyPvmk7mkQBMIyl0w4SuWeTOPLtomPgx1f3zECMCTveFcNsoIWW1KbIUJ0zyD2uVqHguoBjTyFnlgX507Tuq0wrN566giwN-0Ixo/s320/tlumi%25C4%258D+prodlou%25C5%25BEen%25C3%25AD+03.jpg"
-tags: ["Suzuki DL 650 K9", "3D"]
+tags: ["3D", "Suzuki DL 650 K9"]
 aliases:
   - "/2015/05/prodlouzeni-tlumice-v-strom-zmena.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUJx3vsAKc6iav9mFVr1K5u2yg8MF8iKCMxJ0DSrAiyPvmk7mkQBMIyl0w4SuWeTOPLtomPgx1f3zECMCTveFcNsoIWW1KbIUJ0zyD2uVqHguoBjTyFnlgX507Tuq0wrN566giwN-0Ixo/s1600/tlumi%25C4%258D+prodlou%25C5%25BEen%25C3%25AD+03.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="245" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUJx3vsAKc6iav9mFVr1K5u2yg8MF8iKCMxJ0DSrAiyPvmk7mkQBMIyl0w4SuWeTOPLtomPgx1f3zECMCTveFcNsoIWW1KbIUJ0zyD2uVqHguoBjTyFnlgX507Tuq0wrN566giwN-0Ixo/s320/tlumi%25C4%258D+prodlou%25C5%25BEen%25C3%25AD+03.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUJx3vsAKc6iav9mFVr1K5u2yg8MF8iKCMxJ0DSrAiyPvmk7mkQBMIyl0w4SuWeTOPLtomPgx1f3zECMCTveFcNsoIWW1KbIUJ0zyD2uVqHguoBjTyFnlgX507Tuq0wrN566giwN-0Ixo/s1600/tlumi%25C4%258D+prodlou%25C5%25BEen%25C3%25AD+03.jpg" "Ilustrace k článku" "320" >}}</div>
 [<a href="https://photos.app.goo.gl/gLMZ5c6EnR8wMXDi7" target="_blank">fotky</a>]<br />
 Ke stažení: [<a href="https://drive.google.com/file/d/0B-IBT7wOoyMAUUdEakdtRERoUzA/view?usp=sharing&amp;resourcekey=0-19w3rBwdCMEq8JBFJSTi7Q" target="_blank">výkres v PDF</a>]&nbsp;nebo [<a href="https://drive.google.com/file/d/0B-IBT7wOoyMAVE1NaDhSQnMtajQ/view?usp=sharing&amp;resourcekey=0-LkI9j_Rbx1IRj4YIHJRzeA" target="_blank">výkres v DWG</a>].<br />
 <span style="text-align: justify;">Již před lety jsme řešili, jak zvýšit světlou výšku motocyklu Suzuki V-Strom. Změnili jsme přepákování[</span><a href="/posts/2011/10/prepakovani-tlumice-kyvne-vidlice/" style="text-align: justify;" target="_blank">1</a><span style="text-align: justify;">], namontovali kratší kosti a dosáhli kýženého cíle. Ale za jakou cenu? Změnil se průběh tlumení, tlumič celkově ztvrdnul a jízda přestala být tak komfortní. Od října 2011 mám Stroma zvýšeného „na kostech“ o rozteči 120mm a funguje to a slouží dobře.</span><br />
@@ -23,7 +24,7 @@ Začal jsem fantazírovat o tom, jak prodloužit tlumič a Roman.V to geniálně
 <div style="text-align: justify;">
 Sám autor Roman.V si vyrobil delší kosti 153mm[<a href="https://drive.google.com/file/d/0B-IBT7wOoyMAYjFwLVBRRXNCWkU/view?usp=sharing" target="_blank">3</a>], aby neměl motorku tak vysokou. Já nechám kosti originál a světlá výška je stejná jako při kostech 120mm, ale tlumič funguje výrazně lépe a také místo mezi podsedlovkou a kolem je více přesvědčivé.</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT8dSoYxnTjJBm9xkdaSzEJu2SNu82FMpJZ-ihhmoc4_OjEZC19n74k7Vg9MXJxQrKe6ujlQDbnqkpyT3EXVychFnZbnI1hNBE6zN_EJVQw0iHrcaig8BQxYK0zXq88D91CCNVARcB99hm/s1600/prodlouzeni.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT8dSoYxnTjJBm9xkdaSzEJu2SNu82FMpJZ-ihhmoc4_OjEZC19n74k7Vg9MXJxQrKe6ujlQDbnqkpyT3EXVychFnZbnI1hNBE6zN_EJVQw0iHrcaig8BQxYK0zXq88D91CCNVARcB99hm/s320/prodlouzeni.jpg" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT8dSoYxnTjJBm9xkdaSzEJu2SNu82FMpJZ-ihhmoc4_OjEZC19n74k7Vg9MXJxQrKe6ujlQDbnqkpyT3EXVychFnZbnI1hNBE6zN_EJVQw0iHrcaig8BQxYK0zXq88D91CCNVARcB99hm/s1600/prodlouzeni.jpg" "Ilustrace k článku" "320" >}}</div>
 <div style="text-align: justify;">
 Jak tuto věc namontovat? Je třeba sundat kosti přepákování, vyndat šroub, co drží spodek tlumiče v přepákování. Pak potřebujeme dva šrouby dlouhé 70mm M10 s podloužkou a pojistnou maticí. Dal jsem pevnostní s jemným závitem M10×1,25.<br />
 <b><i>Pozor!&nbsp;</i></b><i style="font-weight: bold;">Pod hlavu šroubu podložku, pod matici ne a vychází pak obě strany stejně dlouhé. Toto zdůrazňuji! </i>Pokud by se dala podložka pod matku, VZNIKÁ BEZPEČNOSTNÍ RIZIKO, protože mezi matkou a kostí zůstane necelý milimetr místa.<br />

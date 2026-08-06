@@ -2,7 +2,8 @@
 title: "Afterparty pedagogické konference UB"
 date: 2012-03-30T16:00:00.015Z
 url: "/posts/2012/03/pedagogicka-konference-ub/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/03/pedagogicka-konference-ub.html"
 ---

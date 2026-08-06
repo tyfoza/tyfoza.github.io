@@ -2,7 +2,8 @@
 title: "Ohlédnutí za fašankem 2015"
 date: 2015-03-12T21:01:00Z
 url: "/posts/2015/03/ohlednuti-za-fasankem-2015/"
-tags: ["Video", "Tak jde čas"]
+summary: "autor Maruška Římovská, Muzeum Jana Amose Komenského v Uherském Brodě Kdyby vám někdo tvrdil, že se dá natočit klip z fašanku a přitom nebýt folklórním. Že se dá ve třech minutách podat láska, nadšení, urputnost a zemitost lidu kopaničářského. Věřili byste? Já ne. A ono se to Marušče z muzea[ 1 ] podařilo. Žiju na Moravském Slovácku třicet let a poprvé mě napadlo, že bych se na ten fašank snad i zašel podívat. Díky. pozn. natočeno kamerou Sony NEX EA 50[ 2 ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2015/03/ohlednuti-za-fasankem-2015.html"
 ---

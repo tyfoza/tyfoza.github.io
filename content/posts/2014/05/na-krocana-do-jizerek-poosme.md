@@ -2,9 +2,10 @@
 title: "Na Krocana do Jizerek poosmé"
 date: 2014-05-16T22:24:00Z
 url: "/posts/2014/05/na-krocana-do-jizerek-poosme/"
+summary: "[ trasa ][ fotky ] středa Střídavě sleduji předpovědi počasí na víkend, impregnuji nepromok; místy se chválím za to, že jsem pořídil zázračné nepromokavé ponožky[ 1 ]. Snažím se sehnat slušnou přední pneu od kamaráda motokrosaře[ 2 ], co on by zahodil jiným/mně pomůže. čtvrtek Vše připraveno, sbaleno a nachystáno. Pro jistotu jsem vyměnil i olej v motoru; servisní interval je „jen“ šest tisíc kilometrů, tak kdyby se vyjížďka protáhla... pátek Od rána sleduji meteoradar a snažím se najít okno, jímž by se dalo dojet ten kousek po asfaltu tak, aby pršelo ideálně vůbec. Oblékám druhou zimní bundu jako teplou vložku a nepromok navrch. Konečně start, lehce po poledni a téměř polovinu cesty se držím ve skulině mezi dešťovými srážkami. Pravděpodobně proto, že kdo má nepromok již oblečný, málokdy opravdu zmokne. Vše vyšlo skvěle. Vydatně pršelo jen polovinu cesty, tedy „pouhých“ stopadesát..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIRT21naMzNUh7oSBHkOMKTPcjPBDM_5EAh2FkHY4p21RSMnW30_8ef5QM9HA4n9urYQIUuf59Tpzbkl-NP6Hk3J7gfoiBK10ffA-KJi6oJDn9LQwPJADBSC4WpgtYlYG8nnTRyWnVOF3/s1600/WP_20140516_012.jpg"
-tags: ["Video", "Cesty - akce offroad"]
+tags: ["Cesty - akce offroad", "Video"]
 aliases:
   - "/2014/05/na-krocana-do-jizerek-poosme.html"
 ---
@@ -22,8 +23,8 @@ Vše připraveno, sbaleno a nachystáno. Pro jistotu jsem vyměnil i olej v moto
 <i>pátek</i><br />
 Od rána sleduji meteoradar a snažím se najít okno, jímž by se dalo dojet ten kousek po asfaltu tak, aby pršelo ideálně vůbec. Oblékám druhou zimní bundu jako teplou vložku a nepromok navrch. Konečně start, lehce po poledni a téměř polovinu cesty se držím ve skulině mezi dešťovými srážkami. Pravděpodobně proto, že kdo má nepromok již oblečný, málokdy opravdu zmokne. Vše vyšlo skvěle. Vydatně pršelo jen polovinu cesty, tedy „pouhých“ stopadesát kilometrů.<br />
 Cestou sním o tom, jak skvělé to musí být, vézt se autem a motorku za sebou na vleku... Jenže když si představím motorku na vleku, tak k ní by musel být pořádný trike[<a href="https://www.google.cz/search?q=trike+trailer&amp;safe=off&amp;rlz=1C1GIGM_enCZ532CZ532&amp;es_sm=93&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ei=FEZ5U7TfH4bGPbzOgWA&amp;ved=0CAgQ_AUoAQ&amp;biw=1164&amp;bih=840#q=trike+caravan&amp;safe=off&amp;tbm=isch" target="_blank">3</a>] a ne auto a ve výsledku by cesta byla stejně nepohodlná.<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIRT21naMzNUh7oSBHkOMKTPcjPBDM_5EAh2FkHY4p21RSMnW30_8ef5QM9HA4n9urYQIUuf59Tpzbkl-NP6Hk3J7gfoiBK10ffA-KJi6oJDn9LQwPJADBSC4WpgtYlYG8nnTRyWnVOF3/s1600/WP_20140516_012.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIRT21naMzNUh7oSBHkOMKTPcjPBDM_5EAh2FkHY4p21RSMnW30_8ef5QM9HA4n9urYQIUuf59Tpzbkl-NP6Hk3J7gfoiBK10ffA-KJi6oJDn9LQwPJADBSC4WpgtYlYG8nnTRyWnVOF3/s1600/WP_20140516_012.jpg" height="180" width="320" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIRT21naMzNUh7oSBHkOMKTPcjPBDM_5EAh2FkHY4p21RSMnW30_8ef5QM9HA4n9urYQIUuf59Tpzbkl-NP6Hk3J7gfoiBK10ffA-KJi6oJDn9LQwPJADBSC4WpgtYlYG8nnTRyWnVOF3/s1600/WP_20140516_012.jpg" "Ilustrace k článku" "320" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">přivítání s láskou a slinami</td></tr>
 </tbody></table>
 <i>pátek večer</i><br />
@@ -31,8 +32,8 @@ Setkání přátel offroadu v plném proudu. Historka stíhá historku a myslím
 <i><br /></i>
 <i>pátek ještě víc večer</i><br />
 Skupiny registrované a pojmenované, soutěžící v orientačně-navigační soutěži dostávají mapy a slovní popis bodů a mohou zpracovávat trasu do brzkých ranních hodin. Zapisuji se do skupiny s vodičem s názvem Krocan extreme rodeo.<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Gn2QW22GEskJCcEkz5gc1ySsp71ggppVMyyTM-NySE1XS976uHCprYyNWl-S-Y1l0WFTnNOkpQsgkvHcb_MccWRCKQNO4eZSyTB8liRXKVV3JVTz54qDM8mBwBIFz4TmEaCsluATfmSf/s1600/WP_20140517_002.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Gn2QW22GEskJCcEkz5gc1ySsp71ggppVMyyTM-NySE1XS976uHCprYyNWl-S-Y1l0WFTnNOkpQsgkvHcb_MccWRCKQNO4eZSyTB8liRXKVV3JVTz54qDM8mBwBIFz4TmEaCsluATfmSf/s1600/WP_20140517_002.jpg" height="180" width="320" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Gn2QW22GEskJCcEkz5gc1ySsp71ggppVMyyTM-NySE1XS976uHCprYyNWl-S-Y1l0WFTnNOkpQsgkvHcb_MccWRCKQNO4eZSyTB8liRXKVV3JVTz54qDM8mBwBIFz4TmEaCsluATfmSf/s1600/WP_20140517_002.jpg" "Ilustrace k článku" "320" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">cvičná enduro trať v kempu</td></tr>
 </tbody></table>
 <i>sobota</i><br />
@@ -44,14 +45,14 @@ Pršelo celý den, od mrholení po opravdový liják. Ale ani tento nedokázal v
 Jsme zpátky v kempu. Lobo hrdinně přezouvá z ostrých krosových na pláště vhodné k silničnímu přesunu. Po zkušenostech z jara[<a href="/posts/2013/06/na-krocana-do-jizerek-vi/" target="_blank">4</a>] víme, že nejlepší je zalézt do sprchy ještě komplet ustrojení a smýt ze sebe bláto. Mokřejší býti nelze, tak budeme alespoň čistí. Snad do rána všechno vyschne.<br />
 Zde bych měl říci, že zázračné nepromokavé ponožky opravdu fungují. Z komplet promočených bot jsem vytáhl mokré ponožky a z nich suché ponožky a nohy. Ale o mých nohou až příště.<br />
 Barvajs to shrnul v jedné krátké větě, kdy čistě ustrojen, umyt, zasypán a učesán se slovy„ready to drink“ odešel do deště.<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ErdaYAbGhb8Zafsv4e6JXqpIlc-bjsnK2Kx8EwSK9Y8fKDANU3nK5zCpb18dUws4NYI-Pe7udYrjL3xyiwbMAmyYcQa2A3ysJHE-Pcamvhx_wqcmeIObdOXkKj7MecPJEAQK2N1SHw38/s1600/WP_20140517_018.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ErdaYAbGhb8Zafsv4e6JXqpIlc-bjsnK2Kx8EwSK9Y8fKDANU3nK5zCpb18dUws4NYI-Pe7udYrjL3xyiwbMAmyYcQa2A3ysJHE-Pcamvhx_wqcmeIObdOXkKj7MecPJEAQK2N1SHw38/s1600/WP_20140517_018.jpg" height="400" width="225" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ErdaYAbGhb8Zafsv4e6JXqpIlc-bjsnK2Kx8EwSK9Y8fKDANU3nK5zCpb18dUws4NYI-Pe7udYrjL3xyiwbMAmyYcQa2A3ysJHE-Pcamvhx_wqcmeIObdOXkKj7MecPJEAQK2N1SHw38/s1600/WP_20140517_018.jpg" "Ilustrace k článku" "225" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">první fotka sprchujícího se muže, která není ani trochu hambatá</td></tr>
 </tbody></table>
 <i>sobota večer a pozdní večer</i><br />
 Krom vynikajícího krocana se nic zvláštního nestalo.<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAKr-YoUPJX_fosfHg1-y5XGQ3SYqJxyA5E_aJNLcOe1qFs7gsKCt7wdzSiMi4VTAI-CwN-cM8ydeu2ESdBQhp_FW0FHBPGObwXbwGSzBeSQjgI_3fNZb-MwDushcKdOkx-4dVZLiEd7U/s1600/WP_20140517_020.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAKr-YoUPJX_fosfHg1-y5XGQ3SYqJxyA5E_aJNLcOe1qFs7gsKCt7wdzSiMi4VTAI-CwN-cM8ydeu2ESdBQhp_FW0FHBPGObwXbwGSzBeSQjgI_3fNZb-MwDushcKdOkx-4dVZLiEd7U/s1600/WP_20140517_020.jpg" height="180" width="320" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAKr-YoUPJX_fosfHg1-y5XGQ3SYqJxyA5E_aJNLcOe1qFs7gsKCt7wdzSiMi4VTAI-CwN-cM8ydeu2ESdBQhp_FW0FHBPGObwXbwGSzBeSQjgI_3fNZb-MwDushcKdOkx-4dVZLiEd7U/s1600/WP_20140517_020.jpg" "Ilustrace k článku" "320" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">dva kamarádi</td></tr>
 </tbody></table>
 <i>neděle ráno</i><br />

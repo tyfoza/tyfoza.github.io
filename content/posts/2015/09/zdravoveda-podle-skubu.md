@@ -2,7 +2,8 @@
 title: "Zdravověda podle ŠKUBu..."
 date: 2015-09-20T11:15:00Z
 url: "/posts/2015/09/zdravoveda-podle-skubu/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ skautf.sytes.net ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2015/09/zdravoveda-podle-skubu.html"
 ---

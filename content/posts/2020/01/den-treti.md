@@ -2,6 +2,7 @@
 title: "Den třetí..."
 date: 2020-01-21T21:04:00.001Z
 url: "/posts/2020/01/den-treti/"
+summary: "Santa Cruz de la Sierra: V noci jsem se vzbudil jen jednou, když mně vypadlo z ucha sluchátko a ze snu o letadlové bitvě ve dvouplošníku mě vzbudil řvoucí vrtulový ventilátor. Přes den má člověk pocit, že tady skoro nikdo nepracuje, kromě zedníků a sekáčů trávy s křovinořezy, případně majitelé všemožných krámků, kteří číhají na kolemjdoucí jako mravkolev v důlku. Musíme oddělit ty, co pracují v klimatizovaných budovách a kancelářích. Tam je pracovní doba zhruba jako u nás, jen někteří pracují i deset hodin. Ale v malinkých domečkách tady na prstenci pět je to trochu jinak, asi v devět ráno majíí všichni skoro hotovo, protože začali prodávat, nakupovat, zajišťovat domácnosti tak ve čtyři ráno. Všechno řídí počasí, v devět ruch utichne, vypukne horko a zase k večeru někdy od šesti do desíti zase ulice ožijí. Ráno se Noel na pouhé dvě hodinky opravdu rozpovídal a sázel historku za..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-treti.html"

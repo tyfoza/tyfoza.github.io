@@ -2,7 +2,8 @@
 title: "Legenda o svaté Kateřině..."
 date: 2018-11-24T19:36:00.001Z
 url: "/posts/2018/11/legenda-o-svate-katerine/"
-tags: ["Šerm.vystoupení", "Šerm"]
+summary: "díky Johny [ foto ] Maryška Švehlíková"
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2018/11/legenda-o-svate-katerine.html"
 ---

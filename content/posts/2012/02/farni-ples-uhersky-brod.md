@@ -2,7 +2,8 @@
 title: "X. Farní ples Uherský Brod"
 date: 2012-02-04T13:26:00.003Z
 url: "/posts/2012/02/farni-ples-uhersky-brod/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ fotky ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/02/farni-ples-uhersky-brod.html"
 ---

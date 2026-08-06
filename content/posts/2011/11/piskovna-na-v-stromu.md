@@ -2,6 +2,7 @@
 title: "Pískovna na V-Stromu"
 date: 2011-11-20T22:01:00.002Z
 url: "/posts/2011/11/piskovna-na-v-stromu/"
+summary: "Při nedělním obědě FFF poznamenal, že venku je osm stupňů, tak tedy co dělám ještě doma. Po upřesnění a kalibraci teploměru jsme se shodli na tom, že jsou venku stupně dva, je tedy nad nulou a dá se opatrně \"někam\" vyjet. Do pískovny [ 1 ] a zpět je do z domu asi šedesát kilometrů, to je tak ideální vzdálenost na vyjížďku v takovém počasí. Sníh není, je sucho a téměř bezvětří, co víc si v druhé polovině listopadu přát. Zkusil jsem natočit video, jel jsem s větrem o závod, přišlo mně, že to opravdu hrnu a na videu to vypadá, že stojím a jedu pomalounku a opatrně a video má pravdu. Alespoň vidím, jak ten pocit z jízdy klame. Ravenova kamera Mini DV D005 na kluzáku pravé vidlice."
 tags: ["Suzuki DL 650 K9", "Video"]
 aliases:
   - "/2011/11/piskovna-na-v-stromu.html"

@@ -2,15 +2,16 @@
 title: "Den jedenáctý a rekapitulace výletu..."
 date: 2016-05-12T20:22:00.004Z
 url: "/posts/2016/05/den-jedenacty-rekapitulace-vyletu/"
+summary: "orientační plán naší motopouti [ fotky ] všechny z celého výletu Poslední den nás čekalo jen deštivých 780 kilometrů k domovu. Pršet přestalo až kousek před cílem. Teplota cestovní kolem 14°C. Teď už se jen přeprat a uschnout. Viděli jsme i slunce, někde za Vilachem. Ale jen na chvíli. Opravdu. Jedinou suchou věc, kterou jsme přivezli, jsou dva deštníky v kufru. Pro zajímavost satelitní snímky oblačnosti a deště ze SAT24 a naše poloha viz [ 1 ] Strávili jsme na cestě jedenáct dnů. Celkový nájezd nakonec vyšel 7300km. Viděli jsme všechno, co jsem vidět chtěli a něco navíc. Poutní výlet splněn - Lurdy, Garabandal, Compostela, Fátima, Turín. Nejlepší destinace San Sebastián de Garabandal - doporučuju všem. Horská vesnička, příjemní lidé, klid a pokoj. Zajímavý zážitek"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxA68CPOHRxDNiztDF68RURPsxJomJ2XWRg8P-BLX8l4NDJjSYY6HeQKGRaedAqAqkpb6KoRHMpu6UGzCNo40hCFQgZs9f4rKpukcKXnXztlIsdqGCuGtuWATV9-mzaNd8hvUn2wyT7vX/s640/ub-santiago.png"
-tags: ["Na cestě", "Cesty - 2016 Španělsko"]
+tags: ["Cesty - 2016 Španělsko", "Na cestě"]
 aliases:
   - "/2016/05/den-jedenacty-rekapitulace-vyletu.html"
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxA68CPOHRxDNiztDF68RURPsxJomJ2XWRg8P-BLX8l4NDJjSYY6HeQKGRaedAqAqkpb6KoRHMpu6UGzCNo40hCFQgZs9f4rKpukcKXnXztlIsdqGCuGtuWATV9-mzaNd8hvUn2wyT7vX/s1600/ub-santiago.png" style="margin-left: auto; margin-right: auto;"><img border="0" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxA68CPOHRxDNiztDF68RURPsxJomJ2XWRg8P-BLX8l4NDJjSYY6HeQKGRaedAqAqkpb6KoRHMpu6UGzCNo40hCFQgZs9f4rKpukcKXnXztlIsdqGCuGtuWATV9-mzaNd8hvUn2wyT7vX/s640/ub-santiago.png" width="640" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxA68CPOHRxDNiztDF68RURPsxJomJ2XWRg8P-BLX8l4NDJjSYY6HeQKGRaedAqAqkpb6KoRHMpu6UGzCNo40hCFQgZs9f4rKpukcKXnXztlIsdqGCuGtuWATV9-mzaNd8hvUn2wyT7vX/s1600/ub-santiago.png" "Ilustrace k článku" "640" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">orientační plán naší motopouti</td></tr>
 </tbody></table>
 [<a href="https://goo.gl/photos/ZDz8aYQt5d3Yr33U8" target="_blank">fotky</a>] všechny z celého výletu<br />

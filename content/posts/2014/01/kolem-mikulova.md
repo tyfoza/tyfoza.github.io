@@ -2,6 +2,7 @@
 title: "Kolem Mikulova"
 date: 2014-01-05T13:00:00Z
 url: "/posts/2014/01/kolem-mikulova/"
+summary: ""
 tags: ["Na cestě"]
 aliases:
   - "/2014/01/kolem-mikulova.html"

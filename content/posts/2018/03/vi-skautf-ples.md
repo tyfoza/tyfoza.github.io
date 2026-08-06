@@ -2,6 +2,7 @@
 title: "VI. ŠKAUTF ples..."
 date: 2018-03-11T18:33:00Z
 url: "/posts/2018/03/vi-skautf-ples/"
+summary: ""
 tags: ["Tak jde čas"]
 aliases:
   - "/2018/03/vi-skautf-ples.html"

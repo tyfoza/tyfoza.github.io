@@ -2,7 +2,8 @@
 title: "ŠKUB na Kateřinském jarmarku..."
 date: 2017-11-25T11:36:00.001Z
 url: "/posts/2017/11/skub-na-katerinskem-jarmarku/"
-tags: ["Šerm.vystoupení", "Šerm"]
+summary: "nějaké naše [ fotky ] a fotky od Maryšky Švehlíkové [ fotky ] pozn. focení s přítelem"
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2017/11/skub-na-katerinskem-jarmarku.html"
 ---

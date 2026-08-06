@@ -2,6 +2,7 @@
 title: "Den čtvrtý - Samaipata, Vellagrande..."
 date: 2020-01-22T05:35:00Z
 url: "/posts/2020/01/den-ctvrty-samaipata-vellagrande/"
+summary: "Santa Cruz: Včera večer jsem si vypral triko a trenky, obé z merina. Jedna z maminek také prala. Měli pračku, po letech se pokazila a do další už nechtějí investovat, takže dvě kamenná umyvadla a studená voda. Jiná tady ani neteče, jeden kohoutek a pro místní pitná voda. Ráno vstávám, všude kolem visí prádlo a já zjišťuju, že mám všechno stejně mokré, jak jsem to před nejméně deseti hodinama pověsil. Paní domu oznamuje, že vše uschne, jestli vyjde slunce. Napřed mě napadlo použít mikrovlnku jako sušičku, chvilku jsem googlil a našel jsem zprávu od slečny, která to vyzkoušela. Triko pak pohřbila na zahradě. Zvítězil pan ventilátor, stačilo deset minut pro každou věc a daly se obléct. Noel ráno radí a barvitě povídá, co všechno nesmím po cestě minout a začínám balit. Co nejvíc věcí, které nepotřebuju pořád, se snažím dostat pod sedlo. Sbaleno, motorka naložená. Balené vody mám dost. Od..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-ctvrty-samaipata-vellagrande.html"

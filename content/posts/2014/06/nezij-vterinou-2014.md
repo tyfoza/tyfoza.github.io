@@ -2,6 +2,7 @@
 title: "Nežij vteřinou 2014"
 date: 2014-06-07T21:34:00Z
 url: "/posts/2014/06/nezij-vterinou-2014/"
+summary: "web [ 1 ][ 2 ] fb[ 3 ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2014/06/nezij-vterinou-2014.html"

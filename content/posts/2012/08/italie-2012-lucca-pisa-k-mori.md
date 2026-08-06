@@ -2,6 +2,7 @@
 title: "Itálie 2012 - Lucca, Pisa a k moři"
 date: 2012-08-11T23:11:00.002Z
 url: "/posts/2012/08/italie-2012-lucca-pisa-k-mori/"
+summary: "Na desátou hodinu ranní jsme vyrazili na mši do kostelíku v horské vesničce Roccapelago. Lidí na mši se sešlo snad ke stovce. Krom Anubise jsme kostel navštívili všichni. Další zastávka byla obědová, spojená s procházkou historickým centrem města Lucca. S Ábi jsme ochutnali zmrzlinu a v ... pizzerie dělá pizzu, a tady je i místo specializované na těstoviny, jak se to jmenuje to si teď nevzpomenu. Nechali jsme si zabalit balíček na cestu, Ábi si dala v Lucce boloňské lasagne a já konečně dostal pravé troteliny. Celý oběd jsme pohodili nahoru na topcase pod síťku a po vydatné zmrzlině pojedli až mnohem později. Šikmá věž v Pise stojí opravdu šikmo a navigace nás napodruhé dovedla až přímo k ní, pravděpodobně jsme vjeli tam, kam mohou jenom auta taxi a vjezd je na povolení. Moc jsme chtěli věž vyfotit za strany, ze které nevypadá šikmá a to snad podařilo. V plánu dnešního nedělního dne..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4kOc_WNST9SC9Vx34rwje6Mn0BwSnNcmnDRCF7G_BdthbP_b41arD3braVQ-SaklBXZV2tF-y6OXyEmXCuzyVy9O4wWv1D599lY8dVpral2n1rHY53bfqXNi7y1WnN74TQQvMwnd7x1Q/s320/120820122427-746374.jpg"
 tags: ["Cesty - 2012 Itálie"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4kOc_WNST9SC9Vx34rwje6Mn0BwSnNcmnDRCF7G_BdthbP_b41arD3braVQ-SaklBXZV2tF-y6OXyEmXCuzyVy9O4wWv1D599lY8dVpral2n1rHY53bfqXNi7y1WnN74TQQvMwnd7x1Q/s1600/120820122427-746374.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5775928488521340354" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4kOc_WNST9SC9Vx34rwje6Mn0BwSnNcmnDRCF7G_BdthbP_b41arD3braVQ-SaklBXZV2tF-y6OXyEmXCuzyVy9O4wWv1D599lY8dVpral2n1rHY53bfqXNi7y1WnN74TQQvMwnd7x1Q/s320/120820122427-746374.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4kOc_WNST9SC9Vx34rwje6Mn0BwSnNcmnDRCF7G_BdthbP_b41arD3braVQ-SaklBXZV2tF-y6OXyEmXCuzyVy9O4wWv1D599lY8dVpral2n1rHY53bfqXNi7y1WnN74TQQvMwnd7x1Q/s1600/120820122427-746374.jpg" "Ilustrace k článku" >}}</div>
 Na desátou hodinu ranní jsme vyrazili na mši do kostelíku v horské vesničce Roccapelago. Lidí na mši se sešlo snad ke stovce. Krom Anubise jsme kostel navštívili všichni. <br />
 Další zastávka byla obědová, spojená s procházkou historickým centrem města Lucca. S Ábi jsme ochutnali zmrzlinu a v ... pizzerie dělá pizzu, a tady je i místo specializované na těstoviny, jak se to jmenuje to si teď nevzpomenu. Nechali jsme si zabalit balíček na cestu, Ábi si dala v Lucce boloňské lasagne a já konečně dostal pravé troteliny. Celý oběd jsme pohodili nahoru na topcase pod síťku a po vydatné zmrzlině pojedli až mnohem později. <br />
 Šikmá věž v Pise stojí opravdu šikmo a navigace nás napodruhé dovedla až přímo k ní, pravděpodobně jsme vjeli tam, kam mohou jenom auta taxi a vjezd je na povolení. Moc jsme chtěli věž vyfotit za strany, ze které nevypadá šikmá a to snad podařilo. <br />

@@ -2,7 +2,8 @@
 title: "Markrabě Karel v Uherském Brodě..."
 date: 2016-06-12T09:55:00Z
 url: "/posts/2016/06/markrabe-karel-v-uherskem-brode/"
-tags: ["Video", "Šerm"]
+summary: "[ fotky ] Catany [ fotky ] Elen Sladká [ fotky ] Maryška Švehlíková V srpnu 1335 devatenáctiletý Karel přenocoval v Uherském Brodě a poté pokračoval v cestě na Trenčínský hrad. Tuto událost jsme si připomněli. Průvod markraběte Karla a zdravice Městu Uherský Brod byl realizován pod taktovkou šermířské a divadelní společnosti Memento Mori [ 1 ]. Karlova řeč Velice těší duši naši pobývat již v druhém roce naší vlády v tomto městě. Vždyť ne nadarmo jej můj praděd Přemysl Otakar II. povýšil léta Páně 1272 – na město královské. Sám se cítím než lucemburské spíše krve Přemyslovské, které byl tento kraj vždy milý. Vím již, že oplývá pohostinností a vlídností. V pravdě jsem ale nečekal takové přijetí, jaké jste mi přichystali. Když jsme přijeli do Čech, našli jsme zemi a panovnické sídlo zpustošené, nesličné a ničemné. Čest královského rodu pošpiněnou a nevalnou. A tady? Div že po vladařích..."
+tags: ["Šerm", "Video"]
 aliases:
   - "/2016/06/markrabe-karel-v-uherskem-brode.html"
 ---

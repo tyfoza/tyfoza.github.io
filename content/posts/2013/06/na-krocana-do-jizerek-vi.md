@@ -2,15 +2,16 @@
 title: "Na VI. Krocana do Jizerek"
 date: 2013-05-31T23:43:00Z
 url: "/posts/2013/06/na-krocana-do-jizerek-vi/"
+summary: "fotky [ 1 ] [ 2 ] a videa [ 3 ] [ 4 ] [ 5 ] V pořadí šesté setkání přátel lehkého offroadu v Jizerských horách pod taktovkou firmy Rockway[ 6 ] bylo letos vlhké, mokré, bahnité a úchvatné. Krásně by se dalo charakterizovat scénou z filmu Forrest Gump viz.[ 7 ]. Z necelé sedmdesátky přihlášených se v pátek sešla silná pětačtyřicítka, která měla v plánu hrdinně vyrazit na sobotní vyjížďku. Páteční večer byl místy monotónně vyplněn zoufalým funěním nad mobily s předpověďmi počasí; každý používá jiný předpovědní server a přitom všichni říkali totéž – déšť, celodenní, vytrvalý. Padl i zajímavý nápad – od druhé hodiny noční, do sedmé hodiny ranní pršet nemá – tak jestli by se nemělo vyrazit už v noci „na světla.“ Ne! Raději jsem zamířil bydlet, ještě hodinu a stál bych s nastartovanou motorkou před vchodem... zbytek noci byl vyplněn Barvajzových chrapotem – příště jdu opět bydlet s ním –..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixUhtUVDWsuk-3ZbnFenOkda4koRCPszufYq47BPoZ-o38g7M2rr3HUz3W12djuQI786ToBe46-UeOop89YjKIP_Niya2qcARwkgoESzJzJocPkIk07PEvA0WoKQoITvmEm9l5eDheO-v0/s320/IMG_9453.jpg"
-tags: ["Video", "Na cestě", "Cesty - akce offroad"]
+tags: ["Cesty - akce offroad", "Na cestě", "Video"]
 aliases:
   - "/2013/06/na-krocana-do-jizerek-vi.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixUhtUVDWsuk-3ZbnFenOkda4koRCPszufYq47BPoZ-o38g7M2rr3HUz3W12djuQI786ToBe46-UeOop89YjKIP_Niya2qcARwkgoESzJzJocPkIk07PEvA0WoKQoITvmEm9l5eDheO-v0/s1600/IMG_9453.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixUhtUVDWsuk-3ZbnFenOkda4koRCPszufYq47BPoZ-o38g7M2rr3HUz3W12djuQI786ToBe46-UeOop89YjKIP_Niya2qcARwkgoESzJzJocPkIk07PEvA0WoKQoITvmEm9l5eDheO-v0/s320/IMG_9453.jpg" width="179" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6OkpUulVk8zC5U6H4uWRvcRCds9o_gpPg9omCkwqfGLx0tM6mQvF-fr3kP8C7ASO1EyAVPhPXOh79vj6oCkhD9VeR5vpGm6FIZdco3z85ATfePUZfPF-Y2cjAHkD5W5bTe9qVATMXiqpn/s1600/IMG_9457.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6OkpUulVk8zC5U6H4uWRvcRCds9o_gpPg9omCkwqfGLx0tM6mQvF-fr3kP8C7ASO1EyAVPhPXOh79vj6oCkhD9VeR5vpGm6FIZdco3z85ATfePUZfPF-Y2cjAHkD5W5bTe9qVATMXiqpn/s320/IMG_9457.jpg" width="179" /></a></div>
+<img height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixUhtUVDWsuk-3ZbnFenOkda4koRCPszufYq47BPoZ-o38g7M2rr3HUz3W12djuQI786ToBe46-UeOop89YjKIP_Niya2qcARwkgoESzJzJocPkIk07PEvA0WoKQoITvmEm9l5eDheO-v0/s320/IMG_9453.jpg" width="179" / alt="Ilustrace k článku"><img height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6OkpUulVk8zC5U6H4uWRvcRCds9o_gpPg9omCkwqfGLx0tM6mQvF-fr3kP8C7ASO1EyAVPhPXOh79vj6oCkhD9VeR5vpGm6FIZdco3z85ATfePUZfPF-Y2cjAHkD5W5bTe9qVATMXiqpn/s320/IMG_9457.jpg" width="179" / alt="Ilustrace k článku"></div>
 <div style="text-align: center;">
 fotky [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] [<a href="http://cizak1.rajce.idnes.cz/KROCAN_jaro_31.5-_2.6.2013" target="_blank">2</a>] a videa &nbsp;[<a href="http://dan-africa.rajce.idnes.cz/Krocan_N.6/" target="_blank">3</a>] [<a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=tYO1_Skff30" target="_blank">4</a>] [<a href="http://www.youtube.com/watch?v=mUXMbuU9LrA" target="_blank">5</a>]</div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
@@ -56,7 +57,7 @@ ví taky. Prší.</span><span style="font-family: 'Times New Roman', serif; font
 </div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <div style="text-align: justify;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioIxKJpdA6uIkNNfDtnDGaXLIp9cb6fAFoMrbIQNuzRJKue8pfqy7Nye-M6_XI_nXOnAMjEsyRkK2VTBPQP7enO6NPG3yWSaqG-kWCM0QqwielDcfABXy3eKV-bSY8yurQIKL0QAw572V/s1600/IMG_9449.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioIxKJpdA6uIkNNfDtnDGaXLIp9cb6fAFoMrbIQNuzRJKue8pfqy7Nye-M6_XI_nXOnAMjEsyRkK2VTBPQP7enO6NPG3yWSaqG-kWCM0QqwielDcfABXy3eKV-bSY8yurQIKL0QAw572V/s320/IMG_9449.jpg" width="179" /></a><span lang="EN-US" style="font-family: 'Times New Roman', serif; font-size: 13.5pt;">Cestou, necestou, se spoustou přesunů po asfaltu. Kus
+<img height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioIxKJpdA6uIkNNfDtnDGaXLIp9cb6fAFoMrbIQNuzRJKue8pfqy7Nye-M6_XI_nXOnAMjEsyRkK2VTBPQP7enO6NPG3yWSaqG-kWCM0QqwielDcfABXy3eKV-bSY8yurQIKL0QAw572V/s320/IMG_9449.jpg" width="179" / alt="Ilustrace k článku"><span lang="EN-US" style="font-family: 'Times New Roman', serif; font-size: 13.5pt;">Cestou, necestou, se spoustou přesunů po asfaltu. Kus
 průsekem lesem kolem hraničních patníků, dlouhý svah dolů. Prší. Objevuji
 možnost pomalého sjezdu s vypnutým motorem, zařazenou jedničkou. Kdy mohu
 rukama brzdit přední i zadní kolo a přitom mít obě nohy na zemi. Nádhera. Prší. Někde po cestě se odpojuje Schimi na V-Stromu, který odjel třicet kilometrů na E-10. Respekt!</span></div>

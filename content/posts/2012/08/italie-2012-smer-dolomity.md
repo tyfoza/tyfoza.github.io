@@ -2,6 +2,7 @@
 title: "Itálie 2012 - směr Dolomity"
 date: 2012-08-17T22:41:00.002Z
 url: "/posts/2012/08/italie-2012-smer-dolomity/"
+summary: "Z viničního městečka jsme z kempu vyrazili na cestu až po poledni, řádně dospaní a na cestu připravení. Původní plán byl čtyři a půl hodiny po rychlostní silnici. Když jsme na autostrádu přes mýtnou bránu najeli, zjistili jsme, že se platí od kilometru a celá cesta by vyšla na cca 40€. Tak jsme projeli jeden tunel a z autostrády vypadli na prvním sjezdu. Najeli jsme 4km a každý zaplatil 0,40€. Byl to moc pěkný, třípruhový a dlouhý tunel. Pak už jsme vyrazili směr Boloň přes Passo della Futa, kde jsme přejeli bludný kořen a celé passo projeli v obou směrech nejméně čtyřikrát. Vénovi docházel benzín, pak mu motorka při otáčení na cestě upadla - jak říkáme - \"nachipa\", tedy při otáčení mu zdechl motor a motorka upadla. Opět doleva, opět ohnuté již dvakrát ohnuté řídítko opět narovnal a pořád drží. S večerem jsme se stáhli do města Santa Anna Mosione, kde spíme u motorek, kousek od kostela...."
 tags: ["Cesty - 2012 Itálie"]
 aliases:
   - "/2012/08/italie-2012-smer-dolomity.html"

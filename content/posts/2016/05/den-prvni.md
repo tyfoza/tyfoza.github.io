@@ -2,6 +2,7 @@
 title: "Den první..."
 date: 2016-05-02T23:24:00.001Z
 url: "/posts/2016/05/den-prvni/"
+summary: "S drobným zpožděním jsme vyrazili kolem deváté hodiny dopolední z Uherského Brodu. Jedeme po dálnicích, jinak bychom nikam nedojeli. Od Vídně pršelo, teplota kolem 9 stupňů. Nejnižší teplotu jsme zaznamenali 4,3 stupně. Díky vytrvalému dešti se dalo jet sotva lehce nad 130km/h. Na mostech mají odvoďňovací kanály kovové a široké přes metr. Tak když to vyšlo do náklonu, krásně jsme si driftnuli smykem obou kol. Ve tři odpoledne vjíždíme do Itálie. Po překonání Alp hle slunce a hle teplo. Místy i dvacet stupňů! Přes Itálii je to rychlý přesun po autostrádách. Držíme se v rychlostech do 160km/h a tak nám to pěkně ubíhá. Pauzírujeme vždy po asi 200km. Občas benzín, občas káva. Na výjezdu na poslední mýtnici naúčtovali nám 65€. Pravda, těch tunelů vyžadujících údržbu a dohed je tady až hanba. Do Francie vjíždíme za tmy. Zmínka o luxusní romantické večeři v Monaku znamená, že jsme dojedli..."
 tags: ["Cesty - 2016 Španělsko"]
 aliases:
   - "/2016/05/den-prvni.html"

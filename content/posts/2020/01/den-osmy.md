@@ -2,6 +2,7 @@
 title: "Den osmý..."
 date: 2020-01-27T01:50:00.001Z
 url: "/posts/2020/01/den-osmy/"
+summary: "Potosí: Ráno jsem se probudil a nebylo mně příliš dobře. A včera jsem vypil tři piva, tím to nebude. Když jsem balil věci do kufru a vstal, musel jsem se chytit postele, jak jsem si byl nejistý. A naprosto příšerně mě bolí hlava. Smrkám krev. To bude tou vysokou nadmořskou výškou. Zašel jsem do lékárny, ač je neděle, tak všude všechno více méně otevřeno alespoň dopoledne. Ta věc se jmenuje Sorojchi pills, mají ji. Dostal jsem jedno platíčko s tím, že mám dávat po osmi hodinách jednu. První jsem si dal ještě v lékárně. Zhruba za půl hodinky už mně je úplně fajn a během dopoledne i normálně vysmrkám. Podle informací, co jsem našel je v těch tobolkách jen aspirin a kofein. Stavil jsem se v obchůdku s nějakými drobnostmi. Jen proto, že jsem měl čas. Mše v katedrále je až na deset. V krámečku je jenom nějaká holka a mů puštěnou televizi. Tak aspoň zjišťuji, že Flintstoneovi se tady jmenují..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-osmy.html"

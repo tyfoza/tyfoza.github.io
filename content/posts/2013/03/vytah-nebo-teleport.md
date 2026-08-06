@@ -2,7 +2,8 @@
 title: "Výtah nebo teleport?"
 date: 2013-03-15T21:12:00.001Z
 url: "/posts/2013/03/vytah-nebo-teleport/"
-tags: ["Video", "Tak jde čas"]
+summary: "Dolů 3-2-P Nahoru P-1-3 Proč?"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2013/03/vytah-nebo-teleport.html"
 ---

@@ -2,7 +2,8 @@
 title: "Otevření dopravního terminálu v Uherském Brodě..."
 date: 2016-04-01T21:30:00Z
 url: "/posts/2016/04/otevreni-dopravniho-terminalu-v/"
-tags: ["Video", "Tak jde čas"]
+summary: "Marušky jsou nejlepší!"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2016/04/otevreni-dopravniho-terminalu-v.html"
 ---

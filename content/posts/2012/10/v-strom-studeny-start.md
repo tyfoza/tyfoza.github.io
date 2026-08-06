@@ -2,6 +2,7 @@
 title: "V-Strom a velmi studený start"
 date: 2012-10-28T09:00:00Z
 url: "/posts/2012/10/v-strom-studeny-start/"
+summary: "Na Vysočině, v noci mínus čtyři, ráno dva stupně plus. Slunce se klubalo nad kopcem a bylo třeba nastartovat stroj. 3× zapnout/vypnout vstřikovací čerpadlo, ať si nabere 1× start a ... nevyšlo to. 1× zapnout/vypnout vstřikovací čerpadlo, přidat 1/3 plynu a start... Pochopil jsem, proč bude třeba pořídit vypínač předních světel[ 1 ]."
 tags: ["Suzuki DL 650 K9", "Video"]
 aliases:
   - "/2012/10/v-strom-studeny-start.html"

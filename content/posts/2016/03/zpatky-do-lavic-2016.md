@@ -2,6 +2,7 @@
 title: "Zpátky do lavic 2016..."
 date: 2016-03-08T11:56:00.002Z
 url: "/posts/2016/03/zpatky-do-lavic-2016/"
+summary: "[ dnykomenskeho.ub.cz ] záznam obou vyučovacích hodin – přírodopisu a hudební výchovy s návštěvou ruské delegátky [ fotky ] od Elen Sladká, díky"
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/03/zpatky-do-lavic-2016.html"

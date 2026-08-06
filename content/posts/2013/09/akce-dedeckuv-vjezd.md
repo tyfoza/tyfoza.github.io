@@ -2,9 +2,10 @@
 title: "Akce „dědečkův vjezd”"
 date: 2013-09-05T22:49:00Z
 url: "/posts/2013/09/akce-dedeckuv-vjezd/"
+summary: "[ fotky ] Půjčovna nářadí půjčí vibrační pěch bez ohledu na dobu jeho používání. Neplatíte motohodiny najeté motorem, ale čas zapůjčení stroje. Nenapadlo vás někdy, že by bylo zábavné půjčit si dva nebo tři vibrační pěchy a uspořádat „závod žáb?“ Nebo vzít s sebou vibrační pěch na pěší poutní vycházku?"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIdEDOV9pyMdCT_eb0NFtovUpnbU7hZBnHq25KzW_jtnOa26YQM66Fbm-k5dt8b3W1p9Fe5GBzjQ7KdISS2Urpa65L0aA3Bmolcc20vVxigp7-zJbAu7-th8KGwLnxaDgVo-ojF9Y2tU72/s200/2013-09-06-441.jpg"
-tags: ["Video", "Tak jde čas"]
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2013/09/akce-dedeckuv-vjezd.html"
 ---
@@ -14,4 +15,4 @@ aliases:
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
 Půjčovna nářadí půjčí vibrační pěch bez ohledu na dobu jeho používání. Neplatíte motohodiny najeté motorem, ale čas zapůjčení stroje. Nenapadlo vás někdy, že by bylo zábavné půjčit si dva nebo tři vibrační pěchy a uspořádat „závod žáb?“ Nebo vzít s sebou vibrační pěch na pěší poutní vycházku?<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIdEDOV9pyMdCT_eb0NFtovUpnbU7hZBnHq25KzW_jtnOa26YQM66Fbm-k5dt8b3W1p9Fe5GBzjQ7KdISS2Urpa65L0aA3Bmolcc20vVxigp7-zJbAu7-th8KGwLnxaDgVo-ojF9Y2tU72/s1600/2013-09-06-441.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="111" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIdEDOV9pyMdCT_eb0NFtovUpnbU7hZBnHq25KzW_jtnOa26YQM66Fbm-k5dt8b3W1p9Fe5GBzjQ7KdISS2Urpa65L0aA3Bmolcc20vVxigp7-zJbAu7-th8KGwLnxaDgVo-ojF9Y2tU72/s200/2013-09-06-441.jpg" width="200" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVxfYcLj-maUaagELs7RNE7-CAnCCo7-brhhyphenhyphenwGku308FLW-ystOJjv_ZhLzrGv5HxzaHkWfwpoo5iRZj1YHncZ2uLVHEs59-OkLV3C6nj5lnloxSYZI-y5SFVF8lXReAP675fztqXcHr/s1600/2013-09-06-469.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="111" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVxfYcLj-maUaagELs7RNE7-CAnCCo7-brhhyphenhyphenwGku308FLW-ystOJjv_ZhLzrGv5HxzaHkWfwpoo5iRZj1YHncZ2uLVHEs59-OkLV3C6nj5lnloxSYZI-y5SFVF8lXReAP675fztqXcHr/s200/2013-09-06-469.jpg" width="200" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIdEDOV9pyMdCT_eb0NFtovUpnbU7hZBnHq25KzW_jtnOa26YQM66Fbm-k5dt8b3W1p9Fe5GBzjQ7KdISS2Urpa65L0aA3Bmolcc20vVxigp7-zJbAu7-th8KGwLnxaDgVo-ojF9Y2tU72/s1600/2013-09-06-441.jpg" "Ilustrace k článku" "200" >}}{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVxfYcLj-maUaagELs7RNE7-CAnCCo7-brhhyphenhyphenwGku308FLW-ystOJjv_ZhLzrGv5HxzaHkWfwpoo5iRZj1YHncZ2uLVHEs59-OkLV3C6nj5lnloxSYZI-y5SFVF8lXReAP675fztqXcHr/s1600/2013-09-06-469.jpg" "Ilustrace k článku" "200" >}}</div>

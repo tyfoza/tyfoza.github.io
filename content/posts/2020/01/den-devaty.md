@@ -2,6 +2,7 @@
 title: "Den devátý..."
 date: 2020-01-28T03:15:00.001Z
 url: "/posts/2020/01/den-devaty/"
+summary: "Uyuni: Včera večer jsem zi zapomněl vzít lék proto smrti z nadmořské výšky, tak už ráno cítím, že ho potřebuju. Snídaně je připravená a pan domácí je v dobrém rozmaru. K rozhovoru jsme se dostali tak, když jsem zmínil, že včera večer ještě před zaparkováním motorky jsem u jeho sousedů domluvil s člověkem jménem Jesus, že jeho turistická kancelář mě dneska vezme na Salar a že vyrazíme v deset. Povídal o tom, že pracoval pro Němce, který trval na tom, že do práce musí chodit přesně! A ne podle času bolívijského. Pak pracoval pro firmu a servisoval velké tiskařské plotry. Výběrové řízení dělali tak, že dali někomu oservisovat nefunčkní věc, která nešla opravit. Několik hodin ho pozorovali, když s tou věcí nezačal třepat nebo do ní kopat, tak ho vzali. A pozor, nevzali každého. Dobré byly historky, jak s nějakými Kanaďany dělal geologický průzkum. Velmi vtipný strýc. Počítání času po..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-devaty.html"

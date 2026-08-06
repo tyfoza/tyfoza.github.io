@@ -2,7 +2,8 @@
 title: "Kateřinský jarmark v Uherském Brodě"
 date: 2014-11-29T15:00:00Z
 url: "/posts/2014/11/katerinsky-jarmark-v-uherskem-brode/"
-tags: ["Šerm.vystoupení", "Šerm"]
+summary: "fotky [ 1 ] fotky [ 2 ] od Elen Sladké fotky [ 3 ] od Maryšky Švehlíkové ŠKUB[ 4 ] Šermířský klub Uherský Brod na Kateřinském jarmarku v Uherském Brodě. Tímto vystoupení vzdáváme poctu žánru němé grotesky a jejímu králi Charlie Chaplinovi, který právě před sto lety stvořil a i poprvé ve filmu představil svou postavu legendárního Tuláka – nejslavnější postavu v historii kinematografie."
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2014/11/katerinsky-jarmark-v-uherskem-brode.html"
 ---

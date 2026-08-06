@@ -2,9 +2,10 @@
 title: "Jak se staví hrad..."
 date: 2015-08-27T13:50:00.003Z
 url: "/posts/2015/08/jak-se-stavi-hrad/"
+summary: "[ fotky ] Elen Sladká"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqaY9rxA5ZgqiC3DgouCZEX4NpGXkLKs3mK8YjWDCcWS8ycyp8SmL25d_ZcMDQzmTUB2b4baR_8d26sxn3bauEVlqkcblYdZSn3mgAQXD-somz0WK_yT67W3Y6HBAY1k1vPckWOcENYUp/s640/bitva+Slameny+hrad.jpg"
-tags: ["Šerm", "Tak jde čas"]
+tags: ["Tak jde čas", "Šerm"]
 aliases:
   - "/2015/08/jak-se-stavi-hrad.html"
 ---
@@ -14,10 +15,10 @@ aliases:
 <div class="separator" style="clear: both; text-align: left;">
 &nbsp;[<a href="http://elenkas.rajce.idnes.cz/Stavba_slameneho_hradu_-_srpen_2015/" target="_blank">fotky</a>] Elen Sladká</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqaY9rxA5ZgqiC3DgouCZEX4NpGXkLKs3mK8YjWDCcWS8ycyp8SmL25d_ZcMDQzmTUB2b4baR_8d26sxn3bauEVlqkcblYdZSn3mgAQXD-somz0WK_yT67W3Y6HBAY1k1vPckWOcENYUp/s1600/bitva+Slameny+hrad.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqaY9rxA5ZgqiC3DgouCZEX4NpGXkLKs3mK8YjWDCcWS8ycyp8SmL25d_ZcMDQzmTUB2b4baR_8d26sxn3bauEVlqkcblYdZSn3mgAQXD-somz0WK_yT67W3Y6HBAY1k1vPckWOcENYUp/s640/bitva+Slameny+hrad.jpg" width="444" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqaY9rxA5ZgqiC3DgouCZEX4NpGXkLKs3mK8YjWDCcWS8ycyp8SmL25d_ZcMDQzmTUB2b4baR_8d26sxn3bauEVlqkcblYdZSn3mgAQXD-somz0WK_yT67W3Y6HBAY1k1vPckWOcENYUp/s1600/bitva+Slameny+hrad.jpg" "Ilustrace k článku" "444" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6UByivgehQoFvos0-5GWvR-E1Q44VNHjz71vuvENR1Qwlyp1IcSTIt4da7dAH4AxZIKBFRkjIVrJyofTlcGVAGvcIcmIcdafiPw8mbR1UPvy7sL0KSRK1IewchgNt-u7TpgCmymytrkjM/s1600/hrad+UB.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6UByivgehQoFvos0-5GWvR-E1Q44VNHjz71vuvENR1Qwlyp1IcSTIt4da7dAH4AxZIKBFRkjIVrJyofTlcGVAGvcIcmIcdafiPw8mbR1UPvy7sL0KSRK1IewchgNt-u7TpgCmymytrkjM/s640/hrad+UB.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6UByivgehQoFvos0-5GWvR-E1Q44VNHjz71vuvENR1Qwlyp1IcSTIt4da7dAH4AxZIKBFRkjIVrJyofTlcGVAGvcIcmIcdafiPw8mbR1UPvy7sL0KSRK1IewchgNt-u7TpgCmymytrkjM/s1600/hrad+UB.jpg" "Ilustrace k článku" "640" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>

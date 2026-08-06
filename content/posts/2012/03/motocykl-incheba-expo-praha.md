@@ -2,19 +2,20 @@
 title: "Motocykl Incheba Expo Praha"
 date: 2012-03-09T17:11:00.009Z
 url: "/posts/2012/03/motocykl-incheba-expo-praha/"
+summary: "[ víc fotek ] [ detaily ] Nejprve fakta a zjištění: Baterie LiFePO4 plně nahradí klasické olověné gelové baterie, ale jsou výrazně menší a zvládají větší startovací proud. Kdo by nechtěl mít pod sedlem vedle baterky místo ještě na lékárničku, nicht wahr? Viz. http://www.zavodnibaterie.cz/ Firmička http://www.celopolepy.cz/ nabízí polepy aut a motorek. Nalepí cokoli včetně imitace karbonu. Naživo to vypadá použitelně a určitě je to levnější než lakování, u oprav tmelení a broušení pochopitelně zůstává. Touratech.cz sděluje, že tlumiče Trackactive budou dostupné nejen pro BMW, ale pro všechny motorky, které TT běžne strojí. 18.-20.5. proběhne sraz Touratech Travel Event http://www.adventuredays.cz/ A teď něco málo víc a veseleji: Na obrázku je custom tunning, který si doporučují čtyři z pěti osvětlovačů - \"gafatuning\" si může dovolit opravdu každý. Ve srovnání s brněnským Motosalonem..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebjxKL_CoBQLEMJdWWd4XtpqUCF7rcTl4sWGSBS9xmBGvWOLAs4ujCY_8DtNzCxKHGEBVXpY4lV4v2rDip8otcjHO_RvhR6AM5fLeC90AWTAJU-T2eo57Rbn6606JgnAnNa2FU38Rg9g/s320/090320121581-769284.jpg"
-tags: ["Video", "Jiné moto", "Tak jde čas"]
+tags: ["Jiné moto", "Tak jde čas", "Video"]
 aliases:
   - "/2012/03/motocykl-incheba-expo-praha.html"
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebjxKL_CoBQLEMJdWWd4XtpqUCF7rcTl4sWGSBS9xmBGvWOLAs4ujCY_8DtNzCxKHGEBVXpY4lV4v2rDip8otcjHO_RvhR6AM5fLeC90AWTAJU-T2eo57Rbn6606JgnAnNa2FU38Rg9g/s1600/090320121581-769284.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5717946525866738898" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebjxKL_CoBQLEMJdWWd4XtpqUCF7rcTl4sWGSBS9xmBGvWOLAs4ujCY_8DtNzCxKHGEBVXpY4lV4v2rDip8otcjHO_RvhR6AM5fLeC90AWTAJU-T2eo57Rbn6606JgnAnNa2FU38Rg9g/s320/090320121581-769284.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebjxKL_CoBQLEMJdWWd4XtpqUCF7rcTl4sWGSBS9xmBGvWOLAs4ujCY_8DtNzCxKHGEBVXpY4lV4v2rDip8otcjHO_RvhR6AM5fLeC90AWTAJU-T2eo57Rbn6606JgnAnNa2FU38Rg9g/s1600/090320121581-769284.jpg" "Ilustrace k článku" >}}</div>
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKfSf0Er0jg6_Xn5x6zQEM6_vRsHer70xF-MWvfyuKTmKmOwsJRJR8WkHIp_pCrmrMXwxtdBcVtRAzm7RV3yQnk1wFHVZL2PD0ihzCpYZkrNwfJMc6aTnECVhJcOkLXXTaQECkRjMkPg/s1600/090320121579-771018.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5717946534130923314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKfSf0Er0jg6_Xn5x6zQEM6_vRsHer70xF-MWvfyuKTmKmOwsJRJR8WkHIp_pCrmrMXwxtdBcVtRAzm7RV3yQnk1wFHVZL2PD0ihzCpYZkrNwfJMc6aTnECVhJcOkLXXTaQECkRjMkPg/s320/090320121579-771018.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKfSf0Er0jg6_Xn5x6zQEM6_vRsHer70xF-MWvfyuKTmKmOwsJRJR8WkHIp_pCrmrMXwxtdBcVtRAzm7RV3yQnk1wFHVZL2PD0ihzCpYZkrNwfJMc6aTnECVhJcOkLXXTaQECkRjMkPg/s1600/090320121579-771018.jpg" "Ilustrace k článku" >}}</div>
 <br />
-[<a href="https://photos.app.goo.gl/RHasHt8e5ZeRYV1RA" target="_blank">víc fotek</a>] [<a href="https://plus.google.com/photos/108075680381182885471/albums/5720911099662413889" target="_blank">detaily</a>]<br />
+[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">víc fotek</a>] [<a href="https://plus.google.com/photos/108075680381182885471/albums/5720911099662413889" target="_blank">detaily</a>]<br />
 <br />
 <i>Nejprve fakta a zjištění:</i><br />
 Baterie LiFePO4 plně nahradí klasické olověné gelové baterie, ale jsou výrazně menší a zvládají větší startovací proud. Kdo by nechtěl mít pod sedlem vedle baterky místo ještě na lékárničku, nicht wahr? Viz. <a href="http://www.zavodnibaterie.cz/">http://www.zavodnibaterie.cz/</a><br />

@@ -24,3 +24,14 @@
     display: block !important;
 }
 
+/* Odstranění rámečků u starých obrázkových tabulek z Bloggeru (obě varianty) */
+.post-content table.tr-caption-container,
+.post-content table.tr-caption-container th,
+.post-content table.tr-caption-container td,
+.post-content table[align="center"],
+.post-content table[align="center"] th,
+.post-content table[align="center"] td {
+    border: none !important;
+    background: transparent !important;
+    margin: 0 auto !important;
+}

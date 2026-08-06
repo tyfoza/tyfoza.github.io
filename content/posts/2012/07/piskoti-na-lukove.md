@@ -2,6 +2,7 @@
 title: "Piškoti na Lukově"
 date: 2012-07-16T16:00:00.003Z
 url: "/posts/2012/07/piskoti-na-lukove/"
+summary: "[ fotky ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2012/07/piskoti-na-lukove.html"

@@ -2,15 +2,16 @@
 title: "ŠKAUTFský den v Uherském Brodě"
 date: 2014-09-20T19:18:00.001Z
 url: "/posts/2014/09/skautfsky-den-v-uherskem-brode/"
+summary: "fotky: Elen Sladká[ 1 ], Andy[ 2 ], Tyf[ 3 ], Sášenka[ 4 ] Jaký byl 1. ŠKAUTFský den v Uherském Brodě? Především slunečný a nesmírně zábavný. Tři století Kouniců vyplnilo celé Tyršovy sady aktivitami pro všechny věkové kategorie dětí a mládeže. Spousta herních aktivit měla premiéru a byla znát aplikace zážitkové pedagogiky v praxi. To Tenebrae Fascarum[ 5 ] umí skvěle. Ptáte se, co že je to ŠKAUTF? Inu, to je funkční propojení organizací pracujících pro mládež a s mládeží působících v Uherském Brodě, které synergicky zúročuje materiální vybavení, personální zajištění a hlavně know how každého spolku. ŠKAUTF = ŠKUB, SKAUT a TF = Tenebrae Fascarum Š ermířský k lub U herský Brod[ 6 ] – šermíři Skaut i – středisko prvních moravských junáků Uherský Brod T enebrae Fa scar u m[ 7 ] – zážitková pedagogika, adaptační kurzy a preventivní programy v praxi"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjzHkxz-ZmZt0emLadvBEpm5sa72tu8Nr7_a3VgNHo19Azg6mrqmw62pDt6uH4t6vDJZcaKZER6-ckUe4g0AuIpVcVg9gjKuaKPq875aegei3yTCSYoQqi9wAV6iVvcymeZmmBOZ02cXya/s1600/Den+%C5%A0KAUTF+2014.jpg"
-tags: ["Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2014/09/skautfsky-den-v-uherskem-brode.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjzHkxz-ZmZt0emLadvBEpm5sa72tu8Nr7_a3VgNHo19Azg6mrqmw62pDt6uH4t6vDJZcaKZER6-ckUe4g0AuIpVcVg9gjKuaKPq875aegei3yTCSYoQqi9wAV6iVvcymeZmmBOZ02cXya/s1600/Den+%C5%A0KAUTF+2014.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjzHkxz-ZmZt0emLadvBEpm5sa72tu8Nr7_a3VgNHo19Azg6mrqmw62pDt6uH4t6vDJZcaKZER6-ckUe4g0AuIpVcVg9gjKuaKPq875aegei3yTCSYoQqi9wAV6iVvcymeZmmBOZ02cXya/s1600/Den+%C5%A0KAUTF+2014.jpg" width="450" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjzHkxz-ZmZt0emLadvBEpm5sa72tu8Nr7_a3VgNHo19Azg6mrqmw62pDt6uH4t6vDJZcaKZER6-ckUe4g0AuIpVcVg9gjKuaKPq875aegei3yTCSYoQqi9wAV6iVvcymeZmmBOZ02cXya/s1600/Den+%C5%A0KAUTF+2014.jpg" "Ilustrace k článku" "450" >}}</div>
 fotky: Elen Sladká[<a href="http://elenkas.rajce.idnes.cz/Tri_stoleti_Kounicu_2014/" target="_blank">1</a>], Andy[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">2</a>], Tyf[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">3</a>], Sášenka[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">4</a>]<br />
 <br />
 Jaký byl 1. ŠKAUTFský den v Uherském Brodě? Především slunečný a nesmírně zábavný. Tři století Kouniců vyplnilo celé Tyršovy sady aktivitami pro všechny věkové kategorie dětí a mládeže. Spousta herních aktivit měla premiéru a byla znát aplikace zážitkové pedagogiky v praxi. To Tenebrae Fascarum[<a href="http://www.fascar.tym.cz/" target="_blank">5</a>] umí skvěle.<br />

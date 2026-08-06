@@ -2,6 +2,7 @@
 title: "Vadný zadní tlumič..."
 date: 2014-06-21T17:56:00Z
 url: "/posts/2014/06/vadny-zadni-tlumic/"
+summary: "Jak se pozná na motocyklu vadný zadní tlumič. Extrém je, když tlumič úplně vyteče a pak zadek skáče jen na pružině. Když po stlačení jde nahoru bez zpomalení, je tlumič naprosto nadranc. No prostě přesně jako na videu. Kysinovi se to stalo taky"
 tags: ["Suzuki DL 650 K9", "Video"]
 aliases:
   - "/2014/06/vadny-zadni-tlumic.html"

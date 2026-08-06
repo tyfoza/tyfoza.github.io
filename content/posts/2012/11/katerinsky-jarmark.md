@@ -2,9 +2,10 @@
 title: "Kateřinský jarmark"
 date: 2012-11-23T21:27:00.001Z
 url: "/posts/2012/11/katerinsky-jarmark/"
+summary: "Sedmý ročník tradiční akce, aneb jarmark na jediný den. Kulturní program od 15h zakončený slavnostním rozsvícením vánočního stromu, ohňostrojem a ohnivou show. Měli jsme to štěstí, že Město Uherský Brod pozvalo k účinkování i náš Šermířský Klub. Naše vystoupení bylo krom šermu o střílení z palných zbraní, takže jsme se neděsili jenom my, ale i diváci a zvláště ti nejmenší. Naše Městská hlídka provedla několikerou pochůzku jarmarečním mumrajem, přičemž byly řádně rozděleny „náborky,“ tedy náborové letáky. Uvidíme zda se přihlásí nějaký ten dobrovolník."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_sYo_zisNnMxuadlQULS-aYhm5bOqO9pDYf6uV0Q46B0EA8whdOxuM2SSn3hBCTICnklgILUkhfMvSh3ZSI9PeFa70xrYFPbCavtXU8K5FxhgeOPy5aZwDySYV-u7m7MKGf35seNzVg/s640/letak+hlidka.jpg"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení", "Video"]
 aliases:
   - "/2012/11/katerinsky-jarmark.html"
 ---
@@ -14,5 +15,5 @@ aliases:
 Sedmý ročník tradiční akce, aneb jarmark na jediný den. Kulturní program od 15h zakončený slavnostním rozsvícením vánočního stromu, ohňostrojem a ohnivou show. Měli jsme to štěstí, že Město Uherský Brod pozvalo k účinkování i náš Šermířský Klub. Naše vystoupení bylo krom šermu o střílení z palných zbraní, takže jsme se neděsili jenom my, ale i diváci a zvláště ti nejmenší.<br />
 Naše Městská hlídka provedla několikerou pochůzku jarmarečním mumrajem, přičemž byly řádně rozděleny „náborky,“ tedy náborové letáky. Uvidíme zda se přihlásí nějaký ten dobrovolník.<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_sYo_zisNnMxuadlQULS-aYhm5bOqO9pDYf6uV0Q46B0EA8whdOxuM2SSn3hBCTICnklgILUkhfMvSh3ZSI9PeFa70xrYFPbCavtXU8K5FxhgeOPy5aZwDySYV-u7m7MKGf35seNzVg/s1600/letak+hlidka.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="182" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_sYo_zisNnMxuadlQULS-aYhm5bOqO9pDYf6uV0Q46B0EA8whdOxuM2SSn3hBCTICnklgILUkhfMvSh3ZSI9PeFa70xrYFPbCavtXU8K5FxhgeOPy5aZwDySYV-u7m7MKGf35seNzVg/s640/letak+hlidka.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_sYo_zisNnMxuadlQULS-aYhm5bOqO9pDYf6uV0Q46B0EA8whdOxuM2SSn3hBCTICnklgILUkhfMvSh3ZSI9PeFa70xrYFPbCavtXU8K5FxhgeOPy5aZwDySYV-u7m7MKGf35seNzVg/s1600/letak+hlidka.jpg" "Ilustrace k článku" "640" >}}</div>
 <br />

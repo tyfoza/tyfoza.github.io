@@ -2,7 +2,8 @@
 title: "Pozvánka na vernisáž - Ano v bílém?"
 date: 2013-04-12T10:59:00Z
 url: "/posts/2013/04/pozvanka-na-vernisaz/"
-tags: ["Video", "Tak jde čas"]
+summary: "Přijďte se podívat na Ano v bílém viz.[ 1 ] Vernisáž 19.4.2013 v 17h. přidáno 22.4.2013 Zpráva a fotografie z vernisáže [ 2 ] pozn. autorka obou videospotů je Maruška Římovská přidáno 29.4. 20 13 [ fotky ] z verni sáže"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2013/04/pozvanka-na-vernisaz.html"
 ---

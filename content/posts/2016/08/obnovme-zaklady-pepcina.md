@@ -2,6 +2,7 @@
 title: "Obnovme základy Pepčína..."
 date: 2016-08-28T10:00:00Z
 url: "/posts/2016/08/obnovme-zaklady-pepcina/"
+summary: "Docela rozsáhlý projekt - obnovme základy Pepčína - práce pokračují - projekt [ 1 ] - video [ 2 ] jak se začínalo - aktuální zprávy ze Slováckého deníku [ 3 ] Hrabě Václav z Kounic s chotí Josefou, na příjemné vycházce, byli se podívat, jak práce pokračují a zda opravdu léta Páně 1905 opravdu lovecký zámeček Obora slavnostně otevřeme. Základy už stojí. Koho zajímají podrobnosti o historii stavby a její zkázy, odkazuji na bakalářskou práci Historie zámečku Obora viz [ 4 ]. Je to zajímavé čtení."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-jn_83nY4YzsQv7aOlrbZTjteUJrI_JsH6I6SwKWh9DvuupE5TKHCLYHjmrUx5ZqM6o3Fra89sgfODHYCQZCVUZnjADxjH7fdwEeVi1Oh80jCWywbBiGZ_iEoPNX-g47C11YSaEl94Tw/s320/20160828_115727.jpg"
 tags: ["Šerm"]
@@ -10,10 +11,10 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-jn_83nY4YzsQv7aOlrbZTjteUJrI_JsH6I6SwKWh9DvuupE5TKHCLYHjmrUx5ZqM6o3Fra89sgfODHYCQZCVUZnjADxjH7fdwEeVi1Oh80jCWywbBiGZ_iEoPNX-g47C11YSaEl94Tw/s1600/20160828_115727.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-jn_83nY4YzsQv7aOlrbZTjteUJrI_JsH6I6SwKWh9DvuupE5TKHCLYHjmrUx5ZqM6o3Fra89sgfODHYCQZCVUZnjADxjH7fdwEeVi1Oh80jCWywbBiGZ_iEoPNX-g47C11YSaEl94Tw/s320/20160828_115727.jpg" width="240" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-jn_83nY4YzsQv7aOlrbZTjteUJrI_JsH6I6SwKWh9DvuupE5TKHCLYHjmrUx5ZqM6o3Fra89sgfODHYCQZCVUZnjADxjH7fdwEeVi1Oh80jCWywbBiGZ_iEoPNX-g47C11YSaEl94Tw/s1600/20160828_115727.jpg" "Ilustrace k článku" "240" >}}</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhABImhuPl9LK5K_KpwQsGUfN4PIeHdkzazV6bBsSClCwhfsZy7LN3qPgujv7DdMreFt2gPEVOigFMIyrVa1SES7URrARQkfJx7tbnTA4hlbJOt0uNQHTZakd11O06BAkZYoOshPGuHy4_m/s1600/20160828_124654.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhABImhuPl9LK5K_KpwQsGUfN4PIeHdkzazV6bBsSClCwhfsZy7LN3qPgujv7DdMreFt2gPEVOigFMIyrVa1SES7URrARQkfJx7tbnTA4hlbJOt0uNQHTZakd11O06BAkZYoOshPGuHy4_m/s640/20160828_124654.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhABImhuPl9LK5K_KpwQsGUfN4PIeHdkzazV6bBsSClCwhfsZy7LN3qPgujv7DdMreFt2gPEVOigFMIyrVa1SES7URrARQkfJx7tbnTA4hlbJOt0uNQHTZakd11O06BAkZYoOshPGuHy4_m/s1600/20160828_124654.jpg" "Ilustrace k článku" "640" >}}</div>
 <br />
 Docela rozsáhlý projekt - obnovme základy Pepčína - práce pokračují<br />
 - projekt [<a href="http://www.gjak.cz/index.php/archiv/7895" target="_blank">1</a>]<br />

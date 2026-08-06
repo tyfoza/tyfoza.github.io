@@ -2,6 +2,7 @@
 title: "Den desátý..."
 date: 2016-05-11T21:00:00Z
 url: "/posts/2016/05/den-desaty/"
+summary: "Zapomněl jsem napsat. Včera Saint-Tropez mě trochu zklamalo. Čekal jsem Bánov u moře a ony to byly Kunovice! Dlužno podotknout, že když jedeme v teplotách 15-19 stupňů po dálnici, tak pocitová teplota je aspoň o 10 stupňů menší. Takže pro představu je člověk oblečený tak, aby mohl v 5-9 stupních sedět v parku na lavičce půl dne vkuse a bylo mu příjemně. Opravdu mám na celý výlet k moři motocyklovu bundu a pod ní modrou zimní bundu na lyžovaní a velmi teplotou bundu Jagermaister. V noci nám poprvé nepřišla směšná Cimrmanova hra Lijavec, kterou jsme si pustili před usnutím. Stan funguje skvěle. Vyšponovaný gumicuky k motorce, protože na zatloukání stanových kolíků do asfaltu a do betonu nejsme vybavení. Zatím. Travnaté plácky i hliněné na stany tady jsou, ale kdo by pak ten špinavý stan balil, nicht wahr? Pršelo neskutečně silně a dul silný vichr z hor. Ráno je nebe s mrakem, ale nad..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9dFaTtqaQShqqHeWazLvLunjMijn9TKENfmgp6rmUYUm9rnY8MuDvuLLAjAvK1k4zeMW9qOQ6FR57px9XtqsCNxwrLRbz_i65flxGU9v2daMvFrsIhrVJbyGwoNfcE7R9acQY6cexnf1/s320/20160511_113926%25281%2529-769722.jpg"
 tags: ["Cesty - 2016 Španělsko"]
@@ -11,7 +12,7 @@ aliases:
 
 <div class="mobile-photo">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9dFaTtqaQShqqHeWazLvLunjMijn9TKENfmgp6rmUYUm9rnY8MuDvuLLAjAvK1k4zeMW9qOQ6FR57px9XtqsCNxwrLRbz_i65flxGU9v2daMvFrsIhrVJbyGwoNfcE7R9acQY6cexnf1/s1600/20160511_113926%25281%2529-769722.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6283555064295710674" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9dFaTtqaQShqqHeWazLvLunjMijn9TKENfmgp6rmUYUm9rnY8MuDvuLLAjAvK1k4zeMW9qOQ6FR57px9XtqsCNxwrLRbz_i65flxGU9v2daMvFrsIhrVJbyGwoNfcE7R9acQY6cexnf1/s320/20160511_113926%25281%2529-769722.jpg" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj53Fxj7tOq5B2beceItLqRLUiLhTu_1teUaZb43OxEGQSHsDcXbvkFKa2FDBtma-j-ndZACpehhfsZClIOVcgt7TBYL4TwRVh4Lr2OjaLwxV-BppfuqB268q48Hu01AlUF8upeG6D-0qoP/s1600/20160511_112731-767634.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6283555063661902402" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj53Fxj7tOq5B2beceItLqRLUiLhTu_1teUaZb43OxEGQSHsDcXbvkFKa2FDBtma-j-ndZACpehhfsZClIOVcgt7TBYL4TwRVh4Lr2OjaLwxV-BppfuqB268q48Hu01AlUF8upeG6D-0qoP/s320/20160511_112731-767634.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9dFaTtqaQShqqHeWazLvLunjMijn9TKENfmgp6rmUYUm9rnY8MuDvuLLAjAvK1k4zeMW9qOQ6FR57px9XtqsCNxwrLRbz_i65flxGU9v2daMvFrsIhrVJbyGwoNfcE7R9acQY6cexnf1/s1600/20160511_113926%25281%2529-769722.jpg" "Ilustrace k článku" >}}{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj53Fxj7tOq5B2beceItLqRLUiLhTu_1teUaZb43OxEGQSHsDcXbvkFKa2FDBtma-j-ndZACpehhfsZClIOVcgt7TBYL4TwRVh4Lr2OjaLwxV-BppfuqB268q48Hu01AlUF8upeG6D-0qoP/s1600/20160511_112731-767634.jpg" "Ilustrace k článku" >}}</div>
 </div>
 <div class="mobile-photo">
 </div>

@@ -2,9 +2,10 @@
 title: "Výstřel"
 date: 2014-04-28T07:57:00Z
 url: "/posts/2014/04/vystrel/"
+summary: "křesadlová puška vzor 1722 viz. [ 1 ][ 2 ] a takto nenápadně vypadá kamera na čáce chorvatského hraničáře"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSIhmuGErD590vep3ZCjdV7LslVUem-vPqpHNeMFszUWK6WwhSYtijIh-UgPY8wuuHIKQONdpTrv1c11y5yBy1cgztZRGO4wevAkg7OGbOlo9CwAvVEE1bZ9dBw8srcwwGI2kU1UYRbVC/s1600/vlcsnap-2014-04-28-23h13m13s72.jpg"
-tags: ["Video", "Šerm"]
+tags: ["Šerm", "Video"]
 aliases:
   - "/2014/04/vystrel.html"
 ---
@@ -15,5 +16,5 @@ aliases:
 křesadlová puška vzor 1722 viz. [<a href="/posts/2011/04/prvni-test-kresadlovych-pusek-vzor-1722/" target="_blank">1</a>][<a href="/posts/2011/02/kresadlova-puska-vzor-1722/" target="_blank">2</a>]<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSIhmuGErD590vep3ZCjdV7LslVUem-vPqpHNeMFszUWK6WwhSYtijIh-UgPY8wuuHIKQONdpTrv1c11y5yBy1cgztZRGO4wevAkg7OGbOlo9CwAvVEE1bZ9dBw8srcwwGI2kU1UYRbVC/s1600/vlcsnap-2014-04-28-23h13m13s72.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSIhmuGErD590vep3ZCjdV7LslVUem-vPqpHNeMFszUWK6WwhSYtijIh-UgPY8wuuHIKQONdpTrv1c11y5yBy1cgztZRGO4wevAkg7OGbOlo9CwAvVEE1bZ9dBw8srcwwGI2kU1UYRbVC/s1600/vlcsnap-2014-04-28-23h13m13s72.jpg" height="163" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSIhmuGErD590vep3ZCjdV7LslVUem-vPqpHNeMFszUWK6WwhSYtijIh-UgPY8wuuHIKQONdpTrv1c11y5yBy1cgztZRGO4wevAkg7OGbOlo9CwAvVEE1bZ9dBw8srcwwGI2kU1UYRbVC/s1600/vlcsnap-2014-04-28-23h13m13s72.jpg" "Ilustrace k článku" "320" >}}</div>
 a takto nenápadně vypadá kamera na čáce chorvatského hraničáře</div>

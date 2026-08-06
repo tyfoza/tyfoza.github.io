@@ -2,7 +2,8 @@
 title: "Přijďte na hostinu..."
 date: 2016-07-27T21:46:00.002Z
 url: "/posts/2016/07/prijdte-na-hostinu/"
-tags: ["Video", "Tak jde čas"]
+summary: "historická hostina v muzeu podruhé... Plakát [ 1 ] na muzejním webu a ohlédnutí, jak se podařila hostina minulá viz [ 2 ]. Tentokrát velkolepěji, chutněji a stále autenticky a edukačně."
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2016/07/prijdte-na-hostinu.html"
 ---

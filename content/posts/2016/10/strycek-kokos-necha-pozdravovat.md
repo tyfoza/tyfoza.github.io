@@ -2,6 +2,7 @@
 title: "Strýček Kokos nechá pozdravovat..."
 date: 2016-10-05T21:49:00Z
 url: "/posts/2016/10/strycek-kokos-necha-pozdravovat/"
+summary: ""
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/10/strycek-kokos-necha-pozdravovat.html"

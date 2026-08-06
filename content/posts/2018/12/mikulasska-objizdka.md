@@ -2,6 +2,7 @@
 title: "Mikulášská objížďka..."
 date: 2018-12-05T22:07:00.001Z
 url: "/posts/2018/12/mikulasska-objizdka/"
+summary: "[ fotky ] Elen Sladká [ fotky ]"
 tags: ["Šerm"]
 aliases:
   - "/2018/12/mikulasska-objizdka.html"

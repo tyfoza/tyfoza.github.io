@@ -2,6 +2,7 @@
 title: "Den pátý..."
 date: 2016-05-06T19:38:00Z
 url: "/posts/2016/05/den-paty/"
+summary: "Ranní balení a dopolední odjezd. Celou noc pršelo a tak balíme mokrý stan. Do Fátimy to máme jen asi 422km. To stíháme za pár hodin a tak se můžeme v Portugalsku zastavit na pár místech. Pevnost - Castelo de Guimarães, tady se narodil Alfons I. To ví každý šermíř český. Ty další věci už musíme pohledat. Celá spletitost počátku Portugalské nezávislosti je populárně naučnou formou popsána tady: http://goo.gl/OLRyu6 Beckov je proti tomu místu velkohrad. Sášenka to proběhala celé a oznámila, že chápe, že se tady Alfonso I. jen narodil. Žít šel jinam. Je to hrad 1H+KK. Komínový krb. Ten tam je. Celou dobu je skotných 12 stupňů a vytrvale prší. Inu, dovolená k moři. Kdo v sem jel v srpnu. Po dálnicích to ubíhá rychle. Držím to v hustém dešti do 147km/h. Mitas E07 má vzorek do vody tak akorát. Další zastávka. Porto. Námořnické městečko, místo spojené s portským vínem a nejslavnější knihovnou..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithH7ijWq4rGsUk1ii5PUFVR5ccI9eQ877NlAsibi3cdIJe1rz8Q4Vo06EVlkM3iLJ3qGbZUdm0yPBv2lmX7LypdoFKx2wYGP1BAR4Rf7pe-ALOsc5bKMEihzPCToyIlQMQpl77u7F_TH4/s320/WP_20160506_001-747128.jpg"
 tags: ["Cesty - 2016 Španělsko"]
@@ -13,11 +14,11 @@ aliases:
 </div>
 <div class="mobile-photo">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithH7ijWq4rGsUk1ii5PUFVR5ccI9eQ877NlAsibi3cdIJe1rz8Q4Vo06EVlkM3iLJ3qGbZUdm0yPBv2lmX7LypdoFKx2wYGP1BAR4Rf7pe-ALOsc5bKMEihzPCToyIlQMQpl77u7F_TH4/s1600/WP_20160506_001-747128.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6281662611078568146" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithH7ijWq4rGsUk1ii5PUFVR5ccI9eQ877NlAsibi3cdIJe1rz8Q4Vo06EVlkM3iLJ3qGbZUdm0yPBv2lmX7LypdoFKx2wYGP1BAR4Rf7pe-ALOsc5bKMEihzPCToyIlQMQpl77u7F_TH4/s320/WP_20160506_001-747128.jpg" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEZqPvL7OIyFNgmiVCrqnv5T8pBrtQJeo90Lnp-87b8oooMIIBmTTuRxu7skZzkMGVEAbJoXp2DxUmv3c-3M1Zx3q9ZTxQzhiL-YrX6oHzZAZN-neNXIgfhmlYmrLuMgaypKHp7sj_9KW/s1600/WP_20160506_007-749568.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6281662616234322530" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEZqPvL7OIyFNgmiVCrqnv5T8pBrtQJeo90Lnp-87b8oooMIIBmTTuRxu7skZzkMGVEAbJoXp2DxUmv3c-3M1Zx3q9ZTxQzhiL-YrX6oHzZAZN-neNXIgfhmlYmrLuMgaypKHp7sj_9KW/s320/WP_20160506_007-749568.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithH7ijWq4rGsUk1ii5PUFVR5ccI9eQ877NlAsibi3cdIJe1rz8Q4Vo06EVlkM3iLJ3qGbZUdm0yPBv2lmX7LypdoFKx2wYGP1BAR4Rf7pe-ALOsc5bKMEihzPCToyIlQMQpl77u7F_TH4/s1600/WP_20160506_001-747128.jpg" "Ilustrace k článku" >}}{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEZqPvL7OIyFNgmiVCrqnv5T8pBrtQJeo90Lnp-87b8oooMIIBmTTuRxu7skZzkMGVEAbJoXp2DxUmv3c-3M1Zx3q9ZTxQzhiL-YrX6oHzZAZN-neNXIgfhmlYmrLuMgaypKHp7sj_9KW/s1600/WP_20160506_007-749568.jpg" "Ilustrace k článku" >}}</div>
 </div>
 <div class="mobile-photo">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhXDH-c9n8tD-SfdF7SVDwpLoSiDVqGpX_OvqGaGvZNZggybHjijd2EqbblFct5XVZ6-Iqp67IjsBjRNaMYRVEiQRBqT31namFe77ERCZj2Y77xLgFm0pdzSclvISrl0qPTbZD9fTVdlom/s1600/WP_20160506_017-750771.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6281662621315089346" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhXDH-c9n8tD-SfdF7SVDwpLoSiDVqGpX_OvqGaGvZNZggybHjijd2EqbblFct5XVZ6-Iqp67IjsBjRNaMYRVEiQRBqT31namFe77ERCZj2Y77xLgFm0pdzSclvISrl0qPTbZD9fTVdlom/s320/WP_20160506_017-750771.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhXDH-c9n8tD-SfdF7SVDwpLoSiDVqGpX_OvqGaGvZNZggybHjijd2EqbblFct5XVZ6-Iqp67IjsBjRNaMYRVEiQRBqT31namFe77ERCZj2Y77xLgFm0pdzSclvISrl0qPTbZD9fTVdlom/s1600/WP_20160506_017-750771.jpg" "Ilustrace k článku" >}}</div>
 </div>
 <div>
 <div style="font-family: Calibri,sans-serif; font-size: 11pt;">

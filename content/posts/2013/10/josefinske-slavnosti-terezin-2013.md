@@ -2,7 +2,8 @@
 title: "Josefínské slavnosti, Terezín 2013"
 date: 2013-10-05T20:33:00.001Z
 url: "/posts/2013/10/josefinske-slavnosti-terezin-2013/"
-tags: ["Šerm.bitva", "Šerm", "Šerm.sedmiletka"]
+summary: "autor videa Pavel Beránek Období sedmileté války[ 1 ] jsme si vybrali proto, že bitvy sedmileté války jsou již pár let v Česku docela v kurzu. Pořádají se i dvě bitvy ročně a každých pět let tři. Letošní Josefínské slavnosti v Terezíně byly impozantní. Sešlo se na čtyři sta vojáků, dělostřelci a dvacet jízdních husarů. Informace a fotogalerie od povolanějších viz. [ 2 ][ 3 ][ 4 ]. Fotky od nás viz. [ 5 ][ 6 ][ 7 ]. Další video viz [ 8 ]"
+tags: ["Šerm", "Šerm.bitva", "Šerm.sedmiletka"]
 aliases:
   - "/2013/10/josefinske-slavnosti-terezin-2013.html"
 ---

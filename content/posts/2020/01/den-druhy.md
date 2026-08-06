@@ -2,6 +2,7 @@
 title: "Den druhý..."
 date: 2020-01-20T18:50:00.001Z
 url: "/posts/2020/01/den-druhy/"
+summary: "Santa Cruz de la Sierra: Let dobrý. Jedenáct a půl hodiny v letadle. Palubní obrazovka se chlubila, že letíme rychlostí 1050km/h. Já jsem naměřil 997km/h. Moc se mně nezdá, že by Boeing lítal mach1. Roste ve mně pocit, že podle toho, co tady jezdí za káry emisním očištěním celé Evropy planetu nezachráníme. Toyota ve které jedeme z letiště měla své nejlepší roky za sebou už v divokých devadesátých. Učím se místní pravidla. Červená na semaforu znamená zpomal. Absence pružení na straně spolujezdce znamená, že na panelové cestě skáčeme jen 80km/h. Ať autu nekřivdím, je možné, že na pravé straně má sportovní podvozek a na levé terénní. V Santa Cruz de la Sierra mám ubytování u Noela, otce Diegova. Už tady mám prvního kamaráda, říkám mu comandante america, má pět let na triku znak marvelovského hrdiny a řádili jsme od rána. Bylo mu pět a chodí do školy. Tady děti jdou povinně v pěti letech,..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-druhy.html"

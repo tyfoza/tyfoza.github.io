@@ -2,7 +2,8 @@
 title: "Karneval pro tříkrálové koledníčky UB"
 date: 2013-01-27T19:55:00.002Z
 url: "/posts/2013/01/karneval-pro-trikralove-kolednicky-ub/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ fotky ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2013/01/karneval-pro-trikralove-kolednicky-ub.html"
 ---

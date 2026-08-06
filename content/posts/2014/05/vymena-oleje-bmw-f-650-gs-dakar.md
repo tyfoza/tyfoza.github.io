@@ -2,6 +2,7 @@
 title: "Výměna oleje BMW F 650 GS Dakar"
 date: 2014-05-29T13:58:00Z
 url: "/posts/2014/05/vymena-oleje-bmw-f-650-gs-dakar/"
+summary: "ocelové střepiny v oleji a na magnetu vypouštěcího šroubu, to je rys a nikoli problém motoru Rotax [ fotky ] Naše poprvé, aneb první výměna oleje bez zkušeností s motorem Rotax s oddělenou olejovou nádržkou. Postupujeme podle servisní příručky[ 1 ] BMW str. 34-35. Sundat plasty z imitace nádrže, sundat dole kryt motoru. Zahřát motor na provozní teplotu. Uvolnit nádržku olejovou, která drží na třech bodech. Sundat víčko, vyšroubovat vypouštěcí šroub a vypustit z olejové nádržky olej. Vyšroubovat vypouštěcí šroub oleje dole na motoru, matka 24mm – pozor! hliníkový šroub, takže opatrně. Vypustit olej z motoru. Dostat se k olejovému filtru. U nás to znamená sundat cívku zapalování * tlakovou nádobku zadního tlumiče, sundat kryt řetězového kolečka, který drží na třech šroubech. Nahoře inbus, dole dvakrát torx. Povolit tři šrouby krytu olejového filtru, sundat víčko, vyjmout filtr. Nový filtr..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOPlcUL2_wcUCpgU0E9Tts01E8SMp2Af-p3T6ra3PPY8g2Iz5FY2lYCXPGl_6TZqFdjnPtBJZ0OIX9mTwdocJTDmIm6sHgccLiN45FXNV28GFG4pWAE-kZbOXsQ94qjftydfRIpvUEdje7/s1600/WP_20140529_001.jpg"
 tags: ["BMW F 650 GS Dakar"]
@@ -9,8 +10,8 @@ aliases:
   - "/2014/05/vymena-oleje-bmw-f-650-gs-dakar.html"
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOPlcUL2_wcUCpgU0E9Tts01E8SMp2Af-p3T6ra3PPY8g2Iz5FY2lYCXPGl_6TZqFdjnPtBJZ0OIX9mTwdocJTDmIm6sHgccLiN45FXNV28GFG4pWAE-kZbOXsQ94qjftydfRIpvUEdje7/s1600/WP_20140529_001.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOPlcUL2_wcUCpgU0E9Tts01E8SMp2Af-p3T6ra3PPY8g2Iz5FY2lYCXPGl_6TZqFdjnPtBJZ0OIX9mTwdocJTDmIm6sHgccLiN45FXNV28GFG4pWAE-kZbOXsQ94qjftydfRIpvUEdje7/s1600/WP_20140529_001.jpg" height="400" width="640" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOPlcUL2_wcUCpgU0E9Tts01E8SMp2Af-p3T6ra3PPY8g2Iz5FY2lYCXPGl_6TZqFdjnPtBJZ0OIX9mTwdocJTDmIm6sHgccLiN45FXNV28GFG4pWAE-kZbOXsQ94qjftydfRIpvUEdje7/s1600/WP_20140529_001.jpg" "Ilustrace k článku" "640" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">ocelové střepiny v oleji a na magnetu vypouštěcího šroubu, to je rys a nikoli problém motoru Rotax</td></tr>
 </tbody></table>
 <span style="text-align: justify;">[</span><a href="https://sites.google.com/view/tyfotoza/" style="text-align: justify;" target="_blank">fotky</a><span style="text-align: justify;">]</span><br />

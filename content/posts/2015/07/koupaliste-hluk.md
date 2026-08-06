@@ -2,6 +2,7 @@
 title: "Koupaliště Hluk..."
 date: 2015-07-27T20:38:00.003Z
 url: "/posts/2015/07/koupaliste-hluk/"
+summary: "nerezové koupaliště[ 1 ] Hluk; kamera: Véna"
 tags: ["Tak jde čas"]
 aliases:
   - "/2015/07/koupaliste-hluk.html"

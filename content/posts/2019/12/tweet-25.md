@@ -2,6 +2,7 @@
 title: "Tweet"
 date: 2019-12-29T18:12:00Z
 url: "/posts/2019/12/tweet-25/"
+summary: "[ všechny tweety ] [ hledat @tyfoza ] [ zkracovač odkazů ] Tweets by @tyfoza !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");"
 aliases:
   - "/p/tweet_25.html"
 ---

@@ -2,7 +2,8 @@
 title: "Piškot Kuba 5 let a jiné veselosti"
 date: 2012-04-22T21:30:00Z
 url: "/posts/2012/04/piskot-kuba-5-let-jine-veselosti/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ fotky ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/04/piskot-kuba-5-let-jine-veselosti.html"
 ---

@@ -2,7 +2,8 @@
 title: "XII. Hudební podvečer s orchestrem Stanislava Sládka"
 date: 2012-11-16T19:00:00Z
 url: "/posts/2012/11/xii-hudebni-podvecer-s-orchestrem/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ fotky ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/11/xii-hudebni-podvecer-s-orchestrem.html"
 ---

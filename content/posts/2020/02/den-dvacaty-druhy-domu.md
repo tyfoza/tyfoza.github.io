@@ -2,6 +2,7 @@
 title: "Den dvacátý druhý, domů..."
 date: 2020-02-09T20:05:00.001Z
 url: "/posts/2020/02/den-dvacaty-druhy-domu/"
+summary: "[ fotky ] všechny fotky, lepší ale je dívat se alba uvedená pod každým dnem. Tahle najednou jich bude zbytečně moc a možná nebudou tak zajímavé. U fotek jsou textové popisky. Trabalengua=jazykolam: Tres tristes tigres tragan en un trigal. Balení kufru Sofistikovaným tlakem, vyhrožováním, třepáním a dvěmi silnými kurtnami se podařilo zvítězit, kufr zavřít a později i zapnout. Na letišti dostal obrovský balík plastové fólie, tak myslím, že vydrží. Vešlo se opravdu mnoho stlačitelných krabic maté de coca pura=čaj z čisté koky. Motoboty vycpané suvenýry, motobundu a další krámy mám v kabinovém zavazadle, kterému rozměrově přesně odpovídá velká pevná Lidl taška. Poslední společný oběd s přáteli motocyklisty, malou Ariane, kterou jsem se snažil naučil říct tío Tyf. Juan de Dios si přinesl tak obrovský burger, že musí mít kuchyni pracovní název - mierda con guitarra. Na cestu do baťůžku si..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-S7HqgdGIBI2KTQMCunDIJjn3IPyikufO44itys4w9B6EKsZ-_dPHEJyArtYolWVXfEF4eqYx-mtKm4VX7jcVmDpZtDRZtqL_BnOcQEh9eT2-RUVGKNQrzehfoj9aV_Gpp_1_Tsrps0pq/s640/Screenshot_20200213-212445_Maps.jpg"
 tags: ["Cesty - 2020 Bolívie"]
@@ -11,7 +12,7 @@ aliases:
 
 <div dir="auto">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-S7HqgdGIBI2KTQMCunDIJjn3IPyikufO44itys4w9B6EKsZ-_dPHEJyArtYolWVXfEF4eqYx-mtKm4VX7jcVmDpZtDRZtqL_BnOcQEh9eT2-RUVGKNQrzehfoj9aV_Gpp_1_Tsrps0pq/s1600/Screenshot_20200213-212445_Maps.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1334" data-original-width="1527" height="558" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-S7HqgdGIBI2KTQMCunDIJjn3IPyikufO44itys4w9B6EKsZ-_dPHEJyArtYolWVXfEF4eqYx-mtKm4VX7jcVmDpZtDRZtqL_BnOcQEh9eT2-RUVGKNQrzehfoj9aV_Gpp_1_Tsrps0pq/s640/Screenshot_20200213-212445_Maps.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-S7HqgdGIBI2KTQMCunDIJjn3IPyikufO44itys4w9B6EKsZ-_dPHEJyArtYolWVXfEF4eqYx-mtKm4VX7jcVmDpZtDRZtqL_BnOcQEh9eT2-RUVGKNQrzehfoj9aV_Gpp_1_Tsrps0pq/s1600/Screenshot_20200213-212445_Maps.jpg" "Ilustrace k článku" "640" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <br />

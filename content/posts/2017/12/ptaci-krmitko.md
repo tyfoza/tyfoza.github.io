@@ -2,6 +2,7 @@
 title: "Ptačí krmítko..."
 date: 2017-12-13T16:16:00.001Z
 url: "/posts/2017/12/ptaci-krmitko/"
+summary: "prohlize nepodporuje VIDEO HTML5 Další návštěvy v našem krmítku viz [ KRMITKO ]"
 tags: ["Počítače"]
 aliases:
   - "/2017/12/ptaci-krmitko.html"

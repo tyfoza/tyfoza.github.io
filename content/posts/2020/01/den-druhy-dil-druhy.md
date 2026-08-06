@@ -2,6 +2,7 @@
 title: "Den druhý, díl druhý..."
 date: 2020-01-21T03:14:00.001Z
 url: "/posts/2020/01/den-druhy-dil-druhy/"
+summary: "Zajímavosti: Nejsou tady čtvrti bohatých nebo chudých, všichni žijí a staví pohromadě. Vedle nádherné vily stojí opravdu chudobné domečky s obřím dvorem a několika rodinami, které tam žijí. Pak stojí totálně vybydlený krámek a dívám se, čtu a ona je to lékárna. Pro motorku se vezu na motorce, nějaká dvěstěpadesátky, což je tady spíš větší kubatura. Protože s helmou v ruce a v moto oblečení opravdu není problém přistoupit k někomu, kdo zatím jede sám a protože jsem větší a on jede směrem, kterým potřebuju, tak se vezu. Je to zážitek a učím se místní pravidla, zatím to vypadá, že jsou zvyková. Na motorce se držím zuby nehty, protože jednou rukou fotím. Nemít boty, tak mám prsty od nohou omotané kolem zadních stupaček jako opička kolem větve stromu. V době, kdy by našinec dávno dobržďoval, tak můj řidič ještě brzdit nezačal. A pak to zašlápne. Doufám, že zadní svařenec trubek, sloužící..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-druhy-dil-druhy.html"

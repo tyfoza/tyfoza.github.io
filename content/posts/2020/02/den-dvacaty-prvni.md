@@ -2,6 +2,7 @@
 title: "Den dvacátý první..."
 date: 2020-02-08T17:36:00.001Z
 url: "/posts/2020/02/den-dvacaty-prvni/"
+summary: "Rozlučkový večer s výborným čistým destilátem z vína. Má 40% a je opravdu chutný. Nejlepší vtip ze Santa Cruz. Camba je jižan, ten co bydlí v Santa Cruz. Colla [čti koľa] je seveřan. A nemají se moc rádi a pořád se dobírají a tropí si ze sebe šprýmy. Vtip: Jsou dva collas a jeden camba u řeky Piraí, který protéká Santa Cruz. A collas/sevařani se chtějí stát jižany/cambas. A místní camba jim říká - když přeplavete řeku Piraí stanete se taky camba. První colla přeplave a je z něj camba. Druhý colla plave, ale nemůže a těsně u druhého břehu se začne topit a prosí svého kamaráda o pomoc. Ale on ho nechá colla utopit, protože je camba. Obecné bolívijské vtipy. Koka se někdy míchá se sodou bikarbonou. A hodně vtipů je na téma, že nahodíš na udičku koku a ryby se vždycky vynoří a poptávají k té koce ještě bikarbonu... Prezentoval jsem dva vtipy posbírané. Nejlepší vtip z hranice Kosova a..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-dvacaty-prvni.html"

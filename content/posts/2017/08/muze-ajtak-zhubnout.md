@@ -2,6 +2,7 @@
 title: "Může „ajťák“ zhubnout?"
 date: 2017-08-05T23:47:00.001Z
 url: "/posts/2017/08/muze-ajtak-zhubnout/"
+summary: "Lidi se mě ptají, jak jsem to udělal. Tak odpovím dvěmi slovy: nízkosacharidové stravování. Tady jsou moje data. V lednu váha 120kg, tedy přímo jateční a klidová tepová frekvence 86. Na začátku srpna ubylo již 32 kilogramů a klidová tepová frekvence slezla na 47. Mít po probuzení tep pod 50 je skvělý pocit. Letos jsem toho moc nezablogoval, místo vysedávání u počítače jsem se trošku věnoval sám sobě. Inu, se čtyřicátým rokem věku se nějaké to retrospektivní hloubavé ohlédnutí očekává. Přečetl jsem knihu Čtyřhodinové tělo od Timothy Ferrise a mohu říci, že mně změnila život. Nemít Chipa, tak ji nepotkám, takže ještě jednou a veřejně díky za prvotní motivaci. Čím víc zjišťuji a čtu o „nízkosacharidu,“ tím více si uvědomuju, že optimální váha je ten nejméně důležitý benefit, který tato změna mému tělu přináší. Úkol Udržet hladinu krevního cukru stabilní a nízkou, aby tam nemusela být..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiChlJFtLCH5VrlEpIjSPDNRu4DcBHgl1iH3x9ke656uN_2Fv8-Ml17LWriWVFh6Qn0UqO9x7qebBVD5KQ7_KeDpYLqM4EsqrcAPfFOhobaNM_-A3_JEpuA9V66u1gNTUxXarOuYfKGemN-/s640/vaha.png"
 tags: ["Životní styl"]
@@ -14,13 +15,13 @@ Lidi se mě ptají, jak jsem to udělal. Tak odpovím dvěmi slovy: nízkosachar
 <div class="" style="clear: both; text-align: justify;">
 Tady jsou moje data. V lednu váha 120kg, tedy přímo jateční a klidová tepová frekvence 86. Na začátku srpna ubylo již 32 kilogramů a klidová tepová frekvence slezla na 47. Mít po probuzení tep pod 50 je skvělý pocit.</div>
 <div class="" style="clear: both; text-align: justify;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiChlJFtLCH5VrlEpIjSPDNRu4DcBHgl1iH3x9ke656uN_2Fv8-Ml17LWriWVFh6Qn0UqO9x7qebBVD5KQ7_KeDpYLqM4EsqrcAPfFOhobaNM_-A3_JEpuA9V66u1gNTUxXarOuYfKGemN-/s1600/vaha.png" imageanchor="1" style="clear: left; display: inline !important; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="521" data-original-width="1600" height="208" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiChlJFtLCH5VrlEpIjSPDNRu4DcBHgl1iH3x9ke656uN_2Fv8-Ml17LWriWVFh6Qn0UqO9x7qebBVD5KQ7_KeDpYLqM4EsqrcAPfFOhobaNM_-A3_JEpuA9V66u1gNTUxXarOuYfKGemN-/s640/vaha.png" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiChlJFtLCH5VrlEpIjSPDNRu4DcBHgl1iH3x9ke656uN_2Fv8-Ml17LWriWVFh6Qn0UqO9x7qebBVD5KQ7_KeDpYLqM4EsqrcAPfFOhobaNM_-A3_JEpuA9V66u1gNTUxXarOuYfKGemN-/s1600/vaha.png" "Ilustrace k článku" "640" >}}</div>
 <div>
 Letos jsem toho moc nezablogoval, místo vysedávání u počítače jsem se trošku věnoval sám sobě. Inu, se čtyřicátým rokem věku se nějaké to retrospektivní hloubavé ohlédnutí očekává. Přečetl jsem knihu Čtyřhodinové tělo od Timothy Ferrise a mohu říci, že mně změnila život. Nemít Chipa, tak ji nepotkám, takže ještě jednou a veřejně díky za prvotní motivaci.</div>
 <div>
 <br />
 <div>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxk2baxYrXeXY9wXYZ7j0tGL21fz_EMn1zHFxoB_17tHTbCM1UQ3FeIHy6cnAB_5fDpitNnTWe8gsKTlREk7TOet2Rh-OjUrJIRg31G_KkEtnmYx1dj_ipMpayVLt1qsU_RQszFWu_VcT4/s1600/tuk.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="337" data-original-width="1600" height="134" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxk2baxYrXeXY9wXYZ7j0tGL21fz_EMn1zHFxoB_17tHTbCM1UQ3FeIHy6cnAB_5fDpitNnTWe8gsKTlREk7TOet2Rh-OjUrJIRg31G_KkEtnmYx1dj_ipMpayVLt1qsU_RQszFWu_VcT4/s640/tuk.png" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxk2baxYrXeXY9wXYZ7j0tGL21fz_EMn1zHFxoB_17tHTbCM1UQ3FeIHy6cnAB_5fDpitNnTWe8gsKTlREk7TOet2Rh-OjUrJIRg31G_KkEtnmYx1dj_ipMpayVLt1qsU_RQszFWu_VcT4/s1600/tuk.png" "Ilustrace k článku" "640" >}}</div>
 </div>
 <div>
 Čím víc zjišťuji a čtu o „nízkosacharidu,“ tím více si uvědomuju, že optimální váha je ten nejméně důležitý benefit, který tato změna mému tělu přináší.</div>

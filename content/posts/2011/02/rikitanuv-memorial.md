@@ -2,6 +2,7 @@
 title: "Rikitanův memoriál"
 date: 2011-02-05T15:05:00Z
 url: "/posts/2011/02/rikitanuv-memorial/"
+summary: "Ábi a FFF strávili půl sobotního dne na skautském soutěžení [ Rikitanův memoriál ]. [ víc fotek ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2011/02/rikitanuv-memorial.html"

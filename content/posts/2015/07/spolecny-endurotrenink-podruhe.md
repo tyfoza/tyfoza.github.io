@@ -2,6 +2,7 @@
 title: "Společný endurotrénink podruhé..."
 date: 2015-07-05T08:10:00Z
 url: "/posts/2015/07/spolecny-endurotrenink-podruhe/"
+summary: "telegraficky AKCE E.T. PROBĚHLA ÚSPĚŠNĚ STOP POČASÍ VYŠLO STOP ÚČASTNÍKŮ 27 STOP NAJETO 1000KM OFF STOP ZRANĚNÝCH PÁR STOP SPOKOJENÝCH MOC STOP POKRAČOVÁNÍ PŘÍŠTĚ fotky [ 1 ] výběr (autor uveden v názvu souboru) , [ 2 ] Kysin, [ 3 ] Klasika tisková zpráva Začátek prázdnin byl pro mikroregion Olešnicko výjimečný. Již podruhé zde proběhla několikadenní akce motocestovatelského webu Cenduro.cz nazvaná E.T. 2.0 Druhý společný endurotrénink. Cílem tréninku je bezpečná průprava pro odvážné cestovatele, aby se svými těžkými motocykly dokázali hravě a hlavně bezpečně překonat terénní nástrahy při cestování volnou přírodou mimo zpevněné cesty – oni říkají, že jezdí offroadem – při expedičním cestování v zahraničí. Jezdilo se na motokrosových tratích Olešnice, Dalečín a v pískovně ve Svitavách. Akci podpořilo místní MMXS (myslivecko motokrosové sdružení) a umožnilo pořadatelům vytvoření osm..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeT2wI6QYrap4XwqUrALoT0y2ZDTRp3EHuTn3zh_Rxont5g_gHKRS1P7rttibJeIQav3LaWoYF5TczWMAlA8arXQOQS3mCmz5_ahIxbnXPCQMM9c0VMsg94gUu8Aksv4664UUO1qDj2izX/s640/pacho+e.t.2.0.jpg"
 tags: ["Cesty - akce offroad"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeT2wI6QYrap4XwqUrALoT0y2ZDTRp3EHuTn3zh_Rxont5g_gHKRS1P7rttibJeIQav3LaWoYF5TczWMAlA8arXQOQS3mCmz5_ahIxbnXPCQMM9c0VMsg94gUu8Aksv4664UUO1qDj2izX/s1600/pacho+e.t.2.0.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeT2wI6QYrap4XwqUrALoT0y2ZDTRp3EHuTn3zh_Rxont5g_gHKRS1P7rttibJeIQav3LaWoYF5TczWMAlA8arXQOQS3mCmz5_ahIxbnXPCQMM9c0VMsg94gUu8Aksv4664UUO1qDj2izX/s640/pacho+e.t.2.0.jpg" width="361" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeT2wI6QYrap4XwqUrALoT0y2ZDTRp3EHuTn3zh_Rxont5g_gHKRS1P7rttibJeIQav3LaWoYF5TczWMAlA8arXQOQS3mCmz5_ahIxbnXPCQMM9c0VMsg94gUu8Aksv4664UUO1qDj2izX/s1600/pacho+e.t.2.0.jpg" "Ilustrace k článku" "361" >}}</div>
 <div class="separator" style="clear: both; text-align: justify;">
 <i>telegraficky</i></div>
 <div class="separator" style="clear: both; text-align: justify;">
@@ -83,7 +84,7 @@ Mé zranění poněkud odsálo nadšení do dalších rozvíjení enduro technik
 Celkové zhodnocení E.T.2.0 je pozitivní. Lidi se pobavili, pojezdili jsme vydatně a příště to uděláme ještě lepší. Kdo absolvoval náš společný trénink, nemusí se vůbec bát dovolené proložené lehkým offroadem třeba někde na Balkáně.</div>
 <div style="text-align: justify;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWD6wkWIwlNjNj7ybRcQ82_-qq9UKIV_fGo8z3GSU_m7rFeYfbXa2FRXMrYiVKzLFXWEgvkxCgyvuP4EoMt3BOJwHWlf5oBYlV0xiq4sFOsSV9KSCsmQScQAFzSvXR7Tr659cBXFbgUPcs/s1600/rekapitulace.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="478" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWD6wkWIwlNjNj7ybRcQ82_-qq9UKIV_fGo8z3GSU_m7rFeYfbXa2FRXMrYiVKzLFXWEgvkxCgyvuP4EoMt3BOJwHWlf5oBYlV0xiq4sFOsSV9KSCsmQScQAFzSvXR7Tr659cBXFbgUPcs/s640/rekapitulace.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWD6wkWIwlNjNj7ybRcQ82_-qq9UKIV_fGo8z3GSU_m7rFeYfbXa2FRXMrYiVKzLFXWEgvkxCgyvuP4EoMt3BOJwHWlf5oBYlV0xiq4sFOsSV9KSCsmQScQAFzSvXR7Tr659cBXFbgUPcs/s1600/rekapitulace.jpg" "Ilustrace k článku" "640" >}}</div>
 </div>
 </div>
 </div>

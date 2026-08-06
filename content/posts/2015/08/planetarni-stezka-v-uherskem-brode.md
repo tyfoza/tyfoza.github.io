@@ -2,15 +2,16 @@
 title: "Planetární stezka v Uherském Brodě"
 date: 2015-08-12T07:51:00Z
 url: "/posts/2015/08/planetarni-stezka-v-uherskem-brode/"
+summary: "Letos se Uherský Brod připojil k městům, které mají svoji naučnou planetární stezku. Doposud to byly městské planetární stezky v Opavě[ 1 ] a Hradci Králové[ 2 ] a jedna turistická planetární stezka v Proseči[ 3 ]. Planetární stezka v Uherském Brodě je součástí projektu nové digitálního planetária[ 4 ][ 5 ]. Další info Uherskobrodský zpravodaj [ 6 ] str. 4"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9RU7zvTZ4Z0BI5QM3SZY2g-0giVVcyyrDETRf1rYm7k5d0BVBqmm2rMDg9P7B9gtkB8hpTpaBJB0CfRFwZsfrcKsUAUNZiBrbT4_8FKwU7eiL3YWL-miasWttjcx08MSFCpSdHqVG3GWC/s320/napluto.jpg"
-tags: ["Na cestě", "Tak jde čas"]
+tags: ["Tak jde čas", "Na cestě"]
 aliases:
   - "/2015/08/planetarni-stezka-v-uherskem-brode.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9RU7zvTZ4Z0BI5QM3SZY2g-0giVVcyyrDETRf1rYm7k5d0BVBqmm2rMDg9P7B9gtkB8hpTpaBJB0CfRFwZsfrcKsUAUNZiBrbT4_8FKwU7eiL3YWL-miasWttjcx08MSFCpSdHqVG3GWC/s1600/napluto.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9RU7zvTZ4Z0BI5QM3SZY2g-0giVVcyyrDETRf1rYm7k5d0BVBqmm2rMDg9P7B9gtkB8hpTpaBJB0CfRFwZsfrcKsUAUNZiBrbT4_8FKwU7eiL3YWL-miasWttjcx08MSFCpSdHqVG3GWC/s320/napluto.jpg" width="304" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9RU7zvTZ4Z0BI5QM3SZY2g-0giVVcyyrDETRf1rYm7k5d0BVBqmm2rMDg9P7B9gtkB8hpTpaBJB0CfRFwZsfrcKsUAUNZiBrbT4_8FKwU7eiL3YWL-miasWttjcx08MSFCpSdHqVG3GWC/s1600/napluto.jpg" "Ilustrace k článku" "304" >}}</div>
 Letos se Uherský Brod připojil k městům, které mají svoji naučnou planetární stezku. Doposud to byly městské planetární stezky v Opavě[<a href="http://www.ian.cz/detart_fr.php?id=2009" target="_blank">1</a>] a Hradci Králové[<a href="http://www.astrohk.cz/planetarni_stezka/" target="_blank">2</a>] a jedna turistická planetární stezka v Proseči[<a href="http://www.planetarnistezka.cz/" target="_blank">3</a>].<br />
 Planetární stezka v Uherském Brodě je součástí projektu nové digitálního planetária[<a href="http://www.novinky.cz/vase-zpravy/zlinsky-kraj/uherske-hradiste/4487-30439-uhersky-brod-ma-nove-unikatni-digitalnim-planetarium.html" target="_blank">4</a>][<a href="http://dk.ub.cz/info.aspx?id=11" target="_blank">5</a>].<br />
 Další info Uherskobrodský zpravodaj [<a href="http://www.ub.cz/bz/bz1503w.pdf" target="_blank">6</a>] str. 4

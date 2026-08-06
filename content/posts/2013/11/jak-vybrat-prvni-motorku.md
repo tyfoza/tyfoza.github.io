@@ -2,6 +2,7 @@
 title: "Jak vybrat první motorku?"
 date: 2013-11-17T15:58:00.002Z
 url: "/posts/2013/11/jak-vybrat-prvni-motorku/"
+summary: "Potkal jsem před pár dny kolegu, kamaráda. A hned jak mě viděl, zasypal mě otázkami, že si vybírá motorku - zdůrazňuji jde o výběr prvního motocyklu - ať mu poradím s výběrem. Pokusím se k tomuto neuchopitelnému tématu obecně a snad korektně vyjádřit. Na tohle téma se dá najít pěkných pár článku, google najde a poradí viz.[ 1 ][ 2 ][ 3 ] nebo [ 4 ]. Existuje web, kde si můžete zjistit, jak bude motorka poměrové k tělu jezdce, zda se na motorku poskládáte nebo zda z ní dosáhnete na zem viz.[ 5 ] A k tomu samotnému výběru motorky? Důležité a ověřené je, že první volba nebývá optimální. A neplatí to jenom o motorkách. Tedy až druhý stroj bude možná takový, jaký ho člověk potřebuje. Co tedy budoucímu motocyklistovi poradit? Může zkusit univerzální motorku, pak pochopí své zaměření, jestli chce závodit nebo cestovat a pak už půjdete najisto. Říká se, že s roustoucími zkušenostmi a zlepšující..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5R3KuInWJRhYEtwoD0Ug31cSfx44o67xPFNqzK2yk1jF59mlxID6pIQAIBcmF7PmEOwm-m3fZG53MI40e1RGY89njN9-cVN_Ini2dEme3FxCUHNskVwx1u3eTWbZd6uqtTxY70ACcarG/s400/ne+kazdy+ma+jasno.jpg"
 tags: ["Jiné moto"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5R3KuInWJRhYEtwoD0Ug31cSfx44o67xPFNqzK2yk1jF59mlxID6pIQAIBcmF7PmEOwm-m3fZG53MI40e1RGY89njN9-cVN_Ini2dEme3FxCUHNskVwx1u3eTWbZd6uqtTxY70ACcarG/s1600/ne+kazdy+ma+jasno.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="278" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5R3KuInWJRhYEtwoD0Ug31cSfx44o67xPFNqzK2yk1jF59mlxID6pIQAIBcmF7PmEOwm-m3fZG53MI40e1RGY89njN9-cVN_Ini2dEme3FxCUHNskVwx1u3eTWbZd6uqtTxY70ACcarG/s400/ne+kazdy+ma+jasno.jpg" width="400" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5R3KuInWJRhYEtwoD0Ug31cSfx44o67xPFNqzK2yk1jF59mlxID6pIQAIBcmF7PmEOwm-m3fZG53MI40e1RGY89njN9-cVN_Ini2dEme3FxCUHNskVwx1u3eTWbZd6uqtTxY70ACcarG/s1600/ne+kazdy+ma+jasno.jpg" "Ilustrace k článku" "400" >}}</div>
 <div class="MsoNormal">
 <span lang="EN-US">Potkal jsem před pár dny kolegu, kamaráda.
 A hned jak mě viděl, zasypal mě otázkami, že si vybírá motorku - zdůrazňuji

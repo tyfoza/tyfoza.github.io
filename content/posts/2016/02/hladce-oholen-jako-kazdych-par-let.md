@@ -2,6 +2,7 @@
 title: "Hladce oholen, jako každých pár let..."
 date: 2016-02-06T21:33:00Z
 url: "/posts/2016/02/hladce-oholen-jako-kazdych-par-let/"
+summary: "[ fotky ] Tento proces se opakuje s periodou dva až tři roky."
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/02/hladce-oholen-jako-kazdych-par-let.html"

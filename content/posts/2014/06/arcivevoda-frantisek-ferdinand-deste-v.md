@@ -2,6 +2,7 @@
 title: "Arcivévoda František Ferdinand d'Este v Uherském Brodě"
 date: 2014-06-20T21:13:00.001Z
 url: "/posts/2014/06/arcivevoda-frantisek-ferdinand-deste-v/"
+summary: "[ fotky ] od FFF; [ fotky ] Elen Sladká Doprovodný program k vernisáži výstavy Velká válka v muzejních sbírkách[ 1 ]. Návštěva arcivévody Františka Ferdinanda d'Este[ 2 ] s chotí[ 3 ] v Uherském Brodě spojená se vzpomínkou na atentát[ 4 ], který se stal záminkou k rozpoutání Velké války. Akce očima Patriotů[ 5 ] a podobně[ 6 ] od pana Slavíčka. pozvánka na výstavu Velká válka v muzejních sbírkách příjezd arcivévody Ferdinanda d'Este s chotí do Uherského Brodu"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOgOo4Mxn9bZtI0_GhASqOzxHQ2QAacEQ_yyaQKeSTGpC35N1lX7vZKMOk6KD5N7jKH_Qa_VDMdS6Vx7E1xRI6VfRfddqpl7GEeTR-pfEZApdxU8B8mwwmt1aOc0NTOoWvTFHpX7r10Lh/s1600/IMG_1308.jpg"
 tags: ["Šerm", "Tak jde čas"]
@@ -14,7 +15,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOgOo4Mxn9bZtI0_GhASqOzxHQ2QAacEQ_yyaQKeSTGpC35N1lX7vZKMOk6KD5N7jKH_Qa_VDMdS6Vx7E1xRI6VfRfddqpl7GEeTR-pfEZApdxU8B8mwwmt1aOc0NTOoWvTFHpX7r10Lh/s1600/IMG_1308.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOgOo4Mxn9bZtI0_GhASqOzxHQ2QAacEQ_yyaQKeSTGpC35N1lX7vZKMOk6KD5N7jKH_Qa_VDMdS6Vx7E1xRI6VfRfddqpl7GEeTR-pfEZApdxU8B8mwwmt1aOc0NTOoWvTFHpX7r10Lh/s1600/IMG_1308.jpg" height="396" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOgOo4Mxn9bZtI0_GhASqOzxHQ2QAacEQ_yyaQKeSTGpC35N1lX7vZKMOk6KD5N7jKH_Qa_VDMdS6Vx7E1xRI6VfRfddqpl7GEeTR-pfEZApdxU8B8mwwmt1aOc0NTOoWvTFHpX7r10Lh/s1600/IMG_1308.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] od FFF; [<a href="http://elenkas.rajce.idnes.cz/Vernisaz_vystavy_Velka_valka_-_prijezd_Ferdinanda_d_Este#" target="_blank">fotky</a>] Elen Sladká<br />
 <div style="text-align: justify;">
 Doprovodný program k vernisáži výstavy Velká válka v muzejních sbírkách[<a href="http://www.mjakub.cz/?idc=1284" target="_blank">1</a>]. Návštěva arcivévody Františka Ferdinanda d'Este[<a href="http://cs.wikipedia.org/wiki/Franti%C5%A1ek_Ferdinand_d'Este" target="_blank">2</a>] s chotí[<a href="http://cs.wikipedia.org/wiki/%C5%BDofie_Chotkov%C3%A1" target="_blank">3</a>] v Uherském Brodě spojená se vzpomínkou na atentát[<a href="http://cs.wikipedia.org/wiki/Atent%C3%A1t_na_Franti%C5%A1ka_Ferdinanda_d'Este" target="_blank">4</a>], který se stal záminkou k rozpoutání Velké války.</div>

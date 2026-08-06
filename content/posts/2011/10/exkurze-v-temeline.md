@@ -2,15 +2,16 @@
 title: "Exkurze v Temelíně"
 date: 2011-10-30T21:29:00.019Z
 url: "/posts/2011/10/exkurze-v-temeline/"
+summary: "Kolegové z Prahy organizovali exkurzi v JE Temelín. Bylo to úžasné a poučné. Konečně víme, že v jednom reaktoru je náplň 92tun paliva, po deseti měsících palivo změní rozložení a 1/4 paliva se vymění za nové. Palivo je v malých peletkách, je to malý žmolek, odhadem dva kubické centimetry, váží 5g a energie vydá za skoro devět metráků černého uhlí. Začínali jsme v informačním centru, kde nám pustili film a ukázali mlžnou komoru. Jak funguje mlžná komora viz. [ 1 ]. Jak jsme viděli mlžnou komoru na vlastní oči my. Pak jsme dostali ochranné přilby a konečně vstoupili do objektu elektrárny. Povedené sestřihy z youtube toho, co jsme viděli viz. [ 2 ] [ 3 ]. Bohužel, nenatočili jsme to my, protože do střeženého prostoru jsme s sebou nesměli vzít ani foťák, ani mobil. Celou domu s námi chodila průvodkyně a ostraha. Úplně zblízka jsme si prohlédli chladící věže - stojí na vysokých nohách a pod..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXj0nGx6WB2eF7bGAR6-D0asepXnkoODG8VmVnfH0_WH9ztkqUptecetQrQSKWlhTGh_1hLagtTUarwpN3EQ8Cqw5ICcigxd6piOQWAXmYdKhwg9aUt946zu74yH6_DNm9KbY7oCvDrvZ1/s400/IMG_0491.JPG"
-tags: ["Video", "Na cestě"]
+tags: ["Na cestě", "Video"]
 aliases:
   - "/2011/10/exkurze-v-temeline.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXj0nGx6WB2eF7bGAR6-D0asepXnkoODG8VmVnfH0_WH9ztkqUptecetQrQSKWlhTGh_1hLagtTUarwpN3EQ8Cqw5ICcigxd6piOQWAXmYdKhwg9aUt946zu74yH6_DNm9KbY7oCvDrvZ1/s1600/IMG_0491.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXj0nGx6WB2eF7bGAR6-D0asepXnkoODG8VmVnfH0_WH9ztkqUptecetQrQSKWlhTGh_1hLagtTUarwpN3EQ8Cqw5ICcigxd6piOQWAXmYdKhwg9aUt946zu74yH6_DNm9KbY7oCvDrvZ1/s400/IMG_0491.JPG" width="400" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXj0nGx6WB2eF7bGAR6-D0asepXnkoODG8VmVnfH0_WH9ztkqUptecetQrQSKWlhTGh_1hLagtTUarwpN3EQ8Cqw5ICcigxd6piOQWAXmYdKhwg9aUt946zu74yH6_DNm9KbY7oCvDrvZ1/s1600/IMG_0491.JPG" "Ilustrace k článku" "400" >}}</div>
 Kolegové z Prahy organizovali exkurzi v JE Temelín. Bylo to úžasné a poučné. Konečně víme, že v jednom reaktoru je náplň 92tun paliva, po deseti měsících palivo změní rozložení a 1/4 paliva se vymění za nové. Palivo je v malých peletkách, je to malý žmolek, odhadem dva kubické centimetry, váží 5g a energie vydá za skoro devět metráků černého uhlí.<br />
 Začínali jsme v informačním centru, kde nám pustili film a ukázali mlžnou komoru. Jak funguje mlžná komora viz. [<a href="http://www.youtube.com/watch?v=Py1nAv28r2c">1</a>].<br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -22,8 +23,8 @@ Pak jsme dostali ochranné přilby a konečně vstoupili do objektu elektrárny.
 Jak funguje jaderná elektrárna viz. [<a href="http://www.youtube.com/watch?v=M9Mt04IZB_c">4</a>] [<a href="http://www.youtube.com/watch?v=51LS1wk0CDU&amp;feature=related">5</a>].<br />
 <br />
 Naše návštěva v reaktoru - naštěstí v modelu reaktoru - v rámci expozice IC Temelín.<br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXifE-fboQmTDn7j_DMGbQmmwAQYPStE8pCpYI2F3SCSN6Z47iuxWQXbRxCM5pgV1lCWB74Oe59QWHBhLSNFHBes3uxgOpfzOJY8JOe0YS-IuOnmJR803dBSEImHc8gOGM8G8CRFbN-lUY/s1600/IMG_0508.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXifE-fboQmTDn7j_DMGbQmmwAQYPStE8pCpYI2F3SCSN6Z47iuxWQXbRxCM5pgV1lCWB74Oe59QWHBhLSNFHBes3uxgOpfzOJY8JOe0YS-IuOnmJR803dBSEImHc8gOGM8G8CRFbN-lUY/s400/IMG_0508.JPG" width="222" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXifE-fboQmTDn7j_DMGbQmmwAQYPStE8pCpYI2F3SCSN6Z47iuxWQXbRxCM5pgV1lCWB74Oe59QWHBhLSNFHBes3uxgOpfzOJY8JOe0YS-IuOnmJR803dBSEImHc8gOGM8G8CRFbN-lUY/s1600/IMG_0508.JPG" "Ilustrace k článku" "222" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Pan T. a jeho blízká přítelkyně VVER.</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: center;">

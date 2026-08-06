@@ -2,9 +2,10 @@
 title: "Škautfský den - dobývání Tortugy..."
 date: 2016-09-10T19:02:00.004Z
 url: "/posts/2016/09/dobyvani-tortugy/"
+summary: "Den ŠKAUTF [ 1 ] [ fotky ] Elen Sladké z herního odpoledne [ fotky ] Elen Sladké – slaměná loď a dobývání Tortugy [ video ] TV Slovácko (od 1:38) Děkujeme Městu Uherský Brod za podporu, muzeu Jana Amose Komenského v Uherském Brodě za azyl a stavitelům slaměných lodí ZOD Poolšaví – Prakšice."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1V8kIomjWFumEPzDAQ75v_QYCraKxb3nkQrGV8ecGzpelVsLCyYmpEcnr1cHp9GMTsPNUc_zRQVcrP4gXG5P-UyG8mw6JDyNYto1p8S7YNFaHMUCokviOVan-yvTjnRe2MHMYK9dk6UoX/s640/_DSC3945.jpg"
-tags: ["Šerm.vystoupení", "Šerm"]
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2016/09/dobyvani-tortugy.html"
 ---
@@ -26,6 +27,6 @@ Děkujeme Městu Uherský Brod za podporu, muzeu Jana Amose Komenského v Uhersk
 </div>
 <div style="text-align: left;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1V8kIomjWFumEPzDAQ75v_QYCraKxb3nkQrGV8ecGzpelVsLCyYmpEcnr1cHp9GMTsPNUc_zRQVcrP4gXG5P-UyG8mw6JDyNYto1p8S7YNFaHMUCokviOVan-yvTjnRe2MHMYK9dk6UoX/s1600/_DSC3945.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="424" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1V8kIomjWFumEPzDAQ75v_QYCraKxb3nkQrGV8ecGzpelVsLCyYmpEcnr1cHp9GMTsPNUc_zRQVcrP4gXG5P-UyG8mw6JDyNYto1p8S7YNFaHMUCokviOVan-yvTjnRe2MHMYK9dk6UoX/s640/_DSC3945.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1V8kIomjWFumEPzDAQ75v_QYCraKxb3nkQrGV8ecGzpelVsLCyYmpEcnr1cHp9GMTsPNUc_zRQVcrP4gXG5P-UyG8mw6JDyNYto1p8S7YNFaHMUCokviOVan-yvTjnRe2MHMYK9dk6UoX/s1600/_DSC3945.jpg" "Ilustrace k článku" "640" >}}</div>
 <br /></div>
 </div>

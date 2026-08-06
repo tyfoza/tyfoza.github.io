@@ -2,6 +2,7 @@
 title: "Merkur v muzeu..."
 date: 2016-02-19T22:58:00Z
 url: "/posts/2016/02/merkur-v-muzeu/"
+summary: "[ fotky ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/02/merkur-v-muzeu.html"

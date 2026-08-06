@@ -2,6 +2,7 @@
 title: "Halloween..."
 date: 2019-11-02T17:15:00.003Z
 url: "/posts/2019/11/halloween/"
+summary: "Na dušičky si přejeme: Šťastné a zemřelé!"
 tags: ["Video"]
 aliases:
   - "/2019/11/halloween.html"

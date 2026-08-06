@@ -2,9 +2,10 @@
 title: "TT Adventure Days"
 date: 2013-05-04T08:00:00Z
 url: "/posts/2013/05/tt-adventure-days/"
+summary: "V malebném a romantickém místě, na statku Prak[ 1 ] u Českého Šternberka připravil Touratech[ 2 ] letošní setkání nadšenců pro dobrodružné cestování na motorkách – Adventure Days[ 3 ]. Počasí vypadalo tak ošklivě, že nás to od účasti málem odradilo, ale když jsem viděl naplánovaný itinerář pro offroad, nešlo tam nejet. Ubytování luxusní – místo pro stany na rozmáčené louce, kde ještě před pár dny pobíhali koně, trocha bláta, sem tam koblížek; inu alespoň jsme měkce spali. Nikdo si nestěžoval a každý, kdo chtěl na mokré louce zaparkovat motorku, mohl si zapůjčit kus desky jako oporu pro stojan. Páteční večer příjemný a seznamovací. V hlavní společenské místnosti byl obrovský krb, kde jsme se dohřáli a dosušili. Proběhlo několikero zajímavých promítání z cest se spoustou pěkných motivačních fotografií z míst, kam se pravděpodobně nikdy nepodíváme. – naše [ fotky ] a fotky od jiných [..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV3NNuJMPQqBxsOk9E66ClVtdgcrxGJeq3frth57cQtrM867mRAN9FagRC-whyphenhyphenMbVzE1Yeq5xN1VOx_h50R5-konnTdooiq53Ba5wi_juPKyUOlC5eVZeu3oCKo7Ru-tw7o6nxAWcKpTZa/s640/IMG_8911.jpg"
-tags: ["Video", "Cesty - akce offroad"]
+tags: ["Cesty - akce offroad", "Video"]
 aliases:
   - "/2013/05/tt-adventure-days.html"
 ---
@@ -12,12 +13,12 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV3NNuJMPQqBxsOk9E66ClVtdgcrxGJeq3frth57cQtrM867mRAN9FagRC-whyphenhyphenMbVzE1Yeq5xN1VOx_h50R5-konnTdooiq53Ba5wi_juPKyUOlC5eVZeu3oCKo7Ru-tw7o6nxAWcKpTZa/s1600/IMG_8911.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV3NNuJMPQqBxsOk9E66ClVtdgcrxGJeq3frth57cQtrM867mRAN9FagRC-whyphenhyphenMbVzE1Yeq5xN1VOx_h50R5-konnTdooiq53Ba5wi_juPKyUOlC5eVZeu3oCKo7Ru-tw7o6nxAWcKpTZa/s640/IMG_8911.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV3NNuJMPQqBxsOk9E66ClVtdgcrxGJeq3frth57cQtrM867mRAN9FagRC-whyphenhyphenMbVzE1Yeq5xN1VOx_h50R5-konnTdooiq53Ba5wi_juPKyUOlC5eVZeu3oCKo7Ru-tw7o6nxAWcKpTZa/s1600/IMG_8911.jpg" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: justify;">
 V malebném a romantickém místě, na statku Prak[<a href="http://www.kudyznudy.cz/Aktivity-a-akce/Aktivity/Statek-Prak-u-Ceskeho-Sternberka.aspx" target="_blank">1</a>] u Českého Šternberka připravil Touratech[<a href="http://touratech.cz/" target="_blank">2</a>] letošní setkání nadšenců pro dobrodružné cestování na motorkách – Adventure Days[<a href="http://adventuredays.cz/" target="_blank">3</a>]. Počasí vypadalo tak ošklivě, že nás to od účasti málem odradilo, ale když jsem viděl naplánovaný itinerář pro offroad, nešlo tam nejet. Ubytování luxusní – místo pro stany na rozmáčené louce, kde ještě před pár dny pobíhali koně, trocha bláta, sem tam koblížek; inu alespoň jsme měkce spali. Nikdo si nestěžoval a každý, kdo chtěl na mokré louce zaparkovat motorku, mohl si zapůjčit kus desky jako oporu pro stojan.</div>
 <div style="text-align: justify;">
 Páteční večer příjemný a seznamovací. V hlavní společenské místnosti byl obrovský krb, kde jsme se dohřáli a dosušili. Proběhlo několikero zajímavých promítání z cest se spoustou pěkných motivačních fotografií z míst, kam se pravděpodobně nikdy nepodíváme.</div>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcdHFCmmSnr8gpX1jJkoBzIUm9Wp345YyN5RLRW03sqGTacmDz5E7Zlpqtr4yiNacuau6_SvKX8k_SpXJudQqeHpKbmsLoPQ4-7Fbfdw4uBSGYWktAXFwCHGDea4T9vcNqFi8WGBrNy8Y/s1600/TA+2013+640.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcdHFCmmSnr8gpX1jJkoBzIUm9Wp345YyN5RLRW03sqGTacmDz5E7Zlpqtr4yiNacuau6_SvKX8k_SpXJudQqeHpKbmsLoPQ4-7Fbfdw4uBSGYWktAXFwCHGDea4T9vcNqFi8WGBrNy8Y/s200/TA+2013+640.jpg" width="200" /></a><br />
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcdHFCmmSnr8gpX1jJkoBzIUm9Wp345YyN5RLRW03sqGTacmDz5E7Zlpqtr4yiNacuau6_SvKX8k_SpXJudQqeHpKbmsLoPQ4-7Fbfdw4uBSGYWktAXFwCHGDea4T9vcNqFi8WGBrNy8Y/s1600/TA+2013+640.jpg" "Ilustrace k článku" "200" >}}<br />
 <br />
 <div style="text-align: left;">
 – naše [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] a fotky od jiných [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">touratech</a>][<a href="http://xhackerm.rajce.idnes.cz/Touratech_Travel_Event_2013_-_fotky" target="_blank">xhackem</a>][<a href="http://cizak1.rajce.idnes.cz/TOURATECH_Travel_Event_Czech_Adventure_Days_2013/" target="_blank">cizak</a>][<a href="http://mahdivoj.rajce.idnes.cz/Touratech_Travel_Event_2013_Czech" target="_blank">mahdivoj</a>] [<a href="https://www.facebook.com/media/set/?set=a.4629855236398.1073741832.1593382926&amp;type=1&amp;l=8a695bb925" target="_blank">100bubu</a>]</div>

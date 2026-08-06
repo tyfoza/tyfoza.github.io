@@ -2,6 +2,7 @@
 title: "2017-05-01 vida park Brno..."
 date: 2017-05-01T19:25:00Z
 url: "/posts/2017/05/2017-05-01-vida-park-brno/"
+summary: "[ fotky ]"
 tags: ["Tak jde čas"]
 aliases:
   - "/2017/05/2017-05-01-vida-park-brno.html"

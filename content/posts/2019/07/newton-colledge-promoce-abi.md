@@ -2,6 +2,7 @@
 title: "Newton College, promoce Ábi..."
 date: 2019-07-10T11:06:00.002Z
 url: "/posts/2019/07/newton-colledge-promoce-abi/"
+summary: "[ fotky ] Absolvent Ábi ...aneb když školu vede Mojžíš, nemůže to dopadnout špatně... a Žaneta Žáková zase poslední... studenti citují v proslovu Jobse a Lenona, protože... jsou oba mrtví."
 aliases:
   - "/2019/07/newton-colledge-promoce-abi.html"
 ---

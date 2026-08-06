@@ -2,6 +2,7 @@
 title: "Lokální fenomén zvaný Mařacký chléb"
 date: 2014-02-24T21:47:00.003Z
 url: "/posts/2014/02/lokalni-fenomen-zvany-maracky-chleb/"
+summary: "V Uherském Hradišti v Mařaticích je pověstná pekárna. Pekárna chleba. Pekou chléb takový, že si o něm lidé povídají. K nám, do dvacet kilometrů vzdáleného Uherského Brodu, se tento chléb dováží tajně; na několika místech se dá předem objednat s malou přirážkou – typicky v prodejnách stáčeného vína. Přímo u zdroje lidé, kteří kolem prochází a projíždí, chléb nakoupí horký tak, že se téměř nedá udržet a většinou jeden bochník stejně domů nedovezou, protože ochutnávají už po cestě. Nejprve měkkou teplou střídku a jako zákusek zbytky křupavé kůrky. Lidé v Mařaticích u pekárny stojí fronty a kupují po několika kusech. Jen z doslechu jsem zjistil, že bychom tento fenomén měli ochutnat. Projíždím tedy několikrát týdně právě kolem oné pekárny s rozhodnutím, že jeden bochník přivezu domů na ochutnání. Pondělí. Projíždím kolem pekárny kolem jedenácté hodiny dopolední, všude kolem ticho a klid; na..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCygFRFZRJv6P4lgZXWcrQkJkEgPQTAONciSWKpmx58HRT5qrmPzaSUuzl0IoPkRkPb1HZHgn7UTIKKvP5adRlijRN07ZGN6F0jOhxYTQ_ObkZhLP4RhZXe2g-VaHVXHZwtbGAjwCkFjf5/s1600/WP_20140131_003.jpg"
 tags: ["Tak jde čas"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCygFRFZRJv6P4lgZXWcrQkJkEgPQTAONciSWKpmx58HRT5qrmPzaSUuzl0IoPkRkPb1HZHgn7UTIKKvP5adRlijRN07ZGN6F0jOhxYTQ_ObkZhLP4RhZXe2g-VaHVXHZwtbGAjwCkFjf5/s1600/WP_20140131_003.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCygFRFZRJv6P4lgZXWcrQkJkEgPQTAONciSWKpmx58HRT5qrmPzaSUuzl0IoPkRkPb1HZHgn7UTIKKvP5adRlijRN07ZGN6F0jOhxYTQ_ObkZhLP4RhZXe2g-VaHVXHZwtbGAjwCkFjf5/s1600/WP_20140131_003.jpg" height="360" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCygFRFZRJv6P4lgZXWcrQkJkEgPQTAONciSWKpmx58HRT5qrmPzaSUuzl0IoPkRkPb1HZHgn7UTIKKvP5adRlijRN07ZGN6F0jOhxYTQ_ObkZhLP4RhZXe2g-VaHVXHZwtbGAjwCkFjf5/s1600/WP_20140131_003.jpg" "Ilustrace k článku" "640" >}}</div>
 V Uherském Hradišti v Mařaticích
 je pověstná pekárna. Pekárna chleba. Pekou chléb takový, že si o něm
 lidé povídají. K nám, do dvacet kilometrů vzdáleného Uherského Brodu, se tento chléb dováží tajně; na několika místech se dá předem objednat s malou přirážkou –
@@ -55,7 +56,7 @@ projíždí auto městské policie, někteří řidiči zbystří
 dobře si vědomi svých špatně zaparkovaných vozů. Policie
 zastavuje a muž v uniformě uzavírá konec řady čekajících.&nbsp;</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja1e7BjceY5FsBJjjks4nfXlhoTTJ9u9diLmrljY_i0f5vN5V1qk9PG1YDxppYf_MkAJwVhTGhyphenhyphenDaL_jLjlCIQZBdoDMSBiCuok9e5Fk4la5CQwPk_nhi60oynOrXYpsMfZnYgFbIsd8_l/s1600/WP_20140131_004.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja1e7BjceY5FsBJjjks4nfXlhoTTJ9u9diLmrljY_i0f5vN5V1qk9PG1YDxppYf_MkAJwVhTGhyphenhyphenDaL_jLjlCIQZBdoDMSBiCuok9e5Fk4la5CQwPk_nhi60oynOrXYpsMfZnYgFbIsd8_l/s1600/WP_20140131_004.jpg" height="180" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja1e7BjceY5FsBJjjks4nfXlhoTTJ9u9diLmrljY_i0f5vN5V1qk9PG1YDxppYf_MkAJwVhTGhyphenhyphenDaL_jLjlCIQZBdoDMSBiCuok9e5Fk4la5CQwPk_nhi60oynOrXYpsMfZnYgFbIsd8_l/s1600/WP_20140131_004.jpg" "Ilustrace k článku" "320" >}}</div>
 <div style="margin-bottom: 0cm;">
 Konečně vcházím dovnitř. Intenzivní kyselá vůně čerstvě
 upečeného chleba je silná až je to nepříjemné. V policích na

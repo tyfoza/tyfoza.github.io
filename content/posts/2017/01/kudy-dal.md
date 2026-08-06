@@ -2,13 +2,14 @@
 title: "Kudy dál"
 date: 2017-01-05T17:58:00Z
 url: "/posts/2017/01/kudy-dal/"
+summary: "[ SINZ.cz ] Časopis Soudní inženýrství weby a fóra o ježdění offroad a adventure [ endro-team.cz ] Czech enduro touring team, můj domovský klub, kdysi Vstrom.cz [ offmoto.com ] nadšenci pro offroad [ vstromklub.cz ] klub majitelů V-Strom [ advrider.com ] Adventure Rider [ stromtrooper.com ] americké diskusní fórum o V-Stromech [ icmn.cz ] moto tratě v ČR, jasně a přehledně videa – technika jízdy [ offroadfanatic ] enduroškola na youtube 1981 Kawasaki GPz 550 (KZ550) [ kzrider ] vše o moto KZ, seznam prodejců, diskusní fórum, fotky [ servisní manuál ] KZ500 GPZ550 do r.v. 1985 [ dobové srovnání ] motorek do $1500 [ bitzforbikes.co.uk ] nákupy dílů, lanek, tllumiče, ložiska [ flatracer.com ] nákupy dílů alternativních výrobců, padací rámy aj. [ airtech ] díly na staré stroje, repliky kapotáží aj. [ cmsnl.com ] katalog dílů pro kawu, možnost objednat cokoli auto moto obecně [ fotky motorek..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwm-lagMyhP250DOYXxIUw4Z00i0v3wBIGkA6h7yy48ZEMkMwjQ2jsTcq6c1M1f204EhD7ec487DcpEcq4SztfrGvhBaUYGFRc-QGHLbSXCsDBlsPX_UF7Lr06ClAnUX2evXxpK_4Uzws/s200/aaa.jpg"
 aliases:
   - "/p/kudy-dal.html"
 ---
 
-<ul><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwm-lagMyhP250DOYXxIUw4Z00i0v3wBIGkA6h7yy48ZEMkMwjQ2jsTcq6c1M1f204EhD7ec487DcpEcq4SztfrGvhBaUYGFRc-QGHLbSXCsDBlsPX_UF7Lr06ClAnUX2evXxpK_4Uzws/s1600/aaa.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwm-lagMyhP250DOYXxIUw4Z00i0v3wBIGkA6h7yy48ZEMkMwjQ2jsTcq6c1M1f204EhD7ec487DcpEcq4SztfrGvhBaUYGFRc-QGHLbSXCsDBlsPX_UF7Lr06ClAnUX2evXxpK_4Uzws/s200/aaa.jpg" width="200" /></a>
+<ul>{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwm-lagMyhP250DOYXxIUw4Z00i0v3wBIGkA6h7yy48ZEMkMwjQ2jsTcq6c1M1f204EhD7ec487DcpEcq4SztfrGvhBaUYGFRc-QGHLbSXCsDBlsPX_UF7Lr06ClAnUX2evXxpK_4Uzws/s1600/aaa.jpg" "Ilustrace k článku" "200" >}}
 <li>[<a href="http://www.sinz.cz/">SINZ.cz</a>] Časopis Soudní inženýrství</li>
 </ul>
 <i><b><span style="font-size: large;">weby a fóra o ježdění offroad a adventure</span></b></i><br />

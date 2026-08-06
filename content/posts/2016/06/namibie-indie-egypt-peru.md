@@ -2,7 +2,8 @@
 title: "Namibie, Indie, Egypt a Peru..."
 date: 2016-06-23T09:09:00.002Z
 url: "/posts/2016/06/namibie-indie-egypt-peru/"
-tags: ["Video", "Tak jde čas"]
+summary: "Folklór jako řemen, nelepší jsou egyptští dervišové a pak Peruánci ke konci videa."
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2016/06/namibie-indie-egypt-peru.html"
 ---

@@ -2,6 +2,7 @@
 title: "Den sedmnáctý a půl dne následujícího..."
 date: 2020-02-05T17:51:00.003Z
 url: "/posts/2020/02/den-sedmnacty-pul-dne-nasledujiciho/"
+summary: "Tarija Ráno balím a když jsem vyzvedával motorku na parkovišti pod tržištěm, tak jsem musel dofouknout přední kolo. Cesta Tarija směr Potosí je nádherná horská kliklatá cesta s nádherným povrchem. Všude kolem rostou kaktusy a vypadají děsivě. Doufám, že se v noci nehýbou. Po krásných padesáti asfaltových kilometrech odpočuji na nezpevněnou šotolinovou cestu, pokrytou červeným prachem. Offroad 170km horami a výhledy. Krajina se neustále mění. Po cestě je jenom jedno městečko Impora, u kostela seděl strýc, četl si noviny a říkal, že autobus tudy jezdí jednou denně tam a pak další den zpět. Až do města Tupiza. Tupiza Široké cesty, veřejné tržiště, náměstí, obrovské ulice. Vede tudy aktuálně nepoužívaná železnice. Mají tu dvě benzinky a pak v širokém okolí už není žádná. Směruju k místám se jmény Barevná laguna, Zelená laguna nebo skalní útvar Árbol de piedra (Strom z kamene). V plánu bylo..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonb6JCUuXk56Inp4p8TfwuzqPUfLeGP7ig9305Ow2zWVPIYmA4VhhuBbrKIQy-GMEzVlMVQTCc9wQ2ckGPBAVq28qGeqVeCFbtHiHOHaWyD73Uo8q5PhDuvfRrL_fDhbJHLdNnB7f-sPn/s640/20200204_214407_resized.jpg"
 tags: ["Cesty - 2020 Bolívie"]
@@ -53,7 +54,7 @@ Lamám svítí oči červeně. Když jsem uviděl první dvě červené tečky, 
 </div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonb6JCUuXk56Inp4p8TfwuzqPUfLeGP7ig9305Ow2zWVPIYmA4VhhuBbrKIQy-GMEzVlMVQTCc9wQ2ckGPBAVq28qGeqVeCFbtHiHOHaWyD73Uo8q5PhDuvfRrL_fDhbJHLdNnB7f-sPn/s1600/20200204_214407_resized.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonb6JCUuXk56Inp4p8TfwuzqPUfLeGP7ig9305Ow2zWVPIYmA4VhhuBbrKIQy-GMEzVlMVQTCc9wQ2ckGPBAVq28qGeqVeCFbtHiHOHaWyD73Uo8q5PhDuvfRrL_fDhbJHLdNnB7f-sPn/s640/20200204_214407_resized.jpg" width="360" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonb6JCUuXk56Inp4p8TfwuzqPUfLeGP7ig9305Ow2zWVPIYmA4VhhuBbrKIQy-GMEzVlMVQTCc9wQ2ckGPBAVq28qGeqVeCFbtHiHOHaWyD73Uo8q5PhDuvfRrL_fDhbJHLdNnB7f-sPn/s1600/20200204_214407_resized.jpg" "Ilustrace k článku" "360" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <br /></div>

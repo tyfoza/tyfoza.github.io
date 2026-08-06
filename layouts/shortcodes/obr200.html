@@ -1,18 +1,16 @@
 {{ $img := .Get 0 }}
 {{ $alt := .Get 1 }}
+{{ $width := "200" }}
 {{ $id := md5 $img }}
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 25px 0;">
-    <img src="{{ $img }}" alt="{{ $alt }}" style="max-width: 200px; width: 100%; height: auto; border-radius: 6px; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onclick="document.getElementById('lb-{{ $id }}').showModal()" title="Kliknutím zvětšíš" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="{{ $img }}" alt="{{ $alt }}" style="max-width: {{ $width }}px; width: 100%; height: auto; cursor: pointer; transition: transform 0.2s;" onclick="document.getElementById('lb-{{ $id }}').showModal()" title="Kliknutím zvětšíš" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
     {{ if $alt }}
         <div style="font-size: 0.85rem; color: #666; margin-top: 6px; text-align: center;">{{ $alt }}</div>
     {{ end }}
 </div>
 
 <dialog id="lb-{{ $id }}" style="border: none; background: transparent; padding: 0; max-width: 95vw; max-height: 95vh; overflow: hidden; cursor: zoom-out;" onclick="this.close()">
-    <form method="dialog" style="position: absolute; top: 15px; right: 15px; z-index: 10;">
-        <button style="background: rgba(0,0,0,0.7); color: white; border: none; border-radius: 50%; width: 40px; height: 40px; font-size: 22px; cursor: pointer; display: flex; align-items: center; justify-content: center;" title="Zavřít">&times colspan></button>
-    </form>
     <img src="{{ $img }}" style="display: block; max-width: 95vw; max-height: 95vh; object-fit: contain; border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,0.8);">
 </dialog>
 

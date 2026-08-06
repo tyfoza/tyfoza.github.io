@@ -2,6 +2,7 @@
 title: "Nonsens aneb smysl hledám v nesmyslu"
 date: 2015-02-06T19:00:00Z
 url: "/posts/2015/02/nonsens-aneb-smysl-hledam-v-nesmylu/"
+summary: "[ fotky ] Veselá, okulibá a vtipná výstava, která pohladí na duši v muzeu Jana Amose Komenského v Uherském Brodě až do května 2015 viz. [ 1 ] Vystavuje keramik Vladimír Groš a jemu podobní ze spolku Za Veselí veselejší (ZVV). Kdo chce vidět a zažít věci jako heligonet – soustrojí pro hru na dechový nástroj bez dechu, či stavitelnou stříšku na cigarety nebo doutníky do deště nebo do sprchy pro náruživé kuřáky... ať zamíří do muzea v Uherském Brodě. Tři videa z produkce ZVV, která jasně definují důležitost vědeckého přínosu činnosti tohoto spolku."
 tags: ["Tak jde čas"]
 aliases:
   - "/2015/02/nonsens-aneb-smysl-hledam-v-nesmylu.html"

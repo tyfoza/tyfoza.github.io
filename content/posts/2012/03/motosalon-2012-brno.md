@@ -2,6 +2,7 @@
 title: "Motosalon 2012, Brno"
 date: 2012-03-08T19:04:00.002Z
 url: "/posts/2012/03/motosalon-2012-brno/"
+summary: "[ víc fotek ] Pokusím se odpovědět na otázku: Proč má smysl jezdit na výstavy jako je Motosalón? A proč to má smysl i pro mládežníky, jako je FFF? Ale nejprve ty věci faktické: U stánku motopneu zlínského Mitas jsem zjistil dvě zajímavé věci - pneu E-09 doposud dostupné jen v rozměru 140/70 R17 budou letos v prodeji i v rozměru pro cendura 150/70. A druhá zajímavost je, že bezdušová pneu, jako je moje Mitas E-10 by se měla hustit minimálně na 1.3bar, aby nehrozilo prudné zmáčnutí boku gumy při najetí na nějaký kámen a následovná úplná ztráta tlaku. Viděli jsme britskou konkurenci náplně pro řešení defektu Ultraseal, je to OKO Puncture Free a oproti Ultraseal obsahuje i kusy kaučuku, takže řeší defekt snad i líp. Atraktivní je cena, vychází 4x levnější - tam, kde s Ultraseal za 800korun naplním jednu motorku, tak s Puncture Free naplním za 400korun dvě motorky...."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYO2b-XV_Nb5pRCCCESkUiZok2HMZHP-7Y7b3x7NivVLZ-S9tHpqaNrZq9FUiHq3WDwbdPCLk82GH7FNtphh9avJIyOi6jskU4SY9MgKx6ch8QWslLmbum0PIwEYRi95w3ROXPxTc7emk/s320/080320121573-771219.jpg"
 tags: ["Jiné moto", "Tak jde čas"]
@@ -9,7 +10,7 @@ aliases:
   - "/2012/03/motosalon-2012-brno.html"
 ---
 
-<div class="mobile-photo"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYO2b-XV_Nb5pRCCCESkUiZok2HMZHP-7Y7b3x7NivVLZ-S9tHpqaNrZq9FUiHq3WDwbdPCLk82GH7FNtphh9avJIyOi6jskU4SY9MgKx6ch8QWslLmbum0PIwEYRi95w3ROXPxTc7emk/s1600/080320121573-771219.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5717605086800776018" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYO2b-XV_Nb5pRCCCESkUiZok2HMZHP-7Y7b3x7NivVLZ-S9tHpqaNrZq9FUiHq3WDwbdPCLk82GH7FNtphh9avJIyOi6jskU4SY9MgKx6ch8QWslLmbum0PIwEYRi95w3ROXPxTc7emk/s320/080320121573-771219.jpg" /></a></div>[<a href="https://photos.app.goo.gl/NsVFrUZzRVjJE4Zs9" target="_blank">víc fotek</a>]<br />
+<div class="mobile-photo">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYO2b-XV_Nb5pRCCCESkUiZok2HMZHP-7Y7b3x7NivVLZ-S9tHpqaNrZq9FUiHq3WDwbdPCLk82GH7FNtphh9avJIyOi6jskU4SY9MgKx6ch8QWslLmbum0PIwEYRi95w3ROXPxTc7emk/s1600/080320121573-771219.jpg" "Ilustrace k článku" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">víc fotek</a>]<br />
 <br />
 Pokusím se odpovědět na otázku: Proč má smysl jezdit na výstavy jako je Motosalón? A proč to má smysl i pro mládežníky, jako je FFF?<br />
 <i>Ale nejprve ty věci faktické:</i><br />

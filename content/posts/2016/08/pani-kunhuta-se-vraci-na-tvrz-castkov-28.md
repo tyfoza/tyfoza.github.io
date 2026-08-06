@@ -2,6 +2,7 @@
 title: "Paní Kunhuta se vrací na tvrz Částkov..."
 date: 2016-08-28T20:05:00.001Z
 url: "/posts/2016/08/pani-kunhuta-se-vraci-na-tvrz-castkov-28/"
+summary: "[ fotky ] Konec prázdnin klepe na dvéře, nevybouřená dětská krev potřebuje téci. Tak tedy další ročník Částkovské „tečky za prázdninami.“ Loni jsme hrad oživili viz [ 1 ] a letos na něm čekáme návštěvu paní Kunhuty, kterážto se vrací z cest po Belgii obtěžkána zlaťáky evropských dotací a doprovázena příbuznými z Lotrinska, Štýrska, Bavorka a i z dalekých Prakšic. Místní spolek Částkovský připravil několikero aktivit rukodělných - malování oken, tvorbu erbovních vlajek a stavbu polského plotu proti nájezdníkům z Kelníků, Náš Šermířský klub Uherský Brod si vzal za úkol vycvičit jednotky k obraně hradu, tedy oddíly štítníků, cepníků a střelců. Pro starší jsme měli připravenou lukostřelnici - ptám se náhodné paní věku důchodového: Kdy jste naposledy střílela z luku? Že nikdy? Tak teď máte šanci. A šla a střílela. Jestli ji za to doma manžel pochválí, to se dozvíme až příští rok... Za zmínku..."
 tags: ["Šerm"]
 aliases:
   - "/2016/08/pani-kunhuta-se-vraci-na-tvrz-castkov_28.html"

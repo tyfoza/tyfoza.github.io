@@ -2,9 +2,10 @@
 title: "Historická hostina potřetí..."
 date: 2017-08-26T13:59:00Z
 url: "/posts/2017/08/historicka-hostina-potreti/"
+summary: "[ článek ] a [ fotky ] od Maryšky Švehlíkové [ fotky ] od Elenky Sladké Velmi příjemná akce na konci prázdnin [ mjakub.cz ]. Pořadatelé: - Muzeum Jana Amose Komenského v Uherském Brodě - Město Uherský Brod3 - švýcarská pěchota 15. století [ Rattenschwanz ] - ŠKUB - Šermířský klub Uherský Brod"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAMqmr5ief9Tt6JNxLJHvQ5X3bvP3bptcZ2VA97K39bk8IxpvcwOhtJ3HaJQ2U_nCO_MBrDncWynqmpFBI00kBB6ZWu7ZOAiWkgzSvVq7wrq_bwF-rSte5XsyXyh82AOLlfSGGXNYy-efC/s640/plakatohh17--f1875.jpg"
-tags: ["Video", "Šerm", "Tak jde čas"]
+tags: ["Šerm", "Tak jde čas", "Video"]
 aliases:
   - "/2017/08/historicka-hostina-potreti.html"
 ---
@@ -23,5 +24,5 @@ Pořadatelé:<br />
 - ŠKUB - Šermířský klub Uherský Brod<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAMqmr5ief9Tt6JNxLJHvQ5X3bvP3bptcZ2VA97K39bk8IxpvcwOhtJ3HaJQ2U_nCO_MBrDncWynqmpFBI00kBB6ZWu7ZOAiWkgzSvVq7wrq_bwF-rSte5XsyXyh82AOLlfSGGXNYy-efC/s1600/plakatohh17--f1875.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="990" data-original-width="700" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAMqmr5ief9Tt6JNxLJHvQ5X3bvP3bptcZ2VA97K39bk8IxpvcwOhtJ3HaJQ2U_nCO_MBrDncWynqmpFBI00kBB6ZWu7ZOAiWkgzSvVq7wrq_bwF-rSte5XsyXyh82AOLlfSGGXNYy-efC/s640/plakatohh17--f1875.jpg" width="452" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAMqmr5ief9Tt6JNxLJHvQ5X3bvP3bptcZ2VA97K39bk8IxpvcwOhtJ3HaJQ2U_nCO_MBrDncWynqmpFBI00kBB6ZWu7ZOAiWkgzSvVq7wrq_bwF-rSte5XsyXyh82AOLlfSGGXNYy-efC/s1600/plakatohh17--f1875.jpg" "Ilustrace k článku" "452" >}}</div>
 <br />

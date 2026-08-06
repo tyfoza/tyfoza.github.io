@@ -2,7 +2,8 @@
 title: "Deset let Sládkova orchestru ZUŠ Uherský Brod"
 date: 2011-11-04T18:00:00.001Z
 url: "/posts/2011/11/deset-let-sladkova-orchestru-zus/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ víc fotek ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2011/11/deset-let-sladkova-orchestru-zus.html"
 ---

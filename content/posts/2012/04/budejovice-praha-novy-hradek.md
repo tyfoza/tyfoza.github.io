@@ -2,6 +2,7 @@
 title: "Budějovice, Praha, Nový hrádek"
 date: 2012-04-26T17:33:00Z
 url: "/posts/2012/04/budejovice-praha-novy-hradek/"
+summary: "V šest hodin ráno v Milevsku byl přízemní mrazík. Pořádný. Do Budějovic jsem vyrazil pro jistotu ve snownboardových kalhotách. V areálu čSAD tam sídlí firma motoretezy.cz , měli výhodnou akci - řetěz D.I.D. 525 ZVMX zlatý plus kalená rozeta THJ za 3.3k. Pak jsem potkal učitele hudby pana F.L. přímo před jeho domovskou školou na Kanovnické ulici. Jako správný muzikant, hrající na dřevěný strunnný nástroj, moudře pohovořil na téma problematiky lisování dřevěných briket a mizerné účinnosti topení briketami lisovanými v levných ručních lisech. V Praze jsem vyl po dvanácté hodině polední, právě na oběd ve vegetariánské restauraci s Ing. Kočkou, PhD. Strom dnešní noc párkuje zaplachtovaný v centru Nazaret. Navšívil jsem kmotřenečka Terezku a celé pozdní odpoledne jsme stávili vycházkou po Kuntratickém lese, který má kousíček od svého domova mládeže. Navštívili jsme tam Nový hrádek, zříceninu,..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKPVZy77VgiC8R4zwgZftyNi-nnVk_aW1qZkkgwvnaN0jrARDoxhZyi3q-SglksHSLacVqIiUT67abs6jZUkEfdpihUkRDCs3ttV0QyUT3QmMGF1gf-BVwpSy6Nx-EitwKD_kcOB85rH8/s320/260420121838-731253.jpg"
 tags: ["Na cestě"]
@@ -10,9 +11,9 @@ aliases:
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKPVZy77VgiC8R4zwgZftyNi-nnVk_aW1qZkkgwvnaN0jrARDoxhZyi3q-SglksHSLacVqIiUT67abs6jZUkEfdpihUkRDCs3ttV0QyUT3QmMGF1gf-BVwpSy6Nx-EitwKD_kcOB85rH8/s1600/260420121838-731253.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5735764466718162546" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKPVZy77VgiC8R4zwgZftyNi-nnVk_aW1qZkkgwvnaN0jrARDoxhZyi3q-SglksHSLacVqIiUT67abs6jZUkEfdpihUkRDCs3ttV0QyUT3QmMGF1gf-BVwpSy6Nx-EitwKD_kcOB85rH8/s320/260420121838-731253.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKPVZy77VgiC8R4zwgZftyNi-nnVk_aW1qZkkgwvnaN0jrARDoxhZyi3q-SglksHSLacVqIiUT67abs6jZUkEfdpihUkRDCs3ttV0QyUT3QmMGF1gf-BVwpSy6Nx-EitwKD_kcOB85rH8/s1600/260420121838-731253.jpg" "Ilustrace k článku" >}}</div>
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS6JKnJY8kN7EBrJtj0zmQp8HIYYfto2G2TQvwWxSxsur4cNjpfMECdJeYEIuyUsRJRzi0-xlSLhRDJbdueFpPZl0p6D4u8xir3af8h-I9jttSzRRr8cRh7wVw31ITdZtyb39XBfNmfs8/s1600/260420121837-734413.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5735764475820687330" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS6JKnJY8kN7EBrJtj0zmQp8HIYYfto2G2TQvwWxSxsur4cNjpfMECdJeYEIuyUsRJRzi0-xlSLhRDJbdueFpPZl0p6D4u8xir3af8h-I9jttSzRRr8cRh7wVw31ITdZtyb39XBfNmfs8/s320/260420121837-734413.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS6JKnJY8kN7EBrJtj0zmQp8HIYYfto2G2TQvwWxSxsur4cNjpfMECdJeYEIuyUsRJRzi0-xlSLhRDJbdueFpPZl0p6D4u8xir3af8h-I9jttSzRRr8cRh7wVw31ITdZtyb39XBfNmfs8/s1600/260420121837-734413.jpg" "Ilustrace k článku" >}}</div>
 V šest hodin ráno v Milevsku byl přízemní mrazík. Pořádný. Do Budějovic jsem vyrazil pro jistotu ve snownboardových kalhotách. V areálu čSAD tam sídlí firma <a href="http://motoretezy.cz/">motoretezy.cz</a>, měli výhodnou akci - řetěz D.I.D. 525 ZVMX zlatý plus kalená rozeta THJ za 3.3k.
 <br />
 Pak jsem potkal učitele hudby pana F.L. přímo před jeho domovskou školou na Kanovnické ulici. Jako správný muzikant, hrající na dřevěný strunnný nástroj, moudře pohovořil na téma problematiky lisování dřevěných briket a mizerné účinnosti topení briketami lisovanými v levných ručních lisech.

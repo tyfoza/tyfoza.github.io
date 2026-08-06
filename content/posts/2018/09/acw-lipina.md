@@ -2,6 +2,7 @@
 title: "ACW Lipina..."
 date: 2018-09-29T13:20:00.001Z
 url: "/posts/2018/09/acw-lipina/"
+summary: "[ fotky ] moje z mobilu [ fotky ] od Lišky Olaf Ketchupson má střeva. Prý básníka. ref: Tygři táhnou do světa, s nima Chumlee [Čamlí], trumpeta. Jak nás nepřitel uvidí, hnedka strachy vyje, my se k bitvě chystáme. Chumlee pivo pije. ref: Colonel nás svolává. Rychle, chlapci, zle je. My se k bitvě formujem. Chumlee se zas zleje. ref: Setkání osmnácté v obci Lipina, kousek od Zruče nad Sázavou. Tentokrát jsem byl v pátek večer vysazen jako osamocený voják z muzejního auta vracejícího se z Prahy. Už v Praze jsem překostýmoval z Jana Amose[ 1 ] na vojáka konfederace a při odjezdu z brány Nostického paláce se i muzejní ředitel loučil slovy: Pro větší slávu Louisiany. V pátek večer jsem objevil nový druh čepice který mě zaujal natolik, že ho musím pořídit. Je na něho potřeba kožišina z jeden a půl lišky. Sobota začala nakrojením dortu s pelikánem rvoucím si maso z prsou, aby nakrmil své mladé..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiy5Gphb6ciJ6EeWHpaytdw9Lbm4j4loESTuNOJKlmgxDw1LWSdPqDE-IHX9A8VGQ7CZwLDVbwETydDbVMvzFAg3WClc8iGrf3lf88n6ThIun2sj1dSHlmFcgQbF8EAOz8cP0o13QzOseO/s640/20180929_142914.jpg"
 tags: ["Šerm", "Šerm.ACW"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiy5Gphb6ciJ6EeWHpaytdw9Lbm4j4loESTuNOJKlmgxDw1LWSdPqDE-IHX9A8VGQ7CZwLDVbwETydDbVMvzFAg3WClc8iGrf3lf88n6ThIun2sj1dSHlmFcgQbF8EAOz8cP0o13QzOseO/s1600/20180929_142914.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiy5Gphb6ciJ6EeWHpaytdw9Lbm4j4loESTuNOJKlmgxDw1LWSdPqDE-IHX9A8VGQ7CZwLDVbwETydDbVMvzFAg3WClc8iGrf3lf88n6ThIun2sj1dSHlmFcgQbF8EAOz8cP0o13QzOseO/s640/20180929_142914.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiy5Gphb6ciJ6EeWHpaytdw9Lbm4j4loESTuNOJKlmgxDw1LWSdPqDE-IHX9A8VGQ7CZwLDVbwETydDbVMvzFAg3WClc8iGrf3lf88n6ThIun2sj1dSHlmFcgQbF8EAOz8cP0o13QzOseO/s1600/20180929_142914.jpg" "Ilustrace k článku" "640" >}}</div>
 <div dir="ltr" style="text-align: left;">
 [<a href="https://photos.app.goo.gl/5sRpX7QwYCVS5cPJ7" target="_blank">fotky</a>] moje z mobilu<br />
 [<a href="https://photos.app.goo.gl/PQqLpmBSPpkwNB8J6" target="_blank">fotky</a>] od Lišky<br />
@@ -70,8 +71,8 @@ Vlak. Přatelé, vlakem jsem nejel několik let a mohu říci, že se pranic nez
 <div dir="ltr">
 <br />
 <br />
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQun_hA3NGb-J1-8pZUrFLTWn6QqYUjvdgMlzPlGbQebUFlInorIUqR_X4I8HKhNr-AQ78RV-DUVwxdfcdaKBIImtZHyi0jQbqS4CzKa9EiJBDwquViJ9kXl_ajVM1omox-KRkLaDT2Xr5/s1600/20180929_144425.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQun_hA3NGb-J1-8pZUrFLTWn6QqYUjvdgMlzPlGbQebUFlInorIUqR_X4I8HKhNr-AQ78RV-DUVwxdfcdaKBIImtZHyi0jQbqS4CzKa9EiJBDwquViJ9kXl_ajVM1omox-KRkLaDT2Xr5/s640/20180929_144425.jpg" width="640" /></a></td></tr>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQun_hA3NGb-J1-8pZUrFLTWn6QqYUjvdgMlzPlGbQebUFlInorIUqR_X4I8HKhNr-AQ78RV-DUVwxdfcdaKBIImtZHyi0jQbqS4CzKa9EiJBDwquViJ9kXl_ajVM1omox-KRkLaDT2Xr5/s1600/20180929_144425.jpg" "Ilustrace k článku" "640" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Johannes Mundzerstoerer alias John Munro</td></tr>
 </tbody></table>
 Takto o sobě hovoří John Munro na fotografii: To takhle koncem roku 1860 z Pruského Slezska z okoli Leignitz narychlo uprchl kočovný dentista Johannes Mundzerstoerer, neboť se ukázalo, že zlato dodané pacienty na zhotovení zubních náhrad vyměnil za mosaz nebo alpaku a pak vždy rychle změnil lokalitu.&nbsp;</div>

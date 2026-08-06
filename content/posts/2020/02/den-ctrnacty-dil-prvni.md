@@ -2,6 +2,7 @@
 title: "Den čtrnáctý, díl první..."
 date: 2020-02-02T03:53:00.001Z
 url: "/posts/2020/02/den-ctrnacty-dil-prvni/"
+summary: "Santa Cruz: Vstávám až v osm ráno. Dneska mně ani nevadil řvoucí ventilátor, tak jsem byl znaven. Servis motocyklu, možno přeskočit: Prvně řeším motorku. Za 20bol. jsem v krámečku s náhradními díly sehnal držák levého zrcátka a spojky. Díl z vraku, ale poslouží. Ještě jsem si ve vedlejším servisu půjčil klíč 14mm, abych zrcátko mohl nastavit. Ten chlapík měl v krámečku na motorky úplně všecho. Pak jsem se doptal na nejbližší myčku. Velký prostor vedle supermarketu a drsný šéf všechny hlídá ze své klimatizované budky. Tlakové mytí, šampon, ruční mytí hadrem, tlakový oplach. To se musí dodržet. Tak jsem aspoň kluka a vapkou požádal, aby pořádně prostříkl brzdové destičky a zámek od kufru. Když jsem mu řekl, že jsem spokojen a že motorka za dva dny bude vypadat stejně, tak jen loupnul okem do budky a řekl, že musí vykonat všechny části práce. Motorka i po pořádné sprše svítí, budík funguje..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-ctrnacty-dil-prvni.html"

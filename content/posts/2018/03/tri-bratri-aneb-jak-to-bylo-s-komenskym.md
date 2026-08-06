@@ -2,7 +2,8 @@
 title: "Tři bratři, aneb jak to bylo s Komenským..."
 date: 2018-03-28T12:27:00.002Z
 url: "/posts/2018/03/tri-bratri-aneb-jak-to-bylo-s-komenskym/"
-tags: ["Video", "Tak jde čas"]
+summary: "záznam díky Marušce Kadlčíkové"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2018/03/tri-bratri-aneb-jak-to-bylo-s-komenskym.html"
 ---

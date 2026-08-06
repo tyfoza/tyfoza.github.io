@@ -2,6 +2,7 @@
 title: "Motocykel 2014"
 date: 2014-03-16T20:59:00Z
 url: "/posts/2014/03/motocykel-2014/"
+summary: "[ fotky ] Týden po brněnském Motosalonu jsem měl možnost zavítat na čtyři dny na výstavu Motocykel. Opět po ose, s roll-upem[ 1 ] za zády; vlastně se dvěma roll-upy – vezl jsem ještě jeden navíc[ 2 ], protože se nevešel do auta! Když jsem projížděl Bratislavou, běžela mi hlavou nesmrtelná slova Jaroslava Vojty viz.[ 3 ] v drobné úpravě: Bratislava, matka slovenských měst. Pochopil jsem, proč tolik lidí z Česka vyrazí raději do areálu Incheby.sk[ 4 ] než by se píďalkovali po našich dvou roztržených motocyklových podnicích[ 5 ][ 6 ]. Výstava v Bratislavě je opravdu velkolepá, velká jak plochou, tak množstvím návštěvníků. Zároveň je stejný termín na Slovensku tak trochu motocyklovým svátkem. Na výstavišti vždy ve večerních hodinách probíhají akce jako předávání cen mistrů nebo vyhlášení ankety Motocykel roku 2014[ 7 ]: kategorie offroad – KTM Freeride 250R; touring – Suzuki V-Strom 1000;..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirzJ_n61FL040kdud_QjZaNM_5ErIt7O7tJAz0fRwjbwN-0JogiPdlI2DEuU9DcJ8Fl2PEr6RN5t0-G42dYPKXo7B0glOo7ar7tIzudQq5-ZjUIH01ugO8ue33rw3X-m117OqPvkfnaM9s/s1600/WP_20140315_010.jpg"
 tags: ["Jiné moto", "Tak jde čas"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirzJ_n61FL040kdud_QjZaNM_5ErIt7O7tJAz0fRwjbwN-0JogiPdlI2DEuU9DcJ8Fl2PEr6RN5t0-G42dYPKXo7B0glOo7ar7tIzudQq5-ZjUIH01ugO8ue33rw3X-m117OqPvkfnaM9s/s1600/WP_20140315_010.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirzJ_n61FL040kdud_QjZaNM_5ErIt7O7tJAz0fRwjbwN-0JogiPdlI2DEuU9DcJ8Fl2PEr6RN5t0-G42dYPKXo7B0glOo7ar7tIzudQq5-ZjUIH01ugO8ue33rw3X-m117OqPvkfnaM9s/s1600/WP_20140315_010.jpg" height="480" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirzJ_n61FL040kdud_QjZaNM_5ErIt7O7tJAz0fRwjbwN-0JogiPdlI2DEuU9DcJ8Fl2PEr6RN5t0-G42dYPKXo7B0glOo7ar7tIzudQq5-ZjUIH01ugO8ue33rw3X-m117OqPvkfnaM9s/s1600/WP_20140315_010.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
 Týden po brněnském Motosalonu jsem měl možnost zavítat na čtyři dny na výstavu Motocykel. Opět po ose, s roll-upem[<a href="http://tyfoza.tripmasterast.cz/AST_na_vystave_2014.jpg" target="_blank">1</a>] za zády; vlastně se dvěma roll-upy – vezl jsem ještě jeden navíc[<a href="http://www.rajbas.eu/zajezdy-motorky" target="_blank">2</a>], protože se nevešel do auta!<br />
 Když jsem projížděl Bratislavou, běžela mi hlavou nesmrtelná slova Jaroslava Vojty viz.[<a href="http://youtu.be/drcjFu5o_OM" target="_blank">3</a>] v drobné úpravě: Bratislava, matka slovenských měst.<br />

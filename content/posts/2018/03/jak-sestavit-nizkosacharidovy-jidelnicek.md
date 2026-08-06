@@ -2,6 +2,7 @@
 title: "Jak sestavit nízkosacharidový jídelníček..."
 date: 2018-03-23T16:42:00.001Z
 url: "/posts/2018/03/jak-sestavit-nizkosacharidovy-jidelnicek/"
+summary: "Protože se na mě mnoho lidí obrátilo s dotazem, jak sestavit jídelníček na nízkosacharidu, aby byl hubnoucí nebo přibírací, sepsal jsem následující text viz [ 1 ]. Před přečtením je nutné si přečíst Stručný manuál nízkosacharidového stravování viz [ 2 ] nebo v PDF[ 3 ]."
 tags: ["Životní styl"]
 aliases:
   - "/2018/03/jak-sestavit-nizkosacharidovy-jidelnicek.html"

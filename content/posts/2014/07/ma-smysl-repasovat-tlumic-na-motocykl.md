@@ -2,6 +2,7 @@
 title: "Má smysl repasovat tlumič na motocykl?"
 date: 2014-07-23T13:58:00.003Z
 url: "/posts/2014/07/ma-smysl-repasovat-tlumic-na-motocykl/"
+summary: "[ fotky ] Kdo hledá rychlou odpověď: „Ne, nemá smysl repasovat tlumič na motocykl, je lepší pořídit nový.“ Bohužel repas může být třikrát až osmkrát levnější než nový tlumič. A to stojí za úvahu. Na mém V-Stromu je nerozebiratelný tlumič, dá se nastavit pouze zpětný útlum a tlumič má hydraulicky nastavitelnou tvrdost pružiny. Po 70tis. kilometrech, poslední dobou se spoustou offroadu bylo jasné, že tlumič má život za sebou a ač stále ještě nějak tlumí, není v kondici jako zamlada. Jsou dvě možnosti, vyměnit za nový tlumič s investicí kolem 20tis. korun za Hyperpro nebo Öhlins, sáhnout po levnější variantě od Hagonu za zhruba 10tis. korun a nebo nechat tlumič repasovat. Nemyslete si, že když pořídíte nový tlumič, že nevyžaduje údržbu. Stejně jako každou sezónu nebo dvě měníme olej v tlumičích na přední vidlici, tak je třeba zhruba v intervalu 50tis. kilometrů řešit údržbu zadního..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3-6Xuciba3wXgoHP85TeedHEZJeCtBBm0CVP6GfZPOii_Y-lWydjC5zWwuJ68EUCf8XziQGOE-ff4HwfWfmly3UZjrpBhCbii3FardfRrGUsMjexlg1UNETYYqhIgNRb0Kf8s_9b8zKZc/s1600/WP_20140624_030.jpg"
 tags: ["Suzuki DL 650 K9"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3-6Xuciba3wXgoHP85TeedHEZJeCtBBm0CVP6GfZPOii_Y-lWydjC5zWwuJ68EUCf8XziQGOE-ff4HwfWfmly3UZjrpBhCbii3FardfRrGUsMjexlg1UNETYYqhIgNRb0Kf8s_9b8zKZc/s1600/WP_20140624_030.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3-6Xuciba3wXgoHP85TeedHEZJeCtBBm0CVP6GfZPOii_Y-lWydjC5zWwuJ68EUCf8XziQGOE-ff4HwfWfmly3UZjrpBhCbii3FardfRrGUsMjexlg1UNETYYqhIgNRb0Kf8s_9b8zKZc/s1600/WP_20140624_030.jpg" height="248" width="320" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3-6Xuciba3wXgoHP85TeedHEZJeCtBBm0CVP6GfZPOii_Y-lWydjC5zWwuJ68EUCf8XziQGOE-ff4HwfWfmly3UZjrpBhCbii3FardfRrGUsMjexlg1UNETYYqhIgNRb0Kf8s_9b8zKZc/s1600/WP_20140624_030.jpg" "Ilustrace k článku" "320" >}}</div>
 [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
 <i>Kdo hledá rychlou odpověď: <b>„Ne, nemá smysl repasovat tlumič na motocykl, je lepší pořídit nový.“<span style="font-size: large;">&nbsp;</span></b></i><br />
 <i>Bohužel repas může být třikrát až osmkrát levnější než nový tlumič. A to stojí za úvahu.</i><br />

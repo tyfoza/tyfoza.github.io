@@ -2,7 +2,8 @@
 title: "Sášina služební cesta do Naardenu"
 date: 2012-05-04T12:54:00.002Z
 url: "/posts/2012/05/sasina-sluzebni-cesta-do-naardenu/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/05/sasina-sluzebni-cesta-do-naardenu.html"
 ---

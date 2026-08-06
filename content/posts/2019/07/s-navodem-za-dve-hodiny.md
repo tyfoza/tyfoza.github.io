@@ -2,7 +2,8 @@
 title: "S návodem za dvě hodiny..."
 date: 2019-07-27T16:49:00.001Z
 url: "/posts/2019/07/s-navodem-za-dve-hodiny/"
-tags: ["Video", "Tak jde čas"]
+summary: "...a pak došla káva a sušenky."
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2019/07/s-navodem-za-dve-hodiny.html"
 ---

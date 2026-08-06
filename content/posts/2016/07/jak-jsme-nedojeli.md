@@ -2,6 +2,7 @@
 title: "Jak jsme nedojeli..."
 date: 2016-07-24T08:14:00.001Z
 url: "/posts/2016/07/jak-jsme-nedojeli/"
+summary: "Véna vzal naše auto a svoji dívku na vejlet. Díky! [ fotky ] V útery večer vyrazili Filip a Johny, tedy pravděpodobně budoucí švagři, směr Velké Pavlovice, vyzvednout Árona, naklikat do mobilů poslední změny v plánovaných bodech, ochutnat víno a griotku a za úvitu, až nadýchají dohromady nulu, vyrazit. Cíl výletu nám zadefinoval strejda Pertla, kterýžto pojal nápad, vyslat do světa velkou část populace československé, laděné motocyklově/enduro/cestovně. Michal Petrlíček projel, zapsal,napsal a vydal první díl offrodového průvodce - Alpské šotoliny. Díky mu za to. Anžto v domečku našem děly se změny čpící hořícím kovem, horkou vodou a potem řemeslníků. Inu, topenáři. Nezbylo mně se Sášenkou než na tyto pány dohlížet, přerůzně jim do jejich řemesla mudrovat a hlavně jim otírat zpocená čela a krmiti je krmí veganskou… Filip, Johny, Aron, tedy skupina A nahlásili, že šotolina jim chutná a..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT2iO0Y3Zhta4egRJ1GULolr738n7NY1d7ln-Eklf8B_Bko28odTsPjHu4lGqSpTusG59gaDVuF3nyZT7atSdYXFI08HwzayPrvFU4U1kNEG9sFAmuU7qCsCB4l-WcjmZMLMSiQ9CHRGN/s640/20160724_173030.jpg"
 tags: ["Tak jde čas"]
@@ -11,7 +12,7 @@ aliases:
 
 <div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT2iO0Y3Zhta4egRJ1GULolr738n7NY1d7ln-Eklf8B_Bko28odTsPjHu4lGqSpTusG59gaDVuF3nyZT7atSdYXFI08HwzayPrvFU4U1kNEG9sFAmuU7qCsCB4l-WcjmZMLMSiQ9CHRGN/s1600/20160724_173030.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT2iO0Y3Zhta4egRJ1GULolr738n7NY1d7ln-Eklf8B_Bko28odTsPjHu4lGqSpTusG59gaDVuF3nyZT7atSdYXFI08HwzayPrvFU4U1kNEG9sFAmuU7qCsCB4l-WcjmZMLMSiQ9CHRGN/s640/20160724_173030.jpg" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT2iO0Y3Zhta4egRJ1GULolr738n7NY1d7ln-Eklf8B_Bko28odTsPjHu4lGqSpTusG59gaDVuF3nyZT7atSdYXFI08HwzayPrvFU4U1kNEG9sFAmuU7qCsCB4l-WcjmZMLMSiQ9CHRGN/s1600/20160724_173030.jpg" "Ilustrace k článku" "640" >}}</div>
 <div class="" style="clear: both; text-align: center;">
 Véna vzal naše auto a svoji dívku na vejlet. Díky!</div>
 <div>

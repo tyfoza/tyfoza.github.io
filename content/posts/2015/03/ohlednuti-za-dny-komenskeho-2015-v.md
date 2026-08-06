@@ -2,7 +2,8 @@
 title: "Ohlédnutí za Dny Komenského 2015 v Uherském Brodě"
 date: 2015-04-02T20:26:00Z
 url: "/posts/2015/03/ohlednuti-za-dny-komenskeho-2015-v/"
-tags: ["Video", "Tak jde čas"]
+summary: "Návštěva J.A.K v rodném domě... [ fotky ] z pondělního Zpátky do lavic! články a odkazy z webu: kultura.ub.cz – Zpátky do lavic! článek [ 1 ] fotky [ 2 ] – Otvírák na Komenského – článek [ 3 ] video [ 4 ] – Komenského fascinující labyrint světa a ráj srdce – článek [ 5 ] – Vernisáž v rodném domě J.A.K. – článek [ 6 ], videa uvnitř článku"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2015/03/ohlednuti-za-dny-komenskeho-2015-v.html"
 ---

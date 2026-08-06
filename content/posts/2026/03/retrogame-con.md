@@ -2,7 +2,8 @@
 title: "Retrogame Con..."
 date: 2026-03-28T09:00:00.014Z
 url: "/posts/2026/03/retrogame-con/"
-tags: ["Počítače", "Počítače.hry"]
+summary: "[ retrogamecon.cz ] [ reportáž ] high-voltage.cz"
+tags: ["Počítače.hry", "Počítače"]
 aliases:
   - "/2026/03/retrogame-con.html"
 ---

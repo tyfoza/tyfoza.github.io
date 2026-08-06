@@ -2,7 +2,8 @@
 title: "Mikulášská objížďka..."
 date: 2025-12-06T22:26:00.001Z
 url: "/posts/2025/12/mikulasska-objizdka/"
-tags: ["Šerm.vystoupení", "Šerm"]
+summary: ""
+tags: ["Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2025/12/mikulasska-objizdka.html"
 ---

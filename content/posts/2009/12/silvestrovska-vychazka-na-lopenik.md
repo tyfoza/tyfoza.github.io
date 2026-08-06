@@ -2,7 +2,8 @@
 title: "Silvestrovská vycházka na Lopeník"
 date: 2009-12-31T13:00:00.003Z
 url: "/posts/2009/12/silvestrovska-vychazka-na-lopenik/"
-tags: ["Video", "Tak jde čas"]
+summary: ""
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2009/12/silvestrovska-vychazka-na-lopenik.html"
 ---

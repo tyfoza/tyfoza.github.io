@@ -2,6 +2,7 @@
 title: "Den patý, díl první..."
 date: 2020-01-23T19:00:00Z
 url: "/posts/2020/01/den-paty-dil-prvni/"
+summary: "Ráno ve městečku Vellagrande, celým jménem se městys píše Jesús y Montes Claros de los Caballeros del Vallegrande, tedy Ježíš a jasné hory rytířů z velkého údolí. Zajímalo by mě, jak to místní vyplňují do tiskopisů. Jdu ulovit nějakou snídani, míjím masnu. Obchůdek, kde visí maso, při běžné teplotě, v rohu na lavici paní s dcerou a řezník porcuje. Voní to adekvátně. Tržiště, místo které má část se stánky se snídaní, uprostřed je obchod se vším od chleba přes pytle rýže, svíčky nebo prací prášek. Pak je sekce masa, teplo, kuřata, maso, fujki. Moc fujki. A z druhé strany jsou stánky, kde prodávají obědy. Dá se tadys sehnat všechno, od hřebíku po lokomotivu. U prvního stánku je veselá paní, tak ptám kávu do začátku. Ptá jestli překapávanou, kterou má již v konvičce nebo rozpustnou. Volím rozpustnou, protože vím, že dostanu hrnek plný horké vody, lžičku a pixlu Nescafé. Chci hned platit a..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-paty-dil-prvni.html"

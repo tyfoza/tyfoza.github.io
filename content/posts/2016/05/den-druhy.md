@@ -2,6 +2,7 @@
 title: "Den druhý..."
 date: 2016-05-03T00:19:00Z
 url: "/posts/2016/05/den-druhy/"
+summary: "Brzy ráno, za kuropění, tedy kolem deváté hodiny ranní, hotovíme se k odjezdu. Na placených dálnicích jsou výborné zotavovny, parkoviště pro karavany a kamiony, spousta zeleně a vůbec jsou to místa, kde člověk rád spočne. Tam jsme hlavu složili. První zjistění bylo, že včerejších skoro deset hodin provozu při vysokých otáčkách, vyžádal si jistou spotřebu oleje. Dolil jsem tři deci. Poutní den jsme začali přesunem necelých 600km do Lourdes, tedy do Lurd. Kdo neví, co se tady roku 1858 stalo - a nesouvisí to s předzvěstí ACW - ať googlí. Dnes je to místo hodné zastavení. Cesta nám vůbec neubíhala, protože foukal nechutný protivítr, který zmítal mnou, Sášenkou i motocyklem a neumožnil nám jet rychleji jak 135km/h. Předpokládám, že na tom nese svůj díl viny jistý ThD. s i iniciály P.Z. Kterýžto nás mailem pozdravoval řka, ať jezdím pomaleji, leč se ve zdraví nevrátivší budeme. Kolem poledne..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkoaXkrvtC4-B-SWNsg6S6prmUe71RZ_GXHlyb93-oa5_xlZCRQ2cWYlr4oGxieUijg2wIvahFFr5EzJaPbtkD9wDm9dNOue91P1zKezU9LiqTH7JopjlKB3eOV4pRFCg_3vNHQcjI5bXp/s320/WP_20160503_003-708968.jpg"
 tags: ["Cesty - 2016 Španělsko"]
@@ -10,13 +11,13 @@ aliases:
 ---
 
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkoaXkrvtC4-B-SWNsg6S6prmUe71RZ_GXHlyb93-oa5_xlZCRQ2cWYlr4oGxieUijg2wIvahFFr5EzJaPbtkD9wDm9dNOue91P1zKezU9LiqTH7JopjlKB3eOV4pRFCg_3vNHQcjI5bXp/s1600/WP_20160503_003-708968.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6280622206047759330" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkoaXkrvtC4-B-SWNsg6S6prmUe71RZ_GXHlyb93-oa5_xlZCRQ2cWYlr4oGxieUijg2wIvahFFr5EzJaPbtkD9wDm9dNOue91P1zKezU9LiqTH7JopjlKB3eOV4pRFCg_3vNHQcjI5bXp/s320/WP_20160503_003-708968.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkoaXkrvtC4-B-SWNsg6S6prmUe71RZ_GXHlyb93-oa5_xlZCRQ2cWYlr4oGxieUijg2wIvahFFr5EzJaPbtkD9wDm9dNOue91P1zKezU9LiqTH7JopjlKB3eOV4pRFCg_3vNHQcjI5bXp/s1600/WP_20160503_003-708968.jpg" "Ilustrace k článku" >}}</div>
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfaQMfW6JqGZHMB2Sm0ghNAOqFpTIqeots1ohpjiWCteteaiJDdZo9JlqkA4wgxvMc23KoZFslbflBnRGOQI-N-k26iilR-FF959e7NWqGkhfL5X8D0HlMWMIaA5zrp2J-PxPUsy9oqBry/s1600/WP_20160503_004-711054.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6280622210742775618" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfaQMfW6JqGZHMB2Sm0ghNAOqFpTIqeots1ohpjiWCteteaiJDdZo9JlqkA4wgxvMc23KoZFslbflBnRGOQI-N-k26iilR-FF959e7NWqGkhfL5X8D0HlMWMIaA5zrp2J-PxPUsy9oqBry/s320/WP_20160503_004-711054.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfaQMfW6JqGZHMB2Sm0ghNAOqFpTIqeots1ohpjiWCteteaiJDdZo9JlqkA4wgxvMc23KoZFslbflBnRGOQI-N-k26iilR-FF959e7NWqGkhfL5X8D0HlMWMIaA5zrp2J-PxPUsy9oqBry/s1600/WP_20160503_004-711054.jpg" "Ilustrace k článku" >}}</div>
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUXc7MFqB0IfOyT_kz1wUD3fq0tq3eWVMSSVPaRpgvt9nQx3DN-Zn6Aoz0W3_Ln-AXoFP8mdd8i43tqYduuqW-cYpnKFdKQL6PkBvba8ctng7AVzMKAIzkjB_ZU9ZTXPIdnNMVuhqrlmY/s1600/WP_20160503_017-712207.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6280622213808849202" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUXc7MFqB0IfOyT_kz1wUD3fq0tq3eWVMSSVPaRpgvt9nQx3DN-Zn6Aoz0W3_Ln-AXoFP8mdd8i43tqYduuqW-cYpnKFdKQL6PkBvba8ctng7AVzMKAIzkjB_ZU9ZTXPIdnNMVuhqrlmY/s320/WP_20160503_017-712207.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUXc7MFqB0IfOyT_kz1wUD3fq0tq3eWVMSSVPaRpgvt9nQx3DN-Zn6Aoz0W3_Ln-AXoFP8mdd8i43tqYduuqW-cYpnKFdKQL6PkBvba8ctng7AVzMKAIzkjB_ZU9ZTXPIdnNMVuhqrlmY/s1600/WP_20160503_017-712207.jpg" "Ilustrace k článku" >}}</div>
 <div class="mobile-photo">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYMrGVsNc_ZpOOMitYOR9c8fKWo23M8T6Cs-QNcqYOGWhF3YAnHacFCe59o2YFUTgM1bErkMHtZW0FSqyQPXCx7-NO1kQ33KbtBFiph6r8B_VxvOYk37nNepxPLy7kvqZKKph2h5BArOW/s1600/WP_20160504_007-713512.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6280622222614176098" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYMrGVsNc_ZpOOMitYOR9c8fKWo23M8T6Cs-QNcqYOGWhF3YAnHacFCe59o2YFUTgM1bErkMHtZW0FSqyQPXCx7-NO1kQ33KbtBFiph6r8B_VxvOYk37nNepxPLy7kvqZKKph2h5BArOW/s320/WP_20160504_007-713512.jpg" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYMrGVsNc_ZpOOMitYOR9c8fKWo23M8T6Cs-QNcqYOGWhF3YAnHacFCe59o2YFUTgM1bErkMHtZW0FSqyQPXCx7-NO1kQ33KbtBFiph6r8B_VxvOYk37nNepxPLy7kvqZKKph2h5BArOW/s1600/WP_20160504_007-713512.jpg" "Ilustrace k článku" >}}</div>
 <div>
 <div style="font-family: Calibri,sans-serif; font-size: 11pt;">
 Brzy ráno, za kuropění, tedy kolem deváté hodiny ranní, hotovíme se k odjezdu. Na placených dálnicích jsou výborné zotavovny, parkoviště pro karavany a kamiony, spousta zeleně a vůbec jsou to místa, kde člověk rád spočne. Tam jsme hlavu složili.<br />

@@ -2,6 +2,7 @@
 title: "Moje „oilstory“"
 date: 2014-05-13T16:06:00Z
 url: "/posts/2014/05/moje-oilstory/"
+summary: "Od začátku jsem měl strach z degradace oleje při tepelné zátěži. Takže od první výměny oleje liju polosyntetiku 10W50 Motul 5100. Sehnal-li bych levnější značku, tak tam je. Do 57tis. km jsem měnil poctivě po 6tis. km. Pak jsem to přestal řešit, takže poslední výměny mám 57; 67.5; 77. Čím víc offroadu, tím víc jsem měl strach z teploty oleje. Takže jsem naposledy dal syntetický 10W60 Motul 7100. A ten už je PEKELNĚ DRAHÝ! A tak jsem začal měřit teplotu oleje. A mám konečně i nějaká reálná data. Měřím teplotu oleje od minulého léta. Do výpustného šroubu oleje mně kámoš zavrtal teplotní čidlo, palubní počítač ukáže a kontroluje teplotu. Teplota oleje nepřesáhne 98 stupňů. A to ani při fakt brutální zátěži v offroadu – osm hodin v kuse na jedničku/dvojku v letním hicu, kameny, vyschlé potoky. Jelo se krokem celý den. Pro zajímavost teplota chladící kapaliny byla 100-103°C, ventilátor jel..."
 tags: ["Suzuki DL 650 K9"]
 aliases:
   - "/2014/05/moje-oilstory.html"

@@ -2,6 +2,7 @@
 title: "Duchovní obnova..."
 date: 2016-12-03T18:00:00.001Z
 url: "/posts/2016/12/duchovni-obnova/"
+summary: "Pavel Hofírek vedl duchovní obnovu, doporučuji k prozkoumání jeho [ web ] plný zajímavých přednášek. Přidávám svůj [ zápisek ] z duchovní obnovy o modlitbě. Výborná osmihodinovka na začátek adventu."
 tags: ["Tak jde čas"]
 aliases:
   - "/2016/12/duchovni-obnova.html"

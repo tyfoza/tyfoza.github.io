@@ -2,6 +2,7 @@
 title: "Pěkná pěsnička"
 date: 2015-01-05T18:23:00.001Z
 url: "/posts/2015/01/pekna-pesnicka/"
+summary: "Musica Folklorica[ 1 ] V tomto videoklipu si zahrála chorvatská uniforma našeho II. grenzinfantery regimentu."
 tags: ["Šerm"]
 aliases:
   - "/2015/01/pekna-pesnicka.html"

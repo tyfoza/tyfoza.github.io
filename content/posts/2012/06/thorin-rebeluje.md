@@ -2,7 +2,8 @@
 title: "Thorin rebeluje"
 date: 2012-06-02T13:00:00.006Z
 url: "/posts/2012/06/thorin-rebeluje/"
-tags: ["Video", "Tak jde čas"]
+summary: "[ fotky ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2012/06/thorin-rebeluje.html"
 ---

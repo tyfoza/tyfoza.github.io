@@ -2,7 +2,8 @@
 title: "Ábi Rebeluje"
 date: 2013-05-01T10:47:00Z
 url: "/posts/2013/05/abi-rebeluje/"
-tags: ["Video", "Honda CA125 Rebel", "Tak jde čas"]
+summary: "[ fotky ]"
+tags: ["Tak jde čas", "Honda CA125 Rebel", "Video"]
 aliases:
   - "/2013/05/abi-rebeluje.html"
 ---

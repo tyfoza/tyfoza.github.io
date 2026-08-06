@@ -2,6 +2,7 @@
 title: "Biřmování v Uherském Brodě 2018..."
 date: 2018-10-20T19:04:00Z
 url: "/posts/2018/10/birmovani-v-uherskem-brode-2018/"
+summary: "Ninja Johanka z Arku Nováková [ fotky 1 ] – autor Dominik Novák [ fotky 2 ] – autor Dominik Novák"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNB1JcIpEiphud052Vu07bbYfM00oNcoOph8QLAx7QfZFR6LG176MSIe9r1COEtJTyXrlFg-7gVCXaBz5TaKAP-UBK-eliIYjPywfgu3JB3Cr9nV7FoBQ9fXzr_NdUEXlOFI88AAnCOrLz/s640/001.png"
 tags: ["Tak jde čas"]
@@ -10,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNB1JcIpEiphud052Vu07bbYfM00oNcoOph8QLAx7QfZFR6LG176MSIe9r1COEtJTyXrlFg-7gVCXaBz5TaKAP-UBK-eliIYjPywfgu3JB3Cr9nV7FoBQ9fXzr_NdUEXlOFI88AAnCOrLz/s1600/001.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="805" height="432" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNB1JcIpEiphud052Vu07bbYfM00oNcoOph8QLAx7QfZFR6LG176MSIe9r1COEtJTyXrlFg-7gVCXaBz5TaKAP-UBK-eliIYjPywfgu3JB3Cr9nV7FoBQ9fXzr_NdUEXlOFI88AAnCOrLz/s640/001.png" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNB1JcIpEiphud052Vu07bbYfM00oNcoOph8QLAx7QfZFR6LG176MSIe9r1COEtJTyXrlFg-7gVCXaBz5TaKAP-UBK-eliIYjPywfgu3JB3Cr9nV7FoBQ9fXzr_NdUEXlOFI88AAnCOrLz/s1600/001.png" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: center;">
 Ninja Johanka z Arku Nováková</div>
 <div style="text-align: center;">

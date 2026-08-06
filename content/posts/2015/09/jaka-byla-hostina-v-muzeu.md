@@ -2,7 +2,8 @@
 title: "Jaká byla hostina v muzeu..."
 date: 2015-09-01T09:32:00.001Z
 url: "/posts/2015/09/jaka-byla-hostina-v-muzeu/"
-tags: ["Šerm.vystoupení", "Šerm", "Tak jde čas"]
+summary: "další info o hostině viz [ 1 ] fotky: [ 1 ] Elen Sladká [ 2 ] Maryška Švehlíková [ 3 ] Slovácký deník odezva v médiích: [ 4 ] Slovácký deník [ 5 ] TV Slovácko [ 6 ] Uherskobrodský zpravodaj str. 14"
+tags: ["Tak jde čas", "Šerm", "Šerm.vystoupení"]
 aliases:
   - "/2015/09/jaka-byla-hostina-v-muzeu.html"
 ---

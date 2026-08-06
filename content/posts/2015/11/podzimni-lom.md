@@ -2,6 +2,7 @@
 title: "Podzimní lom..."
 date: 2015-11-22T17:07:00.002Z
 url: "/posts/2015/11/podzimni-lom/"
+summary: "akce Robert Ďábel na počest páně Jakuba H. [ fotky ] Krátká zprávy z lomové výpravy: - Biblioterapie[ 1 ], čili léčba knihou. Máme dvě možnosti, buď knihu číst; nebo podobně jako v canisterapii[ 2 ] knihy pouze přikládat. Na roveň stavíme relaxační „léčbu výbuchem,“[ 3 ] která jednoznačně kolemstojící pozitivně motivuje v případě úspěchu a frustruje v případě selhání. Novinka : Již téměř pět lidí používá zcela nový termín z oblasti sociologie a tím je grumbláž . Prezentace k tématu sociální role a sociální maska viz [ 4 ]."
 tags: ["Lom"]
 aliases:
   - "/2015/11/podzimni-lom.html"

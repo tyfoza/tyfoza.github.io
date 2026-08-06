@@ -2,6 +2,7 @@
 title: "Dny Komenského 2013 v Uherském Brodě"
 date: 2013-03-17T21:43:00Z
 url: "/posts/2013/03/dny-komenskeho-2013-v-uherskem-brode/"
+summary: "V pondělí začíná konferenční týden, letošní oslavy Dnů Komenského startují. Školáci, občané, senioři a hlavně pedagogové! Těšte se! - fotky[ 1 ] z nedělní tvorby propagace - web[ 2 ] konference.ub.cz - rozhovor[ 3 ] s Petrem Sedlářem ve Slováckém deníku pondělní přípis: Propagační sloup nepřežil počasí, větrem zmítán a mnohokrát povalen byl, přišlo sněžení a déšť. Již v odpoledních hodinách prvního dne konferenčního týdne byl odstraněn. - fotky[ 4 ] z pondělního programu pro školy „Po Stopách Komenského“ - video[ 5 ] „Po Stopách Komenského“"
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2H1xdCf3OwPLki_FVwTV88Lf4QCKd_fBc2WZG7-cEjekjvHecaeDRUl7diLNYFOEbd_yv2Aoa3RWMdRtxzjAoJ4cx3HJLYhWNcg387HHWWkNbm5pgAEX8r3iDd7bvFRzFvVizWybXVsAD/s640/IMG_8022.JPG"
 tags: ["Tak jde čas"]
@@ -12,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2H1xdCf3OwPLki_FVwTV88Lf4QCKd_fBc2WZG7-cEjekjvHecaeDRUl7diLNYFOEbd_yv2Aoa3RWMdRtxzjAoJ4cx3HJLYhWNcg387HHWWkNbm5pgAEX8r3iDd7bvFRzFvVizWybXVsAD/s1600/IMG_8022.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2H1xdCf3OwPLki_FVwTV88Lf4QCKd_fBc2WZG7-cEjekjvHecaeDRUl7diLNYFOEbd_yv2Aoa3RWMdRtxzjAoJ4cx3HJLYhWNcg387HHWWkNbm5pgAEX8r3iDd7bvFRzFvVizWybXVsAD/s640/IMG_8022.JPG" width="358" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2H1xdCf3OwPLki_FVwTV88Lf4QCKd_fBc2WZG7-cEjekjvHecaeDRUl7diLNYFOEbd_yv2Aoa3RWMdRtxzjAoJ4cx3HJLYhWNcg387HHWWkNbm5pgAEX8r3iDd7bvFRzFvVizWybXVsAD/s1600/IMG_8022.JPG" "Ilustrace k článku" "358" >}}</div>
 V pondělí začíná konferenční týden, letošní oslavy Dnů Komenského startují. Školáci, občané, senioři a hlavně pedagogové! Těšte se!<br />
 - fotky[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] z nedělní tvorby propagace<br />
 - web[<a href="http://konference.ub.cz/">2</a>] konference.ub.cz<br />

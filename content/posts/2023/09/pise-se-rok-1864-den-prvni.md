@@ -2,6 +2,7 @@
 title: "Píše se rok 1864, den první..."
 date: 2023-09-01T20:40:00.004Z
 url: "/posts/2023/09/pise-se-rok-1864-den-prvni/"
+summary: "Přednáška – Kde se vzali Češi v americké občanské válce. [ foto ] Elen Sladká [ foto ] Richard Kastner Hudební podvečer s 9th Illinois String Band [ spotify ]. Videoklip – Lorena."
 tags: ["Šerm", "Šerm.ACW"]
 aliases:
   - "/2023/09/pise-se-rok-1864-den-prvni.html"

@@ -2,7 +2,8 @@
 title: "Ukončení sezóny ACW Lipina 2015..."
 date: 2015-10-03T00:56:00.001Z
 url: "/posts/2015/10/acw-lipina-2015/"
-tags: ["Video", "Šerm", "Šerm.ACW"]
+summary: "[ fotky ] a další fotky [ 1 ] Každoroční ukončení sezóny ACW[ 2 ] v Lipině. Výživné, akční a zábavné. Těšme se zase za rok. další info [ 3 ] Kutnohorský deník [ 4 ] Svoboda.info video od Stanislava Tomáška viz. [ 5 ] pohled na bitvu z dronu [ 6 ] článek na RádioDixie.cz Jak jsem (málem) hrdinně padl za vlajku Konfederace Reportáž z rekonstrukce jedné z bitev americké občanské války se neplánovaně zvrhla v ostré bojové nasazení viz [ 7 ]"
+tags: ["Šerm", "Šerm.ACW", "Video"]
 aliases:
   - "/2015/10/acw-lipina-2015.html"
 ---

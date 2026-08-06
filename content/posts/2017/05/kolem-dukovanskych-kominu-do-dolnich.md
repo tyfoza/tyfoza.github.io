@@ -2,6 +2,7 @@
 title: "Kolem dukovanských komínů a do Dolních Kounic..."
 date: 2017-05-06T19:28:00Z
 url: "/posts/2017/05/kolem-dukovanskych-kominu-do-dolnich/"
+summary: "[ fotky ]"
 tags: ["Na cestě"]
 aliases:
   - "/2017/05/kolem-dukovanskych-kominu-do-dolnich.html"

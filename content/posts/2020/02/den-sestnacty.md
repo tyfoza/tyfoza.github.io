@@ -2,6 +2,7 @@
 title: "Den šestnáctý..."
 date: 2020-02-04T03:58:00.001Z
 url: "/posts/2020/02/den-sestnacty/"
+summary: "Santa Cruz ráno Balím motorku na cestu, nějakou vodu, trochu jídla a kolem osmé můžu vyrazit. Přemýšlím se vydat. Na sever nebo na jih? Volím Jih. Krajina se mění, vše je zelené, kolem cest louky s krávami nebo lány kukuřice (nebo slunečnice?) Nejprve je to pár set kilometrů rovně a bouřka, která byla v dáli se kvapem blíží. Ač mám nepromok, je to přívalový déšť, který bolí do rukou. Ten typ deště, který když zastihne strýca na Antoníčku na půti, tož než rozevře deštník, má vodu v holénkách a zplihlý klobůk přes uši jak kokršpaněl. Tedy během půlhodinky jsem mokrý skrz. Pak vysvitlo sluníčko, nebe modré a já absolvoval první policejní kontrolu. Řidičský průkaz. Hm, pas. A dotaz policisty ať předložím carné de conducir internacional. Tak mu říkám, že Bolívie nemá podepsanou žádnou ze dvou smluv o mezinárodních řidičácích, tak mám pro jistotu oba. Zklamaný nebyl, opravdu se smál. Po cestě..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/02/den-sestnacty.html"

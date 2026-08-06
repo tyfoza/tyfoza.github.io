@@ -2,9 +2,10 @@
 title: "Druhá světová válka - reenactment"
 date: 2014-08-04T21:57:00.002Z
 url: "/posts/2014/08/druha-svetova-valka-reenactment/"
+summary: "[ fotky ] Jak to vypadá, když Městská hlídka vyrazí na bojiště II. světové války? Místy krvavé, místy úsměvné. Pod zvoleným alteregem vstříc novým zážitkům. Každý tank musí dostat „nálepku“ výbušnou a každý účastník si musí svoji hodnost obhájit. Válčil jsem jako účetní Fantozzi na počest malebného výjevu „lovecká sezóna“, kdo neviděl neuvěří viz. [ 1 ] – válečná zóna je až od čtvrté minuty. Velmi slušné a náročné mapy pro kooperativní multiplayer ke stažení viz.[ 2 ]. pozn. jak hrál kooperativní multiplayer Hidden and Dangerous 2 po LAN ve Windows 7 a 8. Jedenáct let stará hra Hidden and Dangerous 2 viz.[ 2 ] běží i v nových operačních systémech Windows 7 a Windows 8. Bohužel při pokusu o síťovou hru LAN vznikne problém, kdy je hra se serverem vytvořena, ostatní ji vidí, ale když se pokusí připojit, vypíše se hlášení „vytváří se klient...“ a dál se nic neděje. Problém je v zapnutém..."
 cover:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfKxWeonkB39TnTSRTcHb6KSFF4iHW_Xv1fLAgBv1aG53LtsQlNNs3jTzregRxVHkX2eMCCp42A_mxwSvbcvL_6KEQL6zWVxM3e0C5kqWm4Lb5soXBHbJIzBSAqQYG8UHBzDyzYEWcQvKN/s1600/hd1.jpg"
-tags: ["Počítače", "Tak jde čas"]
+tags: ["Tak jde čas", "Počítače"]
 aliases:
   - "/2014/08/druha-svetova-valka-reenactment.html"
 ---
@@ -12,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfKxWeonkB39TnTSRTcHb6KSFF4iHW_Xv1fLAgBv1aG53LtsQlNNs3jTzregRxVHkX2eMCCp42A_mxwSvbcvL_6KEQL6zWVxM3e0C5kqWm4Lb5soXBHbJIzBSAqQYG8UHBzDyzYEWcQvKN/s1600/hd1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfKxWeonkB39TnTSRTcHb6KSFF4iHW_Xv1fLAgBv1aG53LtsQlNNs3jTzregRxVHkX2eMCCp42A_mxwSvbcvL_6KEQL6zWVxM3e0C5kqWm4Lb5soXBHbJIzBSAqQYG8UHBzDyzYEWcQvKN/s1600/hd1.jpg" height="480" width="640" /></a></div>
+{{< obr600 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfKxWeonkB39TnTSRTcHb6KSFF4iHW_Xv1fLAgBv1aG53LtsQlNNs3jTzregRxVHkX2eMCCp42A_mxwSvbcvL_6KEQL6zWVxM3e0C5kqWm4Lb5soXBHbJIzBSAqQYG8UHBzDyzYEWcQvKN/s1600/hd1.jpg" "Ilustrace k článku" "640" >}}</div>
 [<a href="https://plus.google.com/photos/112269704324559337988/albums/6043830226099917105" target="_blank">fotky</a>]<br />
 Jak to vypadá, když Městská hlídka vyrazí na bojiště II. světové války? Místy krvavé, místy úsměvné. Pod zvoleným alteregem vstříc novým zážitkům. Každý tank musí dostat „nálepku“ výbušnou a každý účastník si musí svoji hodnost obhájit.<br />
 Válčil jsem jako účetní Fantozzi na počest malebného výjevu „lovecká sezóna“, kdo neviděl neuvěří viz. [<a href="https://www.youtube.com/watch?v=kZ1slDKG4HQ" target="_blank">1</a>] – válečná zóna je až od čtvrté minuty.<br />

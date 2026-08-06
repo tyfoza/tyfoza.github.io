@@ -2,7 +2,8 @@
 title: "Silvestrovská vycházka"
 date: 2011-12-31T22:50:00.002Z
 url: "/posts/2011/12/silvestrovska-vychazka/"
-tags: ["Video", "Tak jde čas"]
+summary: "Modrá voda v zimě nevoní o nic lépěji než v létě. Vedoucí výpravy Jakub je výlet od výletu zkušenější a lepší. V cílovém bodě proběhlo zpívání osmi vánočních koled, komprimované v čase koledy jedné. Aplikovaný přístup Cimrmanovy cirkular schule - každý zpěvák si vybral jinou koledu a začali najednou. Půlkrysa později poznamenal, že se jedná o pokus o polyfonii, žel nebyla dodržena většina pravidel. [ víc fotek ]"
+tags: ["Tak jde čas", "Video"]
 aliases:
   - "/2011/12/silvestrovska-vychazka.html"
 ---

@@ -2,6 +2,7 @@
 title: "Itálie 2012 - podhůří Grossglockneru"
 date: 2012-08-08T21:09:00.005Z
 url: "/posts/2012/08/italie-2012-podhuri-grossglockneru/"
+summary: "Časně zrána, po deváté, sešli jsme se, sbalení a nadšení, abychom vyrazili směr Toskánsko. Šest lidí a čtyři motocykly. Anubis na své Suzuki SV650, Venóš na Hondě Hornet 900, Karlos s Erikou na Kawasaki GPZ 1100 a já s Ábi na Suzuki DL 650 V-Strom. Jedeme zcela mimo dálnice prozkoumat Alpské průsmyky a zjistit, zda toskánské pečivo z Kauflandu chutná jako pravé pečivo z Toskánska, zda nám v Boloni udělají špagety s boloňskou omáčkou a ochutnat pravou italskou pizzu pod šikmou věží v Pise. Po cestě jsme ladili interval zastávek na tankování PHM, postupně jsme se od 200km dopracovali ke konečným 250-270km. Přec jen dojezd našich různorodých motorek na jednu nádrž je opravdu rozmanitý. Podle V-Stromu by stačilo brát benzín po 400km a to by se nikomu ze zúčastněných nelíbilo. Počasí nám dopřálo příjemné podmračno. První neplánovaná zastávka přišla po 200km, kolem poledního, kdy se Venóšovi..."
 tags: ["Cesty - 2012 Itálie"]
 aliases:
   - "/2012/08/italie-2012-podhuri-grossglockneru.html"

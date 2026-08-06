@@ -2,6 +2,7 @@
 title: "Den jedenáctý..."
 date: 2020-01-30T02:38:00.001Z
 url: "/posts/2020/01/den-jedenacty/"
+summary: "La Paz Neuvěřitelná směsice lidí, vozidel a psů. Od spodu zaplněná vůní grilovaného jídla přímo na ulici smíchaná s pachem výfových plynů; venku polehavajících psů a shora rámovaná změtí kabelů elektrického vedení a optických kabelů. Jestli bych něco v La Paz nechtěl dělat , tak je to profese elekrikář. Ač je to sídelní město bolívijské vlády, tak stejně jako kdekoli jinde, se zde mísí chudoba a bohatství. Lidé prodávají na ulici chlebové placky, ovoce, zmrzlinu. Kdo může, tak má malý krámeček s jakýmkoli zbožím. Některé krámky vypadají, že s tím zbožím tam bydlí i majitel. A vidět vyskládané šunky zavařené v igelitu jen tak na hromadě bez chladničky, vyděsí. Včera večer jsem koupil pár vajec a dneska ráno jsem využil místní kuchyňky v hostelu. Řekl bych, že je v lepším a čistčím stavu než byla společná kuchyňka na kolejích v Ostravě, kterou nám jednou uklizečka již nevydrvživší,..."
 tags: ["Cesty - 2020 Bolívie"]
 aliases:
   - "/2020/01/den-jedenacty.html"
