@@ -1,0 +1,13 @@
+---
+title: "Emulátor magnetofonu pro SHARP MZ-800..."
+date: 2025-04-12T22:07:00.003Z
+url: "/posts/2025/04/emulator-magnetofonu-pro-sharp-mz-800/"
+summary: "[ fotky ] Projekt [ UniCMT ] je emulátor magnetofonu. Další info na [ sharpwiki ]. Na konci ledna 2025 byla na [ 8bity.cz ] zveřejněna verze 0.5 firmware, která nabízí i možnost SAVE, tedy uložit si svoji práci. V původním řešení nahrazuje deska emulátoru, umístněná ve vytištěné krabičce, celý původní magnetofon. Pro muzejní využití toto řešení není vhodné, protože potřebujeme zachovat původní vzhled počítače. Zvolil jsem instalaci do prázdného slotu dostupného zezadu. [ stl ] pro tisk montáže do zadní šachty"
+cover:
+    image: "obr-01.webp"
+tags: ["Počítače.8bit", "Počítače"]
+aliases:
+  - "/2025/04/emulator-magnetofonu-pro-sharp-mz-800.html"
+---
+
+<div style="text-align: left;"><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>[<a href="https://photos.app.goo.gl/VtMxpmLNtAPX1jqm7" target="_blank">fotky</a>]<br /><br /></div><div style="text-align: left;"><span>&nbsp;&nbsp; &nbsp;</span>Projekt [<a href="https://www.8bity.cz/2023/unicmt-new-sharp-mz-tape-recorder/" target="_blank">UniCMT</a>] je emulátor magnetofonu. Další info na [<a href="https://www.sharpwiki.cz/doku.php?id=unicmt:hardware" target="_blank">sharpwiki</a>]. Na konci ledna 2025 byla na [<a href="https://www.8bity.cz/2025/unicmt-cassette-tape-emulator-new-firmware-v05/">8bity.cz</a>] zveřejněna verze 0.5 firmware, která nabízí i možnost SAVE, tedy uložit si svoji práci.</div><div style="text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div><span>&nbsp;&nbsp; &nbsp;</span>V původním řešení nahrazuje deska emulátoru, umístněná ve vytištěné krabičce, celý původní magnetofon. Pro muzejní využití toto řešení není vhodné, protože potřebujeme zachovat původní vzhled počítače. Zvolil jsem instalaci do prázdného slotu dostupného zezadu.<div style="text-align: left;"><br /></div><div style="text-align: left;">[<a href="https://www.thingiverse.com/thing:7009355" target="_blank">stl</a>] pro tisk montáže do zadní šachty</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "640" >}}</div><div class="separator" style="clear: both; text-align: center;"><br /></div>

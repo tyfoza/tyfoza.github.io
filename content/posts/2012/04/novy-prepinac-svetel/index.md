@@ -1,0 +1,13 @@
+---
+title: "Nový přepínač světel Honda Rebel"
+date: 2012-03-28T14:00:00.001Z
+url: "/posts/2012/04/novy-prepinac-svetel/"
+summary: "Původní přepínač, který se stiskem zasunul, přepnul dálková světla a dalším stiskem se vysunul a přepnul potkávací světla, přestal držet zapnutá dálková světla a začal fungovat jako další světelná houkačka. Plastové mikro výstupky, které umožňovaly zůstat ve správné pozici se ulámaly a nezbylo než celý přepínač vyměnit. Po malé úpravě a propilování správného tvaru byl umístěn nový kolébkový přepínač [ 1 ] včetně plastové ochrany proti vlhkosti [ 2 ]."
+cover:
+    image: "obr-01.webp"
+tags: ["Honda CA125 Rebel"]
+aliases:
+  - "/2012/04/novy-prepinac-svetel.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>Původní přepínač, který se stiskem zasunul, přepnul dálková světla a dalším stiskem se vysunul a přepnul potkávací světla, přestal držet zapnutá dálková světla a začal fungovat jako další světelná houkačka. Plastové mikro výstupky, které umožňovaly zůstat ve správné pozici se ulámaly a nezbylo než celý přepínač vyměnit. Po malé úpravě a propilování správného tvaru byl umístěn nový kolébkový přepínač [<a href="http://www.pselectronic.cz/k5108-0205-vyp-k-c1560ab.html" target="_blank">1</a>] včetně plastové ochrany proti vlhkosti [<a href="http://www.pselectronic.cz/k5108-302-vyp-k-2013-kryt.html" target="_blank">2</a>].

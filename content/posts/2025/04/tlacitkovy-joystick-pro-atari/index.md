@@ -1,0 +1,13 @@
+---
+title: "Tlačítkový joystick pro ATARI..."
+date: 2025-04-10T21:57:00.001Z
+url: "/posts/2025/04/tlacitkovy-joystick-pro-atari/"
+summary: "[ fotky ] [ stl ] pro joystick [ stl ] pro tisk konektoru Kdysi dávno jsem k ATARI používal tlačítkový joystick vyrobený z čudlíků vyloupaných ze staré TNS klávesnice. Umožňuje přesnější ovládání než klasický pákový joystick a bez toho ve hře [ International karate ] vyhrát nejde. Tlačítka pro moderní mechanickou klávesnici jsou standardizovaná, dají se koupit samostatně nebo vypájet ze staré klávesnice ze sběrného dvora, což byla přesně moje cesta."
+cover:
+    image: "obr-01.webp"
+tags: ["Počítače.8bit", "Počítače"]
+aliases:
+  - "/2025/04/tlacitkovy-joystick-pro-atari.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div><div style="text-align: left;">[<a href="https://photos.app.goo.gl/2aau9REUwMz8s8m96" target="_blank">fotky</a>]</div><div style="text-align: left;">[<a href="https://www.thingiverse.com/thing:7009379" target="_blank">stl</a>] pro joystick</div><div style="text-align: left;">[<a href="https://www.thingiverse.com/thing:7009365" target="_blank">stl</a>] pro tisk konektoru</div><div style="text-align: left;"><br /></div><div style="text-align: left;"><span>&nbsp; &nbsp; Kdysi dávno jsem k ATARI používal tlačítkový joystick vyrobený z čudlíků vyloupaných ze staré TNS klávesnice. Umožňuje přesnější ovládání než klasický pákový joystick a bez toho ve hře [<a href="https://en.wikipedia.org/wiki/International_Karate" target="_blank">International karate</a>] vyhrát nejde.</span></div><div style="text-align: left;"><span><span>&nbsp; &nbsp; Tlačítka pro moderní mechanickou klávesnici jsou standardizovaná, dají se koupit samostatně nebo vypájet ze staré klávesnice ze sběrného dvora, což byla přesně moje cesta.</span><br /></span></div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div><br /><table class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "320" >}}</td></tr><tr><td class="tr-caption" style="text-align: center;"><br /></td></tr></tbody></table><br /><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div>

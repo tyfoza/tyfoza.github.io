@@ -1,0 +1,17 @@
+---
+title: "zapadlá auta"
+date: 2010-02-05T01:00:00Z
+url: "/posts/2010/02/zapadla-auta/"
+summary: "Bylo nebylo, vracel jsem se odněkud z druhého konce Uherské Brodu domů autem a napadlo mě, že by mohlo být zábavné projet si nepříliš udržovanou cestu, která vede ze sídliště Olšava pod obchvatem k mlýnu Bajovec. Malinko jsem přecenil hloubku nafoukaného sněhu z polí a zapadl jsem s Felicií naprosto a úplně. Když jsem popocházel kolem auta a brodil se sněhem, míjela mě skupina běžkařů a posmívali se. Dávat řetězy a podobné pokusy byly na první pohled zbytečné, tak jsem použil nástoj nejmocnější a zavolal jsem servismanu Běhýskovi, byl-li by tak laskav a svým offroadem mě vyprostil, má Mitsubishi a přezdívá mu Micák. Jenže aby toho nebylo málo, tak Martin, který se s Micákem docela nadřel než moji Felicii na zpátečku vycukal ze závěje. Zkušeným okem zhlédl terén a vyřkl osudnou větu: \"Tohle s Micákem projedu.\" Nasoukal jsem se na místo spolujezce a vyrazili jsme. Náhon 4×4 selhal a Micák..."
+cover:
+    image: "obr-01.webp"
+tags: ["Auto"]
+aliases:
+  - "/2010/02/zapadla-auta.html"
+---
+
+Bylo nebylo, vracel jsem se odněkud z druhého konce Uherské Brodu domů autem a napadlo mě, že by mohlo být zábavné projet si nepříliš udržovanou cestu, která vede ze sídliště Olšava pod obchvatem k mlýnu Bajovec. Malinko jsem přecenil hloubku nafoukaného sněhu z polí a zapadl jsem s Felicií naprosto a úplně. Když jsem popocházel kolem auta a brodil se sněhem, míjela mě skupina běžkařů a posmívali se.&nbsp; Dávat řetězy a podobné pokusy byly na první pohled zbytečné, tak jsem použil nástoj nejmocnější a zavolal jsem servismanu Běhýskovi, byl-li by tak laskav a svým offroadem mě vyprostil, má Mitsubishi a přezdívá mu Micák.<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>&nbsp;Jenže aby toho nebylo málo, tak Martin, který se s Micákem docela nadřel než moji Felicii na zpátečku vycukal ze závěje. Zkušeným okem zhlédl terén a vyřkl osudnou větu: "Tohle s Micákem projedu." Nasoukal jsem se na místo spolujezce a vyrazili jsme. Náhon 4×4 selhal a Micák beznadějně zapadl zhruba o sto metrů dál než já s Felicií. Za náma se táhla brázda od diferenciálu a co já vím čeho co dole pod autem zavazí.<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>Tak jsme znovu volali o pomoc, tentokrál Martin sehnal ogaru, co měl za úkol přivézt lopaty. Přivezl je, ale protože byl velmi sporadicky ustrojen a obut a nechělo se mu v teniskách do sněhu, tak udělal jediné co mohl, přijel svým Fordem skoro až k zapadlému offroadu, docela mu to šlo, koleje vyjeté byly. Jeho auto zůstalo viset za břicho, když jsme ho tlačili ven, tak si utrhnul spojler a nějaké další plasty z podvozku.<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "320" >}}</div>Micáka jsme museli vykopat ze sněhu a úplně odházet střed cesty. Bylo veselé sledovat pomalu rostoucí hlouček na náš účet se bavících lidí, kteří stáli na parkovišti u paneláků kousek od nás.<br />
+Opravdu povedeně strávené odpoledne, aneb jak se baví kluci, když vyrostou.

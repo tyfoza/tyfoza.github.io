@@ -1,0 +1,21 @@
+---
+title: "Zajímavé srovnání výkonu"
+date: 2011-02-24T00:33:00Z
+url: "/posts/2011/02/zajimave-srovnani-vykonu/"
+summary: "Test tří různých procesorů: - dvoujádrový procesor Core i5 650 na 3.2GHz s hypertheradingem čtyři jádra - pro zajímavost tentýž test spuštěný na Core i5 ve [ VMWare ]. - čtyřjádrový Core2Quad Q9400 na 2.66GHz - dvouprocesorový počítač s Xeon 2.4GHz s hypertheadingem čtyři jádra Testoval jsem programem [ nbench ] na [ linuxu ]. Je zajímavé, že virtualizace výkonu prakticky neubere. Přehledné testy většiny procesorů na [ cpubenchmark.net ] včetně oblíbeného poměru cena/výkon."
+cover:
+    image: "obr-01.webp"
+tags: ["Počítače"]
+aliases:
+  - "/2011/02/zajimave-srovnani-vykonu.html"
+---
+
+Test tří různých procesorů:<br />
+- dvoujádrový procesor Core i5 650 na 3.2GHz s hypertheradingem čtyři jádra<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - pro zajímavost tentýž test spuštěný na Core i5 ve [<a href="http://cs.wikipedia.org/wiki/VMware">VMWare</a>].<br />
+- čtyřjádrový Core2Quad Q9400 na 2.66GHz<br />
+- <b><i>dvouprocesorový</i></b> počítač s Xeon 2.4GHz s hypertheadingem čtyři jádra<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>Testoval jsem programem [<a href="http://www.tux.org/~mayer/linux/bmark.html">nbench</a>] na [<a href="http://cs.wikipedia.org/wiki/Linux">linuxu</a>].<br />
+<br />
+Je zajímavé, že virtualizace výkonu prakticky neubere.<br />
+Přehledné testy většiny procesorů na [<a href="http://www.cpubenchmark.net/cpu_list.php">cpubenchmark.net</a>] včetně oblíbeného poměru cena/výkon.

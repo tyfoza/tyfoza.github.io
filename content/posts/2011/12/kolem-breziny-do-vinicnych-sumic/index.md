@@ -1,0 +1,22 @@
+---
+title: "Kolem Březiny do Viničných Šumic"
+date: 2011-12-09T15:47:00.005Z
+url: "/posts/2011/12/kolem-breziny-do-vinicnych-sumic/"
+summary: "Lhotky 508m n.m.[ 1 ] Vyrazil jsem z Brna krátce po poledni, abych stihl nějaký offroad kolem Březiny a lomu v Mokré. Žel ještě v Brně začalo mžít, tak jsem se s odporem nasoukal do nepromoku a bylo jasné, že dnes už jasno nebude a drobné mrholení pak vydrželo celou cestu. Zkusil jsem vyjet do polí, ale lepivé bláto Stromu nechutnalo a tak jsme zůstali více méně na zpevněných cestách. První zastavení bylo ve Viničných Šumicích, zkusil jsem návštěvu u Medvědových. Je k neuvěření, že v té obci jsou dvě stejná čísla popisná na různých místech. Pochopitelně jsem našel č.p.39, které správné nebylo. Paní, co tam bydlí pohovořila o starostech s volbami, když do schránky přišly nejen její volební lístky, ale i ty patřící Medvědovým. Veselé to tam mají. Zbývá zmínit, že tam kam jsem chtěl jsem nikoho doma nenašel. Na Rohlence jsem potkal partu nadšenců na Čezetách. V sezóně jezdí velké choppery..."
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/12/kolem-breziny-do-vinicnych-sumic.html"
+---
+
+<div class="mobile-photo"></div><table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Lhotky 508m n.m.[<a href="http://mapy.cz/#x=16.775354&amp;y=49.285117&amp;z=13&amp;c=23-31-2-8-3-15-29-25-34-t&amp;l=2&amp;umc=9mlQVx88Db&amp;uml=49%C2%B017%275.504%22N%2C%2016%C2%B046%2740.350%22E&amp;u=m">1</a>]</td></tr>
+</tbody></table>Vyrazil jsem z Brna krátce po poledni, abych stihl nějaký offroad kolem Březiny a lomu v Mokré. Žel ještě v Brně začalo mžít, tak jsem se s odporem nasoukal do nepromoku a bylo jasné, že dnes už jasno nebude a drobné mrholení pak vydrželo celou cestu. Zkusil jsem vyjet do polí, ale lepivé bláto Stromu nechutnalo a tak jsme zůstali více méně na zpevněných cestách.<br />
+První zastavení bylo ve Viničných Šumicích, zkusil jsem návštěvu u Medvědových. Je k neuvěření, že v té obci jsou dvě stejná čísla popisná na různých místech. Pochopitelně jsem našel č.p.39, které správné nebylo. Paní, co tam bydlí pohovořila o starostech s volbami, když do schránky přišly nejen její volební lístky, ale i ty patřící Medvědovým. Veselé to tam mají. Zbývá zmínit, že tam kam jsem chtěl jsem nikoho doma nenašel.<br />
+Na Rohlence jsem potkal partu nadšenců na Čezetách. V sezóně jezdí velké choppery a přes zimu řádí na českých strojích. Plánují na čezetách Maroko, pro jisotu s doprovodným vozidlem s vozíkem...<br />
+Na kopci nad obcí Březina je spousta cyklostezek, relativně zpevněných, aktuálně namrzlých, místy zbytky sněhu a led. Bylo příjemné poslouchat jak zamrzlé kaluže křupou pod váhou V-Stromu. Jel jsem ve stupačkách celou dobu a do rychlosti 40km/h gumy Mitas E-10 drží stopu, dá se akcelerovat i brzit. Když je na tachometru nad padesát, už to příjemné není a je lépe zpomalit než riskovat ztrátu trakce.<br />
+Právě teď sedím v Restauraci U Kaštanu v Březině, piju teplý čaj a zjišťuji, že čtyři hodiny jízdy v teplotě 2-5 stupňů byly příjemné, mrholení nevadilo, přijel jsem (uvnitř nepromoku) suchý a spokojený.<br />
+Uvidíme, jak to půjde zítra dopoledne domů.<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://sites.google.com/view/tyfotoza/"><img height="244" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglzqdV3F5fXk3JPBcGSUNMnP6BCBZy4zK4q3DguX7Xv0sjRgilEzvexjCt0FQ7ogm-4MPecxF7eNMwBQjivIteRuK6fxO2KuBsfQm8kbgaOCUKDYkKyoksf6fvm5Ov-wSpkpKIwRYtj5ti/s640/bukovinapanor.webp" width="640" /></a></div>&nbsp;[<a href="https://sites.google.com/view/tyfotoza/">víc panoramat</a>] [<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/uttjeqh58v7u2p9u">trasa</a>]

@@ -1,0 +1,18 @@
+---
+title: "Do Dobříše za dědicem trůnu"
+date: 2011-04-18T12:17:00.002Z
+url: "/posts/2011/04/do-dobrise-za-dedicem-trunu/"
+summary: "Tak jsem v pondělí, po desáté hodině ranní, vyrazil na kawě do Prahy, cestu do Brna důvěrně zná, v Brně jsem navštívil Mariánské údolí a pozevlil s Karlosem. Cesta do Prahy ubíhala rychle, celou dobu jsem se snažil jet do 140km/h. Otáčky kolem 8tis. Spotřeba příšerná! Na 12l benzínu 132km, to je 9.1l na 100km. Uff. Ale ne, vlastně je to logické, člověk běžně jezdí kolem 5tis. otáček za 5.6l a teď jsem to hnal co to šlo a spotřeba neroste lineárně, že. Další zastávka na cestě byla ve Voznici u Aldarů, popatřit nového dědice královské koruny Michala I. Daří se mu dobře. Marcelka ho zrovna masírovala a nabízela, zda si to chci zkusit, tak jsem navrhl že ano, ale že nevím jestli se vejdu na tu dětskou podložku. S Aldarem jsme povykládali, on nahlásil, že se zúčastní poprohibiční párty 30.6. na poloostrově, tzn. že předmětem oslav bude i narození jeho syna... To se bez plovacích vest..."
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/04/do-dobrise-za-dedicem-trunu.html"
+---
+
+<div class="mobile-photo"><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div></div><div class="mobile-photo"><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" >}}</div></div>Tak jsem v pondělí, po desáté hodině ranní, vyrazil na kawě do Prahy, cestu do Brna důvěrně zná, v Brně jsem navštívil Mariánské údolí a pozevlil s Karlosem.<br />
+Cesta do Prahy ubíhala rychle, celou dobu jsem se snažil jet do 140km/h. Otáčky kolem 8tis. Spotřeba příšerná! Na 12l benzínu 132km, to je 9.1l na 100km. Uff. Ale ne, vlastně je to logické, člověk běžně jezdí kolem 5tis. otáček za 5.6l a teď jsem to hnal co to šlo a spotřeba neroste lineárně, že.<br />
+Další zastávka na cestě byla ve Voznici u Aldarů, popatřit nového dědice královské koruny Michala I. Daří se mu dobře. Marcelka ho zrovna masírovala a nabízela, zda si to chci zkusit, tak jsem navrhl že ano, ale že nevím jestli se vejdu na tu dětskou podložku.  S Aldarem jsme povykládali, on nahlásil, že se zúčastní poprohibiční párty 30.6. na poloostrově, tzn. že předmětem oslav bude i narození jeho syna... To se bez plovacích vest neobejde. Aldarova legendární veverka, kterou nikdy nikdo neviděl a o níž celou dobu spekulujeme, že královský domácí mazlíček je politický podvrh - tak veverka odešla do věčných lovišť a zbyla po ní klec a hrobeček v lese. Možná exhumace by prokázala její existenci, ale to se jeví poněkud zbytečným.<br />
+Z Voznice jsem pokračoval k Míši do Krhanic. Navigace Nokia funguje na výbornou, zapnul jsem si nezpevněné cesty a tak to bylo dobrodružných třicet kilometrů, místy po rozhněných lesnáích cestách a místy jen tak po okraji louky.<br />
+Míša má nádherný kamenný dům s klenutými stopy, vyhřátý a útulný. Všeda tam lezl malý Viktor a hned co jsem vstoupil, tak mně Mirek upozornil, že boty mám nechat v předsíni, sic chci aby je Viktor ožužlal.<br />
+Záznam trasy: [<a href="http://www.sports-tracker.com/#/workout/tyfoza/8jmm25l8bolmnsnk">z Brodu k Aldarovi</a>]; [<a href="http://www.sports-tracker.com/#/workout/tyfoza/d8urcuhljd9prqgv">Voznice-Krhanice</a>]-místy offroad

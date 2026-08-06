@@ -1,0 +1,26 @@
+---
+title: "LS Rally 2014"
+date: 2014-03-28T23:29:00Z
+url: "/posts/2014/04/ls-r-2014/"
+summary: "fotky: [ 1 ] [ 2 ] Záznam trasy viz. [ 3 ]. První akce ze série Rockway Mastostodont Cup [ 4 ] aneb je to moc dobrý nápad, dát na jedno místo akce pro velké motorky. LS bylo výživné svezení od Kolína po Zruč nad Sázavo, trasa nevedla žádným zákazem, itinerář byl naprosto přesný a pořadatelé byli důslední až k smrti. Mám malý roadbook, kam se moc papíru nevejde[ 5 ]. Než přemotávat papír na trati, zvolil jsem variantu mnohem horší a tou bylo – vytisknout si itinerář zmenšený. K čemu je, že tripmaster AST zobrazuje čísla velká osmnáct milimetrů, když v roadbooku jsou čísla čtyři milimetry velká. Již nikdy více. Potkali jsme se u Kolína, bydlelo se v hotelu, kde je zároveň zimní stadion a je to moc zajímavý pocit, když uleháte na lože, pod šikmou stěnou s vědomím, že nad vámi je tribuna a usínáte s podupáváním nad hlavou. Doporučuji! K samotnému rallye zbývá snad jen říci to, že jsem do..."
+cover:
+    image: "obr-01.webp"
+tags: ["Cesty - akce offroad", "Video"]
+aliases:
+  - "/2014/04/ls-r-2014.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/H7URepDQwIw/0.webp" height="400" width="640"><param name="movie" value="https://www.youtube.com/v/H7URepDQwIw?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="640" height="400"  src="https://www.youtube.com/v/H7URepDQwIw?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+fotky: &nbsp;[<a href="http://ls-rally.rajce.idnes.cz/" target="_blank">1</a>] [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">2</a>]<br />
+Záznam trasy viz. [<a href="http://www.sports-tracker.com/#/workout/tyfoza/30a23s3cg3ajghcr" target="_blank">3</a>].<br />
+První akce ze série Rockway Mastostodont Cup [<a href="http://mastodontcup.wbs.cz/" target="_blank">4</a>] aneb je to moc dobrý nápad, dát na jedno místo akce pro velké motorky.<br />
+LS bylo výživné svezení od Kolína po Zruč nad Sázavo, trasa nevedla žádným zákazem, itinerář byl naprosto přesný a pořadatelé byli důslední až k smrti.<br />
+Mám malý roadbook, kam se moc papíru nevejde[<a href="/posts/2013/04/priprava-na-prvni-jarni-rallye/" target="_blank">5</a>]. Než přemotávat papír na trati, zvolil jsem variantu mnohem horší a tou bylo – vytisknout si itinerář zmenšený. K čemu je, že tripmaster AST zobrazuje čísla velká osmnáct milimetrů, když v roadbooku jsou čísla čtyři milimetry velká. Již nikdy více.<br />
+Potkali jsme se u Kolína, bydlelo se v hotelu, kde je zároveň zimní stadion a je to moc zajímavý pocit, když uleháte na lože, pod šikmou stěnou s vědomím, že nad vámi je tribuna a usínáte s podupáváním nad hlavou. Doporučuji!<br />
+K samotnému rallye zbývá snad jen říci to, že jsem do cíle dorazil, prakticky v těsném závěsu za vítězem, se ztrátou pouhých čtyř hodin. Z celkové trasy jsem nabloudil „jen“ 19% trasy, v tomto případě to bylo 41km.<br />
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Tohle stříhal Honza!</td></tr>
+</tbody></table>
+<br />

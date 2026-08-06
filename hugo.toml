@@ -16,6 +16,7 @@ summaryLength = 250
   [params.cover]
     hiddenInSingle = true
 
+  responsiveImages = false   #nechceme obrázky generovat vícekrát
 
 [permalinks]
   posts = "/posts/:year/:month/:slug/"

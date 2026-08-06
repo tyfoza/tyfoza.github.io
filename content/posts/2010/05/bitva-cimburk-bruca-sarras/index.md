@@ -1,0 +1,16 @@
+---
+title: "Bitva: Cimburk - Bruča, Sarras"
+date: 2010-05-23T02:07:00.002Z
+url: "/posts/2010/05/bitva-cimburk-bruca-sarras/"
+summary: "hrad Cimburk, Městečko Trnávka u Moravské Třebové [ trasa ] úspěšná cesta až nahoru na zříceninu, všechny krámy (krom pláštěnky) jsem poslal autem se zbytkem naší šermířské skupiny FFF jako lukostřelec byl jsem líný oblékat zbroj, takže jsem byl poněkud nalehko celou cestu domů pršelo, takže jsem otesloval JPéčko a je to na cestování na motorce použitelná pláštěnka, má to boty i návleky na rukavice a za 70,- s armyshopu k nezaplacení dobrá věc"
+cover:
+    image: "obr-01.webp"
+tags: ["Šerm.bitva", "Šerm"]
+aliases:
+  - "/2010/05/bitva-cimburk-bruca-sarras.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div><div>&nbsp;hrad Cimburk, Městečko Trnávka u Moravské Třebové [<a href="http://maps.google.cz/maps?f=d&amp;source=s_d&amp;saddr=Uhersk%C3%BD+Brod&amp;daddr=M%C4%9Bste%C4%8Dko+Trn%C3%A1vka&amp;geocode=FTIO7AIdfEMNASm1TvBIEmkTRzEux2N-sDPCiA%3BFfKB9gIdwjP_ACnjzHj29nESRzFsBUxlIexYKQ&amp;hl=cs&amp;mra=ls&amp;dirflg=ht&amp;sll=49.36697,17.18531&amp;sspn=0.951556,2.167053&amp;brcurrent=5,0,0&amp;ie=UTF8&amp;z=9http://maps.google.cz/maps?f=d&amp;source=s_d&amp;saddr=Uhersk%C3%BD+Brod&amp;daddr=M%C4%9Bste%C4%8Dko+Trn%C3%A1vka&amp;geocode=FTIO7AIdfEMNASm1TvBIEmkTRzEux2N-sDPCiA%3BFfKB9gIdwjP_ACnjzHj29nESRzFsBUxlIexYKQ&amp;hl=cs&amp;mra=ls&amp;dirflg=ht&amp;sll=49.36697,17.18531&amp;sspn=0.951556,2.167053&amp;brcurrent=5,0,0&amp;ie=UTF8&amp;z=9">trasa</a>]</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "240" >}}</div><div>&nbsp;úspěšná cesta až nahoru na zříceninu, všechny krámy (krom pláštěnky) jsem poslal autem se zbytkem naší šermířské skupiny</div><div align="left" class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "240" >}}</div><br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-04.webp" "Ilustrace k článku" "240" >}}</div><br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-05.webp" "Ilustrace k článku" "320" >}}&nbsp;</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-06.webp" "Ilustrace k článku" "320" >}}</div><div>&nbsp;FFF jako lukostřelec</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-07.webp" "Ilustrace k článku" "320" >}}</div><div>&nbsp;byl jsem líný oblékat zbroj, takže jsem byl poněkud nalehko</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-08.webp" "Ilustrace k článku" "240" >}}</div><div>celou cestu domů pršelo, takže jsem otesloval JPéčko a je to na cestování na motorce použitelná pláštěnka, má to boty i návleky na rukavice a za 70,- s armyshopu k nezaplacení dobrá věc</div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4PRm4vl3wSO2KmzJjRrvL1R761au_DIKgI4dKfLxWZHGfZ3Lm-fhsUM-4DNQjYXbZ0Oa8qvSNh5J8K0AZkqJ-DtXhKXEnEEOdq74oKxy5pX4oTJ_qcmuKyMXPlXQvU006_QkLbAxmpG4/s1600/IMG_4047.webp" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br />
+</a></div>

@@ -1,0 +1,13 @@
+---
+title: "ATARI 1040 ST z roku 1986..."
+date: 2025-01-11T09:32:00.028Z
+url: "/posts/2025/01/atari-1040-st-z-roku-1986/"
+summary: "[ fotky ] Informace o Atari 1040 ST na [ wiki ]. Je to další přírůstek do síně slávy [ SPŠOA ]. Počítač z německé distribuce, tedy TOS (The Operating System) je v němčině. Připojení USB myši pomocí HID2AMI upravený pro Atari ST, umí dodat [ Petr ] z Nového Jičína. [ Gotek ] jako emulátor disketové mechaniky. Máme nainstalovaný obyčejný, ale existuje i Gotek, který má zvukový výstup a realisticky simuluje zvuk původní 3.5\" disketové mechaniky. Bylo nezbytné vyměnit původní spínaný zdroj. Na Atari 1040 ST je zajímavé to, že ač je z roku 1986, tak se díky přítomnosti MIDI portů pro hudební nástroje stal na deset let standardem v hudebním průmyslu. A vytlačil ho až nástup digitalizovaného zvuku."
+cover:
+    image: "obr-01.webp"
+tags: ["Počítače", "Počítače.16bit"]
+aliases:
+  - "/2025/01/atari-1040-st-z-roku-1986.html"
+---
+
+<div style="text-align: left;">&nbsp;<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>[<a href="https://photos.app.goo.gl/HTWzPrTPCmTo5XmC7" target="_blank">fotky</a>]</div><div style="text-align: left;">Informace o Atari 1040 ST na [<a href="https://en.wikipedia.org/wiki/Atari_ST" target="_blank">wiki</a>]. Je to další přírůstek do síně slávy [<a href="https://www.spsoa-ub.cz/" target="_blank">SPŠOA</a>].</div><div style="text-align: left;">Počítač z německé distribuce, tedy TOS (The Operating System) je v němčině.</div><div style="text-align: left;"><span>Připojení USB myši pomocí HID2AMI upravený pro Atari ST, umí dodat [<a href="https://pc.bazos.cz/inzerat/199738782/amiga-hid2ami-v202-s-podporou-kolecka-mysi.php" target="_blank">Petr</a>] z Nového Jičína.</span></div><div style="text-align: left;">[<a href="https://www.gotek-retro.eu/gotek-atari-st/" target="_blank">Gotek</a>] jako emulátor disketové mechaniky. Máme nainstalovaný obyčejný, ale existuje i Gotek, který&nbsp; má zvukový výstup a realisticky simuluje zvuk původní 3.5" disketové mechaniky.</div><div style="text-align: left;">Bylo nezbytné vyměnit původní spínaný zdroj.</div><div style="text-align: left;"><br /></div><div style="text-align: left;">Na Atari 1040 ST je zajímavé to, že ač je z roku 1986, tak se díky přítomnosti MIDI portů pro hudební nástroje stal na deset let standardem v hudebním průmyslu. A vytlačil ho až nástup digitalizovaného zvuku.</div>

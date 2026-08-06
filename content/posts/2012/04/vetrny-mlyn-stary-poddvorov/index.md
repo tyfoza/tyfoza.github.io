@@ -1,0 +1,16 @@
+---
+title: "Větrný mlýn Starý Poddvorov"
+date: 2012-04-21T19:36:00.003Z
+url: "/posts/2012/04/vetrny-mlyn-stary-poddvorov/"
+summary: "[ fotky ] [ cesta ] Větrný mlýn německého typu Starý Poddvorod u Hodonína. Web povetrnik.cz [ 1 ] uvádí včechny důležité informace včetně příběhu, který stojí za zmínku: ...lidová historka uveřejněná v časopisu Malovaný kraj č. 1 z roku 1947. Mlynář zjistil, že se mu ztrácí pytle s obilím. Na zloděje proto nachystal past. Nařezal schod a upevnil na něj drát spojený s kohoutkem brokovnice. Dlouho se nic nedělo až jedno ráno v zimě objevil ve sněhu okolo mlýna krvavé stopy. Mlynář se po nich vydal a přišel až ke stavení svého přítele kováře, který ležel zraněn v posteli. Mlynář vyfasoval 6 týdnů vězení za těžké ublížení na těle. Zda-li šel kovář krást obilí se u soudu nedokázalo. Mlynář na své řemeslo zanevřel a prodal mlýn Františku Bařinovi, který jej roku 1884 přestěhoval na 12 formanských vozech do Starého Poddvorova, kde stojí dodnes. (zdroj [ 2 ])"
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě", "Větrný mlýn"]
+aliases:
+  - "/2012/04/vetrny-mlyn-stary-poddvorov.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+{{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>
+[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/4smtor2apmk9b6ie" target="_blank">cesta</a>]<br />
+Větrný mlýn německého typu Starý Poddvorod u Hodonína. Web povetrnik.cz [<a href="http://povetrnik.cz/rs/view.php?cisloclanku=2006011905" target="_blank">1</a>] uvádí včechny důležité informace včetně příběhu, který stojí za zmínku: <span style="background-color: white; font-family: Georgia, 'New York CE', utopia, serif; font-size: 13px; line-height: 19px; text-align: justify;">...lidová historka uveřejněná v časopisu Malovaný kraj č. 1 z roku 1947. Mlynář zjistil, že se mu ztrácí pytle s obilím. Na zloděje proto nachystal past. Nařezal schod a upevnil na něj drát spojený s kohoutkem brokovnice. Dlouho se nic nedělo až jedno ráno v zimě objevil ve sněhu okolo mlýna krvavé stopy. Mlynář se po nich vydal a přišel až ke stavení svého přítele kováře, který ležel zraněn v posteli. Mlynář vyfasoval 6 týdnů vězení za těžké ublížení na těle. Zda-li šel kovář krást obilí se u soudu nedokázalo.</span><span style="background-color: white; font-family: Georgia, 'New York CE', utopia, serif; font-size: 13px; line-height: 19px; text-align: justify;">&nbsp;</span><span style="background-color: white; font-family: Georgia, 'New York CE', utopia, serif; font-size: 13px; line-height: 19px; text-align: justify;">Mlynář na své řemeslo zanevřel a prodal mlýn Františku Bařinovi, který jej roku 1884 přestěhoval na 12 formanských vozech do Starého Poddvorova, kde stojí dodnes. (zdroj&nbsp;</span>[<a href="http://povetrnik.cz/rs/view.php?cisloclanku=2006011905" target="_blank">2</a>])

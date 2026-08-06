@@ -1,0 +1,23 @@
+---
+title: "Dakar & FFF"
+date: 2012-07-29T13:00:00.007Z
+url: "/posts/2012/07/dakar-fff/"
+summary: "Ve středu večer ve 21:09 se objevil v bazaru serveru motorkari.cz[ 1 ] inzerát „Prodám BMW F650GS Dakar rok 2002 s ABS, najeto 54tis. km“ Bylo to snadné – zavolat, přijet do Liberce, vidět, koupit – a FFF má na pár dalších mnoho sezón o ježdění postaráno. Jak to vlastně jede? Po najetých 400km, polovina na suchém asfaltu, polovina v přívalových deštích; dalo by se říci jediné - tak nějak by měla vypadat univerzální motorka. Posez vzpřímený, stupačky zubaté, předchozí majitel namontoval širší řídítka. Při jízdě ve stupačkách mám přilbu přirozeně nad hlavou řízení. Vyhřívané gripy jsou v základu, ovládání má dva stupně a je umístěno pod řídítky vedle vypínače ABS. Podvozek je příjemně měkký a čitelně dává vědět, jaký je podklad. Nádrž je pod sedlem, těžiště nízko, manipulace s motorkou na místě je snadná jako s jízdním kolem. Trialstop i jízda krokem snadnější být nemůže. Při jízdě je..."
+cover:
+    image: "obr-01.webp"
+tags: ["BMW F 650 GS Dakar"]
+aliases:
+  - "/2012/07/dakar-fff.html"
+---
+
+Ve středu večer ve 21:09 se objevil v bazaru serveru motorkari.cz[<a href="http://motorkari.cz/">1</a>]&nbsp;inzerát „Prodám BMW F650GS Dakar rok 2002 s ABS, najeto 54tis. km“ Bylo to snadné – zavolat, přijet do Liberce, vidět, koupit – a FFF má na pár dalších mnoho sezón o ježdění postaráno. <br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>Jak to vlastně jede?<br />
+Po najetých 400km, polovina na suchém asfaltu, polovina v přívalových deštích; dalo by se říci jediné - tak nějak by měla vypadat univerzální motorka. Posez vzpřímený, stupačky zubaté, předchozí majitel namontoval širší řídítka. Při jízdě ve stupačkách mám přilbu přirozeně nad hlavou řízení. Vyhřívané gripy jsou v základu, ovládání má dva stupně a je umístěno pod řídítky vedle vypínače ABS. <br />
+<i>Podvozek</i> je příjemně měkký a čitelně dává vědět, jaký je podklad. Nádrž je pod sedlem, těžiště nízko, manipulace s motorkou na místě je snadná jako s jízdním kolem. Trialstop i jízda krokem snadnější být nemůže. Při jízdě je motorka agilní jako skůtr. Možná i díky drátěným kolům nemá Dakar při brždění v náklonu žádné tendence k postavení.<br />
+<i>ABS</i> funguje, u zadní brzdy se ozve téměř ihned po ostřejším sešlápnutí, u přední brzdy nastupuje příjemně později.<br />
+<i>Motor</i> se zvukem dobře zaběhnutého traktoru táhne jako elektromotor a když dáte motoru alespoň 4tis. otáček, tak se odmění znatelnou odezvou na přidání plynu. Maximální rychlost se na mokré dálnici vyšplhala na 156km/h&nbsp;a dál nebylo třeba testovat, důležité je, že do 140km/h jede i zabírá a to na cesty nejen po Evropě bohatě stačí. Záznam trasy[<a href="http://www.sports-tracker.com/#/workout/tyfoza/679sfb7ebcponsoh" target="_blank">2</a>] z Brna.<br />
+<i>Převodovka</i> podle předchozího majitele potřebuje těžkou nohu a aby se udržel otáčkoměr na 4tis, má smysl pátý a poslední rychlostní stupeň řadit až někde v 90km/h. (Aktuálně je namontováno řetězové kolečko „do rychlosti,“ které má o 1 zub víc než základní 16 zubové.)[<a href="http://www.jtsprockets.com/catalogue/model/3130" target="_blank">3</a>]<br />
+<i>Spotřeba</i> by měla být lehce nad čtyři litry. Podle předchozího majitele se hladové oko rozsvítí po 320km a na rezervu se dá najet dalších 100km. Tedy na sedmnáctilitrovou nádrž je dojezd stejný jako má V-Strom s nádrží o pět litrů větší.<br />
+<i>Poměr cena/výkon</i> je znevýhodněná dobrým jménem německé značky a pověstnou spolehlivostí rakouských jednoválcových motorů Rotax. Cestovních endur F650GS s 19" předním kolem se inzeruje hodně, pokud poptáváme malinko větší schopnost jízdy v lehkém terénu, tak hledáme delší zdvihy pérování a 21" kolo. Tedy starší Dakar nebo nové Sertao.<br />
+Zbývá zkusit lehký offroad a jízdu se spolujezdcem.<br />
+Manuály a příručky[<a href="http://www.motorkari.cz/moto-manualy-motorek/bmw/bmw-f-650-gs-dakar/" target="_blank">4</a>]. Specifikace[<a href="http://www.mbike.com/bmw/f650gs-dakar/2002" target="_blank">5</a>].

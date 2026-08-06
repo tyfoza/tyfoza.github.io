@@ -1,15 +1,36 @@
-{{ $img := .Get 0 }}
+{{ $imgPath := .Get 0 }}
 {{ $alt := .Get 1 }}
-{{ $width := "400" }}
-{{ $id := md5 $img }}
+{{ $id := md5 $imgPath }}
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 25px 0;">
-    <img src="{{ $img }}" alt="{{ $alt }}" style="max-width: {{ $width }}px; width: 100%; height: auto; cursor: pointer; transition: transform 0.2s;" onclick="document.getElementById('lb-{{ $id }}').showModal()" title="Kliknutím zvětšíš" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-    {{ if and $alt (ne $alt "Ilustrace k článku") }}
-        <div style="font-size: 0.75rem; color: #666; margin-top: 6px; text-align: center;">{{ $alt }}</div>
+{{ $original := .Page.Resources.GetMatch $imgPath }}
+
+{{ if $original }}
+    {{ $isFormula := lt $original.Height 120 }}
+    {{ $maxWidth := "400px" }}
+    {{ if $isFormula }}
+        {{ $maxWidth = "300px" }}
     {{ end }}
-</div>
 
-<dialog id="lb-{{ $id }}" style="border: none; background: transparent; padding: 0; max-width: 95vw; max-height: 95vh; overflow: hidden; cursor: zoom-out;" onclick="this.close()">
-    <img src="{{ $img }}" alt="{{ $alt }}" style="display: block; max-width: 95vw; max-height: 95vh; object-fit: contain; border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,0.8);">
-</dialog>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 25px 0;">
+        <img src="{{ $original.RelPermalink }}" alt="{{ $alt }}" style="max-width: {{ $maxWidth }}; height: auto; cursor: pointer; transition: transform 0.2s;" onclick="document.getElementById('lb-{{ $id }}').showModal()" title="Kliknutím zvětšíš" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+
+        {{ if and $alt (ne $alt "Ilustrace k článku") }}
+            <div style="font-size: 0.75rem; color: #666; margin-top: 6px; text-align: center;">{{ $alt }}</div>
+        {{ end }}
+    </div>
+
+    <dialog id="lb-{{ $id }}" style="border: none; background: transparent; padding: 0; max-width: 95vw; max-height: 95vh; overflow: hidden; cursor: zoom-out;" onclick="this.close()">
+        <img src="{{ $original.RelPermalink }}" alt="{{ $alt }}" style="display: block; max-width: 95vw; max-height: 95vh; object-fit: contain; border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,0.5);">
+    </dialog>
+{{ else }}
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 25px 0;">
+        <img src="{{ $imgPath }}" alt="{{ $alt }}" style="max-width: 400px; height: auto; cursor: pointer; transition: transform 0.2s;" onclick="document.getElementById('lb-{{ $id }}').showModal()" title="Kliknutím zvětšíš" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+        {{ if and $alt (ne $alt "Ilustrace k článku") }}
+            <div style="font-size: 0.75rem; color: #666; margin-top: 6px; text-align: center;">{{ $alt }}</div>
+        {{ end }}
+    </div>
+
+    <dialog id="lb-{{ $id }}" style="border: none; background: transparent; padding: 0; max-width: 95vw; max-height: 95vh; overflow: hidden; cursor: zoom-out;" onclick="this.close()">
+        <img src="{{ $imgPath }}" alt="{{ $alt }}" style="display: block; max-width: 95vw; max-height: 95vh; object-fit: contain; border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,0.5);">
+    </dialog>
+{{ end }}

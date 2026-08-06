@@ -1,0 +1,21 @@
+---
+title: "Zpátky domů od Jindřichova Hradce"
+date: 2011-07-12T21:29:00.047Z
+url: "/posts/2011/07/zpatky-domu/"
+summary: "Vatáváme na Lomu, stíhám nákup v Olešnici než se FFF vyklube. Kolem desáté vyrážíme na cestu. Cílové místo bylo vytyčeno - zřícenina hradu Landštejna [ 1 ]. Na den naplánovano asi 300km. Když to FFF zvěděl, pronesl památnou větu: Těším se, až budou vynalezeny teleporty. Proč? Inu, že konečně zmizí auta ze silnic a motorkáři budou mít pré. Návštěva Telče, pak památník první kostky cukru - Dačice [ 2 ]. Tady jsem vzpomínali na Sestru... [ cesta Lom - Landštejn ] Kolem Dukovan začal Hondě Rebel docházet dech. FFF si stěžoval, že motorka netáhne a ejhle, zjistili jsme, že nemá olej. Dolili jsme celkem litr 15W50. Pak již bylo vše správně, jen pár kilometrů od domu se problém projevil znovu. Přijeli jsme a věc se bude řešit. Určitě zkontrolujeme ventilové vůle a možná přebrousíme sedla. Rebel má na křížku 35tis. kilometrů, tak by to asi nějaký servis chtělo... Nakonec jsme za den najeli 380..."
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě", "Video", "Honda CA125 Rebel"]
+aliases:
+  - "/2011/07/zpatky-domu.html"
+---
+
+Vatáváme na Lomu, stíhám nákup v Olešnici než se FFF vyklube. Kolem desáté vyrážíme na cestu. Cílové místo bylo vytyčeno - zřícenina hradu Landštejna [<a href="http://www.hrad-landstejn.eu/">1</a>]. Na den naplánovano asi 300km. Když to FFF zvěděl, pronesl památnou větu: Těším se, až budou vynalezeny teleporty. Proč? Inu, že konečně zmizí auta ze silnic a motorkáři budou mít pré.<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>&nbsp;Návštěva Telče, pak památník první kostky cukru - Dačice [<a href="http://www.radio.cz/cz/rubrika/historie/prvni-kostka-cukru-na-svete-byla-vyrobena-v-dacicich">2</a>]. Tady jsem vzpomínali na Sestru...<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>[<a href="http://www.sports-tracker.com/#/workout/tyfoza/8sa2j6pc4r9lmqqi">cesta Lom - Landštejn</a>]<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "320" >}}</div>Kolem Dukovan začal Hondě Rebel docházet dech. FFF si stěžoval, že motorka netáhne a ejhle, zjistili jsme, že nemá olej. Dolili jsme celkem litr 15W50. Pak již bylo vše správně, jen pár kilometrů od domu se problém projevil znovu. Přijeli jsme a věc se bude řešit. Určitě zkontrolujeme ventilové vůle a možná přebrousíme sedla. Rebel má na křížku 35tis. kilometrů, tak by to asi nějaký servis chtělo... <br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-04.webp" "Ilustrace k článku" "320" >}}</div>Nakonec jsme za den najeli 380 kilometrů. Bylo potřeba, aby si to FFF zkusil, v srpnu nás čeká osm set kilometrů k Jadranu, tak ať ví zda to půjde a jak. FFF přezdívá svému Rebelovi "vibrační bruska", protože v limitních otáčkách - z nichž při cestě prakticky nesleví - trochu víc vibruje. <br />
+Mně z cesty pořád v hlavě zní otevřené výfuky z Rebela. Dvě drátěnky do nich nebo nesmím jet tak blízko za ním.<br />
+<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/bk0be7fekjttvoik">cesta zpět</a>] a pak ještě [<a href="https://sites.google.com/view/tyfotoza/">další foto</a>]<br />
+<div class="separator" style="clear: both; text-align: center;"><object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/tohD_vCETNE/0.webp" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/tohD_vCETNE?f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><embed width="320" height="266"  src="http://www.youtube.com/v/tohD_vCETNE?f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>

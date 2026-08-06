@@ -1,0 +1,24 @@
+---
+title: "Triumph Tiger 800 XC"
+date: 2012-04-13T09:00:00.009Z
+url: "/posts/2012/04/triumph-tiger-800-xc/"
+summary: "[ fotky ] S tygříkem jsme strávili asi sto kilometrů, město, dálnice, okresky, polní cesta a louky v okolí Macochy. Třívalec je skvělý, sílu a zátah má prakticky pořád. Budu srovnávat třívalcovýTiger s dvouválcovým V-Stromem, po cestě do Brna sto kilometrů na V-Stromu, pak sto kilometrů na Triumphu a pak zase sto kilometrů na Suzuki. Ideální podmínky pro srovnání. Už v brněnské prodejně britského kvítí demonstroval prodejce možnost zvýšení a snížení sedla řidiče. Díky tomu, že sedadla řidiče a spolujezdce jsou oddělená, je nastavení možné. Nechali jsme nastavit nejvyšší polohu, čím výš, tím lépe. Pozitivum první - zrcátka - bez problémů vidím za sebe. Na japonských strojích vidím bez rozšíření zrcátek jenom svá ramena. Pozitivum druhé - je znát síla motoru, od volnoběhu pořád. Průběh kroutícího momentu je plochý a nastupuje naplno od 4tis. otáček. Tiger jde za plynem, při vrknutí plynem..."
+cover:
+    image: "obr-01.webp"
+tags: ["Video", "Jiné moto"]
+aliases:
+  - "/2012/04/triumph-tiger-800-xc.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3dh7FIkv92jzvpLuHRHhbvzORfv6yoKHgU2fSR5tx_Qt1WIyeXmFaWYEoM0DwEoamNTc9Q0yL9mV3FHqCRRx9Z8k8u3HawpUhyd-mJInX8KCo5DElohDBiYQnbr2O8FCHvLTw5ufBS4Y/s1600/130420121783-781528.webp" style="margin-left: 1em; margin-right: 1em;"></a>{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div><div class="mobile-photo"></div><div class="mobile-photo"></div>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] <br />
+S tygříkem jsme strávili asi sto kilometrů, město, dálnice, okresky, polní cesta a louky v okolí Macochy. Třívalec je skvělý, sílu a zátah má prakticky pořád. Budu srovnávat třívalcovýTiger s dvouválcovým V-Stromem, po cestě do Brna sto kilometrů na V-Stromu, pak sto kilometrů na Triumphu a pak zase sto kilometrů na Suzuki. Ideální podmínky pro srovnání.<br />
+Už v brněnské prodejně britského kvítí demonstroval prodejce možnost zvýšení a snížení sedla řidiče. Díky tomu, že sedadla řidiče a spolujezdce jsou oddělená, je nastavení možné. Nechali jsme nastavit nejvyšší polohu, čím výš, tím lépe.<br />
+Pozitivum první - zrcátka - bez problémů vidím za sebe. Na japonských strojích vidím bez rozšíření zrcátek jenom svá ramena.<br />
+Pozitivum druhé - je znát síla motoru, od volnoběhu pořád. Průběh kroutícího momentu je plochý a nastupuje naplno od 4tis. otáček. Tiger jde za plynem, při vrknutí plynem se motor vždycky vytočil víc, než bylo potřeba. Malinko nepříjemné bylo brždění motorem, kdy je brzdný účinek motoru opravdu velký a na trojku je to vždy pořádný kopanec.<br />
+Brzdy brzdí. Čitelně.<br />
+Na první vhodné louce jsem vysadil spolujezdce a Tygříka prohnal mimo asfalt. Přední vidlice je obrácená a tlumení bylo nastavené tvrdší, takže každý hrbol bylo znát. Délka zdvihů je u XC jednoznačně delší než u V-Stromu (Tiger je enduro stejně jako Yamaha XT 600 X).<br />
+Spotřeba na 100km byla 5.63litru. Obecně má být spotřeba kolem šesti litrů, je to tříválec, je to osmistovka. Aby V-Strom tygrovi stačil, bude mít spotřebu stejnou.<br />
+Spolujezdec ocenila pohodlné sezení díky štíhlosti stroje. Stupačky spolujezdce jsou výš a tak i kolena má spolujezdec pokrčené výrazně víc než řidič.<br />
+Tiger dělá čest svému jménu, je svižný dost, ale do zatáček se musí trochu nutit a ač to bude otázkou zvyku, tak jsem nečekal, že je méně agilní než V-Strom. Nečekal jsem to protože XC má úhel hlavy řízení 23,1° a stopu 91,1mm a V-Strom 26°&nbsp;a 110mm. Takže podle čísel by to mělo být naopak.<br />
+Motorku nám bezplatně zapůjčili ke zkušební jízdě v brněnské prodejně [<a href="http://www.triumphbrno.cz/" target="_blank">1</a>]&nbsp; po složení kauce ve výši 10% ceny motocyklu.<br />
+<div class="separator" style="clear: both; text-align: center;"><object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/gLnVlsU4PR4/0.webp" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/gLnVlsU4PR4?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><embed width="640" height="480"  src="http://www.youtube.com/v/gLnVlsU4PR4?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>

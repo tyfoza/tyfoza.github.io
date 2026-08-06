@@ -1,0 +1,65 @@
+---
+title: "Výstava Motocykl 2011 v Praze"
+date: 2011-03-04T18:17:00.045Z
+url: "/posts/2011/03/vystava-motocykl-2011-v-praze/"
+summary: "[ Motocykl 2011 Praha ] Moc povedená akce. Pravda, \"ranní\" vstávání ve tři dorovnala až teleportační cesta busem. Na Zvonařce přistoupil Karlos a byli jsme kompletní - Saša, FFF, Karlos a Tyf. Podle ČMN céčkem na konečnou Letňany = zastávka metra uprostřed pole, jak nás poučil Karlos - pole bylo zorané, oseté a vypadalo jako ráj pro skautíky lačné sběru odpadků. Jsme na místě. Ludí jak much již půl hodiny před otevíračkou. V deset otevřeli, dav se vřítil dovnitř a hrnul se neznámo kam a my jsme hned odbočili do klidné, zatím prázné kavárny a začali ranní kávou. Na výstavišti na Letňanech byli nové motorky, doplňky, stánky Suzuki, BMW, Honda, KTM, Yuki, Aprilia a víc nevím. Na většinu motorek se dalo sednout, tak jsme si s Ťufíkem osedlali Suzuki V-Strom, Kawasaki Z1000 a doslova vylezli na Hondu Goldwing. V-Strom se spolujezdcem pohodlně počítá, [ Z1000 se ve dvou dá ], ale spolujezdec..."
+cover:
+    image: "obr-01.webp"
+tags: ["Tak jde čas", "Video", "Jiné moto"]
+aliases:
+  - "/2011/03/vystava-motocykl-2011-v-praze.html"
+---
+
+[<a href="http://www.motocykl-praha.cz/">Motocykl 2011 Praha</a>]<br />
+Moc povedená akce. Pravda, "ranní" vstávání ve tři dorovnala až teleportační cesta busem. Na Zvonařce přistoupil Karlos a byli jsme kompletní - Saša, FFF, Karlos a Tyf. Podle ČMN céčkem na konečnou Letňany = zastávka metra uprostřed pole, jak nás poučil Karlos - pole bylo zorané, oseté a vypadalo jako ráj pro skautíky lačné sběru odpadků.<br />
+<br />
+Jsme na místě. Ludí jak much již půl hodiny před otevíračkou. V deset otevřeli, dav se vřítil dovnitř a hrnul se neznámo kam a my jsme hned odbočili do klidné, zatím prázné kavárny a začali ranní kávou.<br />
+&nbsp;Na výstavišti na Letňanech byli nové motorky, doplňky, stánky Suzuki, BMW, Honda, KTM, Yuki, Aprilia a víc nevím. Na většinu motorek se dalo sednout, tak jsme si s Ťufíkem osedlali Suzuki V-Strom, Kawasaki Z1000 a doslova vylezli na Hondu Goldwing.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://sites.google.com/view/tyfotoza/"><img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIKfygRgqG6t7sUQjDN-G-ZontglBQTzL_bFtKWbd60Q-1OawL5xlCmfhSoJ4OYp2POZ0aBFwvAy0TXfzjntfv8ENFElY5uX1pG74tfaqqBZlKskygn0DUYt5JpykjS1oB5wEGvtuTPAgc/s200/IMG_1491.webp" width="150" /></a>&nbsp; &nbsp; &nbsp;<a href="https://sites.google.com/view/tyfotoza/"><img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXscH78M0IeJzOrsu3SKndH8Gf02vJVqz8A9WnCGGMRv9kW5aO_tEqiUrgtOvOBt2DswSU-G3ysHbMWOVjGz-USBdyJE-ZvGtoQ2coM45Bz9YbKSenLZWY5aU8ZDd15-_STF88iKnNPrrJ/s200/IMG_1495.webp" width="150" /></a>&nbsp;&nbsp;</div>
+V-Strom se spolujezdcem pohodlně počítá, [<a href="https://sites.google.com/view/tyfotoza/">Z1000 se ve dvou dá</a>], ale spolujezdec má uzounké tvrdé sezení. Na Z1000 mě překvapil pohodný téměř vzpřímený posez řidiče díky širokým a vysokým řídítkům - musím přehodnotit a omluvit se, vždy jsem předpokládal u streetfightu sportovní posez.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<img height="200" src="obr-01.webp" width="132" / alt="Ilustrace k článku"></div>
+<br />
+Ve stánku [<a href="http://www.supermoto.cz/">Supermoto</a>] měli veterány z přelomu let sedmdesátých a osmdesátých - šestiválce [<a href="https://sites.google.com/view/tyfotoza/">Kawasaki Z1300</a>] a Honda CBX1000 (sedlaná hlavním hrdinou filmu [<a href="http://www.imdb.com/title/tt0082622/">Rytíři/Knightriders</a>]). Koutočové brzdy vpředu i vzadu, u Hondy nádherné kotouče z plného materiálu.<br />
+<br />
+Stánků s doplňky a oblečením je zde nepočítaně. U Nerve.cz si FFF koupil [<a href="http://www.nerve.cz/zbozi/3643/Kalhoty-na-motorku-NERVE-Easy-Going.htm">textilní cordurové kalhoty</a>] s vysokým pasem. Černé. Jak jinak. Kolenní chránič mají integrovaný. Ťuf si vybral pláštěnku, dělenou na nepromok bundu dlouhou a nepromok kalhoty.<br />
+Karlos si zkusil [<a href="http://www.nerve.cz/zbozi/3650/Boty-na-motorku-MG-RaceTech3-Red-moto-boty.htm">silniční boty</a>] a prý mu sedly naprosto skvěle a měl v nich pevnou nohu i kotník. [<a href="/posts/2011/02/boty-na-moto/">Moje zkušenost</a>] je jiná, ale na mé nekonfekční kachní nohy nepadne každý futrál.<br />
+Lou Fanánek odpoledne začínal své [<a href="http://cestovani.idnes.cz/fananek-noid-a-dalsi-projizdeji-marockym-peklem-frw-/igsvet.asp?c=A100625_123435_igsvet_hig">povídání o cestě do Maroka</a>] v rámci stránku [<a href="http://www.motovypravy.cz/">motovypravy.cz</a>] a my jsme odcházeli.<br />
+<br />
+Prošli jsme všechny dvě haly a pořád nám chybějí airbrushe, custom stroje a vůbec spousta věcí, na které jsme se těšili a o kterých se v časopise Motocykl a v ČMN psalo.<br />
+A již víme, že na Letňanech je sice výstava Motocykl 2011, ale na výstavišti v Holešovicích je další souběžná akce, kde jsou custom biky, airbrush pezentace, body painting... Přesunuli jsme se ho Holešovic a tady nás čekali čtyři haly - Sašenku jedna - její vysněné aibrushe a stejně zdobené stavby - a tam taky strávila většinu času. Čtyři haly pro nás ostatní byly - ATV do kterých nevidíme, u jaguára tam v rámci prezentace zevlil strýc [<a href="http://cs.wikipedia.org/wiki/Robert_Rosenberg">Rosenberg</a>] s kérků v obličeji, pak výstavní hala skoro nejlepší s novým Ducati Monsterem, spoustou dalších Ducati a novým strojem Ducati Diavel.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/lb6I2SL5ePI/0.webp" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/lb6I2SL5ePI?f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><embed width="320" height="266" src="http://www.youtube.com/v/lb6I2SL5ePI?f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>
+<span id="goog_1672975537"></span><span id="goog_1672975538"></span><br />
+Dál expozice pokračovala MV Agusta se svým Brutale a F4 CC - pojmenované romanticky po majiteli fabriky Claudiu Castiglionovi - a pak konečně prezentace nádherné, skvělé, nedostupné a ještě krásnější české původní FGR Midalu, mrůůůů. Přečtěte si víc o [<a href="http://www.motofgr.com/aktualityv6/">FGR 2500 V6</a>], stojí to za to.<br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbUt4ZmgkiRB5CMigUs7wTmr5Q0t22J4sCKihfhM4kQLSIsFJuiKrUURHl_p95UkJ8nwAPZCWYjDX75trPwwpPiudbR70Hvin0bBalyw_z_FPkTRoCP6e5l9bCgX0PKNmZrx_ve9LLukIM/s1600/IMG_1529.webp" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a><br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://sites.google.com/view/tyfotoza/"><img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilFWNmudcVukYISQ3fnJLKx07DcnkYyWknju2em_XnK4yqdQk9pSvN-exfngyO29aL7-mwYAi_xS9KQIS6Aq0jEPdDZHnrbS9RVvAb0lACRgpJzqSPhsck0jGLzQi8ZTETLjbLna3gyuRG/s200/IMG_1539.webp" width="200" /></a><a href="https://sites.google.com/view/tyfotoza/">&nbsp; &nbsp; &nbsp;<img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbUt4ZmgkiRB5CMigUs7wTmr5Q0t22J4sCKihfhM4kQLSIsFJuiKrUURHl_p95UkJ8nwAPZCWYjDX75trPwwpPiudbR70Hvin0bBalyw_z_FPkTRoCP6e5l9bCgX0PKNmZrx_ve9LLukIM/s200/IMG_1529.webp" width="200" /></a></div>
+Hned vedle Midalu byl Ducati café bar, tak jsme dali kávu, FFF od slečny s paintbrushem místo horního dílu spodního prádla vylákal šest plakátů FGR Midalu - třikrát celé moto se spoře oděnou lazebnicí z líce a daleko zajímavějším rubem s osmi fotkami nového stroje. A třikrát plakát jenom s motorem, dvaapůl litrový šestiválec do V, jestli si to správně pamatuju.<br />
+Lehce po druhé hodině odpolední a pak ještě jednou přesně ve tři FGR asi na minutu nebo dvě nastartovali - ďábelský řev a podle FFF šel z volnoběhu do maxima bez znatelného pohybu ruky na plynu. FFF měl odvahu a díval se. My s Karlosem jsme jenom poslouchali. Karlos to skvělě shrnul - tohle je motorka pro toho, kdo má rád silné stroje a má peníze, to je motorka co se parkuje v obýváku a jednou za týden nebo měsíc, když je slunečno, ji vezmeš na projížďku.<br />
+[<a href="http://www.youtube.com/watch?v=Qen-gg1NW98">oficiální videoprezentace</a>]<br />
+<br />
+Od stánku Midalu se prošlo kolem amerických Victory do jiného světa drsných custom staveb, chopperů, Harley Davidson a Route 66. Saša obhlížela airbrushe, my jsme dlouho obdivovali stavbu Biomastrubátor, stála hned vedle jiného übernaleštěného chromovaného customu, a díky tomu se ještě víc zvýraznila barva přední vidlice a trojhranných výfukových svodů v uvěřitelné barvě litiny.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQKu2Qi8V-sbd3YzZY0uSatIT2tKSQJVjfCvQ-k5z0SMiqGNnzFIDmeJmVGZ2v4mto0D2pF92GTSeu1504Sw1S6iRFdglW5YNJZvSfHTaFgiTicxYi8msdwVw6zpt3BfCsLJyJbLXFMNY/s1600/Buell+XB+12S.webp" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="179" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQKu2Qi8V-sbd3YzZY0uSatIT2tKSQJVjfCvQ-k5z0SMiqGNnzFIDmeJmVGZ2v4mto0D2pF92GTSeu1504Sw1S6iRFdglW5YNJZvSfHTaFgiTicxYi8msdwVw6zpt3BfCsLJyJbLXFMNY/s200/Buell+XB+12S.webp" width="200" />&nbsp;</a><a href="https://sites.google.com/view/tyfotoza/"><img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiJNMa4huW99jXAlhUd3XG0gkW3PGq2KZ6cqHZp-9__UstuLK34pEoFrzigofbDxWRnuxPsG03jJNtgZUzfSkfY3MXzDk8RwJh-hE6-uDczTGF_ci_EYwFd30VUclyHfbFG2mE0wNAXYhf/s200/IMG_1578.webp" width="200" /></a><span id="goog_1190939090"></span></div>
+<div>
+<span style="font-size: x-small;">dvakrát tatáž motorka Buell XB 12S - před a po přestavbě</span>&nbsp;</div>
+<br />
+Staveb bylo k vidění nepočítaně, některé jenom úchylné, jiné naprosto promyšlené a taky přestavby povedené jako [<a href="https://sites.google.com/view/tyfotoza/">Hayabusa</a>] v kabátě, který jí sluší víc než ten, co má od přirození. Za zmínku určitě stojí úsměvné, ale dokonalé přestavby [<a href="https://sites.google.com/view/tyfotoza/">ČZ125T</a>] a [<a href="https://sites.google.com/view/tyfotoza/">Jawy 23</a>], co nám odtlačili před nosem.<br />
+Pokračovali jsme ven přes dvůr, kolem jezírka a domácích zabijačkových specialit přecházíme do haly Dakaru a mototrialu, prezentace značky trialových speciálů [<a href="http://www.gasgasmoto.cz/">Gas Gas</a>].<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/FCDdmTdtuLA/0.webp" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/FCDdmTdtuLA?f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><embed width="320" height="266" src="http://www.youtube.com/v/FCDdmTdtuLA?f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>
+Stihli jsme ukázky mototrialu, Karlos potěšil oko jedním ze dvou opravdovým caferacerů, který jsme za celý den potkali, já jsem obhlížel vysokou  [<a href="https://sites.google.com/view/tyfotoza/">Yamaha Terene</a>] a FFF endura rozsekaná od pouštních písků.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://sites.google.com/view/tyfotoza/"><img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD6W0g7xq-MAXxCSrn9OeeTHZYq7KPLXlp2HfdWk6KWrK1uWbL_MwaUzIlm2gnvjFahez1zR8TwvAyKTlhPLdQVXHH2rLgWfQu0ga75QAZTRNp4o-NAqSYxhKawzVSSZUFKJUh8y83H73_/s200/IMG_1658.webp" width="200" />&nbsp;</a> &nbsp; &nbsp;<a href="https://sites.google.com/view/tyfotoza/"><img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5cMDb0Ao7tVBF16QFxllRB7Zw9kPEAMifwjORYN8ULFxjCV0aLC3c4z4zLpXWURka3mnJ7GH-F16b_T-1ahca-WwNqfFL0nWAKPMzikn1W2AJMxoETF9mGQ9Ww0bdpJ7bxu9S1OssDJYo/s200/IMG_1645.webp" width="200" /></a></div>
+A to bylo asi tak všechno. Skvěle strávený páteční den, FFF by jej jinak prožil pilným studiem a my ostatní neméněpilnou prací. Z Holešovic pak už jen přímo domů, busem. A právě z autobusu uherskohradišťského ČSAD, za zvuku Neuropatologa od Debustrolu (ve sluchátkách), někde na D1, dopisuji tyto řádky.<br />
+<br />
+Moc dobrý výlet a ještě lepší nápad jak se naladit na letošní sezónu!<br />
+<br />
+[<a href="https://sites.google.com/view/tyfotoza/">všechny fotky</a>]<br />
+[<a href="https://sites.google.com/view/tyfotoza/">detaily airbrush</a>] pro Sašenku

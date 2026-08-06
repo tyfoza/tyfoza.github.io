@@ -1,0 +1,30 @@
+---
+title: "Do Bratislavy na Motocykel 2019..."
+date: 2019-03-15T12:45:00Z
+url: "/posts/2019/03/do-bratislavy-na-motocykel-2019/"
+summary: "[ fotky ] Stupačky spolujezdce Vespa GTS 300 Stupačky spolujezdce MV Agusta Dragster 800RR"
+cover:
+    image: "obr-01.webp"
+tags: ["Jiné moto"]
+aliases:
+  - "/2019/03/do-bratislavy-na-motocykel-2019.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgYc2qXlnOlLDneF680cuPmFMYrTiXB4HFb-8LTgqAa_DW_VEVEhN_ERxUt9NQXy0u5KfKAyZC4nmpJchrHTsM82PwtirHALobz2ERZdxxJnRJd0vIbWG4fcp4gWjAzNV9kOYxVNI3ESn/s1600/20190315_112236.webp" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><br />
+</a>{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
+<div style="text-align: left;">
+<br />
+<a href="https://photos.app.goo.gl/kNcN67SsKmEHz8FN6" target="_blank">[</a><a href="https://photos.app.goo.gl/kNcN67SsKmEHz8FN6" target="_blank">fotky</a>]</div>
+<div style="text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/I39EOdzC9Zc/0.webp" frameborder="0" height="400" src="https://www.youtube.com/embed/I39EOdzC9Zc?feature=player_embedded" width="640"></iframe></div>
+<div style="text-align: center;">
+Stupačky spolujezdce Vespa GTS 300</div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/YxtvuwTjIXs/0.webp" frameborder="0" height="400" src="https://www.youtube.com/embed/YxtvuwTjIXs?feature=player_embedded" width="640"></iframe></div>
+<div style="text-align: center;">
+Stupačky spolujezdce MV Agusta Dragster 800RR</div>

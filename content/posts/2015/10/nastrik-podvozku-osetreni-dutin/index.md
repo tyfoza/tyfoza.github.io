@@ -1,0 +1,18 @@
+---
+title: "Nástřik podvozku a ošetření dutin..."
+date: 2015-10-22T22:04:00Z
+url: "/posts/2015/10/nastrik-podvozku-osetreni-dutin/"
+summary: "Tři různí automechanici řekli v průběhu posledních týdnů tuto větu - Jestli si to auto hodláš nechat, tak udělej nástřik spodku a dutiny. A tak se také stalo. Jak vypadá takové antikorozní ošetření vozu viz[ 1 ]. Využil jsem služeb autoservisu EGP[ 2 ] v Uherském Brodě. Jsem spokojen. I v místech dutin, kde bych lepkavý tmel nečekal, tam ho nacházím. Minulé auto nám shnilo komplet krom zadních dveří, které jediné z celého vozu měly ošetřené dutiny z EGP - když přihlédneme k tomu, že na Feliciích hnijí nejvíce právě zadní dveře a nám vydržely bez koroze 13 let při parkování pod lampou - tak ano, chceme mít vystříkané dutiny a podvozek natřený proti korozi. Tato investice je sice obhajitelná, ale stěží měřitelná."
+cover:
+    image: "obr-01.webp"
+tags: ["Citroën Berlingo 2.0 HDI"]
+aliases:
+  - "/2015/10/nastrik-podvozku-osetreni-dutin.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
+<div style="text-align: justify;">
+Tři různí automechanici řekli v průběhu posledních týdnů tuto větu - Jestli si to auto hodláš nechat, tak udělej nástřik spodku a dutiny. A tak se také stalo. Jak vypadá takové antikorozní ošetření vozu viz[<a href="http://www.lb-service.cz/nastrik-podvozku/" target="_blank">1</a>]. Využil jsem služeb autoservisu EGP[<a href="http://www.autoservisegp.cz/" target="_blank">2</a>] v Uherském Brodě. Jsem spokojen. I v místech dutin, kde bych lepkavý tmel nečekal, tam ho nacházím. Minulé auto nám shnilo komplet krom zadních dveří, které jediné z celého vozu měly ošetřené dutiny z EGP - když přihlédneme k tomu, že na Feliciích hnijí nejvíce právě zadní dveře a nám vydržely bez koroze 13 let při parkování pod lampou - tak ano, chceme mít vystříkané dutiny a podvozek natřený proti korozi.</div>
+<div style="text-align: justify;">
+Tato investice je sice obhajitelná, ale stěží měřitelná.</div>

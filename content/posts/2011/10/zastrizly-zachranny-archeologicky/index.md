@@ -1,0 +1,14 @@
+---
+title: "Zástřizly - záchranný archeologický průzkum"
+date: 2011-10-05T12:00:00.056Z
+url: "/posts/2011/10/zastrizly-zachranny-archeologicky/"
+summary: "Přítel, kamarád a archeolog M.L. - jedním slovem \"dobrý gazda\" - vede záchranný archeologický průzkum v katastru obce Zástřizly, kousek od obce Chvalnov; u hlavní cesty rostou dva nové rybníky a když buldozery vyjeli, země vydala své poklady. Prohlídka vykopávek byla skvělá, protože jsme měli opravdu nadšeného průvodce. Našly se zde hroby i osídlení jak keltské tak středověké, nejvíc archeolog jásal nad nějakou keltskou pecí, kterou našli včetně roštu a to se prý nestává. U každého dolíku se dalo postát dlouho a pořád bylo co poslouchat. Mě zaujalo plavení zeminy, kdy se hlína z konkrétního místa prolije vodou a na sítu zůstanou rostlinné a jiné drobnosti, které se pak laboratorně zkoumají, takže se pak ví, co zde rostlo, čím měli vymazané chalupy a jiné důležitosti. Ťuf se podivoval nad tím, že opravdu v jílové půdě byly naprosto zřetelně ohraničené stavby, jámy, kůly... Celé plocha má..."
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/10/zastrizly-zachranny-archeologicky.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>Přítel, kamarád a archeolog M.L. - jedním slovem "dobrý gazda" - vede záchranný archeologický průzkum v katastru obce Zástřizly, kousek od obce Chvalnov; u hlavní cesty rostou dva nové rybníky a když buldozery vyjeli, země vydala své poklady. Prohlídka vykopávek byla skvělá, protože jsme měli opravdu nadšeného průvodce. Našly se zde hroby i osídlení jak keltské tak středověké, nejvíc archeolog jásal nad nějakou keltskou pecí, kterou našli včetně roštu a to se prý nestává. U každého dolíku se dalo postát dlouho a pořád bylo co poslouchat. Mě zaujalo plavení zeminy, kdy se hlína z konkrétního místa prolije vodou a na sítu zůstanou rostlinné a jiné drobnosti, které se pak laboratorně zkoumají, takže se pak ví, co zde rostlo, čím měli vymazané chalupy a jiné důležitosti. Ťuf se podivoval nad tím, že opravdu v jílové půdě byly naprosto zřetelně ohraničené stavby, jámy, kůly...&nbsp;Celé plocha má kolem 5ha a průzkum je prý v polovině. Za zmínku stojí ještě postřeh, který byl při prohlídce prezentován, taková úvaha - nachází se zde nějaká zemnice, chalupa to byla jako ty co stojí ve skanzenu v Modré, ale tahle je o hodně mladší - a ten postřeh je takový, že je možné, že v takové chalupě-zemnici bydleli jenom po dobu, dokud si nepostavili něco pořádného k bydlení na povrchu, ale to nám už archeologický průzkum neukáže.<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/entqf0s01e8ci499">trasa</a>]

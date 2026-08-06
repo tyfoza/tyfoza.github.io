@@ -1,0 +1,13 @@
+---
+title: "Montezumova pomsta na CoCo3"
+date: 2026-07-29T23:09:04.690Z
+url: "/posts/2026/07/montezumova-pomsta-na-coco3/"
+summary: "Vyšel port Montezumovy pomsty pro Tandy Color Computer 3 [ CoCo 3 ]. Vyžaduje 512K paměti. Podrobnosti a otisk disku ke stažení na [ montezuma.retrohome.info ] 18. června byl moc pěkný stream[ 1 ], kde se řešila i tato hra. Loni jsme si mohli s chutí zahrát režisérský sestřih[ 2 ] a letos máme nový port. Je skvělé, že ta hra stále inspiruje k portům a úpravám. ONLINE spuštění této hry v emulátoru 1) stáhneme otisk disku [ dsk ] 2) sputíme emulátor [ online ] 3) tlačítko LOAD vložím stažený disk 4) příkazy DIR (vypíše obsah diskety) LOAD \"MONTREV.BAS\" RUN"
+cover:
+    image: "obr-01.webp"
+tags: ["Počítače.8bit", "Počítače.hry", "Počítače"]
+aliases:
+  - "/2026/07/montezumova-pomsta-na-coco3.html"
+---
+
+<p>&nbsp;&nbsp;{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</p><div class="separator" style="clear: both;"><span><br /></span></div><div class="separator" style="clear: both;"><span><span>&nbsp;&nbsp; &nbsp;</span>Vyšel port Montezumovy pomsty pro &nbsp;Tandy Color Computer 3 [<a href="https://www.computinghistory.org.uk/det/46843/Tandy-Color-Computer-3-(CoCo-3)/" target="_blank">CoCo 3</a>]. Vyžaduje 512K paměti. Podrobnosti a otisk disku ke stažení na </span><span>[</span><a href="https://montezuma.retrohome.info/">montezuma.retrohome.info</a><span>]</span></div><div><br /></div><div><span>&nbsp; &nbsp; 18. června byl moc pěkný stream[<a href="https://www.youtube.com/live/y7MTwahmd7k?si=mB-dfOlQT4Ral1i4&amp;t=10556" target="_blank">1</a>], kde se řešila i tato hra.</span><br /></div><div><span><br /></span></div><div><span>&nbsp; &nbsp; Loni jsme si mohli s chutí zahrát režisérský sestřih[<a href="/posts/2025/04/montezumova-pomsta/" target="_blank">2</a>] a letos máme nový port. Je skvělé, že ta hra stále inspiruje k portům a úpravám.</span><br /></div><div><span><br /></span></div><div><span><i><b>ONLINE spuštění této hry v emulátoru</b></i></span></div><div><span>1) stáhneme otisk disku [<a href="https://montezuma.retrohome.info/montrev.dsk" target="_blank">dsk</a>]</span></div><div><span>2) sputíme emulátor [<a href="https://colorcomputerarchive.com/xroar-online/?machine=coco3" target="_blank">online</a>]</span></div><div><span>3) tlačítko LOAD vložím stažený disk</span></div><div><span>4) příkazy</span></div><div><span>DIR (vypíše obsah diskety)</span></div><div><span>LOAD "MONTREV.BAS"</span></div><div><span>RUN</span></div><div><span><br /></span></div><div><span><br /></span></div>

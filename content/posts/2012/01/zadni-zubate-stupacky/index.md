@@ -1,0 +1,17 @@
+---
+title: "Zadní zubaté stupačky"
+date: 2012-01-08T12:00:00.028Z
+url: "/posts/2012/01/zadni-zubate-stupacky/"
+summary: "Zadní stupačky na V-Stromu trpí neduhem, že se na nich přetáčí guma, což může být pro spolujezdce, zvláště ve vlhku, dosti nepříjemné. Nevím jak jsou na tom modely novější než K9. Zatím je to jediná známá konstrukční vada. Kolegové z Vstrom klubu to řešili tak, že si stupačky nechali upravit na zubaté[ 1 ]. Osvědčilo se to a teď přes zimu se chystá další taková hromadná úprava, tak jsem se také přidal. zadní stupačky před úpravou - nutno poslat včetně držáků tohle je plánovaný cíl - uvidíme - později přidám fotku jak to dopadlo u mě Protože jsem poslal zadní stupačky k úpravě včetně držáků, jak bylo požadováno, tak držák kufrů není pevně uchycen. Protože držák kufrů není pevně uchycen bylo by nutné ho sundat. Žel krom své funkce primární je u mě často využíván jako zadní padací rám, tedy ochrana zadních blinkrů a výfuku při položení motorky někde v terénu. A protože nenechám motorku v..."
+cover:
+    image: "obr-01.webp"
+tags: ["Suzuki DL 650 K9"]
+aliases:
+  - "/2012/01/zadni-zubate-stupacky.html"
+---
+
+Zadní stupačky na V-Stromu trpí neduhem, že se na nich přetáčí guma, což může být pro spolujezdce, zvláště ve vlhku, dosti nepříjemné. Nevím jak jsou na tom modely novější než K9. Zatím je to jediná známá konstrukční vada. Kolegové z Vstrom klubu to řešili tak, že si stupačky nechali upravit na zubaté[<a href="http://vstrom.cz/forum/viewtopic.php?f=28&amp;t=2565">1</a>]. Osvědčilo se to a teď přes zimu se chystá další taková hromadná úprava, tak jsem se také přidal.<br />
+<div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div><div style="text-align: center;">&nbsp;zadní stupačky před úpravou - nutno poslat včetně držáků</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div><div class="" style="clear: both; text-align: center;">tohle je plánovaný cíl - uvidíme - později přidám fotku jak to dopadlo u mě</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "200" >}}{{< obr600 "obr-04.webp" "Ilustrace k článku" "200" >}}</div><div style="text-align: left;">Protože jsem poslal zadní stupačky k úpravě včetně držáků, jak bylo požadováno, tak držák kufrů není pevně uchycen. Protože držák kufrů není pevně uchycen bylo by nutné ho sundat. Žel krom své funkce primární je u mě často využíván jako zadní padací rám, tedy ochrana zadních blinkrů a výfuku při položení motorky někde v terénu. A protože nenechám motorku v zimě zahálet v garáži, bylo nutné improvizovat - trojka pásovina vypadala všelijak jenom ne pevně, musel jsem ji trošku vyztužit. Asi by stačil svar co centimetr, ale když mě ty housenky tak baví. Není to hezké, ale je to funkční a hlavně dočasné.<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-05.webp" "Ilustrace k článku" "320" >}}</div><div style="text-align: center;">podobně by měl být vybaven náš Strom před sezónou - oboje stupačky zubaté<br />
+<br />
+<div style="text-align: left;"><i>přidáno 17.4.2012:</i></div><div style="text-align: left;"><i>Tak stupačky právě dorazily. Zadní upravené, přední zubaté. Cena za obě byla 1400,-</i></div></div></div></div>

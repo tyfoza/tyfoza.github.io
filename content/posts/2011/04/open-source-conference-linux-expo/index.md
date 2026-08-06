@@ -1,0 +1,17 @@
+---
+title: "Open source conference a Linux Expo"
+date: 2011-04-19T12:33:00.003Z
+url: "/posts/2011/04/open-source-conference-linux-expo/"
+summary: "Dnes je ten den, kdy v Praze U Hájků - to není hospoda, ale konferenční centrum - běží od božího rána přednášky o linuxu a otevřených technologiích. Ráno jsem jel \"posázavským expresem\" z Krhanic do Prahy, údajně je to jedna z nejkrásnějších běžněrozchodných vlakových tratí u nás. Mně tak nepřišla, byly tam tunely - bez signálu - na jedná straně skála na druhé straně hluboká strž, dole řeka, počet vodáků nula, oblast chatová, probouzející se zahrádky. Slunce mně svítilo do displeje, holt romantika. Teď už meškám na přednáškách, je tady neuvěřitelná koncentrace podivných individuí, takže zapadám. V motocyklových botách a kalhotách, pruhovaném triku a bundě Jägermeister si připadám poněkud nepatřičně. Linux Expo je asi pět stolů po stranách chodby, vlevo jsou kravatoví Wikipedia, AAcomputers, Joomla, Zoner a naproti je velmi neformální OpenSuse, kde se kumulí podivíni. Odpoledne mám..."
+cover:
+    image: "obr-01.webp"
+tags: ["Počítače"]
+aliases:
+  - "/2011/04/open-source-conference-linux-expo.html"
+---
+
+<div class="mobile-photo"><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" >}}</div></div><div class="mobile-photo"><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" >}}</div></div>Dnes je ten den, kdy v Praze U Hájků - to není hospoda, ale konferenční centrum - běží od božího rána přednášky o linuxu a otevřených technologiích.<br />
+Ráno jsem jel "posázavským expresem" z Krhanic do Prahy, údajně je to jedna z nejkrásnějších běžněrozchodných vlakových tratí u nás. Mně tak nepřišla, byly tam tunely - bez signálu - na jedná straně skála na druhé straně hluboká strž, dole řeka, počet vodáků nula, oblast chatová, probouzející se zahrádky. Slunce mně svítilo do displeje, holt romantika.<br />
+Teď už meškám na přednáškách, je tady neuvěřitelná koncentrace podivných individuí, takže zapadám. V motocyklových botách a kalhotách, pruhovaném triku a bundě Jägermeister si připadám poněkud nepatřičně.<br />
+Linux Expo je asi pět stolů po stranách chodby, vlevo jsou kravatoví Wikipedia, AAcomputers, Joomla, Zoner a naproti je velmi neformální OpenSuse, kde se kumulí podivíni.<br />
+Odpoledne mám potkat Thorina cestovatele a konečně se dovědět, jaké to bylo v Chile. Pak zpět do Krhanic a zítra domů.

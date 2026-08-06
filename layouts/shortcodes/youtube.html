@@ -1,0 +1,10 @@
+{{- $id := .Get 0 -}}
+{{- if .IsNamedParams -}}
+  {{- $id = .Get "id" -}}
+{{- end -}}
+<iframe
+  src="https://www.youtube.com/embed/{{ $id }}"
+  style="width: 100%; aspect-ratio: 16 / 9; border: 0; margin: 25px 0; display: block; border-radius: 8px;"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>

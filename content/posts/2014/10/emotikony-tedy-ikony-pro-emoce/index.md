@@ -1,0 +1,31 @@
+---
+title: "Emotikony, tedy ikony pro emoce"
+date: 2014-10-29T16:41:00.001Z
+url: "/posts/2014/10/emotikony-tedy-ikony-pro-emoce/"
+summary: "Oficiálně se první použitý emotikon datuje 1982 a pochází od Scotta Fahlmana. Dneska už říkáme„smajlík“ a vlastně už i bez uvozovek prostě jen smajlík. viz. [ 1 ][ 2 ] Kdysi jsem bojoval za jazykovou čistotu dětského časopisu Mateřídouška, kde se před deseti lety začaly hromadně na stránkách líhnout emotikony. Psal jsem do redakce, nikdy neodpověděli, ale emotikonů v časopise ubylo. A to je dětský časopis. Mým názorem je a zůstává, že emotikony do psaného textu nepatří. Řeknete - ale ony se používají pouze v psaném textu. Takže lépe - emotikony nepatří do textu, který je vážně míněn. No jistě, od toho jsou to smajlíky, že jsou v nevážně míněném textu, ne? Kam tedy emotikony nepatří? Nepatří do slohových prací našich dětí. Určitě je nepoužijete při žádosti o práci nebo při komunikaci s úřady. Nechtěl bych je potkávat v beletrii a vlastně ani v časopisech - nemyslím humoristické Trnky,..."
+cover:
+    image: "obr-01.webp"
+tags: ["Počítače"]
+aliases:
+  - "/2014/10/emotikony-tedy-ikony-pro-emoce.html"
+---
+
+Oficiálně se první použitý emotikon datuje 1982 a pochází od Scotta Fahlmana. Dneska už říkáme„smajlík“ a vlastně už i bez uvozovek prostě jen smajlík.<br />
+viz. [<a href="http://technet.idnes.cz/smajliky-vyroci-30-let-0ta-/sw_internet.aspx?c=A120918_173607_sw_internet_pka" target="_blank">1</a>][<a href="http://www.ceskatelevize.cz/ct24/domaci/196455-smajlici-maji-koreny-ve-stredoveku/" target="_blank">2</a>]<br />
+<br />
+<div style="text-align: justify;">
+Kdysi jsem bojoval za jazykovou čistotu dětského časopisu Mateřídouška, kde se před deseti lety začaly hromadně na stránkách líhnout emotikony. Psal jsem do redakce, nikdy neodpověděli, ale emotikonů v časopise ubylo. A to je dětský časopis.&nbsp;</div>
+<div style="text-align: justify;">
+Mým názorem je a zůstává, že emotikony do psaného textu nepatří. Řeknete - ale ony se používají pouze v psaném textu. Takže lépe - emotikony nepatří do textu, který je vážně míněn. No jistě, od toho jsou to smajlíky, že jsou v nevážně míněném textu, ne? Kam tedy emotikony nepatří? Nepatří do slohových prací našich dětí. Určitě je nepoužijete při žádosti o práci nebo při komunikaci s úřady. Nechtěl bych je potkávat v beletrii a vlastně ani v časopisech - nemyslím humoristické Trnky, Brnky; ale vážně míněné časopisy, které čtu jako .. hm, Playboy? Motocykl? National Geographic? Vesmír? Online Magazín 067[<a href="https://067.cz/" target="_blank">3</a>]? Nechme si smajlíky do online komunikaci, neformálních mailů a SMSek.</div>
+V mém oblíbeném časopise Motocykl se emotikon vyskytl jeden, již před pár lety – psal jsem tehdy do redakce vážný dopis se sdělením, že všichni zhynou bídnou smrtí udušením tiskařskou barvou, jestli nedokáží emotikony z časopisu vymýtit! A povedlo se.<br />
+<br />
+K přečtení doporučím výživných patnáct stran ze zajímavé práce s názvem – <a href="http://is.muni.cz/th/65211/fss_b/Lukacova_BP.pdf" target="_blank">Emotikon a úsudek o emoci pisatele zprávy: Role emoční inteligence čtenáře</a>&nbsp;[<a href="http://is.muni.cz/th/65211/fss_b/Lukacova_BP.pdf" target="_blank">4</a>] – z katedry psychologie, fakulty sociálních studií muni.cz - vedoucí práce Ježek – a to není náhoda.<br />
+Práce je to pěkná, v teoretické části se dozvíte, že 35% ze všech používaných emotikonů je úsměv a že Italové používají více negativních smajlíků a něco o teorii emoční inteligence.&nbsp;<span style="text-align: justify;">V empirické části práce bylo cílem výzkumu zjistit, v jaké míře ovlivňují emotikon a verbální složka úsudek čtenáře o emoci pisatele.</span><br />
+<br />
+<i>Smajlík z roku 1950</i><br />
+<span style="text-align: justify;">A kruh se uzavřel, když jsem po dlouhé době zase otevřel knihu o teorii motorů a závodních úpravách motocyklových motorů z roku 1950 a na straně deset mně upoutal obří emotikon se vzkazem od autora: Tuto prázdnou stránku jsem zařadil pouze pro úsměv a kontinuitu číslování.</span><br />
+<div class="separator" style="clear: both; text-align: center;">
+<img src="obr-01.webp" height="200" width="150" / alt="Ilustrace k článku">&nbsp;</div>
+<div class="separator" style="clear: both; text-align: center;">
+<img src="obr-02.webp" height="200" width="146" / alt="Ilustrace k článku"><img src="obr-03.webp" height="200" width="148" / alt="Ilustrace k článku"></div>
+Kniha Vyšší škola motorismu[<a href="http://jawarmaniak.ic.cz/vyssi_skola_motorismu.rar" target="_blank">6</a>] od Ing. Karla Jaroše, vydaná v roce 1950. Pozor, nejedná se o Doc. Ing. Karla Jaroše, filmového zvukaře z Barandova, vedoucího katedry zvuku na FAMO v Písku, ale kniha je od Doc. Ing. Karla Jaroše, CSc. z Brna.

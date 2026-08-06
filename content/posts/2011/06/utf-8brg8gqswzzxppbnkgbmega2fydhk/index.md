@@ -1,0 +1,17 @@
+---
+title: "Do Březiny na taroky"
+date: 2011-06-03T17:52:00.007Z
+url: "/posts/2011/06/utf-8brg8gqswzzxppbnkgbmega2fydhk/"
+summary: "Odpoledne z Brodu do Březiny a pak výlety po okolí. U Mokré je opravdu velký lom [ lokalita ][ technika ], lesní cestou se dá přijet zadem. Les řídne, bláto a obrovský val, dalo se vjet až do lomu. Nikde nikdo, až někde na druhém konci bylo auto a nějaký pracovník. Přijel jsem až k němu a ptám se - jak dojet dolů do dědiny? Docela se vyděsil, že tam nemám co dělat. A pak vyděsil na oplátku mě, byl to střelmistr a kladl si nálože, že k večeru plánují odstřel. A prý kdybych jel dolů v lomu, tak padnu do pasti vrátnému, který by volal policii. Že se mám vrátit zpátky do lesa. Další lom je mezi Březinou a Ochozem, z hlavní cesty se tam nedá přijet, je tam závora a vjezd pro náklaďáky a zákaz vjezdu. V Ochozu u Brna mně hodný myslivec detailně popsal jak k lomu přijet od zadu. Ten první lom byl větší a hezčí. Podle offline nokia ovi maps jsem našel starou huť [ 1 ] a dva větrné mlýny, v..."
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě", "Větrný mlýn"]
+aliases:
+  - "/2011/06/utf-8brg8gqswzzxppbnkgbmega2fydhk.html"
+---
+
+<div class="mobile-photo">{{< obr600 "obr-01.webp" "Ilustrace k článku" >}}</div><div class="mobile-photo">{{< obr600 "obr-02.webp" "Ilustrace k článku" >}}</div><div class="mobile-photo">{{< obr600 "obr-03.webp" "Ilustrace k článku" >}}</div><div class="mobile-photo">{{< obr600 "obr-04.webp" "Ilustrace k článku" >}}</div><div class="mobile-photo">{{< obr600 "obr-05.webp" "Ilustrace k článku" >}}</div><div class="mobile-photo">{{< obr600 "obr-06.webp" "Ilustrace k článku" >}}</div><div class="mobile-photo">{{< obr600 "obr-07.webp" "Ilustrace k článku" >}}</div>Odpoledne z Brodu do Březiny a pak výlety po okolí.<br />
+U Mokré je opravdu velký lom [<a href="http://pruvodce.geol.morava.sci.muni.cz/Mokra/Mokra_text.htm">lokalita</a>][<a href="http://stavebni-technika.cz/clanky/kolovy-nakladac-cat-990h-do-lomu-mokra/">technika</a>], lesní cestou se dá přijet zadem. Les řídne, bláto a obrovský val, dalo se vjet až do lomu. Nikde nikdo, až někde na druhém konci bylo auto a nějaký pracovník. Přijel jsem až k němu a ptám se - jak dojet dolů do dědiny? Docela se vyděsil, že tam nemám co dělat. A pak vyděsil na oplátku mě, byl to střelmistr a kladl si nálože, že k večeru plánují odstřel. A prý kdybych jel dolů v lomu, tak padnu do pasti vrátnému, který by volal policii. Že se mám vrátit zpátky do lesa.<br />
+Další lom je mezi Březinou a Ochozem, z hlavní cesty se tam nedá přijet, je tam závora a vjezd pro náklaďáky a zákaz vjezdu. V Ochozu u Brna mně hodný myslivec detailně popsal jak k lomu přijet od zadu. Ten první lom byl větší a hezčí.<br />
+Podle offline nokia ovi maps jsem našel starou huť [<a href="http://www.starahut.com/">1</a>] a dva větrné mlýny, v Rudicích je ve mlýně [<a href="http://www.rudice.cz/index.php/informacni-stredisko">2</a>] [<a href="http://www.povetrnik.cz/rs/view.php?cisloclanku=2006012001">povetrnik.cz</a>] muzeum, ale druhý mlýn v Ostrově u Machochy je soukromý a používají ho jako chatu nebo rodinný dům [<a href="http://www.povetrnik.cz/rs/view.php?cisloclanku=2006011902">povetrnik.cz</a>]. Zajímalo by mě, jak se to stane, že je se dostane chata do mapy jako turistický cíl.<br />
+Vždy nejkratší trasa včetně nezpevněných cest. Trasy [<a href="http://www.sports-tracker.com/#/workout/tyfoza/da9kot2k2aqghoe5">3</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/llq9tq6fml1kr67d">4</a>]

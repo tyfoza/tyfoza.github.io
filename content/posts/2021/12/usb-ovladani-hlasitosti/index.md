@@ -1,0 +1,13 @@
+---
+title: "USB ovládání hlasitosti..."
+date: 2021-12-19T19:00:00.002Z
+url: "/posts/2021/12/usb-ovladani-hlasitosti/"
+summary: "model ke stažení na [ thingiverse ] Emulace multimediální klávesnice s nastavením hlasitosti. Aneb jak mně chyběl jeden digitální pin. Použitá malinká deska Digispark Attiny85[ 1 ] využívá všechny piny – 0, 2 pro rotační enkodér, pin 1 pro tlačítko utlumení a zbytek pro USB komunikaci. Moje né moc chytré, ale za dvacet minut zbastlené, řešení z věcí ze šuplíku. Beru stisknutí enkodéru, zákmity řeší kondenzátor, invertor se Schmittovým klopným obvodem vytvoří pěknou hranu, kterou přepínám stav klopného obvodu indikovaný červenou LED. Knihovna „Trinket USB Keyboard“[ 2 ], vzorový příklad s názvem „TrinketVolumeKnobPlus“. Výsledný kód včetně vypnutí indikační LED po startu viz [ 3 ]."
+cover:
+    image: "obr-01.webp"
+tags: ["Bastlení"]
+aliases:
+  - "/2021/12/usb-ovladani-hlasitosti.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div><div style="text-align: right;">model ke stažení&nbsp; na [<a href="https://www.thingiverse.com/thing:5169348" target="_blank">thingiverse</a>]</div><div style="text-align: left;">Emulace multimediální klávesnice s nastavením hlasitosti. Aneb jak mně chyběl jeden digitální pin.</div><div style="text-align: left;">Použitá malinká deska Digispark Attiny85[<a href="https://create.arduino.cc/projecthub/alaspuresujay/use-an-attiny85-with-arduino-ide-07740c" target="_blank">1</a>] využívá všechny piny – 0, 2 pro rotační enkodér, pin 1 pro tlačítko utlumení a zbytek pro USB komunikaci.</div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "640" >}}</div><div style="text-align: left;">Moje né moc chytré, ale za dvacet minut zbastlené, řešení z věcí ze šuplíku. Beru stisknutí enkodéru, zákmity řeší kondenzátor, invertor se Schmittovým klopným obvodem vytvoří pěknou hranu, kterou přepínám stav klopného obvodu indikovaný červenou LED.&nbsp;</div><div style="text-align: left;"><br /></div><div style="text-align: left;">Knihovna „Trinket USB Keyboard“[<a href="https://learn.adafruit.com/trinket-usb-volume-knob/code" target="_blank">2</a>], vzorový příklad s názvem „TrinketVolumeKnobPlus“.&nbsp;</div><div style="text-align: left;">Výsledný kód včetně vypnutí indikační LED po startu viz [<a href="https://docs.google.com/document/d/1rXQ0UoaN38sWr5hLhQjVqJGJtgPPK4Q_F8PTbekTNHc/edit?usp=sharing" target="_blank">3</a>].</div>

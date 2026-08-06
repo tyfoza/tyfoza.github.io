@@ -1,0 +1,13 @@
+---
+title: "Jan Nepomucký mezi Lhotkou a Hradčovicemi"
+date: 2011-03-31T17:00:00.003Z
+url: "/posts/2011/03/jan-nepomucky-mezi-lhotkou-hradcovicemi/"
+summary: "Výlet podruhé na stejné místo. Již jsem tam byl [ 1 ] na čezetě. Tentokrát jsme jeli se Sašenkou. [ trasa ] plus foto v mapě"
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě"]
+aliases:
+  - "/2011/03/jan-nepomucky-mezi-lhotkou-hradcovicemi.html"
+---
+
+<div class="separator" style="clear: both; text-align: left;">Výlet podruhé na stejné místo. Již jsem tam byl [<a href="/posts/2010/04/zde/">1</a>] na čezetě. Tentokrát jsme jeli se Sašenkou. </div><div style="text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97NSTtYRVswk2XBdctPani7ycu5p-DqSRKHt0XXinLppzJNZvEtpEktAEAf8CD6nls6kuhHt7JBAepaSt55RmnClGa-T0_oHmC_uFSBsxmIxgA61GwQpYyXP9v47BSu86CY67HX5_VMk/s1600/31032011577.webp" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a></div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div><div style="text-align: left;">[<a href="http://www.sports-tracker.com/#/workout/tyfoza/aptmj7t1v3go0lpo">trasa</a>] plus foto v mapě</div>

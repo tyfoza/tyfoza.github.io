@@ -1,0 +1,14 @@
+---
+title: "Pískovna Boršice II"
+date: 2012-03-18T16:00:00.016Z
+url: "/posts/2012/03/piskovna-borsice/"
+summary: "Na trati v pískovně to v neděli žilo. Fotky a info mají na veřejném FB [ 1 ]. Trať je nově upravená, dvacet kluků založilo sdružení a trať si pronajalo. Ostatní mají trénink za 150,- a jak jsem zjistil, tak pro mastodonty, kteří neponičí trať je nějaké to kroužení zdarma. No, s tím neponičením trati to moc nevyšlo... Už jsem tam byl loni, kdy byla trať ve výrazně horším stavu [ 2 ]. Dnes jsem se poprvé pořádně zahrabal do písku. Do výjezdu kopce jsem neměl dostatečnou rychlost a jak jsem se snažil akcelerovat, tak Strom zpomalil a zahrabal se. Skoro na vrcholu výjedu. Zahrabal se úplně, že zůstal bez stojanu stát. Nešlo s ním hnout nahoru ani dolů. Naštěstí se na mě přišli podívat místní motokrosaři, co odpočívali nahoře v depu. Jedna dobrá duše se slitovala, motorku jsme dva vzali vzadu za držáky kufrů, vytáhli z jámy a pomalu jsme ji oba dovedli dolů. Tam jsem dostal instruktáž, že se..."
+cover:
+    image: "obr-01.webp"
+tags: ["Na cestě"]
+aliases:
+  - "/2012/03/piskovna-borsice.html"
+---
+
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>Na trati v pískovně to v neděli žilo.  Fotky a info mají na veřejném FB [<a href="http://cs-cz.facebook.com/pages/Motocross-Bor%C5%A1ice/296542837057898" target="_blank">1</a>]. Trať je nově upravená, dvacet kluků založilo sdružení a trať si pronajalo. &nbsp;Ostatní mají trénink za 150,- a jak jsem zjistil, tak pro mastodonty, kteří neponičí trať je nějaké to kroužení zdarma. No, s tím neponičením trati to moc nevyšlo... Už jsem tam byl loni, kdy byla trať ve výrazně horším stavu [<a href="/posts/2011/11/piskovna-borsice/" target="_blank">2</a>].<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}{{< obr600 "obr-03.webp" "Ilustrace k článku" "200" >}}</div>Dnes jsem se poprvé pořádně zahrabal do písku. Do výjezdu kopce jsem neměl dostatečnou rychlost a jak jsem se snažil akcelerovat, tak Strom zpomalil a zahrabal se. Skoro na vrcholu výjedu. Zahrabal se úplně, že zůstal bez stojanu stát. Nešlo s ním hnout nahoru ani dolů. Naštěstí se na mě přišli podívat místní motokrosaři, co odpočívali nahoře v depu. Jedna dobrá duše se slitovala, motorku jsme dva vzali vzadu za držáky kufrů, vytáhli z jámy a pomalu jsme ji oba dovedli dolů. Tam jsem dostal instruktáž, že se musím pořádně rozjet, že v písku je rychlost výhoda a napodruhé jsem to vyjel a pak už to šlo. Kroužil jsem dokud bylo na trati volno, pak už jsem tam nezavazel.

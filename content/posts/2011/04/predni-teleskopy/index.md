@@ -1,0 +1,16 @@
+---
+title: "Tuhost předních teleskopů vyřešena"
+date: 2011-04-02T12:31:00.015Z
+url: "/posts/2011/04/predni-teleskopy/"
+summary: "přední teleskopy se dají doufouknout Připadal jsem si jako Mrazík, hlava dubová. Řešil jsem, že přední teleskopy jsou příliš měkké, při každém brzdění jdou nadoraz, už jsem pomalu objednával nové pružiny a hustší olej. Hledal jsem v manuálu, jak správně tlumiče rozebrat a je tam zmínka, že pokud máte moto KZ550C, tak má air pressure forks a mají mít 50-80kPa. Bylo v nich nula nula nic, tak jsem dofouknul, přední vidlice šla cca o 2cm nahoru a vypadá to, že problém přední vidlice je vyřešen. Nejhorší z celé akce bylo sundat [ kryty zad teleskopů] , abych se dostal k ventilkům."
+cover:
+    image: "obr-01.webp"
+tags: ["Kawasaki GPZ 550"]
+aliases:
+  - "/2011/04/predni-teleskopy.html"
+---
+
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</td></tr>
+<tr><td class="tr-caption" style="text-align: center;">přední teleskopy se dají doufouknout</td></tr>
+</tbody></table>Připadal jsem si jako Mrazík, hlava dubová. Řešil jsem, že přední teleskopy jsou příliš měkké, při každém brzdění jdou nadoraz, už jsem pomalu objednával nové pružiny a hustší olej. Hledal jsem v manuálu, jak správně tlumiče rozebrat a je tam zmínka, že pokud máte moto KZ550C, tak má air pressure forks a mají mít 50-80kPa. Bylo v nich nula nula nic, tak jsem dofouknul, přední vidlice šla cca o 2cm nahoru a vypadá to, že problém přední vidlice je vyřešen. Nejhorší z celé akce bylo sundat [<a href="/posts/2011/03/kryty-zad-teleskopu/">kryty zad teleskopů]</a>, abych se dostal k ventilkům.

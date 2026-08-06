@@ -1,0 +1,13 @@
+---
+title: "Blikání s doutnavkou..."
+date: 2021-01-03T23:14:00.006Z
+url: "/posts/2021/01/blikani-s-doutnavkou/"
+summary: "Doutnavka při napájení stejnosměrným proudem rozsvítí pouze jednu elektrodu. Jak zařídit, aby svítily obě, případně jak je přepínat? Potřebujeme [ h-můstek ], stejný jaký bychom použili pro řízení směru otáčení stejnosměrného motoru. Pro jistotu přidána i ochrana proti zakázanému stavu – obě elektrody reálně rozsvítit nejde, ale když je budeme dostatečně rychle přepínat, bude to tak trochu vypadat, že svítí obě. možno otevřít v [ everycircuit ] Pokud stačí blikat oběma elektrodami najednou – např. dvoutečka do digitronových hodin – tak snadná cesta je použití triaku nebo optotriaku a spínat přímo střídavý proud."
+cover:
+    image: "obr-01.webp"
+tags: ["Bastlení"]
+aliases:
+  - "/2021/01/blikani-s-doutnavkou.html"
+---
+
+<p style="text-align: center;">&nbsp;<iframe allowfullscreen="" class="BLOG_video_class" height="480" src="https://www.youtube.com/embed/DQPRoa9ruvU" width="640" youtube-src-id="DQPRoa9ruvU"></iframe></p><p></p><div style="text-align: left;">Doutnavka při napájení stejnosměrným proudem rozsvítí pouze jednu elektrodu. Jak zařídit, aby svítily obě, případně jak je přepínat?&nbsp;</div><div style="text-align: left;">Potřebujeme [<a href="https://cs.technolong.com/advices/4207-what-is-an-h-bridge-how-it-works-and-how-to-use" target="_blank">h-můstek</a>], stejný jaký bychom použili pro řízení směru otáčení stejnosměrného motoru. Pro jistotu přidána i ochrana proti zakázanému stavu – obě elektrody reálně rozsvítit nejde, ale když je budeme dostatečně rychle přepínat, bude to tak trochu vypadat, že svítí obě.</div><div style="text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div><div style="text-align: center;">možno otevřít v [<a href="https://everycircuit.com/circuit/5002460152987648" target="_blank">everycircuit</a>]</div><div style="text-align: center;"><br /></div><div style="text-align: left;">Pokud stačí blikat oběma elektrodami najednou – např. dvoutečka do digitronových hodin – tak snadná cesta je použití triaku nebo optotriaku a spínat přímo střídavý proud.</div><div><div style="text-align: center;"><br /></div><div style="text-align: center;"><br /></div></div>
