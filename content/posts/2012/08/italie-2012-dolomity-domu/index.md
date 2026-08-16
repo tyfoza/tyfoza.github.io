@@ -19,4 +19,4 @@ Včerejší zápisek z výletu jsem smolil až těsně před usnutím někdy po 
 Erice bylo v noci nevolno, moc se nevyspala, ale říkala, že cestu zvládne. Přesunuli jsme se kousek do vedlejší obce, k otevřené pekárně, naproti kostela. Ábi nabrala zásoby vody, koupili jsme nějaké sladké pečivo a startujeme na dnešní cestu. <br />
 Tak jsme Dolomity nakonec vypustili. Míříme do Villachu a pak to máme po dálnici domů šest hodin. Někdy v noci budeme v Uherském Brodě.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/o271ur9cmocf2vba" target="_blank">trasa1</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/4nldpn2aoe11ijrp" target="_blank">trasa2</a>]
+[<a href="https://photos.app.goo.gl/Ft8z2aWdVEZvJgvcA" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/o271ur9cmocf2vba" target="_blank">trasa1</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/4nldpn2aoe11ijrp" target="_blank">trasa2</a>]

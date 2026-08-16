@@ -5,7 +5,7 @@ url: "/posts/2026/06/repas-baterie-do-notebooku/"
 summary: "nově vyměněné články 18650/3500mAh Lenovo Thinkpad L470, prastarý notebook. Baterie z druhovýroby AVACOM ve velmi špatném stavu. V jakém stavu je baterie? Jak zjistím v jakém stavu mám baterii v notebooku? Spustím v teminálu: powercfg /batteryreport a dostanu podrobný výstup ve kterém je o baterii všechno. Jak vyměnit články? Servisní n ávod výrobce praví (strojově přeloženo) Mikrokontrolér na desce neustále monitoruje napětí na jednotlivých skupinách článků pomocí sítě analogově-digitálních převodníků (ADC). U nejběžnější tříčlánkové topologie (3S1P nebo 3S2P) existují uzly B-, B1, B2 a B+. Při odpojování degradovaných článků musí technik postupovat od nejvyššího napěťového potenciálu k nejnižšímu, tedy odstřihnout spojení B+, následně B2, B1 a nakonec záporný pól B-. Při zapojování nových, kapacitně a napěťově spárovaných buněk se postup striktně obrací. První musí být připojen..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Počítače"]
+tags: ["Počítače", "Bastlení"]
 aliases:
   - "/2026/06/repas-baterie-do-notebooku.html"
 ---

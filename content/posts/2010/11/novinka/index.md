@@ -5,7 +5,7 @@ url: "/posts/2010/11/novinka/"
 summary: "ČZ 125T r.v. 1949, nálezový stav. Nosič z Jawy, chybí sedlo, výfuky a řadící páka (tisícihran je sjetý do hladka). Nádrž uvnitř jako nová a je neuvěřitelné, že stačilo vyčistit sítko, karburátor a vyměnit svíčku a na druhé šlápnutí naskočila. Vše o zetkách [ motomagazin ] Test této motorky včetně průběhu kroutícího momentu z časopisu svět motorů 1948 a nepřeberné množství dalších infomací z webu [ michalovyzetky ]"
 cover:
     image: "obr-01.webp"
-tags: ["Video", "ČZ 125T"]
+tags: ["ČZ 125T", "Video"]
 aliases:
   - "/2010/11/novinka.html"
 ---

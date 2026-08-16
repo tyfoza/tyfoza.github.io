@@ -5,7 +5,7 @@ url: "/posts/2012/11/katerinsky-jarmark/"
 summary: "Sedmý ročník tradiční akce, aneb jarmark na jediný den. Kulturní program od 15h zakončený slavnostním rozsvícením vánočního stromu, ohňostrojem a ohnivou show. Měli jsme to štěstí, že Město Uherský Brod pozvalo k účinkování i náš Šermířský Klub. Naše vystoupení bylo krom šermu o střílení z palných zbraní, takže jsme se neděsili jenom my, ale i diváci a zvláště ti nejmenší. Naše Městská hlídka provedla několikerou pochůzku jarmarečním mumrajem, přičemž byly řádně rozděleny „náborky,“ tedy náborové letáky. Uvidíme zda se přihlásí nějaký ten dobrovolník."
 cover:
     image: "obr-01.webp"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm.vystoupení", "Video", "Šerm"]
 aliases:
   - "/2012/11/katerinsky-jarmark.html"
 ---

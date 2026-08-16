@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/LogTGZA9XNavfZG29" target="_blank">fotky</a>]<br />
 Místo 4.6kg těžké olověné baterie lze použít baterii lithium–iontovou[<a href="http://tyf.sweb.cz/lithium-iont/navod-baterie.webp" target="_blank">1</a>], která váží pouze 0.9kg.<br />
 Nevýhoda je, že ji nelze použít v teplotách pod nulou.<br />
 Dodal MotoTrávníček[<a href="http://www.mototravnicek.cz/" target="_blank">2</a>] a mají ji na eshopu tady[<a href="http://motomike.cz/category/10304030204/article/434501" target="_blank">3</a>] <span style="font-size: x-small;">JMT YTX14H-FP - cena 2617Kč, 4Ah</span><br />

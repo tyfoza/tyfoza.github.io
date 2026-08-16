@@ -18,4 +18,4 @@ aliases:
 vystoupil kejklíř Zdeněk Vlček osobně</div>
 <div style="text-align: center;">
 <br /></div>
-další [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] Elenka Sladká – Díky!
+další [<a href="https://photos.app.goo.gl/Dz91SFyYj6dSoRLa8" target="_blank">fotky</a>] Elenka Sladká – Díky!

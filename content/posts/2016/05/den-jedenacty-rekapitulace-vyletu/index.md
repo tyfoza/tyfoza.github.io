@@ -5,7 +5,7 @@ url: "/posts/2016/05/den-jedenacty-rekapitulace-vyletu/"
 summary: "orientační plán naší motopouti [ fotky ] všechny z celého výletu Poslední den nás čekalo jen deštivých 780 kilometrů k domovu. Pršet přestalo až kousek před cílem. Teplota cestovní kolem 14°C. Teď už se jen přeprat a uschnout. Viděli jsme i slunce, někde za Vilachem. Ale jen na chvíli. Opravdu. Jedinou suchou věc, kterou jsme přivezli, jsou dva deštníky v kufru. Pro zajímavost satelitní snímky oblačnosti a deště ze SAT24 a naše poloha viz [ 1 ] Strávili jsme na cestě jedenáct dnů. Celkový nájezd nakonec vyšel 7300km. Viděli jsme všechno, co jsem vidět chtěli a něco navíc. Poutní výlet splněn - Lurdy, Garabandal, Compostela, Fátima, Turín. Nejlepší destinace San Sebastián de Garabandal - doporučuju všem. Horská vesnička, příjemní lidé, klid a pokoj. Zajímavý zážitek"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Cesty - 2016 Španělsko"]
+tags: ["Cesty - 2016 Španělsko", "Na cestě"]
 aliases:
   - "/2016/05/den-jedenacty-rekapitulace-vyletu.html"
 ---

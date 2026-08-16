@@ -3,7 +3,7 @@ title: "Kawa bez výfuku"
 date: 2011-04-21T20:00:00.003Z
 url: "/posts/2011/04/kawa-bez-vyfuku/"
 summary: ""
-tags: ["Kawasaki GPZ 550", "Video"]
+tags: ["Video", "Kawasaki GPZ 550"]
 aliases:
   - "/2011/04/kawa-bez-vyfuku.html"
 ---

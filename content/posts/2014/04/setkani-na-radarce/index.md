@@ -5,7 +5,7 @@ url: "/posts/2014/04/setkani-na-radarce/"
 summary: "fotky: [ tyf ][ aron ][ bystricke ][ netvor ] trasy: na trať[ 1 ], sjezdy k rybníku[ 2 ], kolem přehrady po červené[ 3 ] V areálu Radarka[ 4 ] u Náměšti nad Oslavou proběhlo setkání příznivců fóra BMW GS[ 5 ], součástí byla volitelně enduroškola[ 6 ] Milana Holého[ 7 ] určená převážně začínajícím jezdcům na velkých cestovních endurech. Enduroškoly jsem se přímo neúčastnil, ale vypadala výživně; dvě skupiny pod vedením instruktorů kroužili po louce v areálu Radarky, pak se naučili jak zvládnout drobné sjezdy a výjezdy na malinké trati [ 8 ] tamtéž. Nakonec jeli frekventanti vyzkoušet nově nabyté návyky na motokrosovou trať mezi obcemi Studenec a Okarec. Za pět stovek účastnického poplatku nemohl nikdo očekávat individuální přístup – jako úvod do jízdy v terénu na velké motorce to bylo skvělé – viděli jsme pády, viděli jsme skoky plánované více i méně, viděli jsme slalomy a viděli jsme..."
 cover:
     image: "obr-01.webp"
-tags: ["Cesty - akce offroad", "Video"]
+tags: ["Video", "Cesty - akce offroad"]
 aliases:
   - "/2014/04/setkani-na-radarce.html"
 ---
@@ -13,7 +13,7 @@ aliases:
 <div style="text-align: justify;">
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-fotky: [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">tyf</a>][<a href="http://aron2006.rajce.idnes.cz/Radarka_2014/" target="_blank">aron</a>][<a href="http://bystricke.zonerama.com/Album/303194" target="_blank">bystricke</a>][<a href="http://netvor.rajce.idnes.cz/Radarka_-_enduroskola_jaro_2014/" target="_blank">netvor</a>]</div>
+fotky: [<a href="https://photos.app.goo.gl/EzyXTzTHkJQb4yH76" target="_blank">tyf</a>][<a href="http://aron2006.rajce.idnes.cz/Radarka_2014/" target="_blank">aron</a>][<a href="http://bystricke.zonerama.com/Album/303194" target="_blank">bystricke</a>][<a href="http://netvor.rajce.idnes.cz/Radarka_-_enduroskola_jaro_2014/" target="_blank">netvor</a>]</div>
 <div style="text-align: justify;">
 trasy: na trať[<a href="http://www.sports-tracker.com/#/workout/tyfoza/acemlefea8sn1r9r" target="_blank">1</a>], sjezdy k rybníku[<a href="http://www.sports-tracker.com/#/workout/tyfoza/91nqgel5904dfi10" target="_blank">2</a>], kolem přehrady po červené[<a href="http://www.sports-tracker.com/#/workout/tyfoza/385g1taa794bgmoa" target="_blank">3</a>]</div>
 <div style="text-align: justify;">

@@ -5,7 +5,7 @@ url: "/posts/2012/04/sraz-tkc-2012/"
 summary: "Setkání lidí [ 1 ], co jezdí „offroad“ na velkých motorkách, bez rozdílu značek i kubatur. Potkali se tady KTM Adventure, GéSa, Cagiva i Ural se sajdkárou. Vyjíždku předem pořadatelé naplánovali, projeli a zanesli do mapy. Fixkou. Tato mapa visela ve společenské místnosti na nástěnce a dobrovolní navigátoři jednotlivých skupin trávili večer tím, že se střídali u nástěnky a překreslovali trasu. Připojil jsem se ke skupině V-Stromů vedené KTMkama, jeli s náma ještě stará SuperTenérka, GéSa a Dominator. Naše skupina měla to štěstí, že byla vedená člověkem, který měl trasu projetou a tak jsme nebloudili. Ale byli jiní, kteří zakufrovali, našli jiný brod přes potok a tak se pak děly věci. První projela holka na Yamaze 250 a ostatní za ní potupně utopili motorky. Nejhůř dopadl ograra s Uralem se sajdkárou, který najel do vody, lodička vedle něho začala plavat, navedla ho do hluboké vody, kde..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Cesty - akce offroad", "Video"]
+tags: ["Na cestě", "Video", "Cesty - akce offroad"]
 aliases:
   - "/2012/04/sraz-tkc-2012.html"
 ---
@@ -34,7 +34,7 @@ Stejně jako byla zajímavé offroad vyjížďka, tak neméně zajímavý byl ve
 </div>
 <div style="text-align: justify;">
 Celkem jsme dneska najeli 116km lehkého offroadu za osm hodin se stominutovou pauzou na oběd.</div>
-[<a href="http://www.sports-tracker.com/#/workout/tyfoza/800cb6pb2v3luull" target="_blank">trasa vyjížky</a>]&nbsp;[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky vyjížďka</a>]&nbsp;[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky základna</a>]<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/800cb6pb2v3luull" target="_blank">trasa vyjížky</a>]&nbsp;[<a href="https://photos.app.goo.gl/SrJSTF7QDLJ5DoCD8" target="_blank">fotky vyjížďka</a>]&nbsp;[<a href="https://photos.app.goo.gl/X5SFr7iWzH13RYVL8" target="_blank">fotky základna</a>]<br />
 fotky od dalších účastníků na webu TKC [<a href="http://t-k-c.webnode.cz/" target="_blank">2</a>] na úvodní stránce vlevo dole<br />
 <div class="separator" style="clear: both; text-align: center;">
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/UcVeNs_TUjQ/0.webp" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/UcVeNs_TUjQ?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />

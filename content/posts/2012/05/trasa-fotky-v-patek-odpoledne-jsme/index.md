@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <br />
-{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}[<a href="http://www.sports-tracker.com/#/workout/tyfoza/6fpqiqghskpnkfoq" target="_blank">trasa</a>] [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fpicasaweb.google.com%2F108553760910729317517%2FTouratechTravelEventCzech2012%3Fauthuser%3D0%26feat%3Ddirectlink&amp;h=5AQELK2AX" target="_blank">fotogalerie TT</a>]<br />
+{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}[<a href="http://www.sports-tracker.com/#/workout/tyfoza/6fpqiqghskpnkfoq" target="_blank">trasa</a>] [<a href="https://photos.app.goo.gl/EWu3Pd7gWahUi8Uq8" target="_blank">fotky</a>] [<a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fpicasaweb.google.com%2F108553760910729317517%2FTouratechTravelEventCzech2012%3Fauthuser%3D0%26feat%3Ddirectlink&amp;h=5AQELK2AX" target="_blank">fotogalerie TT</a>]<br />
 <br />
 V pátek odpoledne jsme dorazili do BMW motoklubu White Blue[<a href="http://www.white-blue.cz/" target="_blank">1</a>] v Jílovém u Prahy. Zajištění akce profesionální. V pátek byla akce klidná, registrace, společenský večer, potkali jsme pár známých. Spali jsme u Míši, jen deset kilometrů z Jílového a bylo to velmi pohodlné, protože jsem měl řidičskou záminku k neúčasti na seznamovacích přípitcích.<br />
 <br />

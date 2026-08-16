@@ -14,5 +14,5 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: right;">
 <div style="text-align: left;">
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] od Ábi</div>
+[<a href="https://photos.app.goo.gl/csLVTUinri1zT9gp8" target="_blank">fotky</a>] od Ábi</div>
 </div>

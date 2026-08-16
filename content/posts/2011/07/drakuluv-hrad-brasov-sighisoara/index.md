@@ -27,4 +27,4 @@ Pak jsme vyrazili na noční přesun co nejdál směrem Cluj-Napoca a Oradea, ve
 Do Oradea nám chybí asi 100km, tam chceme být dopoledne a pak směrem Debrecen a zcela mimo dálnice okreskama přes Maďarsko k domovu.<br />
 Pomalu nám to tady končí, ale naštěstí nám zbývá ještě velký kus Rumunska ke zkoumání na příště. Domů chceme přijet buď v sobotu večer nebo až v neděli, podle počasí a situace dopravní a nálady naší cestovní.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/">další fotky</a>]
+[<a href="https://photos.app.goo.gl/xqBauu3X4RHJKg1g7">další fotky</a>]

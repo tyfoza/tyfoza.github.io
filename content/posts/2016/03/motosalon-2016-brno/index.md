@@ -5,7 +5,7 @@ url: "/posts/2016/03/motosalon-2016-brno/"
 summary: "[ bighusky.cz ] [ fotky ]"
 cover:
     image: "obr-01.webp"
-tags: ["Tak jde čas", "Jiné moto"]
+tags: ["Jiné moto", "Tak jde čas"]
 aliases:
   - "/2016/03/motosalon-2016-brno.html"
 ---

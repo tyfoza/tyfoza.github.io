@@ -5,7 +5,7 @@ url: "/posts/2011/10/exkurze-v-temeline/"
 summary: "Kolegové z Prahy organizovali exkurzi v JE Temelín. Bylo to úžasné a poučné. Konečně víme, že v jednom reaktoru je náplň 92tun paliva, po deseti měsících palivo změní rozložení a 1/4 paliva se vymění za nové. Palivo je v malých peletkách, je to malý žmolek, odhadem dva kubické centimetry, váží 5g a energie vydá za skoro devět metráků černého uhlí. Začínali jsme v informačním centru, kde nám pustili film a ukázali mlžnou komoru. Jak funguje mlžná komora viz. [ 1 ]. Jak jsme viděli mlžnou komoru na vlastní oči my. Pak jsme dostali ochranné přilby a konečně vstoupili do objektu elektrárny. Povedené sestřihy z youtube toho, co jsme viděli viz. [ 2 ] [ 3 ]. Bohužel, nenatočili jsme to my, protože do střeženého prostoru jsme s sebou nesměli vzít ani foťák, ani mobil. Celou domu s námi chodila průvodkyně a ostraha. Úplně zblízka jsme si prohlédli chladící věže - stojí na vysokých nohách a pod..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Video"]
+tags: ["Video", "Na cestě"]
 aliases:
   - "/2011/10/exkurze-v-temeline.html"
 ---
@@ -30,7 +30,7 @@ Naše návštěva v reaktoru - naštěstí v modelu reaktoru - v rámci expozice
 <div class="separator" style="clear: both; text-align: center;">
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/7Z_xsd7Ewrk/0.webp" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/7Z_xsd7Ewrk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><embed width="320" height="266"  src="http://www.youtube.com/v/7Z_xsd7Ewrk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>
 <div style="text-align: left;">
-[<a href="https://sites.google.com/view/tyfotoza/" style="text-align: -webkit-auto;">víc fotek</a><span class="Apple-style-span" style="text-align: -webkit-auto;">] a moje motocyklová [</span><a href="http://www.sports-tracker.com/#/workout/tyfoza/cc1mmlcph2ivi20m" style="text-align: -webkit-auto;">trasa</a><span class="Apple-style-span" style="text-align: -webkit-auto;">]</span><br />
+[<a href="https://photos.app.goo.gl/bswnwVqhiTowyQjZ9" style="text-align: -webkit-auto;">víc fotek</a><span class="Apple-style-span" style="text-align: -webkit-auto;">] a moje motocyklová [</span><a href="http://www.sports-tracker.com/#/workout/tyfoza/cc1mmlcph2ivi20m" style="text-align: -webkit-auto;">trasa</a><span class="Apple-style-span" style="text-align: -webkit-auto;">]</span><br />
 <span class="Apple-style-span" style="text-align: -webkit-auto;"><br /></span>
 <span class="Apple-style-span" style="text-align: -webkit-auto;"><i>přidáno 22. 5. 2013:&nbsp;</i></span><br />
 <span class="Apple-style-span" style="text-align: -webkit-auto;"><i>Výborný článek o prohlídce Tenelína[<a href="http://cestovani.idnes.cz/jaderna-elektrarna-temelin-vstup-pro-turisty-fos-/po-cesku.aspx?c=A130520_215457_po-cesku_skr" target="_blank">6</a>]</i></span></div>

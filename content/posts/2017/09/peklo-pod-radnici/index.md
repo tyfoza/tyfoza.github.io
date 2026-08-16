@@ -5,7 +5,7 @@ url: "/posts/2017/09/peklo-pod-radnici/"
 summary: "pár [ fotek ] z mobilu a nejpěknější [ fotky ] od Maryšky Švehlíkové Dny evropského kulturního dědictví v Uherském Brodě; to je čas, kdy pod radnicí vypukne peklo."
 cover:
     image: "obr-01.webp"
-tags: ["Strašidla", "Šerm", "Šerm.vystoupení"]
+tags: ["Strašidla", "Šerm.vystoupení", "Šerm"]
 aliases:
   - "/2017/09/peklo-pod-radnici.html"
 ---

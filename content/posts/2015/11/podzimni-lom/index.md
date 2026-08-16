@@ -13,7 +13,7 @@ aliases:
 <div style="text-align: center;">
 akce Robert Ďábel na počest páně Jakuba H.</div>
 <div style="text-align: left;">
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/62FqUXGxEs11AEub9" target="_blank">fotky</a>]</div>
 <div style="text-align: left;">
 Krátká zprávy z lomové výpravy:</div>
 <div style="text-align: left;">

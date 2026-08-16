@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/Tm63atW6AjHyYMnk7" target="_blank">fotky</a>]<br />
 <br />
 Nová pneu, teplé odpoledne a čtyři stovky svižných kilometrů po dálnici. Nebyl to dobrý nápad a pneu byla zničená prakticky hned. A já si říkal, proč ten zadek ve 140km/h tak hrozně plave...<br />
 Ověřil jsem s další novou pneu, dlouhý přesun po asfaltu rychlostí 80–90km/h a C-02 zůstane netknutá.

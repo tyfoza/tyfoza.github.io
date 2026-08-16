@@ -14,7 +14,7 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="/posts/2015/06/jarni-lom-2015/" target="_blank">Chipův zápisek a fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/ZCWX8HDER8ktEDUi7" target="_blank">fotky</a>] [<a href="/posts/2015/06/jarni-lom-2015/" target="_blank">Chipův zápisek a fotky</a>]<br />
 Jarní úspěšně proběhl, lomových pasivit proběhlo nepočítaně. Na úvodní fotce je Jelenova funkční mechanický ruka, k jeho postapo kostýmu, který si tvoří.<br />
 <br />
 Konečně jsme ochutnali koktejl Black Russian[<a href="https://www.alkoholium.cz/black-russian-ochutnejte-cerneho-rusa/" target="_blank">1</a>] a White Russian[<a href="https://www.alkoholium.cz/koktejl-white-russian-aneb-mladsi-braska-blacka-r/" target="_blank">2</a>], který proslavil film Big Lebowski a komise zkušených ochutnávačů se usnesla, že tento koktejl je mnohem lepší v kubánské verzi Black Cuban a White Cuban, kde je použitý rum místo vodky.<br />

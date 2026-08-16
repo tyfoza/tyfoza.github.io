@@ -5,7 +5,7 @@ url: "/posts/2022/01/teplotni-zavislost-jednoducheho/"
 summary: "Teplotní stabilita různých referencí jednoduchého proudového zdroje Jednoduchý proudový zdroj třeba pro LED , který potřebuje nějak získat referenční napětí. soubory LTSpice ke stažení [ zde ] Zleva: Použita přesná napěťová reference TL431, zenerova dioda, úbytek na dvou diodách a druhý tranzistor jako reference. Všechny modely součástek obsahují teplotní závislosti, takže lze spustit simulaci pro různé teploty. Použitý bipolární tranzistor je teplotně závislý, takže mít přesnou referenci, která se s tím umí vypořádat se hodí. Spuštěno pro několik teplot v rozsahu –10°C...150 °C. Jaká je teplotní stabilita zenerovy diody Použitím správné zenerovy diody se dá výrazně vylepšit její teplotní stabilita. Do asi 4.7V u zenerovy diody probíhá tunelový průraz, který vykazuje výrazný záporný teplotní koeficient. Nad asi 4.7V probíhá lavinový průraz, který má kladný teplotní koeficient. No a u..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice"]
+tags: ["Bastlení.LTSpice", "Bastlení"]
 aliases:
   - "/2022/01/teplotni-zavislost-jednoducheho.html"
 ---

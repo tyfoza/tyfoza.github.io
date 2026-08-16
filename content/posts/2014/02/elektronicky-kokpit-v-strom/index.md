@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/9ZvabTE5ZqHymLTB7" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Další drobný krůček k rallye stavbě. Místo klasických budíků tripmaster a palubní počítač[<a href="http://tripmasterast.blogspot.cz/" target="_blank">1</a>]. Oba displeje se dají bez problémů číst i při jízdě ve stupačkách. Mít tripmaster na hrazdě řídítek je nevýhodné a ne úplně bezpečné, protože je prostě moc „vzadu“ a ve stupačkách není v zorném poli. Kontrolní LED dálkových světel bylo nutné vyvést zvlášť. V první verzi AST2LED[<a href="/posts/2014/01/ast2-led-elektronicky-kokpit/" target="_blank">2</a>] je místo kontrolky dálkových světel výstražný LED vykřičník otáčkoměru.</div>
 <div style="text-align: justify;">

@@ -17,4 +17,4 @@ Po příjezdu do kempu, při pojíždení a hledání místa k parkování nám 
 Večer v kempu pravila Ábi, že je ještě najedená od vydatného a pozdního oběda a že by si dala "jenom tak něco za škraň." Tak jí Véna poradil - dej si tam kámen - vydří a neubude. <br />
 Kéž by se nám zítra podařilo dorazit k moři na večerní koupel... <br />
 <br />
-&nbsp;[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/7thggrpdd3munobl" target="_blank">trasa</a>]
+&nbsp;[<a href="https://photos.app.goo.gl/Ft8z2aWdVEZvJgvcA" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/7thggrpdd3munobl" target="_blank">trasa</a>]

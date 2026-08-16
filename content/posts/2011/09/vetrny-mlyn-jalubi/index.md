@@ -5,7 +5,7 @@ url: "/posts/2011/09/vetrny-mlyn-jalubi/"
 summary: "větrný mlýn v Jalubí [ historie ]"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Větrný mlýn"]
+tags: ["Větrný mlýn", "Na cestě"]
 aliases:
   - "/2011/09/vetrny-mlyn-jalubi.html"
 ---

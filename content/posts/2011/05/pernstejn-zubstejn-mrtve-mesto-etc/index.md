@@ -23,4 +23,4 @@ Nejprve na [<a href="http://www.hrad-pernstejn.cz/">státní hrad Perštejn</a>]
 Po cestě do Letovic jsme navštívili louku, kde jsme se před čtrnácti dny fotili s Karlosem [<a href="/posts/2011/05/jarni-lom/">uprostřed pampelišek</a>].<br />
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "320" >}}</div>V Letovicích je keltské hradiště. Navigační tabule nové, hradiště mrtvé, depresivní opuštěné. O konci skanzenu se zmiňuje [<a href="http://blanensky.denik.cz/zpravy_region/skanzen-isarno-zustane-zavreny20110503.html">článek</a>] v Blanenském deníku. Jak osada žila je pořád na jejich webu [<a href="http://www.isarno.com/">ISARNO</a>].<br />
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-04.webp" "Ilustrace k článku" "320" >}}</div><br />
-[<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>]
+[<a href="https://photos.app.goo.gl/D2KZzGL7uSQS6WH99">víc fotek</a>]

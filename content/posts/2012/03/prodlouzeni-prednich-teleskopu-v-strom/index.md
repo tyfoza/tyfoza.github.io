@@ -5,7 +5,7 @@ url: "/posts/2012/03/prodlouzeni-prednich-teleskopu-v-strom/"
 summary: "Již jsme zrealizovali zvětšení světlé výšky motocyklu o 60mm zkrácením přepákování zadního tlumiče o 15mm viz.[ 1 ]. Řešení je použitelné a funkční, ale došlo k mírné změně těžiště a bylo by vhodné zvednout motorku i vpředu. Firma Grave.cz[ 2 ] nabízí za 3200Kč prodloužení přední vidlice pouze výměnou zátky tlumiče - podobně jako je to vidět na zvýšeném Varaderu viz.[ 3 ][ 4 ]. Toto řešení úspěšně aplikují na legendárních motorkách Honda Africa Twin s poukázáním na to, že přední tlumiče na motorce drží spodní brýle a prodloužení výměnou zátky ničemu nevadí. Oslovil jsem s tímto problémem nezávisle strojaře z pražského Ricardo Engineering[ 5 ] a brněnského IG Watteeuw[ 6 ] a oba toto řešení zamítli jako případně rizikové. Na fóru V-Strom.cz[ 7 ] se tohle téma řeší v diskusi \"Je to břichoplaz, co s tím\" viz.[ 8 ]. A tady uživatel K* navrhl řešení, které jsme zrealizovali. O vizualizace a..."
 cover:
     image: "obr-01.webp"
-tags: ["Suzuki DL 650 K9", "3D", "Pokusy a postupy"]
+tags: ["3D", "Pokusy a postupy", "Suzuki DL 650 K9"]
 aliases:
   - "/2012/03/prodlouzeni-prednich-teleskopu-v-strom.html"
 ---

@@ -15,7 +15,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "358" >}}</div>
 V pondělí začíná konferenční týden, letošní oslavy Dnů Komenského startují. Školáci, občané, senioři a hlavně pedagogové! Těšte se!<br />
-- fotky[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] z nedělní tvorby propagace<br />
+- fotky[<a href="https://photos.app.goo.gl/nCRBkHSCxq62BeFa8" target="_blank">1</a>] z nedělní tvorby propagace<br />
 - web[<a href="http://konference.ub.cz/">2</a>] konference.ub.cz<br />
 - rozhovor[<a href="http://slovacky.denik.cz/tydenik_slovacko/uhersky-brod-si-pripomene-ucitele-narodu-j-a-komenskeho-20130413.html" target="_blank">3</a>] s Petrem Sedlářem ve Slováckém deníku <br />
 <i><br /></i>

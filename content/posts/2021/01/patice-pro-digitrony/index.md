@@ -5,7 +5,7 @@ url: "/posts/2021/01/patice-pro-digitrony/"
 summary: "ZM1080T s dvěma tečkama dole, vyžaduje 13 pinů. Model ke stažení na [ thingiverse ]. Z570M s čísly 0–9, vyžaduje 11 pinů. Model ke stažení na [ thingiverse ]. L-piny jsou ze starých ATAPI CD mechaniky."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "3D"]
+tags: ["3D", "Bastlení"]
 aliases:
   - "/2021/01/patice-pro-digitrony.html"
 ---

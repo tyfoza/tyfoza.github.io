@@ -5,7 +5,7 @@ url: "/posts/2016/09/chilli-day-vol-1/"
 summary: "[ fotky ] Letos pro přátele, příští rok přizveme veřejnost. Chilli papričky jsou fenomén, který nemůžeme opomíjet. Habanero nebo Trinidad Scorpio Moruga jsou mňamky, které chutnají a pálí. Díky pořadatelům a těšme se příští rok. O blahodárnosti pálivého jídla viz [ 1 ] a kdo pochybuje, ať pokračuje sem [ 2 ]."
 cover:
     image: "obr-01.webp"
-tags: ["Chilli", "Tak jde čas"]
+tags: ["Tak jde čas", "Chilli"]
 aliases:
   - "/2016/09/chilli-day-vol-1.html"
 ---

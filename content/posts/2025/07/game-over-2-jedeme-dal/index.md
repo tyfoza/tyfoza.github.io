@@ -5,7 +5,7 @@ url: "/posts/2025/07/game-over-2-jedeme-dal/"
 summary: "hudba použitá ve videu viz [ zdroj ] [ reportáž ] Českého rozhlasu obsahuje veškeré informace. Akce [ knihovny ] Františka Kožíka, která probíhala ve foyer kina Máj. Byl to d ruhý díl [ retro videoherny ] v Uherském Brodě. Přes třicet herních stanovišť. Množství her pro dva i tři hráče. [ soutěže a výzvy ] zůstávají, bylo ověřeno, že mají adekvátní obtížnost. Zkuste si v prohlížeči zahrát legendární [ Manic Miner ]. Ovládá se klávesami Q,W a M. Na stejném webu jsou i [ další hry ] třeba [ Chuckie Egg ]. Na čem hry běžely Použili jsme pouze softwarové emulátory – [ RetroPie ] na Raspberry Pi 4B (konzole PS1, NES, SNES, SuperNES a SEGA) – [ Atari800 ] na hromadě Mini ITX počítačích ze sběrného dvora – [ ParaJVE ] emuluje Vectex; je ke stažení včetně sady her – [ Retroarch ] pro Windows (velmi podobný RetroPie), ale dá se spustit na jakémkoli starém počítači Poděkování patří – Střední..."
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.hry", "Počítače.emulátory", "Počítače"]
+tags: ["Počítače.emulátory", "Počítače", "Počítače.hry"]
 aliases:
   - "/2025/07/game-over-2-jedeme-dal.html"
 ---

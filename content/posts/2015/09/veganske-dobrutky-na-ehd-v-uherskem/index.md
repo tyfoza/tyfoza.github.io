@@ -17,7 +17,7 @@ aliases:
 <div style="text-align: center;">
 <br /></div>
 <div style="text-align: left;">
-další [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] Elenka Sladká – Díky!<br />
+další [<a href="https://photos.app.goo.gl/92ZPHE9kefjkKx788" target="_blank">fotky</a>] Elenka Sladká – Díky!<br />
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-02.webp" "Ilustrace k článku" "452" >}}</div>
 <br /></div>

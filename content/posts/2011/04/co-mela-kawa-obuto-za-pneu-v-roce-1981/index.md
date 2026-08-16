@@ -5,7 +5,7 @@ url: "/posts/2011/04/co-mela-kawa-obuto-za-pneu-v-roce-1981/"
 summary: "Při pročítání webů o káwě jsem zjistil, jaké pneu měla Kawasaki GPZ 550 z roku 1981 obuty. Byly to Dunlop H19/H18. Kategorie motorky byla vždy sport touring."
 cover:
     image: "obr-01.webp"
-tags: ["Kawasaki GPZ 550", "Motopneu"]
+tags: ["Motopneu", "Kawasaki GPZ 550"]
 aliases:
   - "/2011/04/co-mela-kawa-obuto-za-pneu-v-roce-1981.html"
 ---

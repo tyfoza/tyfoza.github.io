@@ -5,7 +5,7 @@ url: "/posts/2019/09/pise-se-rok-1863/"
 summary: "[ foto ] [ foto ] [ pád koně ] Jan Strnad [ foto ] Stanislav Kadlčík [ foto ] Libor Velan [ foto ] Tomáš Fránek [ foto ] Elen Sladká [ foto ] Liška Fox [ foto ] Eva Vojtášková [ zpráva ] o akci na webu Města UB [ video ] v magazínu TV Slovácko [ zdroj ] [ rozhovor ] týden před naší bitvou v Brodě, povídání s Tyfem o reenactmentu na ČRO2 Zlín Bitva nedaleko Brodu Úvodem Píše se rok 1863. Vojska generála Lee táhnou krajem. Válka mezi Unií a Konfederací vrcholí. Ve Virginii, podél řeky Rappahannock [Repehenek], mezi městem Fredericksburg [Fredriksburg] a malým městečkem Chancellorsvile [Čenslrsvil] , stojí proti sobě armáda Unie pod velením generála Josepha Hookera a armáda Konfederace, které velí generál Robert Edward Lee. Seveřanských můžu je přes 130.000, konfederačních vojsk sotva polovina. Plán unijního generála Hookera je prostý - jedno křídlo překročí řeku a napadne pozice jižanů..."
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Šerm.ACW", "Šerm"]
+tags: ["Šerm.ACW", "Šerm", "Šerm.bitva"]
 aliases:
   - "/2019/09/pise-se-rok-1863.html"
 ---

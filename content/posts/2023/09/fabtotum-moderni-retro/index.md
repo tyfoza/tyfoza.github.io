@@ -5,7 +5,7 @@ url: "/posts/2023/09/fabtotum-moderni-retro/"
 summary: "Před lety existoval jeden start-up projekt jménem [ FABtotum ]. Kolega z Brna si pořídil jejich první řešení s kombinovanou hlavou – frézka | 3Dtisk Projekt nějakou dobu fungoval, pak zhynul a zůstal pohrobek [ OPENtotum ], který pořád udržuje funkční firmware použitelý s hardware z prvotních vydaných verzí. Reálně byl záměr nadčasový – použivá první verzi Raspberry Pi jako webový server, který ovládá celé zařízení. Řízení motorů řeší FABduino skrze firmware [ FABlin ]. Má procesor ATmega 1280, přechůdce hojně používaných řešení založených na MCU ATmega 2560. Záměr byl mít na stole 3D tiskárnu, frézku, laserovou gravírku v jednom zařízení. Nápad skvělý, řešení adekvátní hardwarovým možnostem doby vzniku. Takový projekt by se měl otevřít dnes - mít Bambulab tiskárnu obohacenou o další možnosti prostou výměnou pracovní hlavy – to by bylo snové. Žel dnes dáváme přednost jednoúčelovým..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "3D"]
+tags: ["3D", "Bastlení"]
 aliases:
   - "/2023/09/fabtotum-moderni-retro.html"
 ---

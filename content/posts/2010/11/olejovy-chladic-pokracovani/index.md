@@ -5,7 +5,7 @@ url: "/posts/2010/11/olejovy-chladic-pokracovani/"
 summary: "[ předchozí ] olejový chladič úspěšně nahrazený propojkou, žel původní hadice prosakují ve spojích Potřebuji vyměnit staré hadice za nové, problém je, že dnes už se nelisují hadice přímo na trubku. Zatím hledám někoho, kdo by použil stejnou technologii a nové hadice nalisoval. Řešení je a/ naletovat autogenem na staré trubky nové šroubení a použít stejný způsob jako při vytvoření propojky b/ zkusit hadici vyztuženou textilií a použít stahovací pásku c/ hledat dál Připadám si jako v pohádce o kohoutkovi a slepičce - docela povedená vyjížďka, jinak bez úspěchu. [ záznam z trasy ] před obcí Vysoké Pole Vysoké Pole"
 cover:
     image: "obr-01.webp"
-tags: ["Kawasaki GPZ 550", "Na cestě"]
+tags: ["Na cestě", "Kawasaki GPZ 550"]
 aliases:
   - "/2010/11/olejovy-chladic-pokracovani.html"
 ---

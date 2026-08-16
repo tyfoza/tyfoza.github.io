@@ -5,7 +5,7 @@ url: "/posts/2017/07/do-slovinska/"
 summary: "Z Lido di Jesolo vyjíždíme o půl druhé odpoledne. Rychlý dálniční přesun do Lublaně. Slovinská dálnični známka 7.5€ na 7 dní. Hipsterské město, krásné převelice. David má dnes narozeniny a Lublaň miluje. Trocha bloudění a procházka s kávou. Při odjezdu jestě ve městě v táhlé vyleštěné zatáčce David vzal předním kolem hladký kanál, to mu zvýšilo náklon a už se válel. Motorka se svezla po motoru. Autobus MHD jedoucí za ním to dobrzdil. Večerní dálnice směr Krajnska Gora, kde nám booking davá apartmán pro šest v součtu o 2€ na hlavu dražší než kemp a nemusíme stavit stan. Večer přicházíme na to, že Davidova Kawasaki Z750 má malou dírku ve víku motoru a trochu rosí olej. Motorku jsme dali hodně šikmo, ráno zalepíme tekutým kovem. Večer ukončíme slovinskou grapou a družnou oslavičkou Davidových třicátých druhých narozenin. Ráno vstávám v sedm, všichni spí. Nákup a snídaně z přímo z trouby...."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Cesty - 2017 Slovinsko"]
+tags: ["Cesty - 2017 Slovinsko", "Na cestě"]
 aliases:
   - "/2017/07/do-slovinska.html"
 ---

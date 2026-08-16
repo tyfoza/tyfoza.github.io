@@ -22,4 +22,4 @@ K pozdnímu odpoledni přišel nějaký francouzky mluvící černý muž a nab�
 Na malý offroad nakonec došlo, kdy jsme se soumrakem přesunuli s motorkami nan focení k pláži a v písku, jak jinak, jsem Stromíka zcela zahrabal. Jediné místo, kde se dá po pláži jet, je mokrý písek kde písek omývají vlny. Když jsem tam zastavil na focení, tak po chvíli, co vlny podemlely boční stojan Erika hlásila - ta motorka padá - doběhli jsme, nespadla. Věneček zůstává. <br />
 Zítra nás čeká poslednáí den u moře, pak Toskánko, Dolomity a domů.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]
+[<a href="https://photos.app.goo.gl/Ft8z2aWdVEZvJgvcA" target="_blank">fotky</a>]

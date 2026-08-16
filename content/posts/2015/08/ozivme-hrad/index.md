@@ -15,7 +15,7 @@ aliases:
 <div style="text-align: center;">
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] &nbsp; &nbsp;[<a href="https://docs.google.com/document/d/17vA0NYp1rQ8nwoy6Ns9wfxqQD9i9E-ZN3E0kDnFhE9w/edit?usp=sharing" target="_blank">info o tvrzi</a>]</div>
+[<a href="https://photos.app.goo.gl/muDFoeehcfKCzTiD9" target="_blank">fotky</a>] &nbsp; &nbsp;[<a href="https://docs.google.com/document/d/17vA0NYp1rQ8nwoy6Ns9wfxqQD9i9E-ZN3E0kDnFhE9w/edit?usp=sharing" target="_blank">info o tvrzi</a>]</div>
 <div style="text-align: justify;">
 Oživování hradu</div>
 <div style="text-align: justify;">

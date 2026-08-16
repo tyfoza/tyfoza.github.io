@@ -5,14 +5,14 @@ url: "/posts/2013/07/et-v-olesnici/"
 summary: "[ fotky ] Že E.T. znamená enduro trénink, to ví přec každý z nás. A pan režisér Spielberg nám tu zkratku již opatřil maskotem i logem. Budiž mu za to chvála. Uspořádat společný enduro trénink byl nápad prorostlý napříč několika webovými fóry. Nemůžeme někoho vynechat jenom proto, že má jinou motorku. Proč by na motokrosové trati nemohlo trénovat skoky BMW F 650 ST vedle KTM 990 Adventure? Že vám to přijde podivné? Není! To, co svedlo účastníky prvního E.T. dohromady byla především láska k cestování a pošilhávání po offroadových stezkách. Říká se: těžko na cvičišti, lehce na bojišti a něco na tom bude. Ono je snadnější, naučit se otočit v prudkém výjezdu na trati s podporou kolegů, kteří motorku přidrží a poradí; než v Albánii na kozí stezce – pracně nalezené v ruské vojenské topografické mapě – zjistit, že to v reálném čase vymyslet nejde a ukázat zbytku svého týmu, jak vypadá moje..."
 cover:
     image: "obr-01.webp"
-tags: ["Cesty - akce offroad", "Video", "Lom"]
+tags: ["Video", "Cesty - akce offroad", "Lom"]
 aliases:
   - "/2013/07/et-v-olesnici.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/25fVXm5BGx9Qf8BX7" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Že E.T. znamená enduro trénink, to ví přec každý z nás. A pan režisér Spielberg nám tu zkratku již opatřil maskotem i logem. Budiž mu za to chvála. Uspořádat společný enduro trénink byl nápad prorostlý napříč několika webovými fóry. Nemůžeme někoho vynechat jenom proto, že má jinou motorku. Proč by na motokrosové trati nemohlo trénovat skoky BMW F 650 ST vedle KTM 990 Adventure? Že vám to přijde podivné? Není! To, co svedlo účastníky prvního E.T. dohromady byla především láska k cestování a pošilhávání po offroadových stezkách. Říká se: těžko na cvičišti, lehce na bojišti a něco na tom bude. Ono je snadnější, naučit se otočit v prudkém výjezdu na trati s podporou kolegů, kteří motorku přidrží a poradí; než v Albánii na kozí stezce – pracně nalezené v ruské vojenské topografické mapě – zjistit, že to v reálném čase vymyslet nejde a ukázat zbytku svého týmu, jak vypadá moje motorka zespoda.</div>
 <span style="text-align: justify;">E.T. není, nebyl a nebude pokusem o enduro školu. Enduro škola má učitele, osnovu, plán, záměr a hlavně výsledky. Náš enduro trénink byl věcí dobrovolnou, každý podle svých možností a chuti měl k dispozici zázemí a &nbsp;prostor k seberealizaci. Pravdou je, že se lépe trénuje v místě, kde je skupina stejně postižených lidí a když vlastní motivace dochází, dá se čerpat od druhých.</span><br />

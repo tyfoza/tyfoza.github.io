@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.gif" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/1yDCjAZk6beCuccR8" target="_blank">fotky</a>]<br />
 <div style="text-align: center;">
 Poslední den prázdnin strávila Městská hlídka opět v akci.</div>
 <div class="separator" style="clear: both; text-align: center;">

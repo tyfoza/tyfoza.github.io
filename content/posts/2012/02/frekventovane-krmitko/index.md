@@ -10,6 +10,6 @@ aliases:
   - "/2012/02/frekventovane-krmitko.html"
 ---
 
-<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://photos.app.goo.gl/uWksANhfWodbxca29" target="_blank">fotky</a>]<br />
 Za oknem v kuchyni je živo.<br />
 Český rozhlas o zimním přikrmování ptáků [<a href="http://www.rozhlas.cz/priroda/zvirata/_zprava/1001700" target="_blank">1</a>].

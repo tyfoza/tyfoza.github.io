@@ -5,7 +5,7 @@ url: "/posts/2011/04/u-letiste-banov-chybi-panelova-cesta/"
 summary: "Na letišti jsem ověřil, že zadní guma Dunlop Trailmax drží na vlhkém asfaltu srovnatelně jako na suchém, jenom na brzdy se nedá tak moc šlápnout. Nebo možná dá, ale neměl jsem odvahu to testovat. Na letiště vedla panelová cesta, teď je vytrhaná a bude se pokládat nový koberec."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Video"]
+tags: ["Video", "Na cestě"]
 aliases:
   - "/2011/04/u-letiste-banov-chybi-panelova-cesta.html"
 ---

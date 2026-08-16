@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 <img height="320" src="obr-01.webp" width="180" / alt="Ilustrace k článku">{{< obr600 "obr-02.webp" "Ilustrace k článku" "400" >}}</div>
 <div style="text-align: justify;">
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>][<a href="http://www.ceskyrudolec.cz/zamecke-slavnosti-2014/gs-4314/p1=3561" target="_blank">oficiální fotogalerie</a>]</div>
+[<a href="https://photos.app.goo.gl/bENS65cuUybVCeGg7" target="_blank">fotky</a>][<a href="http://www.ceskyrudolec.cz/zamecke-slavnosti-2014/gs-4314/p1=3561" target="_blank">oficiální fotogalerie</a>]</div>
 <span style="text-align: justify;">Zámecké slavnosti v Českém Rudolci ve znamení americké občanské války[</span><a href="http://cs.wikipedia.org/wiki/Americk%C3%A1_ob%C4%8Dansk%C3%A1_v%C3%A1lka" style="text-align: justify;" target="_blank">1</a><span style="text-align: justify;">], měli jsme možnost se zúčastnit s jednotkou Louisianských tygrů[</span><a href="https://www.facebook.com/TigerRifles" style="text-align: justify;" target="_blank">2</a><span style="text-align: justify;">][<a href="http://bob.zbroj.info/special.html" target="_blank">3</a>] na straně Konfederace.</span><br />
 <div style="text-align: justify;">
 Příjemná akce se zajímavou partou nadšenců, kteří krom kavalerie a dobového tábora postavili třeba i Post Office, odkud mohl každý poslat telegram nebo dopis a ještě dostal slušivé razítko a to ne vždy jen na dopis. O období poloviny devatenáctého století za Velkou louží nevím zhola nic, krom fragmentů ze školních hodin dějepisu; třeba že Jižani byli ti hodní. Bylo tedy všechno nové a zajímavé a to i kostýmově.</div>

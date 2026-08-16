@@ -5,7 +5,7 @@ url: "/posts/2011/06/fff-prvni-vylet/"
 summary: "V pondělí si FFF vyzvedl své první řidičské oprávnění a ve středu jsme spolu vyrazili na první společnou projížďku, zvládli jsme asi 70 kilometrů a bylo to skvělé. [ cesta ]"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Honda CA125 Rebel"]
+tags: ["Honda CA125 Rebel", "Na cestě"]
 aliases:
   - "/2011/06/fff-prvni-vylet.html"
 ---

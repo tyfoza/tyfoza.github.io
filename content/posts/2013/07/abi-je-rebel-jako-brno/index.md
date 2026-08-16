@@ -5,7 +5,7 @@ url: "/posts/2013/07/abi-je-rebel-jako-brno/"
 summary: "Přesvědčili jsme se na vlastní oči, že brněnská šalina vypadá velmi podobně jako ostravská tramvaj. Dnešním dnem jsme dovršili šest set kilometrů v tandemu a řidič Ábi je již plně způsobilá jezdit sama i bez nápovědy v interkomu."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Honda CA125 Rebel"]
+tags: ["Honda CA125 Rebel", "Na cestě"]
 aliases:
   - "/2013/07/abi-je-rebel-jako-brno.html"
 ---

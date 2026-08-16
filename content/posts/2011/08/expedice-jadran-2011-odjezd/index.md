@@ -25,5 +25,5 @@ F/A - příjezd domů v pátek 19.8.<br />
 <br />
 Část výpravy v autě absolvuje A-B-C-D a pravděpodobně pojede zpátky stejnou cestou po rakouské dálnici.<br />
 <br />
-<i>- fotky se moc dobře do příspěvků blogu nevkládají, zkusím je tedy průběžně přidávat na Picasa web do veřejného alba [<a href="https://sites.google.com/view/tyfotoza/">2011-08-11 Chorvatsko,Plitvicky,Balaton</a>]</i><br />
+<i>- fotky se moc dobře do příspěvků blogu nevkládají, zkusím je tedy průběžně přidávat na Picasa web do veřejného alba [<a href="https://photos.app.goo.gl/bUkSKMs1e7Hkix1G8">2011-08-11 Chorvatsko,Plitvicky,Balaton</a>]</i><br />
 <br />

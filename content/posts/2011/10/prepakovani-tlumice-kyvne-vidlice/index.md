@@ -5,7 +5,7 @@ url: "/posts/2011/10/prepakovani-tlumice-kyvne-vidlice/"
 summary: "jak funguje přepákování - obecně poznámka přidána 20.5.2015 : změna světlé výšky změnou délky kostí byla překonána – lepší je prodloužit celé tělo tlumiče – viz prodloužení tlumiče [ tady ] Změnou délky přepákování lze motorku snížit nebo zvednout. Z výroby je délka přepákování - rozteč děr - 140mm. Běžně se motorka snižuje použitím přepákování 145mm pro snížení nebo 135mm pro zvýšení. Jednoznačně potřebujeme V-Strom zvýšit, je to břichoplaz. díl č. 2 - rear cushion rod, takže prut, říká se tomu kost - podle profilu Podle odborného vyjádření strojařova, delší kost je při jízdě méně namáhána než kost kratší. Také se píše, že při použití delšího přepákování je nutné předpružení tlumiče přitvrdit a naopak při zkrácení je nutné tlumič povolit. Podle zdroje [ 1 ] je možné zkrátit přepákování maximálně o 8mm, aby byl ještě použitelný boční a centrální stojan. Osobně tom ale problém nevidím,..."
 cover:
     image: "obr-01.gif"
-tags: ["Suzuki DL 650 K9", "Pokusy a postupy"]
+tags: ["Pokusy a postupy", "Suzuki DL 650 K9"]
 aliases:
   - "/2011/10/prepakovani-tlumice-kyvne-vidlice.html"
 ---

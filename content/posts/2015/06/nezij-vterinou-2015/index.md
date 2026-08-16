@@ -12,5 +12,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://nezijvterinou.cz/" target="_blank">web</a>]<br />
+[<a href="https://photos.app.goo.gl/y4CJJzBGvSCveL8s6" target="_blank">fotky</a>] [<a href="http://nezijvterinou.cz/" target="_blank">web</a>]<br />
 Akce dobrá jako vždycky, prevence se vždycky hodí. Povídání výborné, atrakce zajímavé. Byl jsem tady podruhé a vím, že příští rok jedu zas!

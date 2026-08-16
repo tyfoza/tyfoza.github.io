@@ -11,5 +11,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 <img src="obr-01.webp" height="200" width="112" / alt="Ilustrace k článku">{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/f9SteCw1kdg5GeVu7" target="_blank">fotky</a>]<br />
 Dokonce měla i svůj seriál [<a href="http://star-child.blog.cz/1206/pani-columbova" target="_blank">1</a>].

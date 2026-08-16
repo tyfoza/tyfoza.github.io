@@ -5,7 +5,7 @@ url: "/posts/2021/06/zesilovac-s-triodou-pouze-simulace/"
 summary: "LTSpice [ 1 ] a simulace jednoduchého audio zesilovače s triodou [ 2 ]. Na vstupu je soubor „wav“, tedy reálný zvuk. Dá se použít i export jako zvukový výstup, třeba pro ladění korekcí, filtrů etc. FFT detail FFT – modely LTSpice pro triody (triodes.sub), tetrody a pentody (tetrodes_pentodes.sub) viz [ 3 ]. – model výstupního transformátoru [ 4 ] – jak simulovat reproduktor pomocí náhradního RLC zapojení [ 5 ] v LTSpice. Návod pro LTSpice je přímo v programu dostupný v nápovědě F1 a nejpodrobnější, co jsem na internetu potkal je anglicky [ 5 ], pak jsem tutorial [ 5a ]a česky jen drobnosti jako [ 6 ] [ 7 ]."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice"]
+tags: ["Bastlení.LTSpice", "Bastlení"]
 aliases:
   - "/2021/06/zesilovac-s-triodou-pouze-simulace.html"
 ---

@@ -5,14 +5,14 @@ url: "/posts/2014/03/motocykel-2014/"
 summary: "[ fotky ] Týden po brněnském Motosalonu jsem měl možnost zavítat na čtyři dny na výstavu Motocykel. Opět po ose, s roll-upem[ 1 ] za zády; vlastně se dvěma roll-upy – vezl jsem ještě jeden navíc[ 2 ], protože se nevešel do auta! Když jsem projížděl Bratislavou, běžela mi hlavou nesmrtelná slova Jaroslava Vojty viz.[ 3 ] v drobné úpravě: Bratislava, matka slovenských měst. Pochopil jsem, proč tolik lidí z Česka vyrazí raději do areálu Incheby.sk[ 4 ] než by se píďalkovali po našich dvou roztržených motocyklových podnicích[ 5 ][ 6 ]. Výstava v Bratislavě je opravdu velkolepá, velká jak plochou, tak množstvím návštěvníků. Zároveň je stejný termín na Slovensku tak trochu motocyklovým svátkem. Na výstavišti vždy ve večerních hodinách probíhají akce jako předávání cen mistrů nebo vyhlášení ankety Motocykel roku 2014[ 7 ]: kategorie offroad – KTM Freeride 250R; touring – Suzuki V-Strom 1000;..."
 cover:
     image: "obr-01.webp"
-tags: ["Tak jde čas", "Jiné moto"]
+tags: ["Jiné moto", "Tak jde čas"]
 aliases:
   - "/2014/03/motocykel-2014.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/Pv8pm2dRZyNgj9mW8" target="_blank">fotky</a>]<br />
 Týden po brněnském Motosalonu jsem měl možnost zavítat na čtyři dny na výstavu Motocykel. Opět po ose, s roll-upem[<a href="http://tyfoza.tripmasterast.cz/AST_na_vystave_2014.webp" target="_blank">1</a>] za zády; vlastně se dvěma roll-upy – vezl jsem ještě jeden navíc[<a href="http://www.rajbas.eu/zajezdy-motorky" target="_blank">2</a>], protože se nevešel do auta!<br />
 Když jsem projížděl Bratislavou, běžela mi hlavou nesmrtelná slova Jaroslava Vojty viz.[<a href="http://youtu.be/drcjFu5o_OM" target="_blank">3</a>] v drobné úpravě: Bratislava, matka slovenských měst.<br />
 Pochopil jsem, proč tolik lidí z Česka vyrazí raději do areálu Incheby.sk[<a href="http://www.incheba.sk/" target="_blank">4</a>] než by se píďalkovali po našich dvou roztržených motocyklových podnicích[<a href="http://www.motocykl-praha.cz/" target="_blank">5</a>][<a href="http://www.bvv.cz/motosalon/motosalon-2014/" target="_blank">6</a>]. Výstava v Bratislavě je opravdu velkolepá, velká jak plochou, tak množstvím návštěvníků. Zároveň je stejný termín na Slovensku tak trochu motocyklovým svátkem. Na výstavišti vždy ve večerních hodinách probíhají akce jako předávání cen mistrů nebo vyhlášení ankety Motocykel roku 2014[<a href="http://www.incheba.sk/buxus/docs//2014/motocykel/Tlacova_sprava_Motocykel_roka_2014.pdf" target="_blank">7</a>]: kategorie offroad – KTM Freeride 250R; touring – Suzuki V-Strom 1000; naked – Yamaha MT-07; supersport – Ducati Panigale 899; chopper-cruiser – Honda Goldwing F6C.<br />

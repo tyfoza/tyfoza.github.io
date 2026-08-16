@@ -14,7 +14,7 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}<img height="200" src="obr-02.webp" width="150" / alt="Ilustrace k článku"></div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/Twb88v8rSmyLzxYn9" target="_blank">fotky</a>]<br />
 Mít obuté céčkové pneu znamená vyhýbat se asfaltu. Počasí odpoledne bylo přímo letní, tak jsme vyrazili dobýt zříceninu hradu Rýsova[<a href="http://hrady.dejiny.cz/rysovZL/index.htm" target="_blank">1</a>], projeli jsme kolem Čertova kamene[<a href="http://nature.hyperlink.cz/zlinsko/Certuv_kamen.htm" target="_blank">2</a>] a skrz Paseky po asfaltové cyklostezce do Želechovic nad Dřevnicí.<br />
 <br />
 O Čertových kamenech jsem našel legendu (zdroj: z nepříliš funkčního odkazu[<a href="http://www.treking.cz/regiony/tri_hrady_vizovickych_vrchu.htm/" target="_blank">3</a>] na webu treking.cz)<br />

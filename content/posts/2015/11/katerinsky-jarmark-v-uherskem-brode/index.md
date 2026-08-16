@@ -3,7 +3,7 @@ title: "Kateřinský jarmark v Uherském Brodě..."
 date: 2015-11-28T14:08:00.004Z
 url: "/posts/2015/11/katerinsky-jarmark-v-uherskem-brode/"
 summary: "[ fotky ]"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm.vystoupení", "Video", "Šerm"]
 aliases:
   - "/2015/11/katerinsky-jarmark-v-uherskem-brode.html"
 ---

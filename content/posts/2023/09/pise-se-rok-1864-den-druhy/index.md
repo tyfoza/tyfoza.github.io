@@ -5,7 +5,7 @@ url: "/posts/2023/09/pise-se-rok-1864-den-druhy/"
 summary: "[ 1 ] Český rozhlas - Leona Nevařilová, Tomáš Fránek [ 2 ] iDnes [ 3 ] foto Elen Sladká [ 4 ] foto Maryška Švehlíková [ 5 ] foto Josef Kohoutek [ 6 ] foto Alexandra Haluzová [ 7 ] plakát, fotky jednotek (foto Richard Kastner) [ 8 ] foto Richard Kastner – oficiální fotograf akce [ 9 ] foto Magdalenka Tymešová [ 10 ] Slovácký deník Píše se rok 1864. Vojska generála Lee táhnout krajem. Tématický den s edukačním přesahem z období americké občanské války - 9th Illinois Cavalry Regiment - Město Uherský Brod - Dům kultury Uherský Brod - Muzeum Jana Amose Komenského v Uherském Brodě - Šermířský klub Uherský Brod"
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Šerm.ACW", "Šerm"]
+tags: ["Šerm.ACW", "Šerm", "Šerm.bitva"]
 aliases:
   - "/2023/09/pise-se-rok-1864-den-druhy.html"
 ---

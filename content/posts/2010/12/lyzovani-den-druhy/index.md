@@ -19,4 +19,4 @@ aliases:
 <tr><td class="tr-caption" style="text-align: center;">nadčasový vzor "kaktusy a papričky" na Ťufích kalhotách</td></tr>
 </tbody></table>Sjezdování dobré, sníh tvrdý jako kámen a všichni vůkol spokojení.  Ježek vždy, když se odvážně rozjel do nové neprozkoumané oblasti zvolal:  "Poslední mrtvý je srab!"<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/">víc obrázků</a>]
+[<a href="https://photos.app.goo.gl/5jb6cPCE2Gw2cQPD8">víc obrázků</a>]

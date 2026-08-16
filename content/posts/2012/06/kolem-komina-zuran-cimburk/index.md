@@ -10,4 +10,4 @@ aliases:
   - "/2012/06/kolem-komina-zuran-cimburk.html"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><img height="200" src="obr-01.webp" width="150" / alt="Ilustrace k článku"></div><div style="text-align: center;">[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+<div class="separator" style="clear: both; text-align: center;"><img height="200" src="obr-01.webp" width="150" / alt="Ilustrace k článku"></div><div style="text-align: center;">[<a href="https://photos.app.goo.gl/daZhmQVZPvtxWqiC7" target="_blank">fotky</a>]</div>

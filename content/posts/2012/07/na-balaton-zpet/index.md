@@ -3,7 +3,7 @@ title: "Na Balaton a zpět"
 date: 2012-07-05T11:36:00.005Z
 url: "/posts/2012/07/na-balaton-zpet/"
 summary: ""
-tags: ["Na cestě", "Video", "Honda CA125 Rebel"]
+tags: ["Honda CA125 Rebel", "Video", "Na cestě"]
 aliases:
   - "/2012/07/na-balaton-zpet.html"
 ---

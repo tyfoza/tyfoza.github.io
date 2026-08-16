@@ -5,7 +5,7 @@ url: "/posts/2021/12/je-nejaky-rozdil-mezi-zaloznimi-zdroji/"
 summary: "Vybírám záložní zdroj UPS (Uninterruptible Power Supply/Source) a kladu si otázku, zda mám koupit značkovou APC nebo sáhnout po něčem levnějším. Obě UPSky, které zmíním mám doma už nějakou dobu, obě fungují a dělají svoji práci. Eurocase 2000VA/1200W Part No.: EA200LED 2000VA APC 1000VA/670W Part No.: SMT1000I Jednu máme počítače v obýváku, druhá zálohuje pracovnu a 3D tiskárnu. UPSky jsou hlučné a bzučí pouze když vypadne elektřina a ony musí zálohovat. Jinak o nich nevím. Nějaké měření takto vypadá napětí u nás doma v zásuvce výstup záložního napětí Eurocase výstup záložního napětí APC Pozor! Ne každý záložní zdroj a taktéž ne každý záložní zdroj značky APC má takto čistě sinový výstup. Databáze tvaru vln výstupu nejrůznějších záložních zdrojů viz [ 1 ] a [ 2 ]."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Počítače"]
+tags: ["Počítače", "Bastlení"]
 aliases:
   - "/2021/12/je-nejaky-rozdil-mezi-zaloznimi-zdroji.html"
 ---

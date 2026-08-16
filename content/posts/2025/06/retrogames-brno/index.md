@@ -3,7 +3,7 @@ title: "Retrogames Brno..."
 date: 2025-06-07T18:00:00.017Z
 url: "/posts/2025/06/retrogames-brno/"
 summary: "fotky [ retrogamesbrno.cz ]"
-tags: ["Počítače.hry", "Počítače"]
+tags: ["Počítače", "Počítače.hry"]
 aliases:
   - "/2025/06/retrogames-brno.html"
 ---

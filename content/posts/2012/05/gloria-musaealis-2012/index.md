@@ -17,5 +17,5 @@ aliases:
 kterou Sášenka smí s hrdostí nosit</td></tr>
 </tbody></table>
 V nové budově Národního muzea [<a href="http://www.nm.cz/Hlavni-strana/Navstivte-nas/Nova-budova-Narodniho-muzea.html" target="_blank">1</a>], bývalá budova Federálního shromáždění, pak sídlo radiové stanice Svobodná Evropa a teď muzem; právě tady proběhlo vyhlášení cen Gloria musaealis[<a href="http://www.cz-museums.cz/news/gloria_musaealis/titulni/6497-vysledky-x-rocniku" target="_blank">2</a>], akce prestižní, projevů nepočítaně, jazzové fanfára podivná, ale ceny byly rozdány a nálada slavnostní muzejníkům vydržela až domů.<br />
-Pár fotek z naší výpravy viz. [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">3</a>]<br />
+Pár fotek z naší výpravy viz. [<a href="https://photos.app.goo.gl/Lyrtd6BULapAGZam7" target="_blank">3</a>]<br />
 Za zmínku stojí přehledná reportáž ČT [<a href="http://www.ceskatelevize.cz/ct24/kultura/177452-muzea-rozdala-sve-oscary/" target="_blank">4</a>].

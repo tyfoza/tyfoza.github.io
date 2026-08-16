@@ -5,7 +5,7 @@ url: "/posts/2011/03/kawasaki-versys-suzuki-v-strom/"
 summary: "[ srovnávací test ] Versys, V-Strom a Transalp [ srovnávací tabulka ] z [ katalog-motocyklu.cz ] [ srovnávací tabulka ] z [ databáze motocyklů ] jak vám bude motocykl slušet zjistíte na webu [ cycle-ergo.com ] [ článek ] V-Strom po 100tis. km [ článek ] Versys v Alpách, na okruhu a prvních 1000km přidáno 21.11.2011. Už mám V-Strom v garáži od léta, tak přikládám nejskvělejší test Suzuki V-Strom - od poloviny úplně nejvíc:"
 cover:
     image: "obr-01.webp"
-tags: ["Video", "Jiné moto"]
+tags: ["Jiné moto", "Video"]
 aliases:
   - "/2011/03/kawasaki-versys-suzuki-v-strom.html"
 ---

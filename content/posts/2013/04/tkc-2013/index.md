@@ -5,7 +5,7 @@ url: "/posts/2013/04/tkc-2013/"
 summary: "[ fotky ] moje, [ fotky ] Bonnyes a [ fotogalerie ] pořadatelů naše trasa [ 1 ][ 2 ][ 3 ][ 4 ] asi 100km Setkání offroadových nadšenců pod Bezdězem[ 5 ]. Večer byl příjemný, pro některé včetně mě, seznamovací a hlavně dlouhý a poté, co se rozezněla kytara byl ještě delší; dalo by se říct, že nebýt té „zeleniny“ konzumované v nadměrném množství, nestalo se ten večer vlastně nic zajímavého. Ráno po snídani proběhla rozprava o cestě – myslím, že to bylo šestnáct bodů v turistické mapě, soutěž skupin, šlo o to, kdo najede nejméně kilometrů[ 6 ]. S Barvajzem jsme dvěma V-Stromy doplnili semknutou a vyježděnou skupinu s XTZetkama. Vzhledem k tomu, že s nimi mám půl motorky společné[ 7 ], odvažuji se s majiteli „estéček“ hovořit bez ostychu. Vyrazili jsme mezi posledními, či snad dokonce poslední, protože kluci v mapě podrobně vyznačili všechny průjezdní body a naplánovali a vyznačili trasu..."
 cover:
     image: "obr-01.webp"
-tags: ["Cesty - akce offroad", "Video"]
+tags: ["Video", "Cesty - akce offroad"]
 aliases:
   - "/2013/04/tkc-2013.html"
 ---
@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: justify;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: justify;">
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] moje, [<a href="http://bonnyes.rajce.idnes.cz/T.K.C._2013_aneb_Drasllerova_zkratka/" target="_blank">fotky</a>] Bonnyes a [<a href="http://t-k-c.webnode.cz/fotogalerie2/a2013/" target="_blank">fotogalerie</a>] pořadatelů</div>
+[<a href="https://photos.app.goo.gl/7dFfWA2ciUWuK69X7" target="_blank">fotky</a>] moje, [<a href="http://bonnyes.rajce.idnes.cz/T.K.C._2013_aneb_Drasllerova_zkratka/" target="_blank">fotky</a>] Bonnyes a [<a href="http://t-k-c.webnode.cz/fotogalerie2/a2013/" target="_blank">fotogalerie</a>] pořadatelů</div>
 <div style="text-align: justify;">
 naše trasa [<a href="http://www.sports-tracker.com/#/workout/tyfoza/d407mrfkljjdc3c2" target="_blank">1</a>][<a href="http://www.sports-tracker.com/#/workout/tyfoza/d7q6oj4aeomgo4tm" target="_blank">2</a>][<a href="http://www.sports-tracker.com/#/workout/tyfoza/7q4amqlu9gsl41mj" target="_blank">3</a>][<a href="http://www.sports-tracker.com/#/workout/tyfoza/4ksvp7ecnqjf8ou9" target="_blank">4</a>] asi 100km</div>
 <div style="text-align: justify;">

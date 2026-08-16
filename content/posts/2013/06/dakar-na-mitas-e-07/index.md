@@ -5,7 +5,7 @@ url: "/posts/2013/06/dakar-na-mitas-e-07/"
 summary: "Mitas E-07 má být slušná univerzální guma pro velká cestovní endura s vysokým kilometrovým nájezdem. Tak to tvrdí výrobce a spousta lidí to potvrzuje. Tohle jsou pneu, na který se jezdí na velkých géésách a adventurech do Albánie a jinde po offroadovém světě."
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "BMW F 650 GS Dakar"]
+tags: ["BMW F 650 GS Dakar", "Motopneu"]
 aliases:
   - "/2013/06/dakar-na-mitas-e-07.html"
 ---

@@ -12,5 +12,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/yJt7N6Aq6uSNk6X28" target="_blank">fotky</a>]<br />
 V NÚLK[<a href="http://www.nulk.cz/" target="_blank">1</a>] velmi pěkně zpracovali výstavu – řemesla a dětské postýlky, řezbářství, košíkářství, keramika.

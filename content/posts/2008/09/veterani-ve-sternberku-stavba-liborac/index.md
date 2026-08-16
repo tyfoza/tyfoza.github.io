@@ -10,7 +10,7 @@ aliases:
   - "/2008/09/veterani-ve-sternberku-stavba-liborac.html"
 ---
 
-Výlet za Dejvem Templářem do Šternberka, prohlídka strojů na veterán srazu [<a href="https://sites.google.com/view/tyfotoza/">fotky</a>].<br />
+Výlet za Dejvem Templářem do Šternberka, prohlídka strojů na veterán srazu [<a href="https://photos.app.goo.gl/CJw3KMMRoJeGCJzQ9">fotky</a>].<br />
 Potkali jsme se s Liboráčem ze Zábřeha a konečně jsem se svezl na jeho stavbě HD z roku 1976.<br />
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><br />

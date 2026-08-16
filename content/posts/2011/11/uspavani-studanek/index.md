@@ -5,7 +5,7 @@ url: "/posts/2011/11/uspavani-studanek/"
 summary: ""
 cover:
     image: "obr-01.webp"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm.vystoupení", "Video", "Šerm"]
 aliases:
   - "/2011/11/uspavani-studanek.html"
 ---

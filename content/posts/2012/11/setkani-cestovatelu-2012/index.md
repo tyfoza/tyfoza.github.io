@@ -5,7 +5,7 @@ url: "/posts/2012/11/setkani-cestovatelu-2012/"
 summary: "Rok uběhl jako voda, sezóna pomalu končí a Setkání cestovatelů bylo snad ještě lepší než loni [ 1 ]. Přijeli jsme až na odpolední programový blok. Vladislav T Jiroušek[ 2 ] krásně pohovořil o focení, ač fotí Canonem, tak moc chválí Nicon. Nám motorkářům doporučil dva kompakty – jako základ Canon G21[ 3 ] a lepší Canon G1X[ 4 ]. On sám používá oba. Pár postřehů z workshopu o focení – vodopády se fotí s časem 1/8, aby nevznikal efekt zamrzlé vody. Polarizační filtr umí pěkné mraky. S UV filtrem vychází teplejší barvy. Variable ND filter[ 5 ] jsou dva polarizační filtry přes sebe; umí omezit světlo při otevřené cloně. Pro dobrou fotku je třeba něco udělat. Nikdo z nás asi nebude čekat tři dny na „dobré světlo“ jako pan Jiroušek, nicméně při focení na cestách alespoň sesedneme z motorky a zkusíme najít pěkný úhel záběru. A když místo třiceti vteřin na fotku z ruky dáme fotce deset minut,..."
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "Tak jde čas"]
+tags: ["Tak jde čas", "Motopneu"]
 aliases:
   - "/2012/11/setkani-cestovatelu-2012.html"
 ---

@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/YPnSwioe6vW4DnRn9" target="_blank">fotky</a>]<br />
 Vernisáž výstavy Peníze habsburských panovníků [<a href="http://www.mjakub.cz/?idc=1195" target="_blank">1</a>], kde se naše jednotka účastnila coby finanční stráž v muzejní pokladnici.<br />
 <br />
 Zprávička z Dobrého dne s kurýrem viz. [<a href="http://www.idobryden.cz/spolecnost/boj-o-penize-i-v-baladach-pretrvava/5d35198a-28f3-11e3-8653-5254003d369b/" target="_blank">2</a>].<br />

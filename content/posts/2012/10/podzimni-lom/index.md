@@ -27,4 +27,4 @@ Odpoledne se pak rozsněžilo tak, že sníh vydržel.&nbsp;</div>
 {{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>
 <div>
 Najeté offroad trasy [<a href="http://www.sports-tracker.com/#/workout/tyfoza/293fp48fi8leb3io">3</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/d2t71tijh4hir0cs">4</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/2kr0s5rs4uesd3d1">5</a>] a jedna v tandemu po sakrálních památkách [<a href="http://www.sports-tracker.com/#/workout/tyfoza/4d4nk1di7mqkeft6">6</a>].<br />
-fotky [<a href="https://sites.google.com/view/tyfotoza/">7</a>] [<a href="https://sites.google.com/view/tyfotoza/">8</a>] [<a href="http://leontius.rajce.idnes.cz/Podzimni_lom_2012">9</a>]</div>
+fotky [<a href="https://photos.app.goo.gl/qXrJgjkJr4QSbJY4A">7</a>] [<a href="https://photos.app.goo.gl/qXrJgjkJr4QSbJY4A">8</a>] [<a href="http://leontius.rajce.idnes.cz/Podzimni_lom_2012">9</a>]</div>

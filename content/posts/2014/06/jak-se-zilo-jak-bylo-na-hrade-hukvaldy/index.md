@@ -15,7 +15,7 @@ aliases:
 <div style="text-align: center;">
 pohled do stanu a ložumentů nobility 14. století</div>
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/etSFLg6ujvE5caqLA" target="_blank">fotky</a>]<br />
 Oživlá historie na hradě Hukvaldy[<a href="http://www.janackovyhukvaldy.cz/cz/festival/aktuality/98-jak-se-zilo-a-jak-bylo.html" target="_blank">1</a>], dobové ležení, cvičení ve zbrani, turnaj. Spřádání vlny, karetkování, historická hudba. Kostýmy šlechty ukázali Posadowští z Posadowa[<a href="http://kostym.cz/Cesky/VIII_11_01.htm" target="_blank">2</a>] a Hanka[<a href="http://kostym.cz/Cesky/VIII_21_01.htm" target="_blank">3</a>].<br />
 <div>
 <br /></div>

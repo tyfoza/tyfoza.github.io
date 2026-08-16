@@ -19,4 +19,4 @@ S večerem jsme se posunuli o čtyřicet kilometrů dál do vinic kolem Sam Gimi
 V Sieně to bylo pěkné,  devadesátiminutový rozchod nám přišel dlouhý. Véna vtipně poznamenal, že kdo viděl jedno staré italské město, viděl všechna. Je to tady hodně podobné, s průvodcem by to asi bylo jiné. Jsme spokojení a veselí. <br />
 Zítra bychom měli absolvovat 450km přesun do Dolomitů a pomalounku se vracíme domů.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/dtdnsid7cj8pqkhb" target="_blank">trasa</a>]
+[<a href="https://photos.app.goo.gl/Ft8z2aWdVEZvJgvcA" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/dtdnsid7cj8pqkhb" target="_blank">trasa</a>]

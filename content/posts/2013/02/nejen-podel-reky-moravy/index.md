@@ -12,5 +12,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/W3M3vB8bKaqcnNyS7" target="_blank">fotky</a>]<br />
 Pěkný kousek z Kunovic do Hradiště [<a href="http://www.sports-tracker.com/#/workout/tyfoza/coejdtuoin19aojq" target="_blank">trasa</a>]

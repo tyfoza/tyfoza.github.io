@@ -5,7 +5,7 @@ url: "/posts/2014/07/jablonne-v-podjesteni-pekelne-doly/"
 summary: "[ fotky ] Krátký motovýlet v sestavě V-Strom, Rebela a Hornet. Navigovala Ábi na Rebelu s telefonem Samsung Galaxy S3 mini a aplikací Navigator. Ubytovali jsem se v kempu v Jablonném v Podještědí a podnikali výlety do okolí. Doksy, Máchovo jezero, stejně tak místní klášter v Jablonném a poslední den jsme vyrazili do Pekelných dolů. Tož pěkné to bylo."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Honda CA125 Rebel"]
+tags: ["Honda CA125 Rebel", "Na cestě"]
 aliases:
   - "/2014/07/jablonne-v-podjesteni-pekelne-doly.html"
 ---

@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/L3VQcguUA6kLU2eR8" target="_blank">fotky</a>]</div>
 <div style="text-align: justify;">
 Když pořídíte motocyklový řetěz s rozebiratelnou sponou, je docela problém řetěz spojit a sponu nasadit. Když se pokusíte použít pro nalisování horní části spojovacího článku nýtovačku[<a href="http://www.motops.cz/nytovacka-a-roznytovacka-retezu-rothewald-nytovacka-na-retezy-d-i-d-did-cz---nytovacka-na-retez---nytovaci-pripravek-na-retezy-novy-zesileny-model-nytovacky-a-roznytovacky/" target="_blank">1</a>], tak jak jste zvyklí[<a href="/posts/2012/04/vymena-retezove-sady/" target="_blank">2</a>], narazíte na problém. A to doslova, protože spojovací článek pro sponu má delší čepy než nýtovací spojovací článek – delší právě o tu sponu. A při pokusu o nalisování se spojovací článek opře čepy o matrici a dál se nepohneme.</div>
 <div style="text-align: justify;">

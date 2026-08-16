@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "450" >}}</div>
-fotky: Elen Sladká[<a href="http://elenkas.rajce.idnes.cz/Tri_stoleti_Kounicu_2014/" target="_blank">1</a>], Andy[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">2</a>], Tyf[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">3</a>], Sášenka[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">4</a>]<br />
+fotky: Elen Sladká[<a href="http://elenkas.rajce.idnes.cz/Tri_stoleti_Kounicu_2014/" target="_blank">1</a>], Andy[<a href="https://photos.app.goo.gl/2byoWKMc93E8jie47" target="_blank">2</a>], Tyf[<a href="https://photos.app.goo.gl/yNivKVYHVCpJ7GEN8" target="_blank">3</a>], Sášenka[<a href="https://photos.app.goo.gl/BVbkyStSp3NkA8ga7" target="_blank">4</a>]<br />
 <br />
 Jaký byl 1. ŠKAUTFský den v Uherském Brodě? Především slunečný a nesmírně zábavný. Tři století Kouniců vyplnilo celé Tyršovy sady aktivitami pro všechny věkové kategorie dětí a mládeže. Spousta herních aktivit měla premiéru a byla znát aplikace zážitkové pedagogiky v praxi. To Tenebrae Fascarum[<a href="http://www.fascar.tym.cz/" target="_blank">5</a>] umí skvěle.<br />
 <br />

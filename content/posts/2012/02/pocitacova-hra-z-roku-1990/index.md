@@ -3,7 +3,7 @@ title: "Počítačová hra z roku 1990"
 date: 2012-02-26T22:30:00.030Z
 url: "/posts/2012/02/pocitacova-hra-z-roku-1990/"
 summary: "Mad Dog McCree je westernová střílečka z roku 1990, která překonala svoji dobu. Je to interaktivní film, postavy jsou hrané, prostředí reálné, kvalita grafiky odpovídá době vydání. V roce 2004 se dočkala remasterování, kdy vyšla tatáž hra, ale v moderním DVD kabátě. O hře anglicky[ 1 ], celý příběh hry ve formě návodu česky[ 2 ]. Všechny hry tohoto typu od American Laser Games[ 4 ] jsou bez problémů dostupné[ 5 ] a spustitelné na moderních strojích. Jako hra na párty jsou všechny podobně příjemné jako Frets on Fire[ 6 ]. Na youtube je hodně ukázek, jak hra vypadá[ 7 ] - trailer na druhý díl hry Mad Dog McCree - Lost Gold - z roku 1994[ 8 ]. Jako správný greenhorn přikládám video svoje - první díl hry - aneb jak jsem zachránil město. Bylo to vyčerpávající a pouze na nejsnažší obtížnost, ale zachránil a na dvacátý pokus vyhrál i poslední souboj a padouch bídně zhynul. A jak se všichni..."
-tags: ["Video", "Počítače"]
+tags: ["Počítače", "Video"]
 aliases:
   - "/2012/02/pocitacova-hra-z-roku-1990.html"
 ---

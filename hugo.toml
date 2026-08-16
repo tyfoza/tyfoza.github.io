@@ -1,4 +1,6 @@
+#baseURL = 'https://tyfoza.sytes.net/'
 baseURL = 'https://tyfoza.github.io/'
+
 defaultContentLanguage = 'cs'
 title = 'Tyfoza blog'
 theme = 'PaperMod'

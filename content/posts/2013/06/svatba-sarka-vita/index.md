@@ -14,4 +14,4 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: center;">
 Všechno nejlepší do společného života...</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.youtube.com/watch?v=_eF074mpcgc" target="_blank">video</a>]
+[<a href="https://photos.app.goo.gl/fgXBJttVpxoXoqBE6" target="_blank">fotky</a>] [<a href="http://www.youtube.com/watch?v=_eF074mpcgc" target="_blank">video</a>]

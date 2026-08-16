@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/ZcfjWG5ZpMZdkFXs5" target="_blank">fotky</a>]<br />
 <i>Kdo hledá rychlou odpověď: <b>„Ne, nemá smysl repasovat tlumič na motocykl, je lepší pořídit nový.“<span style="font-size: large;">&nbsp;</span></b></i><br />
 <i>Bohužel repas může být třikrát až osmkrát levnější než nový tlumič. A to stojí za úvahu.</i><br />
 <div style="text-align: justify;">

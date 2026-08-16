@@ -5,7 +5,7 @@ url: "/posts/2025/02/emulator-nes-pro-raspberry-pi-i/"
 summary: "PicoNES Plus Je emulátor NES (Nintendo Entertainment System) s kartou SD. Po zapnutí zobrazí nabídku s výběrem hry. Běží na Raspberry Pi Pico a Raspberry Pi Pico 2. Pro zobrazení používá HDMI. Na velké moderní televizi to vypadá velice hezky, jen si musíte sednout kousek dál od obrazovky. Spoustí většinu her, tak si pojďte zase zahrát staré kousky jako Super Mario Bros., Prince of Persia, Castlevania aj. [ git ] projektu, kde je vše ke stažení – včetně zkompilovaného firmware, který stačí nahrát do Pi Pico. [ stl ] krabičky k tisku, ale vzhledem k tomu, že celé řešení obsahuje pouze dvě komponenty, bude dobře fungovat i bez krabičky Kde vzít soubory s ROM her? To si musíte najít sami. Existuje internetový archiv označený jako All NES Roms nebo případně weby, kde se soubory s ROM her pro tuto konzoli vyskytují ke stažení. K hardwarové realizaci p otřebujeme jen pár věcí: – Raspberry Pi..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Počítače.emulátory"]
+tags: ["Počítače.emulátory", "Bastlení"]
 aliases:
   - "/2025/02/emulator-nes-pro-raspberry-pi-i.html"
 ---

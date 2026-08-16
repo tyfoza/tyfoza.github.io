@@ -5,7 +5,7 @@ url: "/posts/2022/01/presny-usmernovac-neco-jako-superdioda/"
 summary: "Usměrňovací obvody se používají při návrhu napájecích obvodů. V takových aplikacích je usměrňované napětí obvykle mnohem větší než úbytek napětí na diodě a tento úbytek není pro správnou funkci usměrňovače důležitý. Jsou aplikace, kde tomu tak není. Třeba v měřících přístrojích může mít signál, který má být usměrněn, velmi malou amplitudu; klidně 100mV, což znemožňuje použití konvenčních usměrňovacích obvodů. Zároveň je ale nutné, zachovat velmi přesnou přenosovou charakteristiku. Na tento problém narazil, když jsem se snažil porovnávat a identifikovat vrcholy signálu bez použití mikrokontroleru. Stačilo zrcadlit záporné půlvlny do kladných hodnot; pro silný signál usměrnění diodami stačilo, jenže já potřebuju identifikovat signál ideálně od nuly nebo alespoň od 10–30mV; ale není problém velmi slabý signál malinko zesílit, pokud by citlivost začínala kolem 500mV. Řešení jsem našel v..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice"]
+tags: ["Bastlení.LTSpice", "Bastlení"]
 aliases:
   - "/2022/01/presny-usmernovac-neco-jako-superdioda.html"
 ---

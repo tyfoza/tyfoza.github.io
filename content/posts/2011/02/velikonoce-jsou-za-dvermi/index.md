@@ -11,7 +11,7 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>Jen co skončil advent, Ábi tráví každou volnou chvilku malovaním kraslic - Velikonoce jsou za dveřmi a tak Ábi maluje a maluje - používá techniku voskového reliéfu. Barvy plánuje červené, zelené a tmavě modré.<br />
-[<a href="https://sites.google.com/view/tyfotoza/">aktuální fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/ipXNgDwQmixhi4K68">aktuální fotky</a>]<br />
 <br />
 Loni začala Ábi prezentovat svoji práci v rámci akce [<a href="http://www.mjakub.cz/index.php?idc=745">Dílny lidových umělců</a>] pořádané Muzeem Jana Amose Komenského v Uherském Brodě [<a href="https://sites.google.com/view/tyfotoza/">fotky z akce</a>].<br />
 <br />

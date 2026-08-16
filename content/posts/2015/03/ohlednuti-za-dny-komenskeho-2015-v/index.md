@@ -13,7 +13,7 @@ aliases:
 <div style="text-align: center;">
 Návštěva J.A.K v rodném domě...</div>
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] z pondělního Zpátky do lavic!<br />
+[<a href="https://photos.app.goo.gl/MHWdUGPxgi9BDk918" target="_blank">fotky</a>] z pondělního Zpátky do lavic!<br />
 <br />
 články a odkazy z webu: kultura.ub.cz<br />
 – Zpátky do lavic! článek [<a href="http://kultura.ub.cz/zpravy/Zpatky-do-lavic-se-slo-zvesela" target="_blank">1</a>] fotky [<a href="http://elenkas.rajce.idnes.cz/Dny_Komenskeho_2015_-_Zpatky_do_lavic/" target="_blank">2</a>]<br />

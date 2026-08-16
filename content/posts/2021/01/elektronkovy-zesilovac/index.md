@@ -5,7 +5,7 @@ url: "/posts/2021/01/elektronkovy-zesilovac/"
 summary: "Úplně na začátku byla [ kniha ] s názvem Lampárna aneb co to zkusit s elektronkami od Jaroslava Vlacha. Velmi výživné a dostatečně podrobné čtení ke stavbě elektronkových zesilovačů. Pěkně od začátku – zesilovač třídy A – single ended. Je nejméně úsporný, ale měl by mít minimální zkreslení. Když jsem zkusil připojit indikátor vybuzení s magickým okem, narazil jsem na problém při poslechu hudby s velkým dynamickým rozsahem ­– buď zobrazí jenom hlasitější pasáže nebo zobrazí tiché a při hlasitějších je pořád naplno. Nejsnazší řešení bylo přidat arduino pro řízení citlivosti. Další věc - je to zesilovač třídy A, který má nemalou spotřebu i když zrovna nehraje. Arduino bude řídit usínání a odpojí napájení, když nebude co zesilovat. Blokový návrh toho, jak by to celé mělo fungovat Zajímavé je sledovat reálnou spotřebu a proudovou zátěž při žhavení. Při počátku žhavení protéká žhavícím..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.elektronky"]
+tags: ["Bastlení.elektronky", "Bastlení"]
 aliases:
   - "/2021/01/elektronkovy-zesilovac.html"
 ---

@@ -12,4 +12,4 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "200" >}}</div>Náš Jan se v ponědlí po ránu serval a zhruba o týden později jsme mu na hrudi nahmátli pořádný [<a href="http://cs.wikipedia.org/wiki/Absces">absces</a>]. Operace psí se konala na klinice [<a href="http://www.veterina-lazy.cz/">Lazy ve Zlíně</a>], provedl ji můj osobní lékař, veterinář Vlčice - s jistotou, zručností a bezbolestně.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/">obrázky podrobně</a>]
+[<a href="https://photos.app.goo.gl/MNPxHFCxZfZtBHfV8">obrázky podrobně</a>]

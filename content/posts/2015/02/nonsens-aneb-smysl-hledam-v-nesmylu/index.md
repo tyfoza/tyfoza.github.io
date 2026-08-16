@@ -10,7 +10,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/IGJCECqqA60/0.webp" frameborder="0" height="400" src="http://www.youtube.com/embed/IGJCECqqA60?feature=player_embedded" width="640"></iframe></div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/EuuCRrAp8awAzKh9A" target="_blank">fotky</a>]<br />
 Veselá, okulibá a vtipná výstava, která pohladí na duši v muzeu Jana Amose Komenského v Uherském Brodě až do května 2015 viz. [<a href="http://www.mjakub.cz/?idc=1308" target="_blank">1</a>]<br />
 Vystavuje keramik Vladimír Groš a jemu podobní ze spolku Za Veselí veselejší (ZVV).<br />
 Kdo chce vidět a zažít věci jako heligonet – soustrojí pro hru na dechový nástroj bez dechu, či stavitelnou stříšku na cigarety nebo doutníky do deště nebo do sprchy pro náruživé kuřáky...<br />

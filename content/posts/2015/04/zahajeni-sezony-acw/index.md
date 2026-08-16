@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/3eWX436MCi1M81vz7" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Zahájení sezóny a první jarní secvičná pořádaná CACWA – Českou asociací americké občanské války[<a href="http://www.cacwa.cz/" target="_blank">1</a>]. Westernové městečko Stonetown[<a href="http://www.stonetown.cz/" target="_blank">2</a>] k nalezení v lese kousek od Humpolce a pouze po nezpevněné cestě.</div>
 <div style="text-align: justify;">

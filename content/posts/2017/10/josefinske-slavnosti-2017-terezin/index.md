@@ -5,7 +5,7 @@ url: "/posts/2017/10/josefinske-slavnosti-2017-terezin/"
 summary: "[ fotky ] moje z mobilu [ článek ] a profi fotky v Litoměřickém deníku Tentokrát byla denní bitva i noční bitva zážitkem, na který dlouho nezapomeneme. Po kotníky v blátě, místy v dešti, čpící střelným prachem a spokojení jako štěňátka – to jsou naši grenzři (chorvatští hraničáři) náš druhý banálský grenzinfantery regiment"
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Šerm.sedmiletka", "Šerm"]
+tags: ["Šerm.sedmiletka", "Šerm", "Šerm.bitva"]
 aliases:
   - "/2017/10/josefinske-slavnosti-2017-terezin.html"
 ---

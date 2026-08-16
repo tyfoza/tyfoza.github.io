@@ -14,7 +14,7 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/5cm3euk5gfo06tvo" target="_blank">trasa</a>] [<a href="http://www.cenduro.cz/forum/viewthread.php?thread_id=1463&amp;pid=46678#post_46636" target="_blank">fotky na cenduro.cz</a>]<br />
+[<a href="https://photos.app.goo.gl/X1QGh65VeGpcY2s79" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/5cm3euk5gfo06tvo" target="_blank">trasa</a>] [<a href="http://www.cenduro.cz/forum/viewthread.php?thread_id=1463&amp;pid=46678#post_46636" target="_blank">fotky na cenduro.cz</a>]<br />
 V místě, kam by se sotva Krakonoš na SERku odvážil, v horách kde vládne mocný duch hor Muhu[<a href="http://www.nmps.cz/aktuality/muhu.pdf" target="_blank">1</a>], tam děly se věci mezi nebem a blátem.<br />
 O technice enduro jízdy, o výběru pneu nebo kontrolovaném dávkování výkonu motoru, o fyzické přípravě, vybavení motocyklu nebo jezdce se asi dočtete jinde. Tohle bude takové lyrickoepické postesknutí nad tím, že vydržíme jet pouze pár hodin.<br />
 Myslím, že ve skupině lidí, kteří se o víkendu potkali, šlo o pocity a prožitky. Odvézt si domů na vozíku nebo v tranzitu blátem obézní motorku a v hlavě zážitek. Pro někoho denní chleba sklízený v Qwertlandu, pro jiné příjemné zpestření nudných dní a pro někoho akce, o níž bude jednou vyprávět vnoučatům – Ok, to už je asi moc velká fabulace – ale vážně, pokud někdy letos motosezóna skončí a má mít někde tečku, tak tohle by mohla být pořádná inkoustová kaňka před tím, než bude tečka napsána.<br />

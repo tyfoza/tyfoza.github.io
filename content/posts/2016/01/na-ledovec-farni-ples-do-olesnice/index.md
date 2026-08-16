@@ -12,5 +12,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/7APawKnnmWFofxxJA" target="_blank">fotky</a>]<br />
 Ski areál [<a href="http://www.ski-areal.cz/" target="_blank">1</a>] v Olešnici na Moravě, to je ledovec pro lyžování jako stvořený a to doslova. Večer na farní ples. Výlet dobrý a zábavný jako vždycky.

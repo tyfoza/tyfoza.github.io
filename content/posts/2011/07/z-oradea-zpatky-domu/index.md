@@ -17,7 +17,7 @@ Poprvé jsme oblékali nepromoky někde po cestě v Maďarsku a podruhé před Z
 Rumuni přejí Drum Bun! Tedy "šťastnou cestu" a ta se nám povedla.<br />
 Domů jsme dorazili v jedenáct večer.<br />
 <br />
-[<a href="http://www.sports-tracker.com/#/workout/tyfoza/600ibqilgf159gsu">cesta</a>] [<a href="https://sites.google.com/view/tyfotoza/">fotky</a>]<br />
+[<a href="http://www.sports-tracker.com/#/workout/tyfoza/600ibqilgf159gsu">cesta</a>] [<a href="https://photos.app.goo.gl/JaXYmbLjRtxwkUDo6">fotky</a>]<br />
 <br />
 <i>info:</i><br />
 <i>Celkem jsme najeli 3200 kilometrů (znamená to po cestě dvakrát údržbu řetězu)</i><br />

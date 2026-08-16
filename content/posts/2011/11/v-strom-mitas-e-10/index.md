@@ -5,7 +5,7 @@ url: "/posts/2011/11/v-strom-mitas-e-10/"
 summary: "Mitas E-10 Stromu E-10 sluší Recenze [ 1 ] se různí. Jedni chválí, jiní ne. Někdo uvádí kilometrový nájed 9tis. km, jinde jsem četl, že vydrží nejvíce 4tis. km. Není nad to zakusit si jinou pneu na vlastní kůži. Uvidíme, snad až na kůži nedojde. V roce 2010 snad ještě pneu testovali a měnili se výrobní směsi etc. Teď 2011 by měla být směs stabilizována na středně tvrdou s dobrým nájezdem. Prý se guma i trhá [ 2 ] přidáno 9. 5. 2012 Mitas E-10 zadní po 6000 km plus 6tis. kilometrů, zbývají asi tři milimetru vzorku. Do terénu jedině s podhuštěnou pneu na 1.5bar, záběr mají aspoň boky. Předpokládám, že 2tis. ještě vydrží. přidáno 6. 6. 2012 pneu mají najeto 7500 kilometrů a jsou na výměnu. Přední ještě něco vydrží. Mitas E-10 zadní po 7500 km Mitas E-10 zadní po 7500 km přidáno 24.6.2012: Mitas E-10 přední po 9500km Mitas E-10 přední po 9500km přidáno později: Zkušenost reálná je taková,..."
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "Suzuki DL 650 K9"]
+tags: ["Suzuki DL 650 K9", "Motopneu"]
 aliases:
   - "/2011/11/v-strom-mitas-e-10.html"
 ---

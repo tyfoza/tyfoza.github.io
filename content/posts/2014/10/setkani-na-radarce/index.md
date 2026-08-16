@@ -5,7 +5,7 @@ url: "/posts/2014/10/setkani-na-radarce/"
 summary: "Pozorování enduroškoly z místa vyvýšeného shledáno bylo bezpečným a veselým. [ fotky ] [ f1 ] Na louce mokré tak, že by se dala ždímat, je malá trať, obří louže i bažina, jíž je doporučeno se vyhýbat. Tam, kdesi v divočině na Vysočině, kde žijí jen highlandeři – v areálu Radarka[ 1 ] proběhlo setkání bmwgs fóra[ 2 ] spolu s ukončením sezóny a poctivou enduroškolou[ 3 ]. Vyrazili jsme s kolegou ve dvou, on; říkejme mu kódovým jménem EV; coby endurem nepolíbený rozhodl se, že někde se začít musí a když začínat a padat, tak s cizí motorkou, že ano. Mimo kurz enduroškoly, se tedy EV snažil, šel do toho prsama a protáhl mého Stroma a vyválel se snad v každé louži. Pravdou je, že učit se na motorce, která je na padání vybavená je nejlepší a hlavně bez toho nepříjemna, kterým jsme si prošli snad všichni, kdy při každém sjezdu tam někde vzádu v hlavě straší faktura za opravu v případě pádu. Zde..."
 cover:
     image: "obr-01.webp"
-tags: ["Cesty - akce offroad", "Video"]
+tags: ["Video", "Cesty - akce offroad"]
 aliases:
   - "/2014/10/setkani-na-radarce.html"
 ---
@@ -14,7 +14,7 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
 <i>Pozorování enduroškoly z místa vyvýšeného shledáno bylo bezpečným a veselým.</i></div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://marags.rajce.idnes.cz/Radarka_podzim_2014/" target="_blank">f1</a>]<br />
+[<a href="https://photos.app.goo.gl/uyeqJLywqPfRjs7WA" target="_blank">fotky</a>] [<a href="http://marags.rajce.idnes.cz/Radarka_podzim_2014/" target="_blank">f1</a>]<br />
 <div style="text-align: justify;">
 Na louce mokré tak, že by se dala ždímat, je malá trať, obří louže i bažina, jíž je doporučeno se vyhýbat. Tam, kdesi v divočině na Vysočině, kde žijí jen highlandeři – v areálu Radarka[<a href="http://www.radarka.cz/" target="_blank">1</a>] proběhlo setkání bmwgs&nbsp;fóra[<a href="http://www.bmwgs.cz/forum/viewthread.php?thread_id=23540" target="_blank">2</a>] spolu s ukončením sezóny a poctivou enduroškolou[<a href="http://www.enduroskola.cz/" target="_blank">3</a>].</div>
 <div style="text-align: justify;">

@@ -5,12 +5,12 @@ url: "/posts/2012/03/motosalon-2012-brno/"
 summary: "[ víc fotek ] Pokusím se odpovědět na otázku: Proč má smysl jezdit na výstavy jako je Motosalón? A proč to má smysl i pro mládežníky, jako je FFF? Ale nejprve ty věci faktické: U stánku motopneu zlínského Mitas jsem zjistil dvě zajímavé věci - pneu E-09 doposud dostupné jen v rozměru 140/70 R17 budou letos v prodeji i v rozměru pro cendura 150/70. A druhá zajímavost je, že bezdušová pneu, jako je moje Mitas E-10 by se měla hustit minimálně na 1.3bar, aby nehrozilo prudné zmáčnutí boku gumy při najetí na nějaký kámen a následovná úplná ztráta tlaku. Viděli jsme britskou konkurenci náplně pro řešení defektu Ultraseal, je to OKO Puncture Free a oproti Ultraseal obsahuje i kusy kaučuku, takže řeší defekt snad i líp. Atraktivní je cena, vychází 4x levnější - tam, kde s Ultraseal za 800korun naplním jednu motorku, tak s Puncture Free naplním za 400korun dvě motorky...."
 cover:
     image: "obr-01.webp"
-tags: ["Tak jde čas", "Jiné moto"]
+tags: ["Jiné moto", "Tak jde čas"]
 aliases:
   - "/2012/03/motosalon-2012-brno.html"
 ---
 
-<div class="mobile-photo">{{< obr600 "obr-01.webp" "Ilustrace k článku" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">víc fotek</a>]<br />
+<div class="mobile-photo">{{< obr600 "obr-01.webp" "Ilustrace k článku" >}}</div>[<a href="https://photos.app.goo.gl/NsVFrUZzRVjJE4Zs9" target="_blank">víc fotek</a>]<br />
 <br />
 Pokusím se odpovědět na otázku: Proč má smysl jezdit na výstavy jako je Motosalón? A proč to má smysl i pro mládežníky, jako je FFF?<br />
 <i>Ale nejprve ty věci faktické:</i><br />

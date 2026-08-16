@@ -15,5 +15,5 @@ Byl uspořádán nábor rekrutů do Městské hlídky. Každý, kdo prošel bran
 Odvedenci byli nejdříve vyškoleni Rostislavem Rajchlem v umění kterak správně rozpoznati draka na obloze, pak všichni prošli výcvikem ve zbrani, školením vypisování pokutových bločků kopím, školou lukostřelby, strojením se do zbrojí etc.<br />
 Drak opravdu přiletěl - z Prakšic - byl ubit a Brod byl ubráněn. Nakonec si každý opekl dračí klobás.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.youtube.com/watch?v=ejwVuGkPPzo&amp;feature=player_detailpage#t=491s" target="_blank">reportáž TV Slovácko</a>]<br />
+[<a href="https://photos.app.goo.gl/bz6LTPYEnaWpBvw58" target="_blank">fotky</a>] [<a href="http://www.youtube.com/watch?v=ejwVuGkPPzo&amp;feature=player_detailpage#t=491s" target="_blank">reportáž TV Slovácko</a>]<br />
 <br />

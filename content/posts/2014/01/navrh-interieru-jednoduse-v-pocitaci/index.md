@@ -5,7 +5,7 @@ url: "/posts/2014/01/navrh-interieru-jednoduse-v-pocitaci/"
 summary: "Existuje nějaký program, ve kterém by si každý dokázal snadno vytvořit návrh interiéru, bytu nebo i celého domu? Existuje. Je jich několik. Některé jsou náročnější na použití, jiné ne. RoomArranger je český program, který snadno ovládne každý. A myslím tím opravdu každý! A věřte, že si ušetříte spoustu práce, když nejdřív vymyslíte model, pohnete s nábytkem všemi možnými i nemožnými způsoby a teprve pak to zrealizujete. Odkaz ke stažení viz.[ 1 ]. V programu je většina vybavení domácnosti k dispozici a kdyby vám něco chybělo, existuje knihovna objektů[ 2 ][ 3 ]. Návrh tvoříte pohledem shora a pokud potřebujete předměty umísťovat na sebe, musíte je označit a vybrat si směr pohledu na ně a pak už jejich pozici můžete snadno upravit myší. Níže uvedené nedokonalé, ale naprosto dostačující návrhy poskládáte v RoomArrangeru za půl hodinky. Export najdete v menu Projekt - Export - Webová..."
 cover:
     image: "obr-01.webp"
-tags: ["Počítače", "3D"]
+tags: ["3D", "Počítače"]
 aliases:
   - "/2014/01/navrh-interieru-jednoduse-v-pocitaci.html"
 ---

@@ -5,7 +5,7 @@ url: "/posts/2012/03/motocykl-incheba-expo-praha/"
 summary: "[ víc fotek ] [ detaily ] Nejprve fakta a zjištění: Baterie LiFePO4 plně nahradí klasické olověné gelové baterie, ale jsou výrazně menší a zvládají větší startovací proud. Kdo by nechtěl mít pod sedlem vedle baterky místo ještě na lékárničku, nicht wahr? Viz. http://www.zavodnibaterie.cz/ Firmička http://www.celopolepy.cz/ nabízí polepy aut a motorek. Nalepí cokoli včetně imitace karbonu. Naživo to vypadá použitelně a určitě je to levnější než lakování, u oprav tmelení a broušení pochopitelně zůstává. Touratech.cz sděluje, že tlumiče Trackactive budou dostupné nejen pro BMW, ale pro všechny motorky, které TT běžne strojí. 18.-20.5. proběhne sraz Touratech Travel Event http://www.adventuredays.cz/ A teď něco málo víc a veseleji: Na obrázku je custom tunning, který si doporučují čtyři z pěti osvětlovačů - \"gafatuning\" si může dovolit opravdu každý. Ve srovnání s brněnským Motosalonem..."
 cover:
     image: "obr-01.webp"
-tags: ["Tak jde čas", "Video", "Jiné moto"]
+tags: ["Jiné moto", "Tak jde čas", "Video"]
 aliases:
   - "/2012/03/motocykl-incheba-expo-praha.html"
 ---
@@ -15,7 +15,7 @@ aliases:
 <div class="mobile-photo">
 {{< obr600 "obr-02.webp" "Ilustrace k článku" >}}</div>
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">víc fotek</a>] [<a href="https://plus.google.com/photos/108075680381182885471/albums/5720911099662413889" target="_blank">detaily</a>]<br />
+[<a href="https://photos.app.goo.gl/RHasHt8e5ZeRYV1RA" target="_blank">víc fotek</a>] [<a href="https://plus.google.com/photos/108075680381182885471/albums/5720911099662413889" target="_blank">detaily</a>]<br />
 <br />
 <i>Nejprve fakta a zjištění:</i><br />
 Baterie LiFePO4 plně nahradí klasické olověné gelové baterie, ale jsou výrazně menší a zvládají větší startovací proud. Kdo by nechtěl mít pod sedlem vedle baterky místo ještě na lékárničku, nicht wahr? Viz. <a href="http://www.zavodnibaterie.cz/">http://www.zavodnibaterie.cz/</a><br />

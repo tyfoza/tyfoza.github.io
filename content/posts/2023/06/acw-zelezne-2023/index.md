@@ -5,7 +5,7 @@ url: "/posts/2023/06/acw-zelezne-2023/"
 summary: "[ fotky ] Majdaléna Tymešová (Emily Fox)"
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Šerm.ACW", "Šerm"]
+tags: ["Šerm.ACW", "Šerm", "Šerm.bitva"]
 aliases:
   - "/2023/06/acw-zelezne-2023.html"
 ---

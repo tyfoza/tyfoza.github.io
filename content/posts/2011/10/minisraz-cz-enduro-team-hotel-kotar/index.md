@@ -11,4 +11,4 @@ aliases:
 ---
 
 Úplně malinké setkání sadařů v Horní Bečvě na hotelu Kotár [<a href="http://www.hotel-kotar.cz/">1</a>]. Pozval nás pan majitel Leoš, byli jsme druzí návštěvníci. Povykládali jsme o sadaření, životě, vesmíru a vůbec.<br />
-<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/">pár fotek</a>]
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://photos.app.goo.gl/n2aMNML8anPG5QdV9">pár fotek</a>]

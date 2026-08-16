@@ -5,7 +5,7 @@ url: "/posts/2016/04/jarni-radarka/"
 summary: "[ fotky ]"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Jiné moto"]
+tags: ["Jiné moto", "Na cestě"]
 aliases:
   - "/2016/04/jarni-radarka.html"
 ---

@@ -11,4 +11,4 @@ aliases:
 ---
 
 Opět po roce, advent v plném proudu a zástupy dětí v mateřských školách čekají na Mikuláše.<br />
-<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/">víc obrázků zde</a>]
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://photos.app.goo.gl/sngDGm1YgrEe65ap7">víc obrázků zde</a>]

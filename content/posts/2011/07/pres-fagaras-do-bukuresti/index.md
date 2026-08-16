@@ -19,4 +19,4 @@ Zítřek je odpočinkový den, prozkoumáme Bukurešť a zkusíme naplánovat ka
 {{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>
 <br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/">další fotky</a>][<a href="http://www.sports-tracker.com/#/workout/tyfoza/16oc0l4hn6bnc5kf">cesta</a>]
+[<a href="https://photos.app.goo.gl/E4ByFKToxBaxJ9be7">další fotky</a>][<a href="http://www.sports-tracker.com/#/workout/tyfoza/16oc0l4hn6bnc5kf">cesta</a>]

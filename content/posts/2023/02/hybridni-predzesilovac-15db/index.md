@@ -5,7 +5,7 @@ url: "/posts/2023/02/hybridni-predzesilovac-15db/"
 summary: "Hybridní proto, že kombinuje tranzistor JFET v prvním stupni zesilovače s elektronkou ve druhém stupni. LTSpice [ model ] ke stažení datasheet [ 2SK117BL ] [ 12AX7 ] [ měření ] Použití JFET tranzistoru v kombinaci s elektronkou se přímo nabízí, protože samotný JFET funguje velmi podobně jako elektronka. Také v „sobě obsahuje diodu“ a proud elektronů řídíme záporným napětím přivedeným na gate JFET tranzistoru (nebo na mřížku elektronky). Je tranzistor 2SK117 vhodný pro toto použití. Záleží na tom, jak moc šumí tranzistor, který má od výrobce uvedeno „low noise“ speciál pro nízkofrekvenčí aplikace. (Je to hodně drahý tranzistor, v maloobchodě zhruba za 35korun!) MV Audio Lab provedl [ měření ], zajímavá je i podobná dokumentace, jak měřili[ 1 ]. Deska od [ jimsaudio.com ] předpokládáné zkreslení je 0.005% THD při výstupu 1Vrms a 0.008% THD při výstupu 2Vrms. Je třeba to postavit a změřit...."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice", "Bastlení.elektronky"]
+tags: ["Bastlení.LTSpice", "Bastlení.elektronky", "Bastlení"]
 aliases:
   - "/2023/02/hybridni-predzesilovac-15db.html"
 ---

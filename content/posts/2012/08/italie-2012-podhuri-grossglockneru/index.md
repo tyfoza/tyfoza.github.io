@@ -19,4 +19,4 @@ Krom večeře a kávy jsme ještě absolvovali polizei kontrol, kdy přijelo pol
 Teď se ukládáme ke spánku a ráno, snad k hodině desáté budeme pokračovat dál. <br />
 Svatý Kryštofe, díky ti za ochranu na cestách.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/807pcmfvuklrcgu1" target="_blank">trasa</a>]
+[<a href="https://photos.app.goo.gl/Ft8z2aWdVEZvJgvcA" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/807pcmfvuklrcgu1" target="_blank">trasa</a>]

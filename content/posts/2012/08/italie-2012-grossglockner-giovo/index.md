@@ -20,4 +20,4 @@ Dnešní plán cesty jsme nesplnili, k průsmyku Stelvio nám zbývá asi třice
 <br />
 Pripisuji rano: krom dvacetiminutoveho intervalu vlaku se v 6:00 ozval Andel Pane. Ke kostelu mame padesat metru. Zvon zustal aktivni a hbite odbiji ctvrt, pul, tri ctvrte a ctyri udery oznami celou a nasleduje cela sada. Vstavali jsme, kdyz se zvon ozval 13x, tedy v 9:00.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/178rc58t29u91hn1" target="_blank">trasa</a>]
+[<a href="https://photos.app.goo.gl/Ft8z2aWdVEZvJgvcA" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/178rc58t29u91hn1" target="_blank">trasa</a>]

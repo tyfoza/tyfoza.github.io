@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/Ci6T8eyQHmNUmdKYA" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Sklápěcí řadící páka[<a href="/posts/2012/01/sklapeci-radici-paka/" target="_blank">1</a>] po třech sezónách začala mít velmi zemědělské vůle. Původní mosazné kluzné pouzdro, které se hodně opotřebovalo bylo nahrazeno novým, bronzovým. Díky Kysine!</div>
 <br />

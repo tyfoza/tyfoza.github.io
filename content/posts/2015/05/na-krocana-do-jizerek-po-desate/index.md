@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6BLoXBilh3OFrM3YR3Krq8gimPvYjaezlIh2j18VtgME7Sj5jEM737oAA9Js1bpOxlD8fCwtFRT96IeRJXB_SYT4953cv1Xj3u8MNZYCmj42-lamAP3LmKz1TiBa6GUTTRDUnuVw01402/s1600/InstagramCapture_0eabf6e3-55f2-43a1-bbf1-d5c719ba26a7.webp" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6BLoXBilh3OFrM3YR3Krq8gimPvYjaezlIh2j18VtgME7Sj5jEM737oAA9Js1bpOxlD8fCwtFRT96IeRJXB_SYT4953cv1Xj3u8MNZYCmj42-lamAP3LmKz1TiBa6GUTTRDUnuVw01402/s400/InstagramCapture_0eabf6e3-55f2-43a1-bbf1-d5c719ba26a7.webp" width="400" /><span id="goog_349178790"></span><span id="goog_349178791"></span></a></div>
 <div class="" style="clear: both; text-align: left;">
-fotky [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>][<a href="http://dr-big.rajce.idnes.cz/Krocan_jaro/#" target="_blank">2</a>]</div>
+fotky [<a href="https://photos.app.goo.gl/DzbkkXSjsMB3FVVh7" target="_blank">1</a>][<a href="http://dr-big.rajce.idnes.cz/Krocan_jaro/#" target="_blank">2</a>]</div>
 <br />
 <div style="text-align: justify;">
 Další úspěšné pokračování nekonečného offroadového setkání v místě, kde lišky, které dávají dobrou noc, mluví buď polsky nebo německy. Ač pořadatelé tvrdí, že Krocan je vodní pták, tak tentokrát počasí opravdu vyšlo a s ním vyšlo i slunce a dobrá nálada nechyběla a kde se krom pár rozbitých kolen, zohýbaných plastů, utržené podrážky a jedné zraněné nohy, vlastně nic zvláštního nestalo.</div>

@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 <img height="320" src="obr-01.webp" width="179" / alt="Ilustrace k článku"><img height="320" src="obr-02.webp" width="179" / alt="Ilustrace k článku"></div>
 <div style="text-align: center;">
-fotky [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">Motosalon</a>] [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">Motocykl</a>]</div>
+fotky [<a href="https://photos.app.goo.gl/z6yo4nAdYEFEE4dt8" target="_blank">Motosalon</a>] [<a href="https://photos.app.goo.gl/z6yo4nAdYEFEE4dt8" target="_blank">Motocykl</a>]</div>
 <div style="text-align: justify;">
 Letňany - Motosalon</div>
 <div style="text-align: justify;">

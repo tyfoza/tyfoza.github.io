@@ -5,7 +5,7 @@ url: "/posts/2011/06/vetrny-mlyn/"
 summary: "[ 1 ] větrný mlýn - Klobouky u Brna, [ 2 ] fotky, [ 3 ] trasa [ 4 ] povetrnik.cz"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Větrný mlýn"]
+tags: ["Větrný mlýn", "Na cestě"]
 aliases:
   - "/2011/06/vetrny-mlyn.html"
 ---

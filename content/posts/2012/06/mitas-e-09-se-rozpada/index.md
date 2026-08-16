@@ -5,7 +5,7 @@ url: "/posts/2012/06/mitas-e-09-se-rozpada/"
 summary: "pneu Mitas E-09 Dakar, cena 2200,- najeto 2200km uvidíme, jestli uznají reklamaci přidáno 27.12.2012: Tak už mám jasno. Gumu jsem přehřál, proto se rozpadá. Chyba používání. Reklamaci Mitas neuznal. Mají pravdu. Příště si dám větší pozor. Doporučili gumu dojezdit, na funkci to nemá vliv."
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "Suzuki DL 650 K9"]
+tags: ["Suzuki DL 650 K9", "Motopneu"]
 aliases:
   - "/2012/06/mitas-e-09-se-rozpada.html"
 ---

@@ -5,7 +5,7 @@ url: "/posts/2015/05/prodlouzeni-tlumice-v-strom-zmena/"
 summary: "[ fotky ] Ke stažení: [ výkres v PDF ] nebo [ výkres v DWG ]. Již před lety jsme řešili, jak zvýšit světlou výšku motocyklu Suzuki V-Strom. Změnili jsme přepákování[ 1 ], namontovali kratší kosti a dosáhli kýženého cíle. Ale za jakou cenu? Změnil se průběh tlumení, tlumič celkově ztvrdnul a jízda přestala být tak komfortní. Od října 2011 mám Stroma zvýšeného „na kostech“ o rozteči 120mm a funguje to a slouží dobře. Teď ale plánuju namontovat 18\" zadní kolo a je třeba s jistotou říci, že ani při maximálním propružení po nějakém pořádném skoku, nepotká se kolo a podsedlovka. A tady už je potřeba řešit délku samotného tlumiče. Afričani – kluci, co jezdí Hondy XRV – to mají snadné, protože mohou vyrobit delší vidličku u paty samotného tlumiče[ 2 ]. Jenže na V-Stromu je v té vidličce šroubek k ovládání tlumení. Začal jsem fantazírovat o tom, jak prodloužit tlumič a Roman.V to geniálně..."
 cover:
     image: "obr-01.webp"
-tags: ["Suzuki DL 650 K9", "3D"]
+tags: ["3D", "Suzuki DL 650 K9"]
 aliases:
   - "/2015/05/prodlouzeni-tlumice-v-strom-zmena.html"
 ---

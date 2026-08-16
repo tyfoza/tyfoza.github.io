@@ -28,7 +28,7 @@ mobilními platformami</i></span><span style="font-family: inherit;"><span style
 problému Y2K a bublina dot-com ještě nepraskla. Píše se rok 1997 a a 
 firma Psion uvádí na trh počítač pro novináře značky pět, o dva roky 
 později je to stroj 5MX</span><span style="font-family: inherit;"><span style="font-family: inherit;"></span>. V té době jsme o kapesním počítači za třicet 
-tisíc tajně snili a sny zůstaly dlouhé roky nenaplněny. Až jednou</span><span style="font-family: inherit;"><span style="font-family: inherit;"></span><span style="font-family: inherit;"><span style="font-family: inherit;"><span style="font-family: inherit;">[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">2</a>]. </span></span></span>&nbsp;</span><br />
+tisíc tajně snili a sny zůstaly dlouhé roky nenaplněny. Až jednou</span><span style="font-family: inherit;"><span style="font-family: inherit;"></span><span style="font-family: inherit;"><span style="font-family: inherit;"><span style="font-family: inherit;">[<a href="https://photos.app.goo.gl/Cmnj5Qa5qN43Gos69" target="_blank">2</a>]. </span></span></span>&nbsp;</span><br />
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>
 <span style="font-family: inherit;">Kapesní počítač s

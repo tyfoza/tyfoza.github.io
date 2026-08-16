@@ -5,7 +5,7 @@ url: "/posts/2021/03/mp-mini-delta/"
 summary: "Původ fotografie a recenze viz [ 1 ] Monoprice Mini Delta Malinká delta tiskárnička. Tiskový prostor velikosti hrnku na kávu. Pořídil jsem bazarový kus a jsem překvapený, jak kvalitní kus hardware to je. Po pár úpravách funguje skvěle. Výrobce uvádí možnost tisku PLA a ABS. Ale pro tisk ABS nebo mého oblíbeného ASA potřebujeme vyhřívanou podložku alespoň 90°C a to tahle delta v základu neumí. Je k ní zdroj 12V / 5A, který zvládne udržet podložku maximálně na padesáti stupních. Úpravy byly potřeba vlastně jenom dvě. Jedna softwarová a jedna hardwarová. (1) Změna firmware Verze firmware Marlin pro MPMD [ 2 ]. Veškerá aktualizace proběhla naprosto bez problémů a přesně podle návodu. Stránky výrobce [ 3 ] nabízí podporu řešení všech starostí i aktuální originální firmware. Je fajn to vědět, kdyby z nějakého důvodu selhal pokus o nahrání něčeho alternativního. Marlin4MPMD nabízí verzi podle..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "3D"]
+tags: ["3D", "Bastlení"]
 aliases:
   - "/2021/03/mp-mini-delta.html"
 ---

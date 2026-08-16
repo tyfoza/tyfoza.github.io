@@ -15,7 +15,7 @@ aliases:
 <div style="text-align: left;">
 <div style="text-align: center;">
 „tímto tě pasuji do stavu čtenářského, povstaň jako čtenář...“</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/zi5tTKstWMsfVkPQ6" target="_blank">fotky</a>]<br />
 <span style="background-color: white; color: #339900; font-family: Tahoma, Verdana, Helvetica, sans-serif; font-size: 14px; font-weight: bold;"><br /></span>
 <span style="background-color: white; color: #339900; font-family: Tahoma, Verdana, Helvetica, sans-serif; font-size: 14px; font-weight: bold;">Pasování prvňáků na čtenáře knihovny</span></div>
 <div class="SubH" style="background-color: white; color: #666666; font-family: Tahoma, Verdana, Helvetica, sans-serif; font-size: 11px; font-style: italic; font-weight: bold;">

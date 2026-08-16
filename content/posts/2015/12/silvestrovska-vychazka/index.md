@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/57NPuKFcRn34utPv5" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Chtělo by se říci, že dnes je poslední den v roce, tedy poslední příležitost k turistice v tomto kalendářním roce. Ale pozor! Pro některé to byla poslední možnost a pro jiné bohužel první vycházka letos. Jeli jsem VLAKEM! Lístek, nástup, dvě zastavení, tři rozjezdy. Usměvaví cestující, paní s těžkým kufrem. Prostě vše, co k tomuto druhu extrémního cestovaní patří. Již v Hradčovicích se projevila nedisciplinovanost a nepřipravenost Péťova, který si v místním koloniálu odvážně zakoupil tatranky na cestu a horský vůdce výpravy Chip toto neuvážené jednání glosoval slovy: „V Nepálu by ho to stálo život.“ A jak jsme vyrazili, tak jsme šli a došli.</div>
 <div style="text-align: justify;">

@@ -5,7 +5,7 @@ url: "/posts/2021/02/raspberry-pi-4b-zapinaci-tlacitko/"
 summary: "RESET a zapínací tlačítko pro Raspberry Pi. Model ke stažení na [ thingiverse ]. Dá se použít s hliníkovým chladičem od Pimoroni [ 1 ] k dodání od českého prodejce [ 2 ]. Raspberry Pi nemá žádné zapínací tlačítko. Připojením napájecího kabelu ho zapnete. A to může být poněkud nepohodlné, když nechcete aby RPíčko běželo pořád. Stejně tak, když potřebujete restartovat, kdyby počítač nereagoval/zamrzl, tak musíte odpojit a připojit napájení = třeba vytáhnout adaptér ze zásuvky. Pomohlo by tlačítko RESET. Idea použití Když je Raspberry Pi vypnuté příkazem shutdown -h now tak chceme, aby stiskem tlačítka POWER_ON došlo k zapnutí. V případě, že vám počítač třeba zamrzne a nereaguje a potřebujete ho restartovat, tak stačí krátce stisknout tlačíko R. Tlačítko POWER_ON: máme dvě možnosti jak ho získat. Bez pájení pouze POWER_ON Tlačítko připojte mezi piny jménem GPIO 3 (SCL) a Ground, pin číslo..."
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.RaspberryPi", "3D"]
+tags: ["3D", "Počítače.RaspberryPi"]
 aliases:
   - "/2021/02/raspberry-pi-4b-zapinaci-tlacitko.html"
 ---

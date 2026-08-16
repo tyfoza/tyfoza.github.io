@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/cqYESh32rQboghd69" target="_blank">fotky</a>]<br />
 Poslední prázdninový víkend patří už každoročně na hvězdárně DK Uherský Brod Tečce za prázdninami. Na rozdíl od minulého roku, kdy pršelo a akce musela být proto zrušena, byla tentokrát obloha slunečná a bez mráčku.<br />
 Již tradičně se akce zúčastnili letečtí modeláři z Prakšic a Pašovi. Na jejich letadla útočili nejen meči, ale i střelbou z muškety, členové Šermířského klubu z Uherského Brodu. Mladí návštěvníci si pod jejich vedením vyzkoušeli vojenský výcvik, běh, plížení, útok s halapartnami atd. Ti nejmladší si ochotně vyzkoušeli malování na obličej.<br />
 Akci doprovázelo pozorování Slunce dalekohledem a nezbytné opékání špekáčků.<br />

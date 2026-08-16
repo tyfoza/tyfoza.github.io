@@ -20,4 +20,4 @@ Vernisáž 19.4.2013 v 17h.<br />
 <i><span style="font-size: xx-small;">pozn. autorka obou videospotů je Maruška Římovská</span></i><br />
 <br />
 <i><span style="font-size: xx-small;"><span style="font-size: small;">přidáno 29.4. 20<span style="font-size: small;">13</span></span></span></i><br />
-<i><span style="font-size: xx-small;"><span style="font-size: small;"><span style="font-size: small;">[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] z verni<span style="font-size: small;">sáže</span>&nbsp;</span></span> </span></i>
+<i><span style="font-size: xx-small;"><span style="font-size: small;"><span style="font-size: small;">[<a href="https://photos.app.goo.gl/Mj9sda6xdPRR14f1A" target="_blank">fotky</a>] z verni<span style="font-size: small;">sáže</span>&nbsp;</span></span> </span></i>

@@ -5,7 +5,7 @@ url: "/posts/2012/10/v-strom-mitas-c-02-c-18/"
 summary: "Proběhla malá offroadová příprava. Vzadu Mitas C-02 a dopředu C-18. Opět bylo namontováno řetězové kolečko se třinácti zuby [ 1 ]. První svezení bylo náročné, přední guma je na asfaltu jako žvýkačka, ale zvykneme si na sebe. přidáno 5.10.2012 Stav tachometru 48000km Svezení mimo cestu je velmi pozitivní [ 2 ]. přidáno 29.10.2012 Na vstromfóru bylo zpochybněno, zda pneu s červeným pruhem jsou homologovány pro běžný provoz, zda by někdo nedělal problémy... Obě pneu jsou homologované pro silnici – Mitas už vyrábí všechny motocyklové pneu homologované. Homologace se pozná podle E8 v kolečku a u toho dlouhé číslo[ 3 ] přidáno 31.10.2012 Někdo psal, že se céčka na asfaltu špatně řídí jen ze začátku, než se trochu ojedou. Nevím. Možná si člověk jenom zvykne. Reálně se na těch pneu dá jezdit úplně normálně s tím, že se snažím nejezdit na 100km/h, aby se guma zbytečně nepřehřála – ale zvládne i..."
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "Suzuki DL 650 K9"]
+tags: ["Suzuki DL 650 K9", "Motopneu"]
 aliases:
   - "/2012/10/v-strom-mitas-c-02-c-18.html"
 ---

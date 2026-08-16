@@ -12,5 +12,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/ukgPB4fEeAd2zPyaA" target="_blank">fotky</a>]<br />
 Přírodní trať[<a href="/posts/2012/03/zahajeni-sezony-brodek-u-prostejova/" target="_blank">1</a>], která zarůstá tak, až je to místy nepříjemné. Zůstaly vyjeté koleje a to je asi tak všechno. Dva výjezdy/sjezdy jsou použitelné pro velká cestovní endura a za sucha lze určitě jet i na univerzálních pneu.

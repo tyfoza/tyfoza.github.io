@@ -5,7 +5,7 @@ url: "/posts/2026/05/pise-se-rok-1470/"
 summary: "páteční podvečer v muzeu [fotky ] Elen Sladká [fotky] Martina Trousilová sobotní historický den [ fotky ] Markéta Švehlíková [ fotky ] Elen Sladká další info viz [ dokument ]"
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Šerm"]
+tags: ["Šerm", "Šerm.bitva"]
 aliases:
   - "/2026/05/pise-se-rok-1470.html"
 ---

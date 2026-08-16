@@ -16,4 +16,4 @@ aliases:
 </tbody></table><table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">v této obci musí každá žena na motocyklu jezdit v šátku, s nůší a v dederonové zástěře...</td></tr>
-</tbody></table>[<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>]
+</tbody></table>[<a href="https://photos.app.goo.gl/e6GEhzpJCcpW6qi48">víc fotek</a>]

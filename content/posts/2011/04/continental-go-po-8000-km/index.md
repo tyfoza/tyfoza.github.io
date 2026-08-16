@@ -5,7 +5,7 @@ url: "/posts/2011/04/continental-go-po-8000-km/"
 summary: "přední pneu Continental Go! 3.25 (100/80) 19\" po 8000 km super stav zadní pneu Continental Go! 120/90 18\" po 8000km sjetá"
 cover:
     image: "obr-01.webp"
-tags: ["Kawasaki GPZ 550", "Motopneu"]
+tags: ["Motopneu", "Kawasaki GPZ 550"]
 aliases:
   - "/2011/04/continental-go-po-8000-km.html"
 ---

@@ -13,4 +13,4 @@ aliases:
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">běžkařka:&nbsp;„Neznáme se?“</td></tr>
-</tbody></table>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]
+</tbody></table>[<a href="https://photos.app.goo.gl/XmCaxqQ3ueaZre9f6" target="_blank">fotky</a>]

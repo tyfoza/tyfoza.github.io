@@ -5,7 +5,7 @@ url: "/posts/2011/04/dunlop-trailmax-enduro/"
 summary: "bezdušová montáž Dunlop Trailmax Enduro 120/90 18\""
 cover:
     image: "obr-01.webp"
-tags: ["Kawasaki GPZ 550", "Motopneu"]
+tags: ["Motopneu", "Kawasaki GPZ 550"]
 aliases:
   - "/2011/04/dunlop-trailmax-enduro.html"
 ---

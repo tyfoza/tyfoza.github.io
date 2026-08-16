@@ -5,7 +5,7 @@ url: "/posts/2012/03/kombineza-na-moto/"
 summary: "Pravděpodobně jsme našli letní využití pro mikulášský kostým čerta. Už teď se těším, až kombinézu otestuju při výletu na nějaký motosraz."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Tak jde čas"]
+tags: ["Tak jde čas", "Na cestě"]
 aliases:
   - "/2012/03/kombineza-na-moto.html"
 ---

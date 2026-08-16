@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "200" >}}{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}</div>
 <div class="separator" style="clear: both; text-align: justify;">
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/HJabspDQFmhYFJhr7" target="_blank">fotky</a>]</div>
 <div class="separator" style="clear: both; text-align: justify;">
 Bylo, nebylo v krajích kolem města Olešnice. Za potokem, který není vidět. Kousek od Rozseče nad Kunštátem, rodné to obci básníka Františka Halase, který lásku k těmto místům vyjádřil ve své básnické próze „Já se tam vrátím.“[<a href="http://bedrnika.cz/basnici/halas1.html" target="_blank">1</a>] <span style="font-size: x-small;">(zvlášť ten poslední odstavec je výživný)</span>&nbsp;</div>
 <div class="separator" style="clear: both; text-align: justify;">

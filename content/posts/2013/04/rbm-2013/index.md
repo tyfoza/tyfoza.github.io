@@ -5,7 +5,7 @@ url: "/posts/2013/04/rbm-2013/"
 summary: "[ fotky ] Tam, kde možná někdy v parném létě bude cesta suchá jako troud, je teď opravdové bahniště. A tudy vedla povětšinou trasa. Tedy alespoň ten malý kousek, který se mně podařilo za šest hodin překonat. Třicet tři kilometrů za pět a půl hodiny a bylo to výživné. Nebylo to o motorce, ale o technice jízdy a ostrém obutí. Místa, která zkušení na Afrikách projeli snadno, měli méně zkušení problémy překonat, byť jeli na LC4. Taky bych tento článek mohl nazvat – první jarní rally z pohledu nejslabšího účastníka. V roklince jsem se zasekal úplně nejvíc, na každém kmenu jsem zůstal viset. Někde, protože jsem s sebou omylem vezl centrální stojan, jinde zas protože byl kmen prostě velký. Obtížnější kousky pro mě vyžadovaly spolupráci ve dvou lidech. Když už před námi bylo přes čtyřicet lidí, byla cesta pořádně vymletá. Motorku jsem neplánovaně položil asi pětkrát a plánovaně pak nepočítaně –..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Cesty - akce offroad", "Video"]
+tags: ["Na cestě", "Video", "Cesty - akce offroad"]
 aliases:
   - "/2013/04/rbm-2013.html"
 ---
@@ -15,7 +15,7 @@ aliases:
 <div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/ZwGXbLxFirLetm9p7" target="_blank">fotky</a>]</div>
 <div>
 Tam, kde možná někdy v parném létě bude cesta suchá jako troud, je teď opravdové bahniště. A tudy vedla povětšinou trasa. Tedy alespoň ten malý kousek, který se mně podařilo za šest hodin překonat. Třicet tři kilometrů za pět a půl hodiny a bylo to výživné.</div>
 <div>

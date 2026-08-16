@@ -18,6 +18,6 @@ Je to univerzální UFO plast pro supermoto, měkký plast.<br />
 {{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}Důležité pro montáž je, aby hrazda co drží blatník, byla shora tak, aby bláto, které se na blatník hrne, tlačilo proti ní a nikoli pouze proti šroubům.<br />
 Bohužel zatím zůstává propojovací most mezi brzdiči, až budeme montovat pancéřové hadice, povedou přímo shora dvě hadice podél teleskopů. Zatím most limituje možnost umístění.<br />
 Kovové držáky z 2,5mm plechu dostanou černý komaxit.<br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/c8HXFXicbqqE1KvP6" target="_blank">fotky</a>]<br />
 <br />
 <i>předchozí zvýšení originálního blatníku [<a href="/posts/2012/03/zvyseni-predniho-blatniku/">1</a>] se neosvědčilo</i>

@@ -14,7 +14,7 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/mm6ngtKEUVjrVzQh9" target="_blank">fotky</a>]<br />
 Strom měl najeto 78tis. km a spojka byla pořád originál. Někde při 60tis. km začala lehce prokluzovat, tak jsem ji sešteloval šroubkem na šneku. A právě to byla chvíle, kdy se měla spojka vyměnit. Bohužel jsem to nevěděl a vesele jezdil dál. Pak někde v rozbahněném výjezdu na jedničku spojka proklouzla a bylo vymalováno. Už to dál nejelo. Tady jsem udělal druhou chybu. Motorka se měla odtáhnout a ne se snažit na ní odjet. Na základnu po asfaltu to bylo 25 kilometrů. Takže velmi pomalu, jen 1800–2000 otáček to pořád ještě jelo na jedničku nebo na dvojku, po asfaltu rychlostí maximálně 20km/h. Do kopce bylo potřeba jít vedle motorky. Hodinu a půl jsem trápil zbytky spojky a byla to chyba.<br />
 Výsledek se dostavil rychle – lamely rozbité, vypadaly jako vytečené.<br />
 Stalo se to v sobotu v poledne někde u Slapů na RXL2014[<a href="/posts/2014/05/tt-travel-event-2014/" target="_blank">1</a>], hned jsem volal servis Mates, zda má skladem spojku na Stroma. Je to specialista a spojku skladem má vždycky, že budu potřebovat i celý spojkový koš, to jsem ještě nevěděl. Řešili jsme to hned v sobotu odpoledne, za dvě hodiny měl Mates hotovo.<br />

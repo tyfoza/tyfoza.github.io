@@ -14,5 +14,5 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] s popiskama<br />
+[<a href="https://photos.app.goo.gl/BDzHgZBBB2dawhTT7" target="_blank">fotky</a>] s popiskama<br />
 Berlingo – nestírá zadní stěrač. Zarostl rzí. Zaměnitelný za pohon z Peugeot Partner.

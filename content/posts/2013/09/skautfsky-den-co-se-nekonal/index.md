@@ -14,7 +14,7 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/YeCS1Sj9GSjMtv9RA" target="_blank">fotky</a>]<br />
 Akce viz. [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>]. Žel pro nepřízeň počasí odloženo na příští rok.<br />
 A video [<a href="http://www.youtube.com/watch?v=qQdWgpwE5tc" target="_blank">2</a>][<a href="http://www.youtube.com/watch?v=ITe0ksrtSrg" target="_blank">3</a>].<br />
 <br />

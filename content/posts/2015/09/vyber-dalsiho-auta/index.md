@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] s popiskama<br />
+[<a href="https://photos.app.goo.gl/hU6CU5pSrrM64HpT7" target="_blank">fotky</a>] s popiskama<br />
 <div style="text-align: justify;">
 Napsat „výběr nového auta“ nelze. Auto nové není a nebude. Takže ojetina ojetá. Přiznávám, že teď se tady krom věcí k šermu a motorkám občas vyskytne i nějaký ten příspěvek o autě. Protože po Škodě Felicii v LPG přejít k dvoulitrovému naftovému motoru je jako přesedlat ze stopětadvacítky na velkou motorku.</div>
 Proč Berlingo?<br />

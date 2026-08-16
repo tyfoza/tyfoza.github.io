@@ -10,4 +10,4 @@ aliases:
   - "/2012/03/fotky-web-konference.html"
 ---
 
-<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>][<a href="http://konference.ub.cz/" target="_blank">web konference</a>]
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>[<a href="https://photos.app.goo.gl/2ajoAVFGKi7i9aZy8" target="_blank">fotky</a>][<a href="http://konference.ub.cz/" target="_blank">web konference</a>]

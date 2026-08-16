@@ -5,7 +5,7 @@ url: "/posts/2011/06/utf-8brg8gqswzzxppbnkgbmega2fydhk/"
 summary: "Odpoledne z Brodu do Březiny a pak výlety po okolí. U Mokré je opravdu velký lom [ lokalita ][ technika ], lesní cestou se dá přijet zadem. Les řídne, bláto a obrovský val, dalo se vjet až do lomu. Nikde nikdo, až někde na druhém konci bylo auto a nějaký pracovník. Přijel jsem až k němu a ptám se - jak dojet dolů do dědiny? Docela se vyděsil, že tam nemám co dělat. A pak vyděsil na oplátku mě, byl to střelmistr a kladl si nálože, že k večeru plánují odstřel. A prý kdybych jel dolů v lomu, tak padnu do pasti vrátnému, který by volal policii. Že se mám vrátit zpátky do lesa. Další lom je mezi Březinou a Ochozem, z hlavní cesty se tam nedá přijet, je tam závora a vjezd pro náklaďáky a zákaz vjezdu. V Ochozu u Brna mně hodný myslivec detailně popsal jak k lomu přijet od zadu. Ten první lom byl větší a hezčí. Podle offline nokia ovi maps jsem našel starou huť [ 1 ] a dva větrné mlýny, v..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Větrný mlýn"]
+tags: ["Větrný mlýn", "Na cestě"]
 aliases:
   - "/2011/06/utf-8brg8gqswzzxppbnkgbmega2fydhk.html"
 ---

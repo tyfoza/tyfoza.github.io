@@ -14,6 +14,6 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/z8J24yXMMf7ExdvT6/" target="_blank">fotky</a>]<br />
 V technickém průkazu mého V-Stroma je uvedeno přední kolo takto: ráfek 19×2,5" a pneu 110/80R19. Aby Strom tyto parametry splnil, bylo nutné vyplést střed z XTZ750 na 19" ráfek místo původního 21". Jako zadání úkolu to zní snadno, ale realizace je náročnější, protože neznáme potřebnou délku drátů. Kolo vyplétal profesionál Moto Trávníček[<a href="http://www.mototravnicek.cz/" target="_blank">1</a>] a povedlo se to moc dobře,<br />
 Konečně mám tedy dvě sady kol. Offroadové na krosových pneu s 21" předním kolem a silniční obuté na Mitas E-07 s 19" předním kolem.

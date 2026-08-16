@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div>
-fotky od Hynka Fránka[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] a něco málo z mobilu[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">2</a>].</div>
+fotky od Hynka Fránka[<a href="https://photos.app.goo.gl/k3asFdYDksUFPnbY7" target="_blank">1</a>] a něco málo z mobilu[<a href="https://photos.app.goo.gl/k3asFdYDksUFPnbY7" target="_blank">2</a>].</div>
 <div>
 <br /></div>
 <div>

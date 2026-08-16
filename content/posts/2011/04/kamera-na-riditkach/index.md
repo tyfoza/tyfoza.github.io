@@ -3,7 +3,7 @@ title: "Kamera na řídítkách"
 date: 2011-04-28T13:54:00.002Z
 url: "/posts/2011/04/kamera-na-riditkach/"
 summary: "První pokus, foťák [ Canon ] na řídítkách, pevně přilepený lepící páskou, sedící na kusu gumy na kostičce s kapalinou přední brzdy. Vibrace příšerné, video nepoužitelné. Jak by řekl klasik: \"Tudy ne přátelé, tudy cesta nevede, profukováním cigaretového dýmu skrz vodu v umyvadle zlato nevzniká...\""
-tags: ["Na cestě", "Video"]
+tags: ["Video", "Na cestě"]
 aliases:
   - "/2011/04/kamera-na-riditkach.html"
 ---

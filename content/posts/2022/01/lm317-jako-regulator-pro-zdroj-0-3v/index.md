@@ -5,7 +5,7 @@ url: "/posts/2022/01/lm317-jako-regulator-pro-zdroj-0-3v/"
 summary: "Lineární regulátor LM317 v katalogovém zapojení umí regulovat v rozpětí 1,2 – 37V. Obvod vyžaduje zatížení alespoň 5mA, aby fungoval správně. Otázka: Může to dobře regulovat i nižší napětí, když referenční napětí LM317 je asi 1,2 až 1,3V? Odpověď: Může, ale musí mít adekvátně nastaveno referenční napětí. Všechna zde uvedená schémata a modely pro LTSpice ke stažení [ tady ]. V principu jde přesně o to, odečíst od referenčního napětí (ADJ) přesně 1,25V. Pokud mám k dispozici napájení –1,25V je to takto snadné a LM317 bude regulovat od 0V. Jenže, takto snadné to většinou nebude. V katalogu [ onsemi ] na str.8 je uvedeno následující schéma pro regulaci od 0V Referenční napětí je získáno pomocí dvojice diod D1, D2. Funguje to, ale je to teplotně velmi nestabilní, reálně asi 2,5mV/K. Otázka zní, zda to lze vyřešit lépe. Použití TL431 jako napěťové reference zabrání teplotnímu driftu. Ale co..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice"]
+tags: ["Bastlení.LTSpice", "Bastlení"]
 aliases:
   - "/2022/01/lm317-jako-regulator-pro-zdroj-0-3v.html"
 ---

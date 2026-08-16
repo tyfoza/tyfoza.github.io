@@ -5,7 +5,7 @@ url: "/posts/2011/09/kolem-komina-mimo-asfalt/"
 summary: "Počasí blížícího se podzimu nepřeje dlouhým vyjížďkám, teplota kolem patnácti stupňů [ 1 ] znamená, podle Wind Chill [ 2 ][ 3 ], že rychlost 90 km/h díky větru udělá stupňů asi osm a na to musí být člověk dostatečně vybaven a stejně to úplně příjemné asi nikdy nebude; kdežto enduro jízda ve stoje a přetahování se s dvou metrákovým Stromem v blátě prohřeje až dost. Pomalu přicházím na kloub řízení trakce pomocí spojky a plynu. Pneu Anakee 2 příjemně překvapily, hrubé bláto nezvládnou, ale mokrá tráva jim docela chutná. Příští pneu musí být pořádné špalky do terénu, aby Strom křižujíce mokrou louku šikmo do kopce neztrácel přilnavost předního kola. Kupodivu jsem nepoložil motorku ani jednou, poučen z posledního bláta nad Žítkovou - na vjezdu do bahniště je třeba jet svižněji, na střed zpomalít a s proklouznutím spojky při výjezdu akcelerovat - tak zní poučka a podle ní to opravdu funguje...."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Suzuki DL 650 K9"]
+tags: ["Suzuki DL 650 K9", "Na cestě"]
 aliases:
   - "/2011/09/kolem-komina-mimo-asfalt.html"
 ---

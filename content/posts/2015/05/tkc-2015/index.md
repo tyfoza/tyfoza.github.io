@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: justify;">
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] </div>
+[<a href="https://photos.app.goo.gl/x33EsrPM5dx8kHi77" target="_blank">fotky</a>] </div>
 <div style="text-align: justify;">
 Další ročník setkání[<a href="http://t-k-c.webnode.cz/" target="_blank">1</a>] přátel lehkého offroadu úspěšně proběhl. Na místo srazu to mám jářku skotných třista kilometrů, což je na céčkových pneu zábavné, ale poněkud zdlouhavé. Pochopil jsem, proč se hodí mít v helmě něco k poslechu. S přicházejícím večerem se plnila společenská místnost lidmi i atmosférou. Pořadatelé sršeli nadšením tak, že hrozilo nebezpečí požáru, který nevznikl jen díky saturaci všech přítomných alkoholem.</div>
 <div style="text-align: justify;">

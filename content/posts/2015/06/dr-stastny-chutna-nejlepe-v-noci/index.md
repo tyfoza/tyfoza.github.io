@@ -5,7 +5,7 @@ url: "/posts/2015/06/dr-stastny-chutna-nejlepe-v-noci/"
 summary: "Pramen Dr. Šťastného. Nejlepší léčivý pramen[ 1 ] v Luhačovicích. V roce 1929 mu říkali Gejzír a prý stříkal do výše dvaceti metrů."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Tak jde čas"]
+tags: ["Tak jde čas", "Na cestě"]
 aliases:
   - "/2015/06/dr-stastny-chutna-nejlepe-v-noci.html"
 ---

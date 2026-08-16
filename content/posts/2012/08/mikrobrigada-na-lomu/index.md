@@ -18,4 +18,4 @@ FFF každý den řádně vyvětral svého Dakara a najel určitě alespoň sto k
 V pátek nám zbylo už jen odkopání a obnažení septiku, který má být v průběhu příštího týdne vyvezen. Dokud septik Véna neotevřel panovala veselá a voňavá pracovní nálada. Pak už se všichni rozprchli. <br />
 Akce dobrá. Za dva roky zopakujeme.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]
+[<a href="https://photos.app.goo.gl/Z4yAmtkUpLDnK1kx6" target="_blank">fotky</a>]

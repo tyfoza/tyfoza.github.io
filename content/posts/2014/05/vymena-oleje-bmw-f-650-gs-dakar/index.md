@@ -14,7 +14,7 @@ aliases:
 <tr><td style="text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">ocelové střepiny v oleji a na magnetu vypouštěcího šroubu, to je rys a nikoli problém motoru Rotax</td></tr>
 </tbody></table>
-<span style="text-align: justify;">[</span><a href="https://sites.google.com/view/tyfotoza/" style="text-align: justify;" target="_blank">fotky</a><span style="text-align: justify;">]</span><br />
+<span style="text-align: justify;">[</span><a href="https://photos.app.goo.gl/fFbQQ5qNTMcuQQvm8" style="text-align: justify;" target="_blank">fotky</a><span style="text-align: justify;">]</span><br />
 <div style="text-align: justify;">
 Naše poprvé, aneb první výměna oleje bez zkušeností s motorem Rotax s oddělenou olejovou nádržkou. Postupujeme podle servisní příručky[<a href="https://drive.google.com/file/d/0B-IBT7wOoyMAbnNKaE9Zdk0xY1E/edit?usp=sharing" target="_blank">1</a>] BMW str. 34-35. Sundat plasty z imitace nádrže, sundat dole kryt motoru. Zahřát motor na provozní teplotu. Uvolnit nádržku olejovou, která drží na třech bodech. Sundat víčko, vyšroubovat vypouštěcí šroub a vypustit z olejové nádržky olej. Vyšroubovat vypouštěcí šroub oleje dole na motoru, matka 24mm – pozor! hliníkový šroub, takže opatrně. Vypustit olej z motoru.</div>
 <div style="text-align: justify;">

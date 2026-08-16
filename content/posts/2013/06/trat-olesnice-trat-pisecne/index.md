@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "480" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/kbq8h37MVq9Aqs7bA" target="_blank">fotky</a>]<br />
 Motokrosové trať[<a href="http://www.mapy.cz/s/7yuC" target="_blank">1</a>] v Olešnici a trať[<a href="http://www.mapy.cz/s/7yuD" target="_blank">2</a>] v Písečné.<br />
 <div class="separator" style="clear: both; text-align: center;">
 </div>

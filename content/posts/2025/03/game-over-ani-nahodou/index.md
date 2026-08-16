@@ -5,7 +5,7 @@ url: "/posts/2025/03/game-over-ani-nahodou/"
 summary: "[ fotky ] [ soutěže a výzvy ] Jak strávit jarní prázdniny? Je lepší joystick nebo gamepad? Jsou hratelnější osmibitové hry z osmdesátých let nebo šestnáctibitové z let devadesátých? Odpovědi jsme hledali celý týden v informatoriu muzea Jana Amose Komenského v Uherském Brodě. Ač jsme měli dvacet šest herních pracovišť, stejně bylo někdy tak plno, že se zájemci museli prostřídat poté, co uviděli nápis „game over“. Zkuste si v prohlížeči zahrát legendární [ Manic Miner ]. Ovládá se klávesami Q,W a M. Na stejném webu jsou i [ další hry ], až se mně chce napsat, že jsou tam všechny hry pro ZX Spectrum. My jsme na [ Didaktik M ] hráli naživo jen [ Chuckie Egg ]. Na čem hry běžely Kromě opravdových starých počítačů jsme použili softwarové emulátory – [ RetroPie ] na Raspberry Pi 4B (konzole PS1, NES, SNES, SuperNES a SEGA) – [ PiconesPlus] emuluje NES na Raspberry Pi Pico – [ Atari800 ] na..."
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.8bit", "Počítače.hry", "Počítače", "Počítače.RaspberryPi"]
+tags: ["Počítače.8bit", "Počítače", "Počítače.RaspberryPi", "Počítače.hry"]
 aliases:
   - "/2025/03/game-over-ani-nahodou.html"
 ---

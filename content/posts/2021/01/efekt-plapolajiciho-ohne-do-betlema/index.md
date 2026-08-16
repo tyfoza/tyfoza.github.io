@@ -5,7 +5,7 @@ url: "/posts/2021/01/efekt-plapolajiciho-ohne-do-betlema/"
 summary: "Efektů poblikávání ohně se dá najít hodně. Např [ tento ] řeší pěkně barvu mícháním červené a žluté, zvolí náhodnou intenzitu a přeblikne. Není to špatné, ale nebylo to ono. Potřebujeme náhodně zvolit intenzitu a k ní postupně ztlumit nebo zesílit od aktuálního stavu. Drobnost, která z poblikávání udělala reálné ohniště. Stačil kousek [ programu ], který to řeší. Model táborového ohně [ 1 ][ 2 ]. Byl vybrán [ tento ], který má jenom kameny kolem a plamen. Trochu jsem plamen zevnitř vyzobal v meshmixeru a zbytek bylo ruční dlabání, aby vzniklo místo pro dvě ledky a desku 26×18mm s procesorem Attiny85 od Digispark. Má dva PWM výstupy a víc nebylo potřeba."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "3D"]
+tags: ["3D", "Bastlení"]
 aliases:
   - "/2021/01/efekt-plapolajiciho-ohne-do-betlema.html"
 ---

@@ -5,7 +5,7 @@ url: "/posts/2012/05/darkovicky/"
 summary: "[ fotky ][ trasa ] Dobytí opevnění [ 1 ] za pomoci tří moderních motocyklů a dvou děvčat. Medard online [ 2 ] hlásí sváteční úterý bez deště, FFF po telefonu ověřuje, zda je dnes muzeum pevností otevřeno, holky dopékají buchtu a řízky a před dům právě dobzučel Čmoudův „šicí stroj.“ Tahle nějak vypadalo naše dopoledne, když jsme se pak naskládali na stroje a vyrazili, vzpomněli jsme na film Volný jako pták [ 3 ]. V Ostravě jsme přistihli pana H v garáži, jak chystá svoji ATV na STK... Oběd se podával před vedlejší garáží, ATV jsme prolezli celé a pokračovali k opevnění v Darkovičkách. Ostnaté dráty, protitankové zátarasy, v poli tanky a sem tam betonová obluda. Prostě nádherné místo, volně přístupné, dá se dojet přímo tam. Prohlídku jsme na doporučení FFF odložili až na příště. A že tam bylo veselo: „Viděls u Darkoviček tu raketovou montáž? „Viděls?“ „No tož vidíš a já jsem ji neviděl.“..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Video"]
+tags: ["Video", "Na cestě"]
 aliases:
   - "/2012/05/darkovicky.html"
 ---
@@ -20,7 +20,7 @@ aliases:
 
 
 <embed width="640" height="480"  src="http://www.youtube.com/v/67iiS7jGBlM?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>
-<span style="text-align: left;">[</span><a href="https://sites.google.com/view/tyfotoza/" style="text-align: left;" target="_blank">fotky</a><span style="text-align: left;">][</span><a href="http://www.sports-tracker.com/#/workout/tyfoza/d5iui9ihcgbf713c" style="text-align: left;" target="_blank">trasa</a><span style="text-align: left;">]</span><br />
+<span style="text-align: left;">[</span><a href="https://photos.app.goo.gl/45apCHYxzP3PX6Su9" style="text-align: left;" target="_blank">fotky</a><span style="text-align: left;">][</span><a href="http://www.sports-tracker.com/#/workout/tyfoza/d5iui9ihcgbf713c" style="text-align: left;" target="_blank">trasa</a><span style="text-align: left;">]</span><br />
 Dobytí opevnění [<a href="http://opevneni.vojenstvi.cz/oblasti/ostravsko/darkovicky.htm" target="_blank">1</a>] za pomoci tří moderních motocyklů a dvou děvčat. Medard online [<a href="http://www.medard-online.cz/" target="_blank">2</a>] hlásí sváteční úterý bez deště, FFF po telefonu ověřuje, zda je dnes muzeum pevností otevřeno, holky dopékají buchtu a řízky a před dům právě dobzučel Čmoudův „šicí stroj.“ Tahle nějak vypadalo naše dopoledne, když jsme se pak naskládali na stroje a vyrazili, vzpomněli jsme na film Volný jako pták [<a href="http://www.csfd.cz/film/131618-volny-jako-ptak/" target="_blank">3</a>].<br />
 V Ostravě jsme přistihli pana H v garáži, jak chystá svoji ATV na STK... Oběd se podával před vedlejší garáží, ATV jsme prolezli celé a pokračovali k opevnění v Darkovičkách.<br />
 Ostnaté dráty, protitankové zátarasy, v poli tanky a sem tam betonová obluda. Prostě nádherné místo, volně přístupné, dá se dojet přímo tam. Prohlídku jsme na doporučení FFF odložili až na příště. A že tam bylo veselo:&nbsp;„Viděls u Darkoviček tu raketovou montáž?&nbsp;„Viděls?“&nbsp;„No tož vidíš a já jsem ji neviděl.“ Au.<br />

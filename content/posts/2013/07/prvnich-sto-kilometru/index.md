@@ -5,7 +5,7 @@ url: "/posts/2013/07/prvnich-sto-kilometru/"
 summary: "Tak z Ábi je řidič. Čekají nás další dvě sezóny s „rádiem Rebel.“"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Honda CA125 Rebel"]
+tags: ["Honda CA125 Rebel", "Na cestě"]
 aliases:
   - "/2013/07/prvnich-sto-kilometru.html"
 ---

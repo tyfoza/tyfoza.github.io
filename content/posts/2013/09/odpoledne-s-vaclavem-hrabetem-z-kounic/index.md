@@ -19,4 +19,4 @@ Václav hrabě z Kounic s chotí Josefou v Uherském Brodě v září 1913. Toho
 <div class="separator" style="clear: both; text-align: center;">
 JUDr. Václav Robert hrabě z Kounic</div>
 foto Elen Sladká viz. [<a href="http://elenkas.rajce.idnes.cz/Dny_evropskeho_dedictvi_Uhersky_Brod_2013/#" target="_blank">1</a>]<br />
-foto Oldřich Prajza, František Blaha viz. [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">2</a>]</div>
+foto Oldřich Prajza, František Blaha viz. [<a href="https://photos.app.goo.gl/xGqtuB9mEckGTZb67" target="_blank">2</a>]</div>

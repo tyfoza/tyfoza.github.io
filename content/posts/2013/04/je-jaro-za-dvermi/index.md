@@ -11,7 +11,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/Zxh1jMpyFJD7jDRU9" target="_blank">fotky</a>]<br />
 Včera jsme posunuli čas – na letní. Nevím, jestli to bylo moudré.<br />
 Kalendář ukazuje duben – Velikonoce – pohled z okna říká prosinec – Vánoce.<br />
 Tak nebo tak už se dárků nedočkáme.<br />

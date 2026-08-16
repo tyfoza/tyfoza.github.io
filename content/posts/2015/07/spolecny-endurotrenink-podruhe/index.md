@@ -19,7 +19,7 @@ AKCE E.T. PROBĚHLA ÚSPĚŠNĚ <span style="font-size: xx-small;">STOP</span> P
 <div class="separator" style="clear: both; text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: justify;">
-<i>fotky&nbsp;</i>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] výběr <span style="font-size: xx-small;">(autor uveden v názvu souboru)</span>, [<a href="http://kysin.rajce.idnes.cz/E.T._2.0_Druhy_spolecny_enduro_trenink" target="_blank">2</a>] Kysin, [<a href="http://bogserka.rajce.idnes.cz/E.T.2015/" target="_blank">3</a>] Klasika</div>
+<i>fotky&nbsp;</i>[<a href="https://photos.app.goo.gl/XDLLxL5N4h4fwwMH8" target="_blank">1</a>] výběr <span style="font-size: xx-small;">(autor uveden v názvu souboru)</span>, [<a href="http://kysin.rajce.idnes.cz/E.T._2.0_Druhy_spolecny_enduro_trenink" target="_blank">2</a>] Kysin, [<a href="http://bogserka.rajce.idnes.cz/E.T.2015/" target="_blank">3</a>] Klasika</div>
 <div class="separator" style="clear: both; text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: justify;">

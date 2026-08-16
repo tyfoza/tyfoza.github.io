@@ -16,4 +16,4 @@ aliases:
 
 
 <embed width="640" height="480"  src="http://www.youtube.com/v/AP_FEPjzDwo?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]
+[<a href="https://photos.app.goo.gl/EHSQiNyUzKxvKK57A" target="_blank">fotky</a>]

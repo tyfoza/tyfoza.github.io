@@ -5,7 +5,7 @@ url: "/posts/2023/01/predzesilovac-ke-gramofonu/"
 summary: "Proč potřebuje gramofon předzesilovač Běžná gramofonová magnetodynamická přenoska[ 1 ] může mít výstupní napětí 0,15–5mV (obvykle 3–5mV) a tento slabý signál potřebujeme zesílit na úroveň linkového výstupu[ 2 ], který se pohybuje okolo 1V. Teprve „předzesílený“ signál můžeme připojit do linkového vstupu (AUX) běžného zesilovače. Podrobnější popis konstrukce přenosky viz [ 3 ]. Slabý signál gramofonové přenosky nestačí pouze dokonale zesílit, je nutné provést i korekci, kdy „přidáme basy a ubereme výšky,“ a je to potřeba udělat hodně přesně. Průběh potřebné korekce popisuje křivka RIAA a nejedná se o malou úpravu průběhu zvuku např. basovou frekvenci 20Hz zesílíme 10× a výškovou frekvenci 20kHz musíme 10× zeslabit. Bez této korekce by nám deska při přehrávání zněla velmi podivně. Gramofon má obvykle zabudovaný předzesilovač, u mnohých gramofonů se dá vypnout; prodávájí se i zařízení bez..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice", "Bastlení.elektronky"]
+tags: ["Bastlení.LTSpice", "Bastlení.elektronky", "Bastlení"]
 aliases:
   - "/2023/01/predzesilovac-ke-gramofonu.html"
 ---

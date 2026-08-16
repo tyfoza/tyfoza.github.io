@@ -5,7 +5,7 @@ url: "/posts/2012/09/fff-prvni-off/"
 summary: "[ trasa ]"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "BMW F 650 GS Dakar"]
+tags: ["BMW F 650 GS Dakar", "Na cestě"]
 aliases:
   - "/2012/09/fff-prvni-off.html"
 ---

@@ -5,14 +5,14 @@ url: "/posts/2013/05/na-vapenkach-je-potok/"
 summary: "[ fotky ] V plánu byl výlet před Lopeník, Březovou, Strání a Vápenky k Trampovi. Já na Stromu měl v tandemu Margot – Francouzku, která na motorce jela prvně a do interkomu mně celou cestu švitořila o krásách naší země a srovnávala jízdu na motorce s jízdou na koni, kterou důvěrně zná. Ve Vápenkách jsme ztratili druhou část výpravy, Vénu a Ábi na Hondě Hornet 900. Čekáme, dlouho nejeli, tak že se kousek vrátíme. Snad se nic nestalo! A opravdu, nic se nestalo, jenom v poslední zatáčce trefil Véna v náklonu kus bláta, šel smykem na přední kolo a motorka sjela do potoka, který teče vedle cesty a vede k němu schod na výšku postavy. Hornet zůstal zapíchnutý předním kolem mezi kameny. Když jsme s Margot dorazili, Ábi už fotila Vénu rachtajícího se ve vodě s motorkou a on hned vesele hlásil, že motorka je v pořádku, že startuje, jenom neví, jak ji z té díry dostaneme. Naštěstí ruku k dílu..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Video", "Jiné moto"]
+tags: ["Jiné moto", "Video", "Na cestě"]
 aliases:
   - "/2013/05/na-vapenkach-je-potok.html"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/GuNZuCRDHAD9HKEG6" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 V plánu byl výlet před Lopeník, Březovou, Strání a Vápenky k Trampovi. Já na Stromu měl v tandemu Margot – Francouzku, která na motorce jela prvně a do interkomu mně celou cestu švitořila o krásách naší země a srovnávala jízdu na motorce s jízdou na koni, kterou důvěrně zná. Ve Vápenkách jsme ztratili druhou část výpravy, Vénu a Ábi na Hondě Hornet 900. Čekáme, dlouho nejeli, tak že se kousek vrátíme. Snad se nic nestalo! A opravdu, nic se nestalo, jenom v poslední zatáčce trefil Véna v náklonu kus bláta, šel smykem na přední kolo a motorka sjela do potoka, který teče vedle cesty a vede k němu schod na výšku postavy. Hornet zůstal zapíchnutý předním kolem mezi kameny. Když jsme s Margot dorazili, Ábi už fotila Vénu rachtajícího se ve vodě s motorkou a on hned vesele hlásil, že motorka je v pořádku, že startuje, jenom neví, jak ji z té díry dostaneme. Naštěstí ruku k dílu přiložil kolemjdoucí mykolog a nějaký kluk na překrosené Jawě – díky jim! jsme motorku dostali asi padesát metrů po proudu, kde už byl břeh tak nějak schůdný a stroj jsme vytlačili na cestu. Prakticky se krom – odřených kolen, promáčklé nádrže, zmačkaného padacího rámu a ohnutého chladiče – nic vážného nestalo. Pak už jsme pokračovali k Trampovi, kde byl zabahněný Hornet perlou mezi naleštěnými supersporty.</div>
 <div style="text-align: justify;">

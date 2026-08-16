@@ -24,4 +24,4 @@ Z garáže jsme vynosili co šlo, zachránili jsme plynový ohřev vody a snad i
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "200" >}}</td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Maximální hladina vody v naší garáži byla sedmdesát centimetrů.</td></tr>
-</tbody></table>Další foto, obrázek řeky aj. [<a href="https://sites.google.com/view/tyfotoza/">zde</a>]
+</tbody></table>Další foto, obrázek řeky aj. [<a href="https://photos.app.goo.gl/LiH9PCDZnRQHcZ2o6">zde</a>]

@@ -3,7 +3,7 @@ title: "Uspávání studánek"
 date: 2012-11-08T16:50:00.001Z
 url: "/posts/2012/11/uspavani-studanek/"
 summary: "Každoroční akce Knihovny Františka Kožíka[ 1 ] a Domu kultury[ 2 ] v Uherském Brodě. Tentokrát jsme se sešli v zahradě Panského domu, kde je prostředí pro děti přátelštější než otevřené náměstí, které děti nezaplnily a kde všechny dobře neslyšely ani neviděly. Když se na pódiu roztančily víly, ozvalo se kdesi z řad malinkých skautských Světlušek: „To jsou nějací transvestiti?“ a pak záhy odpověď: „Ne, to je moje maminka...“ V programu vystoupily naše milé knihovnice, děti z Mateřské školy Svatopluka Čecha[ 3 ] a ohňová show Fuerza del Fuego[ 4 ]. [ fotky ] od tety Elky"
-tags: ["Tak jde čas", "Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Tak jde čas", "Šerm.vystoupení", "Video", "Šerm"]
 aliases:
   - "/2012/11/uspavani-studanek.html"
 ---

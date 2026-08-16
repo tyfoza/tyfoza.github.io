@@ -5,7 +5,7 @@ url: "/posts/2011/05/dave-na-besede/"
 summary: "Zastavil se Dave Ostravský na besedu. [ web ]"
 cover:
     image: "obr-01.webp"
-tags: ["Tak jde čas", "Jiné moto"]
+tags: ["Jiné moto", "Tak jde čas"]
 aliases:
   - "/2011/05/dave-na-besede.html"
 ---

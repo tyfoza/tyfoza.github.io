@@ -5,7 +5,7 @@ url: "/posts/2025/04/montezumova-pomsta/"
 summary: "Obrazovka ze hry Montezuma's Revenge – Director's Cut, která vyšla na Steamu 18. února 2025 Pro srovnání stejná místnost z původní hry pro ATARI (1984) Tatáž komnata z verze pro SEGA Master System z roku 1989 Hra Montezuma's Revenge představená v roce 1983, a která pro Atari 800 vyšla o rok později, se během pár dalších let dočkala mnoha portů na ostatní platformy. V roce 2025 je 40. výročí masivního rozšíření této hry. [ spustit ] a hrát hru pro Atari 800 [ spustit ] a hrát port hry pro Commodore 64 [ spustit ] a hrát port hry pro ZX Spectrum – zde se hra jmenuje Panama Joe podle hlavního hrdiny [ web ] info o portu pro herní konzoli [ Coleco Vision ] [ gameplay ] ukazuje, jak jsou jednotlivé levely rozsáhlé Celý popis hry najdeme na [ wiki ] včetně odkazů na manuály [ 1 ] aj. z představení hry viz [ zdroj ] obsahující i rozhovory kolem portů pro NES a SEGA Inspirace na znovuzrození..."
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.8bit", "Počítače.hry", "Počítače"]
+tags: ["Počítače.8bit", "Počítače", "Počítače.hry"]
 aliases:
   - "/2025/04/montezumova-pomsta.html"
 ---

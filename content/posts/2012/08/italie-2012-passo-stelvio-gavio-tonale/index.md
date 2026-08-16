@@ -22,7 +22,7 @@ Passo Tornale byla široká cesta vedoucí na vrcholu přes vysokohorské střed
 Passo Campo Carlo Magna byl poslední průsmyk, který jsme museli absolvovat, abychom dorazili do cíle k obrovskému jezeru Garda. Je jako moře.  Na Balatonu člověk dohlédne na druhý břeh, tady ne. Asi hodinu jsme kroužili a hledali místo na spaní "někde," ale nakonec jsme zakotvili v kempu. Erika už stihla i pláž a večerní koupání. <br />
 Ceny kempů jsou všude srovnatelné, takže pro naši šestici 10€ na hlavu za noc. <br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/4ffs4uqjver0c65a" target="_blank">trasa</a>]<br />
+[<a href="https://photos.app.goo.gl/Ft8z2aWdVEZvJgvcA" target="_blank">fotky</a>] [<a href="http://www.sports-tracker.com/#/workout/tyfoza/4ffs4uqjver0c65a" target="_blank">trasa</a>]<br />
 <br />
 fotky z webu fotostelvio.com<br />
 [<a href="http://goo.gl/bOctO" target="_blank">1</a>] [<a href="http://goo.gl/15y5Z" target="_blank">2</a>] [<a href="http://goo.gl/oC0B3" target="_blank">3</a>]

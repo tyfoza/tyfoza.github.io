@@ -5,7 +5,7 @@ url: "/posts/2026/07/game-over-3/"
 summary: "Končily jarní prázdniny, březen, nedělní podvečer asi hodinu poté, co měla zavřít retroherna a v sále muzea sedělo stále osm lidí. Pařili na Atari s multijoy Mashed Turtles[ 1 ]. Než jsme se rozloučili, slíbil jsem mladým a nadějným retrohráčům, že retro video herna Game over bude zase otevřena až se začátkem velkých prázdnin. Tak se také stalo. Rok se sešel s rokem a v kině Máj v Uherském Brodě jsme strávili poctivé dva týdny se starými hrami. Hernu navštívilo necelých tři sta návštěvníků a ti nejmenší to brali skoro jako nějaký příměstský tábor; přišli s otevíračkou, zaběhli si domů na oběd; pitný režim máme zajištěný; a vydrželi hrát až do pozdního odpoledne. V prvním týdnu nás navštívila delegace z olomouckého atariklubu a druhý týden bylo poctou uvítat profesionální znalce retroher. Jejich dojmy jsou v [ reportáži ] na highvoltage.cz[ 2 ]."
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.hry", "Počítače"]
+tags: ["Počítače", "Počítače.hry"]
 aliases:
   - "/2026/07/game-over-3.html"
 ---

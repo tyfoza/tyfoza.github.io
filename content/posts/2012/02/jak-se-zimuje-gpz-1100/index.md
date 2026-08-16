@@ -5,7 +5,7 @@ url: "/posts/2012/02/jak-se-zimuje-gpz-1100/"
 summary: ""
 cover:
     image: "obr-01.webp"
-tags: ["Tak jde čas", "Jiné moto"]
+tags: ["Jiné moto", "Tak jde čas"]
 aliases:
   - "/2012/02/jak-se-zimuje-gpz-1100.html"
 ---

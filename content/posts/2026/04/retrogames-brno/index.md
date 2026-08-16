@@ -5,7 +5,7 @@ url: "/posts/2026/04/retrogames-brno/"
 summary: "[ fotky ] [ reportáž ] high-voltage.cz Vzal jsem na výlet Sharp MZ-800, PMD-85 a muzejní kiosek s obří verzí automatu [ Elektronika ]. Existuje bezplatná verze pro Android [ wolf on farm ]. PMI-80 nebylo úplně herní, ale zábavné velmi"
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.hry", "Počítače"]
+tags: ["Počítače", "Počítače.hry"]
 aliases:
   - "/2026/04/retrogames-brno.html"
 ---

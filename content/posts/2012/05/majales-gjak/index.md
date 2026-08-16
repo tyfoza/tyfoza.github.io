@@ -12,4 +12,4 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 <img height="200" src="obr-01.webp" width="150" / alt="Ilustrace k článku"><img height="200" src="obr-02.webp" width="150" / alt="Ilustrace k článku"></div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]
+[<a href="https://photos.app.goo.gl/tyeCcD5ZZhoHh2sk9" target="_blank">fotky</a>]

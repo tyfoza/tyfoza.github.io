@@ -5,7 +5,7 @@ url: "/posts/2025/03/krabicka-pro-pajeci-pero/"
 summary: "[ fotky ] [ STL ] k tisku Krabička pro pájecí pero Miniware TS101. Sdílím s ním nabíječku pro notebook. Po USB-C vyžaduje powebanku nebo adaptér, který je schopen nabíjet notebook [ alzapower ]."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "3D"]
+tags: ["3D", "Bastlení"]
 aliases:
   - "/2025/03/krabicka-pro-pajeci-pero.html"
 ---

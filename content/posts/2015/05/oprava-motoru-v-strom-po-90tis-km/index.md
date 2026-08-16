@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/vEyTQt82XqVF2XJPA" target="_blank">fotky</a>]</div>
 <div>
 V-Strom začal brát olej, ke konci přes dva litry na tisíc kilometrů. Kolega Trinidad[<a href="http://www.motorkari.cz/clanky/zkusenosti-s-moto/test-dl650-v-stroma-po-stovce-14509.html" target="_blank">1</a>], řešil podobný problém se spotřebou oleje při najetých 190tis. km. A stačilo jenom mu vyměnit pístní kroužky. Jezdí expedičně ve 4500 otáčkách, já jezdím v 7-8tis. tak prostě motor najel polovinu. Představa byla, že překroužkujeme písty a bude opraveno. Po rozebrání se žel zjistilo, že stírací kroužek je sice nadranc, ale že jsou vydřené válce. Přesný důvod nezjistíme – motorka nepoužívám expedičním plynulým tempem, jako&nbsp;Pravděpodobně se do sání dostalo hodně prachu.</div>
 <div>

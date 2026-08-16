@@ -5,7 +5,7 @@ url: "/posts/2025/04/lepsi-cartridge-pro-atari/"
 summary: "[ fotky ] A8PicoCart [ git ] [ pcb ] slouží jako moderní a pohodlná náhrada tradičních cartridgí pro osmibitové Atari, umožňující snadný přístup k velké knihovně her a programů. Má USB-C konektor a po připojení k modenímu počítači se tváří jako fleška. Stačí nahrát ROM otisky původních cartridge a pak po zasunutí do Atari si vybrat, kterou cheme spustit. Raspberry Pi Pico fialové edice emuluje cartridge pro osmibitové Atari. Realizace je velmi snadná lze zakoupit již hotové řešení od prodejce sibit.pl na [ ebay ] nebo i u nás [ cz ]. Český projekt [ ACDP ] se zabývá podobně dokumentací dostupných cartridge pro Atari, obsahuje i otisky ROM ke stažení. o první cartridge z knihy [ Prehistorie počítačových her ]"
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Počítače.8bit", "Počítače"]
+tags: ["Počítače.8bit", "Počítače", "Bastlení"]
 aliases:
   - "/2025/04/lepsi-cartridge-pro-atari.html"
 ---

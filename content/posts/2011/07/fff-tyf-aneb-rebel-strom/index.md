@@ -5,7 +5,7 @@ url: "/posts/2011/07/fff-tyf-aneb-rebel-strom/"
 summary: "FFF sbírá první kilometry. Z Uherského Brodu jsme vyrazili po druhé hodině odpolední, po rozloučení s Ťufíkem a zatlačení deroucích se slz. V buchlovských kopcích nás potkal malý deštík. FFF poznamenal, že na rybu si kape víc citrónu než chytil v tom \"dešti\" kapek. FFF jel první a protože věděl, že má jet přes Slavkov u Brna, tak ho opravdu poctivě projel. I náměstí jsme viděli. Z mého pohledu je to moc příjemné cestování, vidím před sebou FFF a vidím, že je vše tak jak má být. Když je třeba někde odbočit, na chvíli předjíždím a pak se zase rovnáme podle kubatur. Rebel běží pěkně 95 km/h. Jediné drobné nepohodlí je, že neslyším zvuk svého motoru, ale stopětdvacítku před sebou. Holt otevřené výfuky jsou machrovská věc. Možná zkusím špunty do uší. Následuje nezbytná zastávka na Žuráni a výhled do krajiny. Všude kolem tam nádherně kvete kukuřice. V Brně jsme viděli Celeba, Hayake, malého..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Honda CA125 Rebel"]
+tags: ["Honda CA125 Rebel", "Na cestě"]
 aliases:
   - "/2011/07/fff-tyf-aneb-rebel-strom.html"
 ---

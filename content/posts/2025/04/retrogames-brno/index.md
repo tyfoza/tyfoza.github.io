@@ -5,7 +5,7 @@ url: "/posts/2025/04/retrogames-brno/"
 summary: "16 bit ATARI 1040 STe (rok 1990) vedle 8 bitu IQ 151 (rok 1985) [ web ] akce [ fotky ][ fotky ] [ reportáž ] serveru high-voltage.cz [ reportáž ] stisk.online Na webu byl odpočet, kdy začne akce; sledoval jsem ho poslední měsíc častěji a častěji. Zážitek stál za to. Pravé herní doupě tak, jak si ho představuje každý pařan. Žádné emulátory, pouze reálný hardware. Bylo to výživné odpoledne; ve tři odpoledne jsem vstoupil a než jsem se dvakrát ohlédl, a s přátelskými kolegy prohodil pár slov, bylo osm večer. Výborný byl chlapík, který přišel, sedl si k IQ 151 se slovy – to jsme měli na gymnáziu, vždycky když na konci hodiny zbyl čas, napsal jsem si hru a tu jsem pak až do zvonění hrál. Program napsal a odladil, jediné na co si už nevzpomněl byla adresa videopaměti, odkud pomocí PEEK() zjišťoval, zda nedošlo ke kolizi. Skvělý výkon. spuštěná hra, běží docela plynule"
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.8bit", "Počítače", "Počítače.16bit"]
+tags: ["Počítače.8bit", "Počítače.16bit", "Počítače"]
 aliases:
   - "/2025/04/retrogames-brno.html"
 ---

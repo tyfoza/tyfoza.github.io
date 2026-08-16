@@ -12,4 +12,4 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]
+[<a href="https://photos.app.goo.gl/DhmbE8SwgP47k1N19" target="_blank">fotky</a>]

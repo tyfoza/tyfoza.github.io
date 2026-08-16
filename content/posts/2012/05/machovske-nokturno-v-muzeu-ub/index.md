@@ -13,6 +13,6 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 <img height="200" src="obr-01.webp" width="133" / alt="Ilustrace k článku"><img height="200" src="obr-02.webp" width="133" / alt="Ilustrace k článku"></div>
 <div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/LSTssCr6DbJsMt2S8" target="_blank">fotky</a>]</div>
 Vernisáž výstavy[<a href="http://www.mjakub.cz/?idc=986" target="_blank">1</a>] uvedená kulturním programem dvojice Rak&amp;Strejček[<a href="http://www.stepanrak.cz/porady-stepan-rak-a-alfred-strejcek.html" target="_blank">2</a>].<br />
 Romantické kostýmy vítány.

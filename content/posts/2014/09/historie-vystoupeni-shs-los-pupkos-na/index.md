@@ -5,7 +5,7 @@ url: "/posts/2014/09/historie-vystoupeni-shs-los-pupkos-na/"
 summary: "Záznamy vystoupení skupiny historického šermu Los Pupkos a historických bitev v Uherském Brodě jsou zveřejněny na [ youtube.com/lospupkos ] Rozděleno na seznamy videí - vystoupení / nejlepší kusy / bitvy v Uherském Brodě viz. [ youtube.com/lospupkos/playlists ] Je to kus historie, naší společné historie. Kvalita záznamu odpovídá době pořízení. Třeba se dobře pobavíte. Gremio de la Hispanie Esgrimadores, tedy výkvět šermířtva španělského - toť Los Pupkos. S podtitulem: Nekomerční společenstvo gotické frašky, které má ke klasické skupině historického šermu přinejmenším daleko. Skupina vznikla kolem roku 1992. K prvnímu veřejnému vystoupení jsme se odvážili mnoha letech a veřejně skupina působila jedenáct let, tedy 2000–2011. Začátkem roku 2012 Los Pupkos přestává vyvíjet činnost a dále pokračuje jako občanské sdružení ŠKUB, tedy Šermířský klub Uherský Brod. Dnes spolek ŠKUB – Šermířský..."
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm.vystoupení", "Šerm", "Šerm.bitva", "Video"]
 aliases:
   - "/2014/09/historie-vystoupeni-shs-los-pupkos-na.html"
 ---

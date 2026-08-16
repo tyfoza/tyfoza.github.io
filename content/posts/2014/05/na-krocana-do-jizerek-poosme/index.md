@@ -5,7 +5,7 @@ url: "/posts/2014/05/na-krocana-do-jizerek-poosme/"
 summary: "[ trasa ][ fotky ] středa Střídavě sleduji předpovědi počasí na víkend, impregnuji nepromok; místy se chválím za to, že jsem pořídil zázračné nepromokavé ponožky[ 1 ]. Snažím se sehnat slušnou přední pneu od kamaráda motokrosaře[ 2 ], co on by zahodil jiným/mně pomůže. čtvrtek Vše připraveno, sbaleno a nachystáno. Pro jistotu jsem vyměnil i olej v motoru; servisní interval je „jen“ šest tisíc kilometrů, tak kdyby se vyjížďka protáhla... pátek Od rána sleduji meteoradar a snažím se najít okno, jímž by se dalo dojet ten kousek po asfaltu tak, aby pršelo ideálně vůbec. Oblékám druhou zimní bundu jako teplou vložku a nepromok navrch. Konečně start, lehce po poledni a téměř polovinu cesty se držím ve skulině mezi dešťovými srážkami. Pravděpodobně proto, že kdo má nepromok již oblečný, málokdy opravdu zmokne. Vše vyšlo skvěle. Vydatně pršelo jen polovinu cesty, tedy „pouhých“ stopadesát..."
 cover:
     image: "obr-01.webp"
-tags: ["Cesty - akce offroad", "Video"]
+tags: ["Video", "Cesty - akce offroad"]
 aliases:
   - "/2014/05/na-krocana-do-jizerek-poosme.html"
 ---

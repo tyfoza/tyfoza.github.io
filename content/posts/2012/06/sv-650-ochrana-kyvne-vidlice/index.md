@@ -11,5 +11,5 @@ aliases:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "200" >}}</div>Nejen na Stromu hlodá řetěz gumu chrání kyvnou vidlici [<a href="/posts/2012/05/vyhlodana-guma-chranici-zadni-kyvnou/" target="_blank">1</a>]. Důležitá informace je, že tato SV650 má najeto 52tis. km. Vyřešeno vlepením kusu gumy z pásového dopravníku.<br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/MMqq168HvPfQjt6d9" target="_blank">fotky</a>]<br />
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>

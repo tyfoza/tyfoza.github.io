@@ -5,7 +5,7 @@ url: "/posts/2026/07/montezumova-pomsta-na-coco3/"
 summary: "Vyšel port Montezumovy pomsty pro Tandy Color Computer 3 [ CoCo 3 ]. Vyžaduje 512K paměti. Podrobnosti a otisk disku ke stažení na [ montezuma.retrohome.info ] 18. června byl moc pěkný stream[ 1 ], kde se řešila i tato hra. Loni jsme si mohli s chutí zahrát režisérský sestřih[ 2 ] a letos máme nový port. Je skvělé, že ta hra stále inspiruje k portům a úpravám. ONLINE spuštění této hry v emulátoru 1) stáhneme otisk disku [ dsk ] 2) sputíme emulátor [ online ] 3) tlačítko LOAD vložím stažený disk 4) příkazy DIR (vypíše obsah diskety) LOAD \"MONTREV.BAS\" RUN"
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.8bit", "Počítače.hry", "Počítače"]
+tags: ["Počítače.8bit", "Počítače", "Počítače.hry"]
 aliases:
   - "/2026/07/montezumova-pomsta-na-coco3.html"
 ---

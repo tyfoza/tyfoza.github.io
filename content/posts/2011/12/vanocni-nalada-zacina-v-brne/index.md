@@ -16,5 +16,5 @@ Začali jsme v motoshopu Bonmoto[<a href="http://www.bonmoto.cz/">1</a>], kde si
 <div class="separator" style="clear: both; text-align: center;"></div>Galerie Vaňkovka je obsypána soby. Jsou všude, dokonce tady i bydlí a mají tady zařízené své pokojíčky, někteří jen tak postávájí, jiní odpočívají a jsou zde i sobi akční, kteří hbitě šphají po žebřících mezi patry. Snad je má Satan Klaus pod kontrolou, ještě aby tak začali zase útočit na lidi. Vaňkovku rád nemám, je to jako velká asijská tržnice s minimem elektroniky a převahou oděvů původem, myslím, z Asie (u elektroniky jsem to ověřil). Když už i La Costa šije v Číně, nezbývá než smířeně mávnout rukou s biblickým citátem: Jděte a konzumujte...<br />
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-02.webp" "Ilustrace k článku" "320" >}}</div>Vánoční náladu jsme nasáli plnými doušky, přesněji jsme se v ní trochu plavali, trochu se i topili a to co jsme vdechli byly ty plné doušky předvánočního shonu. Mňam.<br />
 Šťastné a vetřelé. Váš Alien.<br />
-[<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>]<br />
+[<a href="https://photos.app.goo.gl/cmwVUfLD7hqZXFya8">víc fotek</a>]<br />
 <i>pozn. Saša říká, že na ni jeden sob kýchl a od té chvíle je nakažená vánoční náladou.</i>

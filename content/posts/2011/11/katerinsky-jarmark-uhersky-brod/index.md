@@ -3,7 +3,7 @@ title: "Kateřinský jarmark Uherský Brod"
 date: 2011-11-25T22:30:00.009Z
 url: "/posts/2011/11/katerinsky-jarmark-uhersky-brod/"
 summary: "Proběhl Kateřinský jarmark, kulturní program protkaný folklórem svižně běžel od druhé hodiny odpolední, vrcholil hodinu před klekáním zažehnutím vánočního stromu na náměstí a končil ohňovou show. Naše uskupení Los Pupkos a Šermířský klub Uherský Brod (ŠKUB) vystoupilo s exkurzem do šermírny patnáctého století s pracovním názvem \"Scénický tanec.\" Lidí až tma, stánků nepočítaně, hasiči opět dokázali, že zvládnou nejlepší svařené víno a že jejich renovovaná parní stříkačka opravdu funguje. Kolem stojící se shodli, že do rána bude kolem kostela opravdu solidní náledí."
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm.vystoupení", "Video", "Šerm"]
 aliases:
   - "/2011/11/katerinsky-jarmark-uhersky-brod.html"
 ---

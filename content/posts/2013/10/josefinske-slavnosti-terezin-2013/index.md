@@ -3,7 +3,7 @@ title: "Josefínské slavnosti, Terezín 2013"
 date: 2013-10-05T20:33:00.001Z
 url: "/posts/2013/10/josefinske-slavnosti-terezin-2013/"
 summary: "autor videa Pavel Beránek Období sedmileté války[ 1 ] jsme si vybrali proto, že bitvy sedmileté války jsou již pár let v Česku docela v kurzu. Pořádají se i dvě bitvy ročně a každých pět let tři. Letošní Josefínské slavnosti v Terezíně byly impozantní. Sešlo se na čtyři sta vojáků, dělostřelci a dvacet jízdních husarů. Informace a fotogalerie od povolanějších viz. [ 2 ][ 3 ][ 4 ]. Fotky od nás viz. [ 5 ][ 6 ][ 7 ]. Další video viz [ 8 ]"
-tags: ["Šerm.bitva", "Šerm.sedmiletka", "Šerm"]
+tags: ["Šerm.sedmiletka", "Šerm", "Šerm.bitva"]
 aliases:
   - "/2013/10/josefinske-slavnosti-terezin-2013.html"
 ---
@@ -14,5 +14,5 @@ aliases:
 <span style="font-size: xx-small;">autor videa Pavel Beránek</span></div>
 Období sedmileté války[<a href="http://cs.wikipedia.org/wiki/Sedmilet%C3%A1_v%C3%A1lka" target="_blank">1</a>] jsme si vybrali proto, že bitvy sedmileté války jsou již pár let v Česku docela v kurzu. Pořádají se i dvě bitvy ročně a každých pět let tři. Letošní Josefínské slavnosti v Terezíně byly impozantní. Sešlo se na čtyři sta vojáků, dělostřelci a dvacet jízdních husarů.<br />
 Informace a fotogalerie od povolanějších viz. [<a href="http://www.pevnostterezin.cz/josefinske-slavnosti-2013/" target="_blank">2</a>][<a href="http://litomericky.denik.cz/zpravy_region/fotogalerie-josefinske-slavnosti-hlavni-bitva-20131006.html" target="_blank">3</a>][<a href="http://www.kr-ustecky.cz/vismo/dokumenty2.asp?id_org=450018&amp;id=1677670" target="_blank">4</a>].<br />
-Fotky od nás viz. [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">5</a>][<a href="https://plus.google.com/u/0/photos/112808416334199838029/albums/5931682278911674449?authkey=CIPzr9HGh8XHvAE" target="_blank">6</a>][<a href="http://piiiskle.rajce.idnes.cz/Josefinske_slavnosti_2013/" target="_blank">7</a>].<br />
+Fotky od nás viz. [<a href="https://photos.app.goo.gl/X1QGh65VeGpcY2s79" target="_blank">5</a>][<a href="https://plus.google.com/u/0/photos/112808416334199838029/albums/5931682278911674449?authkey=CIPzr9HGh8XHvAE" target="_blank">6</a>][<a href="http://piiiskle.rajce.idnes.cz/Josefinske_slavnosti_2013/" target="_blank">7</a>].<br />
 Další video viz [<a href="http://youtu.be/ZtbNtz7REf0" target="_blank">8</a>]

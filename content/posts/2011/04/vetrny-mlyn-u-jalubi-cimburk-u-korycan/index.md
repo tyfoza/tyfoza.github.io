@@ -5,7 +5,7 @@ url: "/posts/2011/04/vetrny-mlyn-u-jalubi-cimburk-u-korycan/"
 summary: "Větrný mlýn u obce [ Jalubí ], UH [ historie mlýna ] [ virtuální prohlídka ] [ povertnik.cz ] Zřícenina hradu [ Cimburk u Koryčan ] U Trampa vedle ZZR 1400"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Větrný mlýn"]
+tags: ["Větrný mlýn", "Na cestě"]
 aliases:
   - "/2011/04/vetrny-mlyn-u-jalubi-cimburk-u-korycan.html"
 ---

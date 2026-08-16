@@ -5,7 +5,7 @@ url: "/posts/2010/05/bitva-cimburk-bruca-sarras/"
 summary: "hrad Cimburk, Městečko Trnávka u Moravské Třebové [ trasa ] úspěšná cesta až nahoru na zříceninu, všechny krámy (krom pláštěnky) jsem poslal autem se zbytkem naší šermířské skupiny FFF jako lukostřelec byl jsem líný oblékat zbroj, takže jsem byl poněkud nalehko celou cestu domů pršelo, takže jsem otesloval JPéčko a je to na cestování na motorce použitelná pláštěnka, má to boty i návleky na rukavice a za 70,- s armyshopu k nezaplacení dobrá věc"
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Šerm"]
+tags: ["Šerm", "Šerm.bitva"]
 aliases:
   - "/2010/05/bitva-cimburk-bruca-sarras.html"
 ---

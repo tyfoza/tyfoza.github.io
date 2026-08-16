@@ -5,7 +5,7 @@ url: "/posts/2025/04/moderni-nahrada-atari-1050/"
 summary: "Jak funguje SIO2Arduino Krátce Pokud hledáte instatní náhradu disketové mechaniky pomocí SD karty, postavte si [ SDrive-MAX ]. Je to dospělý, dobře zdokumentovaný a velmi snadno realizovatelný projekt. Pár drobností, které bylo třeba doladit zmiňuji dále. Malinko podrobněji a baslířsky přívětivěji ATARI810, ATARI1050 nebo XF551 jsou 5¼ disketové mechniky k osmibitovým počítačům ATARI. [ wiki ] Máme k dispozici staré Atari a hodila by se náhrada disketové mechanika pomocí SD karty – třeba už jen proto, že spoléhat při ukládání programů na starou audio kazetu by dneska už nikdo nechtěl. Stejně tak, když hledáte v online [ archivu ] nějakou oblíbenou hru, najdete otisk diskety ve formátu ATR nebo spustitelný soubor XEX. Propojení s Atari TXD <=> Pin 3 [Data–In] – bílý ( připojit přes Schott.diodu (katodou k Arduinu) GND <=> Pin 4 [Ground] – černý RXD <=> Pin 5 [Data–Out] – zelený A5 <=>..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Počítače.8bit", "Počítače"]
+tags: ["Počítače.8bit", "Počítače", "Bastlení"]
 aliases:
   - "/2025/04/moderni-nahrada-atari-1050.html"
 ---

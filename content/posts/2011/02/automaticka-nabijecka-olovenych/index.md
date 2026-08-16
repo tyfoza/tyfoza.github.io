@@ -5,7 +5,7 @@ url: "/posts/2011/02/automaticka-nabijecka-olovenych/"
 summary: "Pořídil jsem do garáže nabíječku [ CTEK Multi XS 3600 ]. Země původu Švédsko, záruka pět let, cena do dvou tisích korun. Umí nabíjet jakékoli 12V akumulátory včetně gelových. Nabíjí i udržuje baterie nabité, ovládání jednoduché nejvíc jak to jde. Jedním tlačítkem \"mode\" nastavíte typ baterie - malá (do 14Ah), běžná a nabíjení v teplotách pod pět stupňů - seveřani to užijí. Je to malé, je to lehké a byl k tomu i kompaktní textilní obal, protože je to přesně ta věc, kterou si člověk na dovolenou do auta rád přibalí. Za zmínku stojí doby nabíjení na 80% kapacity - motocyklová baterie 12Ah - cca 3h. Autobaterii až 60Ah nabije do 15h. [ trocha teorie ] a přehledně graficky [ co se děje uvnitř ]"
 cover:
     image: "obr-01.webp"
-tags: ["Kawasaki GPZ 550", "Auto", "Suzuki DL 650 K9", "Honda CA125 Rebel"]
+tags: ["Auto", "Honda CA125 Rebel", "Suzuki DL 650 K9", "Kawasaki GPZ 550"]
 aliases:
   - "/2011/02/automaticka-nabijecka-olovenych.html"
 ---

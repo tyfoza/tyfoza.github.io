@@ -10,4 +10,4 @@ aliases:
   - "/2012/07/piskoti-v-dynoparku.html"
 ---
 
-<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div><div class="separator" style="clear: both; text-align: left;">[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div><div class="separator" style="clear: both; text-align: left;">[<a href="https://photos.app.goo.gl/opXJP43VqRqNnGu2A" target="_blank">fotky</a>]</div>

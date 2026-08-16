@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/WYFShQehRt3ZdbaC7" target="_blank">fotky</a>]<br />
 Gufero <span style="font-size: xx-small;">09283-36003</span> úspěšně vyměněno. Zároveň s ním se mění i vnitřní O-kroužek <span style="font-size: xx-small;">09280-24010</span>.<br />
 Podrobný návod [<a href="http://blacklabadventures.com/2012/07/22/replacing-a-clutch-pushrod-seal-and-countershaft-seal/" target="_blank">1</a>].<br />
 K sehnání byl pouze originál Suzuki na Partsdepot.cz[<a href="http://www.partsdepot.cz/" target="_blank">2</a>].<br />

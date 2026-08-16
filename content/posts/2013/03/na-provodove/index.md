@@ -5,7 +5,7 @@ url: "/posts/2013/03/na-provodove/"
 summary: "mapa [ 1 ]"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Památný strom"]
+tags: ["Památný strom", "Na cestě"]
 aliases:
   - "/2013/03/na-provodove.html"
 ---

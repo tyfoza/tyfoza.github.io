@@ -16,7 +16,7 @@ aliases:
 ŠKAUTF&nbsp;</div>
 <div style="text-align: center;">
 [<a href="https://sites.google.com/site/skautfrozcestnik/" target="_blank">skautf.sytes.net</a>]&nbsp;</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] pár našich fotek<br />
+[<a href="https://photos.app.goo.gl/xdqSKetdZp5YCrbv7" target="_blank">1</a>] pár našich fotek<br />
 [<a href="http://elenkas.rajce.idnes.cz/Zakonceni_Skautfskeho_dne_-_12._9._2015/" target="_blank">2</a>] foto Elen Sladká – přetahování lanem na samotný závěr<br />
 Tentokrát opravdový Skautský den, ke sto letům skautingu v Uherském Brodě.<br />
 <br />

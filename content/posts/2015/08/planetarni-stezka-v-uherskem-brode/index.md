@@ -5,7 +5,7 @@ url: "/posts/2015/08/planetarni-stezka-v-uherskem-brode/"
 summary: "Letos se Uherský Brod připojil k městům, které mají svoji naučnou planetární stezku. Doposud to byly městské planetární stezky v Opavě[ 1 ] a Hradci Králové[ 2 ] a jedna turistická planetární stezka v Proseči[ 3 ]. Planetární stezka v Uherském Brodě je součástí projektu nové digitálního planetária[ 4 ][ 5 ]. Další info Uherskobrodský zpravodaj [ 6 ] str. 4"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Tak jde čas"]
+tags: ["Tak jde čas", "Na cestě"]
 aliases:
   - "/2015/08/planetarni-stezka-v-uherskem-brode.html"
 ---

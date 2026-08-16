@@ -5,7 +5,7 @@ url: "/posts/2016/07/vzduchoplavba-ve-slunecnich-laznich/"
 summary: "[ fotky ] Nejprve nastudujme dobové reálie viz [ text ], alespoň orientačně, aneb profesor Svozil to nevzdal. Začal první cvičení 1907 s jediným cvičencem a hle... Spolek Calma[ 1 ] opět ukázal, že umí nejen dámy s klobouky či charleston nebo spodní prádlo konce století devatenáctého, ale i opravdovou vzduchoplavbu se živou hudbou a nasazením hodným označení reenactmentu, tedy opravdová rekonstrukce dobové události na přesném místě, kde se udála."
 cover:
     image: "obr-01.webp"
-tags: ["Okrašlovací spolek Calma", "Tak jde čas", "Video", "Šerm"]
+tags: ["Tak jde čas", "Video", "Šerm", "Okrašlovací spolek Calma"]
 aliases:
   - "/2016/07/vzduchoplavba-ve-slunecnich-laznich.html"
 ---

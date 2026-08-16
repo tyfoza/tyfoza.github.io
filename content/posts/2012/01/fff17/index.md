@@ -10,4 +10,4 @@ aliases:
   - "/2012/01/fff17.html"
 ---
 
-<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/">víc fotek</a>]
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://photos.app.goo.gl/P9444j2NuFW7HAsW6">víc fotek</a>]

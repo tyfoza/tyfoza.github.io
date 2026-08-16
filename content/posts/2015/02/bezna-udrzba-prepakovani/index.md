@@ -12,5 +12,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/K4NATeMhBtg9yCtR7" target="_blank">fotky</a>]<br />
 Přepákování zadního tlumiče vyndat, rozebrat, vyčistit, promazat. Zadní tlumič očištěn, uvidíme, zda nebude vyžadovat nějaký repas. Ložisko v rozetě bude potřeba vyměnit. Výborná zábava na zimní sobotní den ve vyhřívané garáži.

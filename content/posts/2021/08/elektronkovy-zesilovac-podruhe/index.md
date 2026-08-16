@@ -5,7 +5,7 @@ url: "/posts/2021/08/elektronkovy-zesilovac-podruhe/"
 summary: "[ fotky ] aneb ukaž víc baněk V diskusi na analog fóru [ 1 ] se vyskytla zajímavá úprava schématu DIY elektronkového zesilovače s ECF80 na vstupu a dvěma EL84 na výstupu. Na ebay.com je deska dostupná za pár stovek, na desce je označení AUDIO NOTE EL84 STEREO AMP (REV-E) 2017. Při hledání pomůže spojení např. \"Classic EL84 Stereo Push-Pull Amplifier PCB Hifi Tube Preamplifier Board Kit\" Elektronky – 2×ECF80 jsem sehnal ve verzi ruské 6Ф1П, je to trioda a pentoda v jedné baňce. – 4×EL84 od firmy JJ (pořád živá výroba elektronek na Slovensku) Napájení AC – dva toroidní transformátory proti sobě 230/12V | 12/230V – pojistka 800mA 3.15A Žhavení 6.3VDC – na 12V výstup prvního transformátoru je připojen usměrňovací můstek, vyhlazovací kondenzátor a step down měnič XL4016 s omezením proudu na 4A ( tento ). Příliš netopí a nepřenáší žádné slyšitelné rušení. (Běží na 180kHz). Omezení proudu je..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.elektronky"]
+tags: ["Bastlení.elektronky", "Bastlení"]
 aliases:
   - "/2021/08/elektronkovy-zesilovac-podruhe.html"
 ---

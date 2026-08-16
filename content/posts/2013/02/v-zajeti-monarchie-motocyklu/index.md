@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "200" >}}{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/ungUWzWwLmoTYtub8" target="_blank">fotky</a>]<br />
 <i>prakticky telegraficky z Prahy:</i><br />
 – V zajetí motocyklů je malá výstava v obchodním centru Arkády Pankrác[<a href="http://www.motorkari.cz/clanky/moto-novinky/arkady-pankrac-v-zajeti-motocyklu-23933.html" target="_blank">1</a>], součástí je nabízena možnost nechat se vyfotit coby „nosáč[<a href="http://www.csfd.cz/film/37937-dva-nosaci-tankuji-super/" target="_blank">2</a>]“ na tříkolce. Obrázek 10×15 dostanete s sebou – zdarma.<br />
 – Jak se žilo za Rakouska–Uherska[<a href="http://www.mkcr.cz/cz/zpravodajstvi/zpravy/zjistete--jak-se-zilo-za-cisare-pana--na-vystave-monarchie-v-nove-budove-narodniho-muzea!-159728/tmplid-228" target="_blank">3</a>] je projekt prorůstající Národní muzeum, Vlastivědné muzeum, památník na Vítkově etc. Za zmínku stojí výstava Jak se jedlo za císaře pána[<a href="http://muzeum3000.nm.cz/aktuality/na-vystave-krme-jidlo-zradlo-se-dozvite-co-se-jedlo-za-cisare-pana" target="_blank">4</a>]. Jenom návštěva výstavy Sportsmeni v zemích&nbsp;českých – prezentovaná v památníku na Vítkově, mě zklamala[<a href="http://www.nm.cz/Historicke-muzeum/Pripravujeme-HM/Sportsmeni-v-zemich-Ceskych.html" target="_blank">5</a>], je rozsahem malá, textově chudobná, jen malinko o založení českého klubu turistů, účasti na olympiádách a pár kostýmů.<br />

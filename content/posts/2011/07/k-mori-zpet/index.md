@@ -34,4 +34,4 @@ Celkem jsme dnes najeli 687 kilometrů.<br />
 <br />
 Ještě jsme nezmínili, že jsme v časová zóně GMT+3:00  je tady o hodinu víc než u nás doma, takže se při plánování schůzek podobám Ježkovi, který chodí všude o třicet minut dříve.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/">další fotky</a>]
+[<a href="https://photos.app.goo.gl/23Unou6rW9eaQfUy7">další fotky</a>]

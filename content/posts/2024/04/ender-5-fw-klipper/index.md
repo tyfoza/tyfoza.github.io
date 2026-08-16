@@ -5,7 +5,7 @@ url: "/posts/2024/04/ender-5-fw-klipper/"
 summary: "– hotend [ E3D V6 ] – tryska [ CHT ] – extruder Orbiter – lineární vedení – Raspberry Pi Zero 2 W – místo SD karty spolehlivý eMMC disk UUGear Raspikey – kamerka – ovládaní LED pásku pro osvětlení – vypisuje aktuálně přiřazenou IP adresu v info řádku displeje tiskárny – firmware [ Klipper ] – tiché ventilátory – řídící deska s tichými ovladači motorů"
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "3D"]
+tags: ["3D", "Bastlení"]
 aliases:
   - "/2024/04/ender-5-fw-klipper.html"
 ---

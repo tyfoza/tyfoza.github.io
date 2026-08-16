@@ -16,7 +16,7 @@ aliases:
 </div>
 <div>
 <div style="font-size: 11pt;">
-<span style="font-family: inherit;">[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</span></div>
+<span style="font-family: inherit;">[<a href="https://photos.app.goo.gl/ggmsiaZ96u42bNVK7" target="_blank">fotky</a>]</span></div>
 <div style="font-size: 11pt;">
 <span style="font-family: inherit;">Nejkrásnější pohled na krajinu je ze sedla motocyklu. Kde jsou ty časy, kdy člověk balil den nebo dva předem, aby s úsvitem přidělené dovolené vyrazil. My jsme začali balit až ráno, cestovní pojíštěnice byla naklikaná hned a těsně před polednem jsme vyrazili. Pěkně v tandemu se třemi kufry po dálnici Vídeň-Solnohrad, přejezd do Bavorska, zjištění že poslední bus na Orlí Hnízdo[<a href="https://cs.wikipedia.org/wiki/Orl%C3%AD_hn%C3%ADzdo" target="_blank">1</a>] odjíždí ve čtyři odpoledne. </span></div>
 <div style="font-size: 11pt;">

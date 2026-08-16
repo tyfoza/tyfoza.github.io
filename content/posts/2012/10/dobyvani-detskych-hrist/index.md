@@ -5,7 +5,7 @@ url: "/posts/2012/10/dobyvani-detskych-hrist/"
 summary: "Cech zlodějů působící Uherském Ankh-Brodě svévolně obsadil pevnosti, kteréžto bylo nutné dobýt zpět. V tomto krásném podzimním dni Šermířský klub Uherský Brod v doprovodu dětí dobyl celkem šest hřišť, přebrodil jednu řeku a zachránil sud a tři tučňáky. Fotky Jelen [ 1 ] Bára [ 2 ] Reportáž TV Slovácko [ 3 ]"
 cover:
     image: "obr-01.webp"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm.vystoupení", "Video", "Šerm"]
 aliases:
   - "/2012/10/dobyvani-detskych-hrist.html"
 ---
@@ -14,7 +14,7 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 Cech zlodějů působící Uherském Ankh-Brodě svévolně obsadil pevnosti, kteréžto bylo nutné dobýt zpět. V tomto krásném podzimním dni Šermířský klub Uherský Brod v doprovodu dětí dobyl celkem šest hřišť, přebrodil jednu řeku a zachránil sud a tři tučňáky.<br />
 <br />
-Fotky Jelen [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] Bára [<a href="https://plus.google.com/photos/114100906774113374273/albums/5801422067476803521" target="_blank">2</a>]<br />
+Fotky Jelen [<a href="https://photos.app.goo.gl/s9qjbssLw1RNv28q6" target="_blank">1</a>] Bára [<a href="https://plus.google.com/photos/114100906774113374273/albums/5801422067476803521" target="_blank">2</a>]<br />
 Reportáž TV Slovácko [<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=wT05Znlchvs#t=04m20s">3</a>]<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">

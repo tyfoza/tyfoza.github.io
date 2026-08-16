@@ -11,7 +11,7 @@ aliases:
 ---
 
 Vyrazili jsme na předvánoční nákupy do Brna. V plánu bylo pořídit pár drobností v [<a href="http://www.bonmoto.cz/">bonmoto</a>], holky šly po nákupech a já jsem se chystal do technického muzea na výstavu 50 let veteránského hnutí v Brně, je tam hromada opravda pěkných strojů převážně anglické výroby.<br />
-[<a href="https://sites.google.com/view/tyfotoza/">obrázky z výstavy</a>]<br />
+[<a href="https://photos.app.goo.gl/JSvLjAq4R7Duf6pE9">obrázky z výstavy</a>]<br />
 <br />
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</td></tr>

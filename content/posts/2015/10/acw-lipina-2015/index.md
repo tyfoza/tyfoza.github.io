@@ -10,7 +10,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/O9Tbp503co0/0.webp" frameborder="0" height="400" src="https://www.youtube.com/embed/O9Tbp503co0?feature=player_embedded" width="640"></iframe></div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] a další fotky [<a href="http://tomsta.rajce.idnes.cz/Sever_proti_Jihu_-_Lipina_2015/" target="_blank">1</a>]<br />
+[<a href="https://photos.app.goo.gl/nSkMyZGbAo5PJYjDA" target="_blank">fotky</a>] a další fotky [<a href="http://tomsta.rajce.idnes.cz/Sever_proti_Jihu_-_Lipina_2015/" target="_blank">1</a>]<br />
 <br />
 Každoroční ukončení sezóny ACW[<a href="http://www.cacwa.cz/" target="_blank">2</a>] v Lipině.<br />
 Výživné, akční a zábavné.<br />

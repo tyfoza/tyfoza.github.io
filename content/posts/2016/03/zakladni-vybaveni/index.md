@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] s popiskama<br />
+[<a href="https://photos.app.goo.gl/fShZaqyeABmqDmR26" target="_blank">fotky</a>] s popiskama<br />
 <br />
 Co mám s sebou na motorce, když jedu bez kufrů. Mám dva úložné prostory, jeden běžný pod sedlem a druhý v přídavné schránce místo druhého výfuku [<a href="/posts/2012/11/schranka-misto-druheho-vyfuku/" target="_blank">1</a>]<br />
 Jen základní vybavení pro případné improvizované opravy.<br />

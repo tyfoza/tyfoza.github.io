@@ -5,7 +5,7 @@ url: "/posts/2011/11/setkani-cestovatelu-2011/"
 summary: "Proběhlo setkání cestovatelů[ 1 ] pořádané BMW motoklubem[ 2 ] na Rohlence u Brna. Nemít VStrom v servise, tak bychom s Ťufíkem mrzli na motorce, takhle jsme se přesunuli pěkně ve vyhřátém autě. Akce začínala obědem a my dorazili až na odpolední programový blog - povídání z cest, prezentace firem Mitas[ 3 ] a Touratech[ 4 ], ochutnávka jídel AdventureMenu[ 5 ], losování o ceny... Celkem se sešlo téměř osmdesát lidí, počet motocyklů zaparkovaných ve dvoře čtyři, z toho tři GéeSa a jeden Strom. Konečně jsem potkal nějaké členy z našeho VStrom klubu[ 6 ]. Odkazy a pár věcí, co stojí za zmínku - na Touratech facebook[ 7 ] se píše to, co se nehodí na Touratech blog[ 8 ]. Aktuálně Touratech chystá své vlastní semiaktivní tlumiče s autonomní řídící jednotkou[ 9 ] viz.video[ 10 ](od 1:03), údajně lepší než ESA1/2[ 11 ], protože je bude možné nastavovat při plné zátěži při jízdě a v případě..."
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "Tak jde čas"]
+tags: ["Tak jde čas", "Motopneu"]
 aliases:
   - "/2011/11/setkani-cestovatelu-2011.html"
 ---

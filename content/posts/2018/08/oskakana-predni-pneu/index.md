@@ -5,7 +5,7 @@ url: "/posts/2018/08/oskakana-predni-pneu/"
 summary: "Zajímavé zjištění pro ty, komu skáče přední pneu, když ubere při vyšší rychlosti. Má přední pneu E07, má aspoň 22tis. km a pořád má vzorek. Je hranatá až běda. Takže maximálka 140km/h, když jsem za to zatáhl na 160km/h a ubral plyn, tak se pekelně rozskál předek. Jasně, je to gumou, neřeším dojezdím. Včera jsem náhodou povolil předpětí na zadním tlumiči, jel jsem s baťůžkem nějaké hrbolatější lesní a polní cesty a po strništi volnou stopou. No a pak jsem už nechal zadní tlumič povolený. A hle, skákání předku při ubrání při 160km/h zmizelo. Zcela. Pneu je oskákaná stejně. Tak informuju, že je to zajímavé zjištění. Podobně jako když se někomu vlní řídítka, když má prázdné kufry."
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "Suzuki DL 650 K9"]
+tags: ["Suzuki DL 650 K9", "Motopneu"]
 aliases:
   - "/2018/08/oskakana-predni-pneu.html"
 ---

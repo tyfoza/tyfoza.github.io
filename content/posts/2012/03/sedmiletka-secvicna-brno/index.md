@@ -10,4 +10,4 @@ aliases:
   - "/2012/03/sedmiletka-secvicna-brno.html"
 ---
 
-<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]
+<div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>[<a href="https://photos.app.goo.gl/GXYycSMEb5EaJtSq9" target="_blank">fotky</a>]

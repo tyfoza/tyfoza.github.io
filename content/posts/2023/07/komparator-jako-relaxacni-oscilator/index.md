@@ -5,7 +5,7 @@ url: "/posts/2023/07/komparator-jako-relaxacni-oscilator/"
 summary: "soubor se simulací pro [ microcap ] Moje LM393N od National Semiconductor je prastará. Datasheet říká, že má dobu odezvy 1.3 μs C1 se nabíjí přes R10+R11 a vybíjí se přes R11 výstup simulace, délka pulsu 1.48μs výstup reálného měření"
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.Microcap"]
+tags: ["Bastlení.Microcap", "Bastlení"]
 aliases:
   - "/2023/07/komparator-jako-relaxacni-oscilator.html"
 ---

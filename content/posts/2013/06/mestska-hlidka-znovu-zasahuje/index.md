@@ -5,7 +5,7 @@ url: "/posts/2013/06/mestska-hlidka-znovu-zasahuje/"
 summary: "[ fotky ] Šermířský klub Uherský Brod na Bílokarpatských slavnostech v Uherském Brodě. Volně historizující průvod Přemysla Otakara II. v režii Divadla Brod a manévry Městské hlídky kolem."
 cover:
     image: "obr-01.webp"
-tags: ["Video", "Šerm.vystoupení", "Šerm"]
+tags: ["Šerm.vystoupení", "Video", "Šerm"]
 aliases:
   - "/2013/06/mestska-hlidka-znovu-zasahuje.html"
 ---
@@ -14,7 +14,7 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "480" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/NWrnhiP14sTJpW8Z8" target="_blank">fotky</a>]<br />
 Šermířský klub Uherský Brod na Bílokarpatských slavnostech v Uherském Brodě.<br />
 Volně historizující průvod Přemysla Otakara II. v režii Divadla Brod a manévry Městské hlídky kolem.<br />
 <div class="separator" style="clear: both; text-align: center;">

@@ -5,7 +5,7 @@ url: "/posts/2021/09/existuje-levny-tedy-cenove-dostupny/"
 summary: "[ fotky ] Hraje to skvěle a stojí to málo. Je to možné? Odpověď najdeme po troše listování se starých publikacích. Původ schématu jsem našel v katalogu vydanému k americkým výstupním transformátorům Dynaco[ * ]. Dnes je deska k dispozici za osm dolarů na [ ebay ] \"Ultra-linear push-pull 6SL7 +6V6 Tube Power Amplifier\" na desce je napsáno ZERO ZONE 6SL7+6V6. Pozor! Na Aliexpresu se dá potkat velmi podobná deska bez označení, nazvaná – Dynaco low noise – která používá kombinaci elektronek 12AX7 a EL84, je u ní stejné schéma s poznámkou, že nepoužívá ultralineární zapojení[ ? ]. schéma a model pro LTSpice [ ke stažení ] (reálné HV=230V) 1kHz sinus, měřeno v rozsahu do 30kHz – vstup 300mV přiblížení 1kHz sinus do 7.5kHz spektrální analyzátor [ HP3585A ] a generátor SDG2042X Další [ měření ] reálného zesilovače, srovnání se simulací, vliv žhavení na kvalitu... Elektronky Od SOVTEKu. Ruská..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.elektronky"]
+tags: ["Bastlení.elektronky", "Bastlení"]
 aliases:
   - "/2021/09/existuje-levny-tedy-cenove-dostupny.html"
 ---

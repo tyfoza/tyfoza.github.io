@@ -16,5 +16,5 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/hWoNVefyWWpuB7Z76" target="_blank">fotky</a>]<br />
 Skauti v Uherském Brodě oslavili sto let své existence [<a href="http://zlin.cz/518430n-v-uherskem-brode-oslavi-skauti-z-moravy-100-let-sve-existence" target="_blank">1</a>], byli jsme u toho a bylo to velké, krásné a důstojné. Pěkně vinšujeme a přejeme do dalších let hodně členů.

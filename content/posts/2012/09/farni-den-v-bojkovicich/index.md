@@ -15,4 +15,4 @@ aliases:
 <div class="separator" style="clear: both; text-align: justify;">
 Příjemná akce, počasí vyšlo skvěle. Proběhl výcvik Městské hlídky, jak při vystoupení tak poté se zapojením zvláště těch mladších. Na obrázku je&nbsp;malý hasič, který rozštípal náš památeční špalek (na sekání), sám ho poté musel nahradit vlastním tělem.</div>
 <div class="separator" style="clear: both; text-align: left;">
-[<a href="https://sites.google.com/view/tyfotoza/">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/vQSJwdDG5H3JnWoj9">fotky</a>]</div>

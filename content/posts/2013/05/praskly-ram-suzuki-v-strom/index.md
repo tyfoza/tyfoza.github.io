@@ -49,7 +49,7 @@ Takže hotovo. Problém snad byl vyřešen. Mám si kontrolovat, zda při provoz
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-11.webp" "Ilustrace k článku" "320" >}}</div>
 <div class="separator" style="clear: both; text-align: justify;">
-Víc fotek viz.[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">4</a>].</div>
+Víc fotek viz.[<a href="https://photos.app.goo.gl/F24VjReqN5mqHnm28" target="_blank">4</a>].</div>
 <div class="separator" style="clear: both; text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: justify;">

@@ -12,5 +12,5 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/3smmT8Sxn1XfBS6N8" target="_blank">fotky</a>]<br />
 Dětský den TJ Tatran Havřice. Potkali se děti, dospělí, myslivci, hasiči, klauni, silák a pochopitelně také šermíři. Od skákacího hradu až po závody na dětských čtyřkolkách, poznávání hasičů a ukázka zásahu divoké zvěře – vlastně naopak. Těšíme se zase za rok.

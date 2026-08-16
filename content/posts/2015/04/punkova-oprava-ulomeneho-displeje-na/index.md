@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "200" >}}{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/Uv6xfJQZo3DKeJ4V9" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Notebook Lenovo s ulomenou obrazovkou, byly vylomené oba klouby. Vyřešeno za dvě hodiny.<br />
 Jak opravit ulomený displej na notebooku?<br />

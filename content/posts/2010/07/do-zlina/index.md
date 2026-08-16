@@ -5,7 +5,7 @@ url: "/posts/2010/07/do-zlina/"
 summary: "S Ťufíkem na Rebelovi někde ve Zlíně"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Honda CA125 Rebel"]
+tags: ["Honda CA125 Rebel", "Na cestě"]
 aliases:
   - "/2010/07/do-zlina.html"
 ---

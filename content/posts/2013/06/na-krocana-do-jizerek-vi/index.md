@@ -5,7 +5,7 @@ url: "/posts/2013/06/na-krocana-do-jizerek-vi/"
 summary: "fotky [ 1 ] [ 2 ] a videa [ 3 ] [ 4 ] [ 5 ] V pořadí šesté setkání přátel lehkého offroadu v Jizerských horách pod taktovkou firmy Rockway[ 6 ] bylo letos vlhké, mokré, bahnité a úchvatné. Krásně by se dalo charakterizovat scénou z filmu Forrest Gump viz.[ 7 ]. Z necelé sedmdesátky přihlášených se v pátek sešla silná pětačtyřicítka, která měla v plánu hrdinně vyrazit na sobotní vyjížďku. Páteční večer byl místy monotónně vyplněn zoufalým funěním nad mobily s předpověďmi počasí; každý používá jiný předpovědní server a přitom všichni říkali totéž – déšť, celodenní, vytrvalý. Padl i zajímavý nápad – od druhé hodiny noční, do sedmé hodiny ranní pršet nemá – tak jestli by se nemělo vyrazit už v noci „na světla.“ Ne! Raději jsem zamířil bydlet, ještě hodinu a stál bych s nastartovanou motorkou před vchodem... zbytek noci byl vyplněn Barvajzových chrapotem – příště jdu opět bydlet s ním –..."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Cesty - akce offroad", "Video"]
+tags: ["Na cestě", "Video", "Cesty - akce offroad"]
 aliases:
   - "/2013/06/na-krocana-do-jizerek-vi.html"
 ---
@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 <img height="320" src="obr-01.webp" width="179" / alt="Ilustrace k článku"><img height="320" src="obr-02.webp" width="179" / alt="Ilustrace k článku"></div>
 <div style="text-align: center;">
-fotky [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] [<a href="http://cizak1.rajce.idnes.cz/KROCAN_jaro_31.5-_2.6.2013" target="_blank">2</a>] a videa &nbsp;[<a href="http://dan-africa.rajce.idnes.cz/Krocan_N.6/" target="_blank">3</a>] [<a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=tYO1_Skff30" target="_blank">4</a>] [<a href="http://www.youtube.com/watch?v=mUXMbuU9LrA" target="_blank">5</a>]</div>
+fotky [<a href="https://photos.app.goo.gl/qebbR78WdmaMzEDL7" target="_blank">1</a>] [<a href="http://cizak1.rajce.idnes.cz/KROCAN_jaro_31.5-_2.6.2013" target="_blank">2</a>] a videa &nbsp;[<a href="http://dan-africa.rajce.idnes.cz/Krocan_N.6/" target="_blank">3</a>] [<a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=tYO1_Skff30" target="_blank">4</a>] [<a href="http://www.youtube.com/watch?v=mUXMbuU9LrA" target="_blank">5</a>]</div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <div style="text-align: justify;">
 <span style="font-family: 'Times New Roman', serif; font-size: 13.5pt;">V pořadí šesté setkání přátel lehkého offroadu v Jizerských horách pod

@@ -41,4 +41,4 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]</div>
+[<a href="https://photos.app.goo.gl/kMAL1vgAna2efFxUA" target="_blank">fotky</a>]</div>

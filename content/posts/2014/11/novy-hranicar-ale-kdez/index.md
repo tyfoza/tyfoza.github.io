@@ -14,7 +14,7 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] [<a href="http://instagram.com/p/vsx-vDmrgD/?modal=true" target="_blank">dekret</a>]<br />
+[<a href="https://photos.app.goo.gl/hUGbmqQMsCS1Tm2H7" target="_blank">fotky</a>] [<a href="http://instagram.com/p/vsx-vDmrgD/?modal=true" target="_blank">dekret</a>]<br />
 <div style="text-align: justify;">
 Ve Slavkově u Dolního Němčí to bylo v sobotu veselé. Strýc Vlastík měli padesátiny a vždycky básnili o tom, že by si někdy chtěli vystřelit z kanóna. Manželka jeho drahá a hodňůčká si vzpomenula na toto jeho dávné přání a slovo dalo slovo a do začátku oslavy vplula dáma pro pána a záhy napochodovali i tři vojáci. Sotva skončil přípitek a hosté se těšili, co že to dobrého dneska bude, už se znovu zvedali a oblékali a šlo se ven.</div>
 <div style="text-align: justify;">

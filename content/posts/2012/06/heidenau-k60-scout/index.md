@@ -5,7 +5,7 @@ url: "/posts/2012/06/heidenau-k60-scout/"
 summary: "Mitas E-09 se reklamuje [ 1 ]. K60 je kompromisní pneu na cestu i lehký offroad. Pozitivní recenze [ 2 ] [ 3 ]. Zkusil jsem šotolinu, travnatou louku i měkkou hlínu a K60 příjemně překvapila. Prodejce udává nájezd patnáct tisíc kilometrů. Stav tachometru: 36000km přidáno 4.10.2012, stav tachometru 48000km,najeto 12tis.km"
 cover:
     image: "obr-01.webp"
-tags: ["Motopneu", "Suzuki DL 650 K9"]
+tags: ["Suzuki DL 650 K9", "Motopneu"]
 aliases:
   - "/2012/06/heidenau-k60-scout.html"
 ---

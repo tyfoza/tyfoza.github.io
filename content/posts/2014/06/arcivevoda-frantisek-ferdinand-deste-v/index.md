@@ -16,7 +16,7 @@ aliases:
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>] od FFF; [<a href="http://elenkas.rajce.idnes.cz/Vernisaz_vystavy_Velka_valka_-_prijezd_Ferdinanda_d_Este#" target="_blank">fotky</a>] Elen Sladká<br />
+[<a href="https://photos.app.goo.gl/3w1qUzfx7nbNXXjX7" target="_blank">fotky</a>] od FFF; [<a href="http://elenkas.rajce.idnes.cz/Vernisaz_vystavy_Velka_valka_-_prijezd_Ferdinanda_d_Este#" target="_blank">fotky</a>] Elen Sladká<br />
 <div style="text-align: justify;">
 Doprovodný program k vernisáži výstavy Velká válka v muzejních sbírkách[<a href="http://www.mjakub.cz/?idc=1284" target="_blank">1</a>]. Návštěva arcivévody Františka Ferdinanda d'Este[<a href="http://cs.wikipedia.org/wiki/Franti%C5%A1ek_Ferdinand_d'Este" target="_blank">2</a>] s chotí[<a href="http://cs.wikipedia.org/wiki/%C5%BDofie_Chotkov%C3%A1" target="_blank">3</a>] v Uherském Brodě spojená se vzpomínkou na atentát[<a href="http://cs.wikipedia.org/wiki/Atent%C3%A1t_na_Franti%C5%A1ka_Ferdinanda_d'Este" target="_blank">4</a>], který se stal záminkou k rozpoutání Velké války.</div>
 <div style="text-align: justify;">

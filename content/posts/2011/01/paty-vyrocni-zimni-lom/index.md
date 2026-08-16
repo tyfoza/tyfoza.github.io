@@ -17,4 +17,4 @@ aliases:
 </tbody></table>Největší atrakcí letošního výročního pátého zimního lomu byl projekt, který bych se odvážil bez ostychu nazvat happeningem - byl to projekt - co hodinu běž polít schody. Za pár dní se nám podařilo vytvořit nádherný ledopád, jen Hayake - majitelka chaty - nás pochválila s doporučení, že nemáme zapomenout před odjezdem led ze schodů odstranit.<br />
 <div class="separator" style="clear: both; text-align: center;">{{< obr600 "obr-03.webp" "Ilustrace k článku" "320" >}}</div>V neděli jsme byli na mši v Olešnici, [<a href="http://skypower.webnode.cz/products/pavel-lazarek/">Otec Pavel Lazárek</a>] v ohláškách sděloval, že 19.2. se chystá v Olešnici farní ples a protože to máme z Uherského Brodu jen 140km, tak jsme mu obratem nabídli šermířské a taneční vystoupení do programu a chceme tam vyrazit.<br />
 <br />
-Víc [<a href="https://sites.google.com/view/tyfotoza/">fotek</a>] nafotil Jakub.
+Víc [<a href="https://photos.app.goo.gl/EVmKAwHEBYbFScT29">fotek</a>] nafotil Jakub.

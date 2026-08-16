@@ -5,7 +5,7 @@ url: "/posts/2022/04/xd-21-modul-s-operacnim-zesilovacem/"
 summary: "na vstupu 20mV, napájení pouze 5V, trimr postupně přidává zesílení LTSpice schéma [ ke stažení ]. Modul [ XD-21 ]. s operačním zesilovačem LM358. Napájení teoreticky 3–32V, ale již při 22V poteče diodou indikující zapnutí 20mA. Pro vyšší napájení napětí je diodu buď potřeba odstranit nebo navýšit R10 třeba na 4k7. Zesílení až 100× Zajímalo mě, jak je zapojený modul XD-21 a jak funguje."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice"]
+tags: ["Bastlení.LTSpice", "Bastlení"]
 aliases:
   - "/2022/04/xd-21-modul-s-operacnim-zesilovacem.html"
 ---

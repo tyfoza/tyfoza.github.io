@@ -27,4 +27,4 @@ Prolezli jsme místní muzea, s kartami [<a href="http://www.cz-icom.cz/">ICOM</
 <br />
 Už se těšíme dál k moři, je tam postavená v zálivu velká chemička a tu bychom měli určitě vidět - podle Zdenála, je to skalní příznivec cyberpunku.<br />
 <br />
-[<a href="https://sites.google.com/view/tyfotoza/">další fotky</a>] [<a href="http://maps.google.cz/maps?q=Bukure%C5%A1%C5%A5,+Rumunsko&amp;hl=cs&amp;ie=UTF8&amp;ll=44.426873,26.102952&amp;spn=0.005501,0.012413&amp;sll=44.475674,26.070901&amp;sspn=0.010993,0.024827&amp;brcurrent=5,0,0&amp;z=17&amp;layer=c&amp;cbll=44.426873,26.102952&amp;panoid=YEgELpClfLChCsWZVC6I2w&amp;cbp=12,266.71,,0,-2.33">projížďka Bukureští</a>]
+[<a href="https://photos.app.goo.gl/MZWCh9jbAVBgwfKq8">další fotky</a>] [<a href="http://maps.google.cz/maps?q=Bukure%C5%A1%C5%A5,+Rumunsko&amp;hl=cs&amp;ie=UTF8&amp;ll=44.426873,26.102952&amp;spn=0.005501,0.012413&amp;sll=44.475674,26.070901&amp;sspn=0.010993,0.024827&amp;brcurrent=5,0,0&amp;z=17&amp;layer=c&amp;cbll=44.426873,26.102952&amp;panoid=YEgELpClfLChCsWZVC6I2w&amp;cbp=12,266.71,,0,-2.33">projížďka Bukureští</a>]

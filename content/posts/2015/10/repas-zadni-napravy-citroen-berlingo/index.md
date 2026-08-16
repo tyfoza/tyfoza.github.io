@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "400" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/igiFbrfwpFbdwPLm6" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Zadní náprava s torzní tyčí[<a href="https://cs.wikipedia.org/wiki/N%C3%A1prava_s_torzn%C3%AD_ty%C4%8D%C3%AD" target="_blank">1</a>] má u Citroenu životnost zhruba šest let. V dílenské příručce je doporučeno po šesti letech provozu zadní nápravu rozlisovat a vyměnit uložení a ložiska. Kdo to ale reálně dělá, že. Takže auta jezdí a zadní náprava se začíná ozývat, zvuky, nejprve při přejezdu větších nerovností jako příčný práh, pak při přejezdu jakýchkoli nerovností. V této chvíli by měl přijít repas zadní nápravy. Při dalším používání může prasknout torzní tyč nebo obě a zadek auta si sedne na dorazy. A to už je čas na servis pět minut po dvanácté. A to byl náš případ.</div>
 <div style="text-align: justify;">

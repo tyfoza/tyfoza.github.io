@@ -23,9 +23,9 @@ Spotřeba průměrná Rebel 3.2, V-Strom 4.4 a GPZ 4.9.</i><br />
 Hlavní část výpravy autem dorazila k cíli již ve středu kolem desáté večer.<br />
 <br />
 [<a href="http://www.sports-tracker.com/#/workout/tyfoza/app7063nokbatads">trasa</a>]<br />
-[<a href="https://sites.google.com/view/tyfotoza/">fotky od Venóša</a>]<br />
-[<a href="https://sites.google.com/view/tyfotoza/">fotky od Kuby</a>]<br />
-[<a href="https://sites.google.com/view/tyfotoza/">fotky od Tyfa</a>] z mobilu<br />
+[<a href="https://photos.app.goo.gl/bUkSKMs1e7Hkix1G8">fotky od Venóša</a>]<br />
+[<a href="https://photos.app.goo.gl/bUkSKMs1e7Hkix1G8">fotky od Kuby</a>]<br />
+[<a href="https://photos.app.goo.gl/bUkSKMs1e7Hkix1G8">fotky od Tyfa</a>] z mobilu<br />
 <br />
 Celý popis cesty viz. štítek[<a href="/tags/cesty---2011-jadran/" target="_blank">1</a>]<br />
 <i> </i>

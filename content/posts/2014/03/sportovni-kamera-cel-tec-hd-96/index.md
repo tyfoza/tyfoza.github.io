@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/ox2fmgTj3aVDj5CX7" target="_blank">fotky</a>]<br />
 <div style="text-align: justify;">
 Na Motosalonu jsem pořídil outdoorovou voděodolnou kameru CEL-TEC HD-96[<a href="http://www.cel-tec.cz/sportovni_kamera-celtec_hd96-172422192-284753949-sportovni-kamery/" target="_blank">1</a>]. Nedávno ji krátce recenzoval[<a href="http://www.motoroute.cz/clanek/187-celtec-hd96--levna-ale-kvalitni-kamera.aspx" target="_blank">2</a>] Joe na stránkách Motoroute.&nbsp;</div>
 <div style="text-align: justify;">

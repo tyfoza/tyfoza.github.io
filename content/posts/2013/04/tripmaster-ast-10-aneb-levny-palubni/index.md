@@ -14,7 +14,7 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "320" >}}</div>
 <div style="text-align: center;">
 AST 1.0</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/7bAphdSXwzvZ7CkQ8" target="_blank">fotky</a>]<br />
 <br />
 <i>Co je AST</i><br />
 Jedná se o komunitní produkt od rallye nadšenců pro rallye nadšence. Je to tripmaster, tachometr, voltmetr a teploměr v jednom.<br />

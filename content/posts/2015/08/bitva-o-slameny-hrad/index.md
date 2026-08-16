@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/O3yh_nOaUlo/0.webp" frameborder="0" height="400" src="https://www.youtube.com/embed/O3yh_nOaUlo?feature=player_embedded" width="640"></iframe></div>
 fotky<br />
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] Tyf<br />
+[<a href="https://photos.app.goo.gl/rQ3kgkVVHRUG96pw8" target="_blank">1</a>] Tyf<br />
 [<a href="http://elenkas.rajce.idnes.cz/Bitva_o_slameny_hrad_srpen_2015/" target="_blank">2</a>] Elen Sladká, bitva o hrad<br />
 [<a href="http://elenkas.rajce.idnes.cz/Bitva_o_slameny_hrad_srpen_2015_-_vyroba_zbroje_a_detska_bitva/" target="_blank">3</a>] Elen Sladká, výroba zbrojí a dětská bitva<br />
 [<a href="https://www.facebook.com/richard.kastner.77/media_set?set=a.1640185786229246.1073741835.100007135212226&amp;type=3&amp;pnref=story&amp;hc_location=ufi" target="_blank">4</a>] Richard Kastner<br />

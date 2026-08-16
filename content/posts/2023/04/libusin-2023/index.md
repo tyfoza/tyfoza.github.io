@@ -5,7 +5,7 @@ url: "/posts/2023/04/libusin-2023/"
 summary: "[ Rattenschwanz ]"
 cover:
     image: "obr-01.webp"
-tags: ["Šerm.bitva", "Šerm"]
+tags: ["Šerm", "Šerm.bitva"]
 aliases:
   - "/2023/04/libusin-2023.html"
 ---

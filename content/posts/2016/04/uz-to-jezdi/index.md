@@ -5,7 +5,7 @@ url: "/posts/2016/04/uz-to-jezdi/"
 summary: "Sezóna v plném proudu. Konečně!"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Jiné moto"]
+tags: ["Jiné moto", "Na cestě"]
 aliases:
   - "/2016/04/uz-to-jezdi.html"
 ---

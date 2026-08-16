@@ -13,7 +13,7 @@ aliases:
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "200" >}}{{< obr600 "obr-02.webp" "Ilustrace k článku" "200" >}}</div>
 <div class="separator" style="clear: both; text-align: center;">
-<span style="text-align: start;">[</span><a href="https://sites.google.com/view/tyfotoza/" style="text-align: start;" target="_blank">fotky</a><span style="text-align: start;">]</span></div>
+<span style="text-align: start;">[</span><a href="https://photos.app.goo.gl/o1FDLyJBfiEiPeUb9" style="text-align: start;" target="_blank">fotky</a><span style="text-align: start;">]</span></div>
 <div class="separator" style="clear: both; text-align: center;">
 <span style="text-align: start;"><br /></span></div>
 <div class="separator" style="clear: both; text-align: center;">

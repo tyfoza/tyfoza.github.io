@@ -14,5 +14,5 @@ aliases:
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
 <div style="text-align: right;">
 <span style="font-size: x-small;">foto Pavel Popelka, muzeumub.cz</span></div>
-fotky [<a href="https://sites.google.com/view/tyfotoza/" target="_blank">1</a>] [<a href="https://www.facebook.com/media/set/?set=a.716826521737310.1073742117.375130312573601&amp;type=1" target="_blank">2</a>]<br />
+fotky [<a href="https://photos.app.goo.gl/utpk6G4gEa3t4nV89" target="_blank">1</a>] [<a href="https://www.facebook.com/media/set/?set=a.716826521737310.1073742117.375130312573601&amp;type=1" target="_blank">2</a>]<br />
 <br />

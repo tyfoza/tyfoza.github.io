@@ -12,7 +12,7 @@ aliases:
 
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/9K6da46UygoTL9cX8" target="_blank">fotky</a>]<br />
 Příjemná navigačka v srdci Šumavy, pořadatelům se podařilo natáhnou trasu navigační vyjížďky tak, abychom se vyhnuli jak národnímu parku tak veškerým rezervacím a chráněnkám. Opravdu<br />
 povedený husarský kousek, díky.<br />
 Lidí se sešlo na čtyřicet, povětšinou na oranžových strojích KTM - zkratka tato, jak jistě víte znamená: „Kvalita, ty magore!“ Ve dvouválcích byla první HP2, druhá Afrika...<br />

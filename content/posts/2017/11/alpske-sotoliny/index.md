@@ -5,7 +5,7 @@ url: "/posts/2017/11/alpske-sotoliny/"
 summary: "Fotky s výhledy [ foto 1 ] [ foto 2 ] od FFF, Johny, Aron Podle knihy Michala Petrlíčka [ offroad-guide.com ] Alpské šotoliny. O knize viz [ 1 ] [ 2 ]. Na cestu vyrazili Filda na BMW F650GS Dakar, Johny na BMW F650GS a Aron a BMW F800GS. Já a Saša jsme se měli připojit až po pár dnech někde po cestě. Žel kvůli [ poruše alternátoru ] jsme nedorazili vůbec a kluci si to celé objeli sami. Po cestě zpět obhlédli francouzskou riviéru a šťastně s vrátili domů."
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "BMW F 650 GS Dakar"]
+tags: ["BMW F 650 GS Dakar", "Na cestě"]
 aliases:
   - "/2017/11/alpske-sotoliny.html"
 ---

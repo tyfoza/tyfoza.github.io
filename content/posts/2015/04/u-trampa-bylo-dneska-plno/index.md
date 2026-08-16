@@ -5,7 +5,7 @@ url: "/posts/2015/04/u-trampa-bylo-dneska-plno/"
 summary: "šestiválec Benelli 750 [ 1 ] Moto Guzzi V11 Le Mans[ 2 ] Laverda 750SF [ 3 ] [ 4 ]"
 cover:
     image: "obr-01.webp"
-tags: ["Na cestě", "Jiné moto"]
+tags: ["Jiné moto", "Na cestě"]
 aliases:
   - "/2015/04/u-trampa-bylo-dneska-plno.html"
 ---

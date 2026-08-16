@@ -5,7 +5,7 @@ url: "/posts/2026/06/prehravac-filmu-do-expozice/"
 summary: "Úkol zněl jasně. Návštěvník přijde a může si vybrat jeden z mnoha filmů. Film pustit, zastavit nebo vybrat jiný. Realizace – Máme jednu nebo více televizí a každá je připojená po HDMI k Raspberry Pi 4B (přehrávač) – Pro každou TV máme vyhrazenou bezdrátovou krabičku na baterii s jedním ovládacím kolečkem (ovladač) – Pokud máme více jak jednu TV, tak navíc potřebujeme Raspberry Pi Zero 2 W (nebo jakékoli jiné), které slouží jako centrální komunikační uzel. Ke stažení [ zde ]. Program pro ovladač (.ino) a program pro přehrávač (.py) Otočením vyberu film a stiskem film spustím. Při spuštěném filmu otočení nebo stisk zastaví právě přehrávaný film a vrátí se do výběru filmů. Jak to funguje? Ovladač pouze p osílá zprávy o tom, co provádí; k omunikační uzel běžící na RPi Zero 2 W tyto zprávy přijímá a umí je předat dál; počítač u televize zprávy je přihlášen odběru informací svého ovladače,..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Počítače", "Počítače.RaspberryPi"]
+tags: ["Počítače", "Bastlení", "Počítače.RaspberryPi"]
 aliases:
   - "/2026/06/prehravac-filmu-do-expozice.html"
 ---

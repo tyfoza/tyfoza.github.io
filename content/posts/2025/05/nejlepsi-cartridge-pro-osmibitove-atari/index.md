@@ -5,7 +5,7 @@ url: "/posts/2025/05/nejlepsi-cartridge-pro-osmibitove-atari/"
 summary: "Micro Monitor + MDDOS Proč je nejlepší Ihned po zapnutí počítače je k dispozici operační systém s ovladači tiskáren, plotru, disketové mechaniky, různých verzí blokového turbo ukládání na kazety, ovladačem ramdisku (pro 130XE) a na disku D5: je namapován kus ROMky, kde jsou uložené nejpoužívanější programy: textový editor Čapek, programovací jazyk Turbo Basic a pár dalších nástrojů a utilit. Z mého pohledu je nejdůležitejší nativní zavedení všech potřebných ovladačů, které se nemusí (v lepším případě) postupně nahrávat z diskety; (v horším případě) potupně nahrávat z kazety. Slovo autora z [ manuálu ] (1991, str. 15) Při spuštěném programu stiskem tlačítka na cartridge vstoupíme do systémového monitoru (MM), kde je možné provést debug nebo jakékoli relevantní změny v paměti nebo třeba uložit kus paměti a pak se vrátit do původně přerušeného programu a pokračovat. Úvod [ manuálu ] k..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Počítače.8bit", "Počítače"]
+tags: ["Počítače.8bit", "Počítače", "Bastlení"]
 aliases:
   - "/2025/05/nejlepsi-cartridge-pro-osmibitove-atari.html"
 ---

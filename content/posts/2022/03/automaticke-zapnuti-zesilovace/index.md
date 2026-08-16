@@ -5,7 +5,7 @@ url: "/posts/2022/03/automaticke-zapnuti-zesilovace/"
 summary: "Zadání Na vstupu detekuji audiosignál, pokud přichází déle než určitou dobu (alespoň několik sekund), tak dojde k zapnutí audio zesilovače, pokud signál ustane, tak po delší době (např. 10min) bude zesilovač vypnut. Takto dlouhý čas je zde proto, že zapínám a vypínám elektronkový zesilovač a nechci zbytečně často vypínat/zapínat žhavení. 1) Řešení USB spínané relé Pokud bude zdroj audiosignálu počítače, tak by přímo operační systém měl vědět, zda nějaký zvvuk ven jde a nebo ne a pokud bude mít počítač možnost nějak sepnout relé pro zapnutí zesilovače, tak to vyřešit půjde. [ modul ] relé ovládaný z USB Software je k dispozici, nabízí možnost něco snadno spínat přímo z počítače. Tedy pro aplikaci – když to hraje zapni zesilovač – použitelné. Jak zjistit, zda počítač zrovna něco hraje? Pro Windows jen nápad: příkaz powercfg /request vrací něco jako: EXECUTION: [PROCESS]..."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.LTSpice"]
+tags: ["Bastlení.LTSpice", "Bastlení"]
 aliases:
   - "/2022/03/automaticke-zapnuti-zesilovace.html"
 ---

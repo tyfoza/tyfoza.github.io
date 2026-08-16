@@ -13,7 +13,7 @@ aliases:
 <div>
 <div class="separator" style="clear: both; text-align: center;">
 {{< obr600 "obr-01.webp" "Ilustrace k článku" "640" >}}</div>
-[<a href="https://sites.google.com/view/tyfotoza/" target="_blank">fotky</a>]<br />
+[<a href="https://photos.app.goo.gl/XHxeXmp2vtd4PLi7A" target="_blank">fotky</a>]<br />
 Yamaha XTZ 750 Supertenére, dvouválec, současník Hondy Afriky Twin, váhově i výkonově srovnatelný s V-Stromem. Průměr předních teleskopů XTZ750 je stejný – 43mm – tedy tlumiče se dají nasadit bez nutnosti výměny brýli/řízení. Ale pozor! V-Strom má přední vidlice od sebe cca o 10mm dál, než XTZ750.</div>
 <div>
 Je nutné – vyrobit delší osu předního kola, vymezit kolo středově a podložit brzdiče – chtělo by se říct, jak prosté, milý Watsone.</div>

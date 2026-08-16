@@ -3,7 +3,7 @@ title: "Kamera na moto podruhé"
 date: 2011-05-02T13:10:00.020Z
 url: "/posts/2011/05/kamera-na-moto-podruhe/"
 summary: "[ Po minulém neúspěchu ] jsem se dopídil k jinému záznamovému zařízení. Raven zapůjčil kameru [ Mini DV D005 ] se 4GB MiniSD kartou. Videozáznam dělá kvalitní, ale ovládání je katastrofální - má to dvě tlačítka a dvě diody a kombinací a počtem stisku jednotlivých tlačítek se to nastavuje a spouští - ovládání připomíná staré jehličkové tiskárny. Udělal jsem tři video pokusy a nejlépe se osvědčilo připevnit kameru někam na neopruženou hmotu motorky, protože tam se nepřenáší vibrace motoru. Kamera je malinká, lehká, takže lepící páskou drží pevně kdekoli - ještě musím zkusit kameru na přilbě."
-tags: ["Na cestě", "Video"]
+tags: ["Video", "Na cestě"]
 aliases:
   - "/2011/05/kamera-na-moto-podruhe.html"
 ---

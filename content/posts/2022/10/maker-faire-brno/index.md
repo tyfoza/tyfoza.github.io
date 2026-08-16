@@ -5,7 +5,7 @@ url: "/posts/2022/10/maker-faire-brno/"
 summary: "[ fotky ] [ videa ] Další ročník [ Maker Faire ] a my jsme byli u toho. Výsledek loňské SOČ viz [ text ] [ prezentace ] – implementace počítače s procesorem RISC-V pomocí logických hradel a pamětí [ Pineapple ONE ]. Letos kluci zadrátovali jednoduchý procesor, který všechno, co se v něm právě děje zobrazuje pomocí LED; Toto dění snímají kamerou, dekódují a vypisují aktuálně prováděné instrukce/program – takový optický disassembler. Robot „fotbalista“ Závody pásových brusek byly extrémně vtipné."
 cover:
     image: "obr-01.webp"
-tags: ["Bastlení", "Bastlení.Makerfaire", "Video"]
+tags: ["Bastlení", "Video", "Bastlení.Makerfaire"]
 aliases:
   - "/2022/10/maker-faire-brno.html"
 ---

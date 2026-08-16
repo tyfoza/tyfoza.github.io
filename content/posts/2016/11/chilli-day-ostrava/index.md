@@ -5,7 +5,7 @@ url: "/posts/2016/11/chilli-day-ostrava/"
 summary: ""
 cover:
     image: "obr-01.webp"
-tags: ["Chilli", "Tak jde čas"]
+tags: ["Tak jde čas", "Chilli"]
 aliases:
   - "/2016/11/chilli-day-ostrava.html"
 ---
