@@ -1,0 +1,361 @@
+#!/usr/bin/env python3
+import os
+import re
+import subprocess
+import sys
+
+# --- CESTY A KONFIGURACE ---
+CONFIG_FILE = "hugo.toml"
+PUBLIC_DIR = "/home/eee/muj-blog/public/"
+WEB_TARGET_DIR = "/home/eee/datatyf/web"
+ALLOWED_RSYNC_URL = "https://tyfoza.sytes.net/"
+ALLOWED_GITHUB_URL = "https://tyfoza.github.io/"
+
+# ANSI barevné kódování pro přehledný výstup
+CYAN = "\033[1;36m"
+GREEN = "\033[1;32m"
+YELLOW = "\033[1;33m"
+RED = "\033[1;31m"
+BOLD = "\033[1m"
+NC = "\033[0m"  # Bez barvy
+
+ASCII_ART = rf"""{CYAN}
+    ███     ▄██   ▄      ▄████████  ▄██████▄   ▄███████▄     ▄████████
+▀█████████▄ ███   ██▄   ███    ███ ███    ███ ██▀     ▄██   ███    ███
+   ▀███▀▀██ ███▄▄▄███   ███    █▀  ███    ███       ▄███▀   ███    ███
+    ███   ▀ ▀▀▀▀▀▀███  ▄███▄▄▄     ███    ███  ▀█▀▄███▀▄▄   ███    ███
+    ███     ▄██   ███ ▀▀███▀▀▀     ███    ███   ▄███▀   ▀ ▀███████████
+    ███     ███   ███   ███        ███    ███ ▄███▀         ███    ███
+    ███     ███   ███   ███        ███    ███ ███▄     ▄█   ███    ███
+   ▄████▀    ▀█████▀    ███         ▀██████▀   ▀████████▀   ███    █▀
+{NC}"""
+
+
+MOTIVACE=rf"""
+/home/eee/muj-blog  ..........  obsahuje všechna data
+                  /posts .....  všechny články blogu podle rok/měs
+                  /public ....  produkční hotový vygenerovaný
+
+lokální testovací server dostupný z lokální sítě                  
+hugo server -D --bind 0.0.0.0 --baseURL http://10.88.0.8 
+
+web má dvě instance - na tyfoza.github.io
+a tyfoza.systes.net uložená  na m2nas /mnt/md0/datatyf/www
+
+"""
+
+def o_programu():
+    clear_screen()
+    print(ASCII_ART)
+    print(f"{YELLOW}poznámky{NC}")
+    print(MOTIVACE)
+
+
+def clear_screen():
+    os.system("cls" if os.name == "nt" else "clear")
+
+
+def get_base_urls():
+    """Načte aktivní i zakomentované baseURL ze souboru hugo.toml."""
+    if not os.path.exists(CONFIG_FILE):
+        return None, []
+
+    active_url = None
+    commented_urls = []
+
+    with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    for line in lines:
+        # Hledání aktivního baseURL
+        active_match = re.match(r'^\s*baseURL\s*=\s*[\'"]([^\'"]+)[\'"]', line)
+        if active_match:
+            active_url = active_match.group(1)
+            continue
+
+        # Hledání zakomentovaného #baseURL
+        comment_match = re.match(
+            r'^\s*#\s*baseURL\s*=\s*[\'"]([^\'"]+)[\'"]', line
+        )
+        if comment_match:
+            commented_urls.append(comment_match.group(1))
+
+    return active_url, commented_urls
+
+
+def set_active_base_url(target_url):
+    """Nastaví požadované URL jako aktivní baseURL a ostatní zakomentuje."""
+    if not os.path.exists(CONFIG_FILE):
+        print(f"{RED}Chyba: Soubor {CONFIG_FILE} neexistuje!{NC}")
+        return
+
+    with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    new_lines = []
+    for line in lines:
+        if re.match(r"^\s*#?\s*baseURL\s*=", line):
+            match = re.search(r'[\'"]([^\'"]+)[\'"]', line)
+            if match:
+                url = match.group(1)
+                if url == target_url:
+                    new_lines.append(f"baseURL = '{url}'\n")
+                else:
+                    new_lines.append(f"#baseURL = '{url}'\n")
+            else:
+                new_lines.append(line)
+        else:
+            new_lines.append(line)
+
+    with open(CONFIG_FILE, "w", encoding="utf-8") as f:
+        f.writelines(new_lines)
+
+    print(f"\n{GREEN}✔ baseURL byl úspěšně změněn na: {target_url}{NC}")
+
+
+def change_url_menu():
+    """Podnabídka pro změnu baseURL."""
+    active_url, commented_urls = get_base_urls()
+    all_urls = []
+    if active_url:
+        all_urls.append(active_url)
+    all_urls.extend(commented_urls)
+
+    all_urls = list(dict.fromkeys(all_urls))
+
+    print(f"\n{YELLOW}--- Změna baseURL v {CONFIG_FILE} ---{NC}")
+    for idx, url in enumerate(all_urls, 1):
+        status = (
+            f"{GREEN}(aktuální){NC}"
+            if url == active_url
+            else f"{YELLOW}(zakomentováno){NC}"
+        )
+        print(f"{GREEN}[{idx}]{NC} {url} {status}")
+    print(f"{RED}[0]{NC} Zpět do hlavní nabídky\n")
+
+    choice = input("Vyber možnost: ").strip()
+
+    if choice.isdigit() and 1 <= int(choice) <= len(all_urls):
+        selected_url = all_urls[int(choice) - 1]
+        set_active_base_url(selected_url)
+    elif choice == "0":
+        return
+    else:
+        print(f"{RED}Neplatná volba.{NC}")
+
+
+def main():
+    while True:
+        clear_screen()
+        print(ASCII_ART)
+        print(f"{YELLOW}Vítej ve správci pro Tyfoza blog!{NC}\n")
+
+        # Načtení a zobrazení aktuálního baseURL
+        active_url, _ = get_base_urls()
+        url_display = active_url if active_url else "Nenalezeno"
+        print(f"{BOLD}Aktuální baseURL:{NC} {CYAN}{url_display}{NC}\n")
+
+        # Kontrola, zda jsou rsync a github povoleny (porovnání s ošetřením lomítka na konci)
+        rsync_allowed = (
+            active_url is not None
+            and active_url.rstrip("/") == ALLOWED_RSYNC_URL.rstrip("/")
+        )
+        github_allowed = (
+            active_url is not None
+            and active_url.rstrip("/") == ALLOWED_GITHUB_URL.rstrip("/")
+        )
+
+        # Nabídka akcí
+        print("Vyber si požadovanou akci:")
+        print(
+            f"{GREEN}[1]{NC} hugo --cleanDestinationDir -D  (Čistý build včetně draftů)"
+        )
+        print(
+            f"{GREEN}[2]{NC} hugo --cleanDestinationDir     (Příprava pro produkci)"
+        )
+        print(
+            f"{GREEN}[3]{NC} hugo server -D                 (Lokální vývojový server)"
+        )
+
+        if rsync_allowed:
+            print(
+                f"{GREEN}[4]{NC} rsync na lokální web           (Zveřejnit do {WEB_TARGET_DIR})"
+            )
+        else:
+            print(
+                f"{RED}[4] rsync na lokální web           (BLOKOVÁNO - vyžaduje {ALLOWED_RSYNC_URL}){NC}"
+            )
+
+        print(
+            f"{GREEN}[5]{NC} Přepnout / změnit baseURL      (Upraví {CONFIG_FILE})"
+        )
+
+        if github_allowed:
+            print(
+                f"{GREEN}[6]{NC} Zveřejnit na GitHub            (git add, commit, push)"
+            )
+        else:
+            print(
+                f"{RED}[6] Zveřejnit na GitHub            (BLOKOVÁNO - vyžaduje {ALLOWED_GITHUB_URL}){NC}"
+            )
+        print(f"{CYAN}[7]{NC} Správa příspěvků               (Nové, Drafty, Editace)")
+        print(
+                f"{GREEN}[9] O programu                     (Motivace a použití)"
+                )
+        print(f"{RED}[0]{NC} Konec\n")
+
+        choice = input("Zadej číslo volby [1/2/3/4/5/6/0]: ").strip()
+
+        if choice == "1":
+            print(f"\n{YELLOW}Spouštím čistý build webu...{NC}")
+            res = subprocess.run(["hugo", "--cleanDestinationDir", "-D"])
+            if res.returncode == 0:
+                print(f"\n{GREEN}✔ Build byl úspěšně dokončen!{NC}")
+            else:
+                print(f"\n{RED}✘ Build selhal! Zkontroluj chyby výše.{NC}")
+            input("\nStiskni Enter pro pokračování...")
+
+        elif choice == "2":
+            print(f"\n{YELLOW}Spouštím přípravu pro produkci (bez draftů)...{NC}")
+            res = subprocess.run(["hugo", "--cleanDestinationDir"])
+            if res.returncode == 0:
+                print(f"\n{GREEN}✔ Produkční build byl úspěšně dokončen!{NC}")
+            else:
+                print(f"\n{RED}✘ Produkční build selhal! Zkontroluj chyby výše.{NC}")
+            input("\nStiskni Enter pro pokračování...")
+
+        elif choice == "3":
+            print(
+                f"\n{YELLOW}Spouštím Hugo server (pro ukončení stiskni Ctrl+C)...{NC}\n"
+            )
+            try:
+                subprocess.run(
+                    [
+                        "hugo",
+                        "server",
+                        "-D",
+                        "--bind",
+                        "0.0.0.0",
+                        "--baseURL",
+                        "http://10.88.0.8",
+                    ]
+                )
+            except KeyboardInterrupt:
+                pass
+
+        elif choice == "4":
+            if not rsync_allowed:
+                print(f"\n{RED}✘ Akce byla zablokována!{NC}")
+                print(
+                    f"Volba [4] je povolená pouze v případě, že je baseURL nastaveno na: {CYAN}{ALLOWED_RSYNC_URL}{NC}"
+                )
+                print(f"Aktuální baseURL je: {CYAN}{url_display}{NC}")
+            else:
+                res = subprocess.run(["hugo", "--cleanDestinationDir"])
+                if res.returncode == 0:
+                    print(f"\n{GREEN}✔ Produkční build byl úspěšně dokončen!{NC}")
+                else:
+                    print(f"\n{RED}✘ Produkční build selhal! Zkontroluj chyby výše.{NC}")
+                    input("\nStiskni Enter pro pokračování...")
+                print(f"\n{YELLOW}Spouštím synchronizaci rsync...{NC}")
+                cmd = [
+                    "rsync", 
+                    "-a", #Zachovává podadresáře, práva, časy úprav a symlinky.
+                    "-c", #Umístí porovnávání na úroveň obsahu (hash/kontrolní součet)
+                    "-h", #Zobrazuje velikosti v lidsky čitelném formátu (MB, KB).
+                    "--info=progress2", #Ukazuje celkový průběh přenosu a rychlost v jednom přehledném řádku.
+                    "--delete", #Smaže v cíli (/web) soubory, které už neexistují ve zdroji (public/).
+                    "--no-o", #Nepokouší se zachovat vlastníka (owner) 
+                    "--no-g", #a skupinu (group). Vhodné pro lokální kopírování mezi různými složkami.
+                    "--exclude=~tyf", #toto vynechá
+                    PUBLIC_DIR,
+                    WEB_TARGET_DIR,
+                ]
+                subprocess.run(cmd)
+            input("\nStiskni Enter pro pokračování...")
+
+        elif choice == "5":
+            change_url_menu()
+            input("\nStiskni Enter pro pokračování...")
+
+        elif choice == "6":
+            if not github_allowed:
+                print(f"\n{RED}✘ Akce byla zablokována!{NC}")
+                print(
+                    f"Volba [6] je povolená pouze v případě, že je baseURL nastaveno na: {CYAN}{ALLOWED_GITHUB_URL}{NC}"
+                )
+                print(f"Aktuální baseURL je: {CYAN}{url_display}{NC}")
+            else:
+                print(f"\n{YELLOW}--- Zveřejnění na GitHub ---{NC}")
+                commit_msg = input("Zadej zprávu pro commit: ").strip()
+
+                if not commit_msg:
+                    print(
+                        f"\n{RED}✘ Nebyla zadána žádná zpráva pro commit. Akce byla stornována.{NC}"
+                    )
+                else:
+                    print(f"\nZpráva commitu: {CYAN}\"{commit_msg}\"{NC}")
+                    confirm = (
+                        input(
+                            "Opravdu chceš provést git add, commit a push? [a/N]: "
+                        )
+                        .strip()
+                        .lower()
+                    )
+
+                    if confirm in ["a", "ano", "y", "yes"]:
+                        print(f"\n{YELLOW}[1/3] Spouštím git add...{NC}")
+                        res_add = subprocess.run(["git", "add", "."])
+
+                        if res_add.returncode == 0:
+                            print(f"{YELLOW}[2/3] Spouštím git commit...{NC}")
+                            res_commit = subprocess.run(
+                                ["git", "commit", "-m", commit_msg]
+                            )
+
+                            if res_commit.returncode == 0:
+                                print(f"{YELLOW}[3/3] Spouštím git push...{NC}")
+                                res_push = subprocess.run(["git", "push"])
+
+                                if res_push.returncode == 0:
+                                    print(
+                                        f"\n{GREEN}✔ Zveřejnění na GitHub proběhlo úspěšně!{NC}"
+                                    )
+                                else:
+                                    print(f"\n{RED}✘ Chyba při git push!{NC}")
+                            else:
+                                print(f"\n{RED}✘ Chyba při git commit!{NC}")
+                        else:
+                            print(f"\n{RED}✘ Chyba při git add!{NC}")
+                    else:
+                        print(f"\n{YELLOW}Akce stornována uživatelem.{NC}")
+
+            input("\nStiskni Enter pro pokračování...")
+
+        elif choice == "7":
+            print(f"\n{CYAN}Spouštím správce příspěvků...{NC}")
+            
+            # 1. Zjistí přesnou složku, kde leží aktuální blog.py
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            
+            # 2. Vytvoří absolutní cestu k novému skriptu
+            prispevky_script = os.path.join(script_dir, "blog_prispevky.py")
+            
+            # 3. Spustí ho
+            subprocess.run([sys.executable, prispevky_script])
+
+        elif choice == "9":
+                    o_programu()
+                    input("\nStiskni Enter pro pokračování...")
+
+        elif choice == "0":
+            print(f"\n{CYAN}Ukončuji skript. Bloguj!{NC}")
+            sys.exit(0)
+
+        else:
+            print(f"\n{RED}Neplatná volba. Zkuste to znovu.{NC}")
+            input("\nStiskni Enter pro pokračování...")
+
+
+if __name__ == "__main__":
+    main()
