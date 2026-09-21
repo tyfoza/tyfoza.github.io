@@ -1,6 +1,6 @@
 ---
 title: "Retro 68 žije"
-date: 2026-09-05T17:08:08+02:00
+date: 2026-09-03T17:08:08+02:00
 summary: "Často se čelím otázce: “A k čemu to je dobré?” Proč trávíš čas programováním pro čtyřicet let starý procesor, když tu máme cloud, umělou inteligenci a nekonečný výpočetní výkon?"
 cover:
     image: "68008.webp"
