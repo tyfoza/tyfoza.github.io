@@ -21,7 +21,20 @@ summaryLength = 250
   responsiveImages = false   #nechceme obrázky generovat vícekrát
 
 [permalinks]
-  posts = "/posts/:year/:month/:slug/"
+  #posts = "/posts/:year/:month/:slug/"
+  posts = '/posts/:year/:month/:contentbasename/'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+
+  [markup.highlight]
+   noClasses = false
 
 
 [menu]
