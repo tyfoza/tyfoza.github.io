@@ -31,7 +31,7 @@ kontrolou chyb, jako je XMODEM nebo Kermit.
 Postavíme si svůj kompletní systém `68k-ser` (skládající se z Python
 skriptu `68k-ser.py` na PC a programu `68KSER.C` na CP/M).
 
-{{< youtube zlX931DcYSI >}}
+{{< youtube JRxvOXakaZs >}}
 
 # Duální sériový port
 
