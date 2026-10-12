@@ -54,7 +54,7 @@ nedochází ke kolizím a použití je pohodlné.
 
 # Softwarového řešení
 
-Zpracování dat při vysílání i příjmu stojí má tři části:
+Zpracování dat při vysílání i příjmu má tři části:
 
 ## 1. Komprese dat (LZ4)
 
@@ -63,7 +63,7 @@ Protože maximální rychlost sériové linky 68k-MBC je fyzicky omezena
 Python skript i CP/M program umí využít rychlé kompresní jádro LZ4. 
 Surová data jsou na vysílací straně zkomprimována
 pomocí LZ4 s nastavením vysoké komprese, čímž se radikálně snižuje čas
-potřebný k jejich fyzickému propasírování sériovým kabelem.
+potřebný k jejich fyzickému protlačení sériovým kabelem.
 
 LZ4 funguje pouze při posílání souborů z PC do 68k-MBC, protože
 komprese je náročná (PC) a dekomprese je rychlá a nenáročná (Motorola 68k).
@@ -110,14 +110,14 @@ matematický otisk (Hash).
 Kromě binárních dat systém inteligentně přistupuje i k textovým
 zdrojovým kódům, u kterých by historické CP/M kompilátory hlásily chyby.
 
--   Skript na straně PC automaticky provádí takzvanou Unicode NFKD
+-   Skript na straně PC automaticky provádí Unicode NFKD
     normalizaci.
 
 -   Všechny nepodporované znaky s českou diakritikou rozloží, odstraní
     háčky a čárky, a zahodí neslučitelné UTF-8 symboly, čímž vznikne
     historicky korektní a čisté ASCII.
 
--   Zároveň se stará o automatickou konverzi moderních linuxových konců
+-   Postará se o automatickou konverzi moderních linuxových konců
     řádků (`\n`) na formát nezbytný pro běh CP/M (`\r\n`).
 
 -   Pokud je text odesílán s využitím dekompresního programu na straně
@@ -138,7 +138,7 @@ na PC.
 K tomuto účelu systém `68KSER` využívá hašovací funkci. Hash je
 matematický algoritmus, který vezme vstupní data libovolné délky (např.
 200kB soubor) a převede je na výstup pevné, předem dané délky --
-takzvaný otisk (fingerprint).
+hashový otisk (fingerprint).
 
 Aby byla hashovací funkce v našem projektu použitelná, musí splňovat tři
 klíčové vlastnosti:
@@ -207,7 +207,7 @@ výsledky byly na obou platformách identické.
 ### Přirozené přetečení v jazyce C (CP/M-68K)
 
 Na architektuře Motorola 68000 s překladačem Alcyon C je implementace
-velmi přímá. Proměnná typu `long` má velikost přesně 32 bitů (4 byty).
+jasná. Proměnná typu `long` má velikost přesně 32 bitů (4 byty).
 Procesor zpracuje bitový posun doleva nativní instrukcí `LSL.L` (Logical
 Shift Left) a sčítání instrukcí `ADD.L`.
 
@@ -224,8 +224,8 @@ for (h_idx = 0; h_idx < padded_len; h_idx++) {
 Když hodnota `my_hash `přesáhne 32 bitů, procesor horní "přebytečné"
 bity přirozeně odřízne (hardwarový overflow), což přesně naplňuje
 matematické požadavky algoritmu DJB2. Výsledná hodnota je poté
-formátována do 8místného HEX řetězce (např. to_hex(my_hash,
-my_hash_str);) pro odeslání do PC nebo kontrolu.
+formátována do 8místného HEX řetězce (`to_hex(my_hash,
+my_hash_str);`) pro odeslání do PC nebo kontrolu.
 
 ### Umělé přetečení v Pythonu (PC)
 

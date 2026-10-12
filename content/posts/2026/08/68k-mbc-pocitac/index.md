@@ -19,6 +19,8 @@ Díky tomu mohli výrobci navrhovat
 levnější hardware s použitím běžných 8bitových pamětí, řadičů a periferií.
 V komerční sféře tento procesor proslavil počítač Sinclair QL (1984).
 
+Podrobně o tomto procesoru viz [článek na root.cz](https://www.root.cz/clanky/motorola-6809-nejvykonnejsi-a-nejelegantnejsi-mikroprocesor-osmibitove-ery/)
+
 Projekt 68k-MBC nabízí možnost, jak si
 vyzkoušet oživení 16bitového počítače bez nutnosti shánět někdy už
 nedostupné historické součástky.

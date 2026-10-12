@@ -9,6 +9,7 @@ draft: false
 {{< obr600 "od.webp" "" >}}
 Za dva dny se podařilo odhalit tři pamětní desky. Všechny informace jsou přehledně sděleny v komentáři videa.
 
+[fotky](https://www.us9cavalry.com/blata-2026/) of 9th Illionois Cavalry Regiment
 {{< youtube NEd0MJ7t09M >}}
 
 {{< obr600 "blata.webp" "" >}}

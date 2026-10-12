@@ -381,7 +381,7 @@ def main():
             "[0] Zpět do hlavního menu (blog.py)"
         ]
         
-        menu = TerminalMenu(options, title="[ Trapný REDAKČNÍ SYSTÉM ] - Šipky a Enter nebo číslo:", clear_screen=False)
+        menu = TerminalMenu(options, title="[ T.R.D. Trapný REDAKČNÍ SYSTÉM ] - Šipky a Enter nebo číslo:", clear_screen=False)
         choice_idx = menu.show()
 
         if choice_idx == 0:
