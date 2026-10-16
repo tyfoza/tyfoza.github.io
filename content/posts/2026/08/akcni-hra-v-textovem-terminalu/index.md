@@ -2,7 +2,7 @@
 title: "Space 68K Invaders"
 date: 2026-08-23T15:07:04+02:00
 cover:
-    image: ""
+    image: "si.webp"
 tags: ["Počítače", "Počítače.M68k", "Počítače.hry"]
 draft: false
 math: true
