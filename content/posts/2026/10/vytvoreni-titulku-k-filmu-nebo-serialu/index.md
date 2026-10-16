@@ -23,7 +23,7 @@ Tři série seriálu [Hardcaste and McCormick](https://www.csfd.cz/film/123702-h
 Zkusil jsem vygenerovat čtený překlad do audio stopy, ale výsledek byl tristní. Ne, že by to nefungovalo, ale titulky jsou jednoznačně lepší.
 
 ### 1. extrakce zvukové stopy z filmu
-Ze všech filmů v aktuální složce uloží zvuk, výstup pojmenuje stejně jako film, liší se pouze přípona
+Z filmu uložíme zvuk. Umí to přehrávač VLC/dopravní kužel a umí to ze všech videí, které si dáme do playlistu. Nebo můžeme použít přiložený skript  (používá `ffmpeg`), který ze všech filmů v aktuální složce uloží zvuk a výstup pojmenuje stejně jako film. Liší se pouze přípona.
 
 ```bash
 film2wav.sh
@@ -51,7 +51,7 @@ pak stačí spustit a všechny anglické  titulky se přeloží do češtiny
 python3 srt_preloz.py
 ```
 
-Víc netřeba. 
+#### Víc netřeba
 - umíme vycucnout anglický zvuk z filmu, uložit ho jako `.wav`
 - přepsat do textu a uložit jako titulky `.srt`
 - přeložit anglické `.srt` titulky do češtiny
@@ -63,7 +63,8 @@ python3 -m venv whisper_env
 *aktivovat prostředí:*\
 source whisper_env/bin/activate
 
-**vybrat verzi knihovny**\
+#### vybrat verzi knihovny
+
 *verze pro NVIDIA CUDA:*
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
@@ -81,9 +82,9 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 *verze pro macOS zapne hw akceleraci Apple Metal (MPS):*
 ```bash
 pip install torch torchvision torchaudio
-````
+```
 
-**dále potřebujeme knihovny**
+#### dále potřebujeme instalovat knihovny
 ```bash
 pip install -U openai-whisper pysrt "transformers==4.49.0" sentencepiece accelerate
 ```
