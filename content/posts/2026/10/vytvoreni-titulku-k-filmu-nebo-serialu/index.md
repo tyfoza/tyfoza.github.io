@@ -31,8 +31,13 @@ film2wav.sh
 ### 2. převod angličtiny na text
 Pokud by existovaly titulky `.srt` v angličtině, tento krok přeskočíme a ušetříme nemalé množství času, protože přesný přepis textu ze zvuku trvá asi 2,5 násobek délky audia.
 
+**CUDA nebo CPU ?**\
+v programu `wav_srt.py` je na výběr, jestli má překlad běžet akcelerovaně
+```python
+NVIDIA_CUDA = True  #False pro CPU        
+```
+
 Přepíše všechny `.wav` soubory v aktuální složce do podoby filmových titulků `.srt`
-nahrát `.wav` soubory a spustit:
 ```bash
 python3 wav_srt.py
 ```
@@ -101,7 +106,9 @@ Tento program slouží k plně automatickému přepisu zvukových stop (`.wav`) 
 Program využívá k přepisu mluveného slova model **Whisper od OpenAI**.
 
 *   **Verze modelu:** `large` (největší a nejpřesnější dostupná verze, která minimalizuje chyby v porozumění).
-*   **Akcelerace:** Model je natvrdo nastaven k běhu na grafické kartě (`device="cuda"`), což zajišťuje několikanásobně rychlejší zpracování než přes procesor.
+*   **Akcelerace:**  Skript obsahuje manuální přepínač pro volbu výpočetní jednotky:
+`NVIDIA_CUDA = True` (nebo `False`)
+
 
 ### Konfigurace při samotném přepisu (funkce `transcribe`)
 Aby model nevynechával věty v rozhovorech a zároveň si nevymýšlel texty v hudebních pasážích, je volán s těmito specifickými parametry:
