@@ -3,7 +3,7 @@ title: "Start proudového motoru M-701"
 date: 2026-10-31T15:53:51+01:00
 summary: "Ukončení sezóny v leteckém muzeum v Kunovicích. Komentovaná prohlídka a dynamická ukázka startu proudového motoru."
 cover:
-    image: ""
+    image: "plamen.webp"
 tags: ["Tak jde čas"]
 draft: false
 ---
