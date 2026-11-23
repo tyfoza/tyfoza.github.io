@@ -5,6 +5,7 @@ cover:
     image: ""
 tags: ["Počítače", "Počítače.emulátory", "Počítače.hry"]
 draft: false
+math: true
 ---
 ### Jak funguje
 **[atarihry.sytes.net](https://atarihry.sytes.net)**

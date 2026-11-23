@@ -6,7 +6,6 @@ cover:
     image: "nahled.webp"
 tags: ["Počítače", "Počítače.emulátory", "Počítače.hry", "Počítače.8bit"]
 draft: false
-math: true
 ---
 
 **[atarihry.sytes.net](https://atarihry.sytes.net)**
