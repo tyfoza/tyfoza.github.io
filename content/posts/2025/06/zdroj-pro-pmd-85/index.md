@@ -5,7 +5,7 @@ url: "/posts/2025/06/zdroj-pro-pmd-85/"
 summary: "Zdroj poslouží zároveň jako podstavec pod monitor INTEL 8080 vyžaduje tři napájecí napětí –5 V, +5 V a +12 V. Navíc vyžaduje přesné pořadí zapnutí i vypnutí napájecích napětí. V PMD 85 máme mikroprocesor MHB8080A, coby nelicencovanou kopii 8080. Příručka [ PMI 80 ] to zmiňuje explicitně, protože má k napájení jen volně visící kabely Proč tři napájecí napětí Asi se ptáte, k čemu potřebuje procesor –5 V, když v něm nejsou žádné operační zesilovače. Říká se tomu [ substrate biasing ] něco jako předpětí pro substrát, pro křemíkovou desku na které jsou tranzistory procesoru. Má to tři výhody. – Sníží to parazitní kapacity kolem tranzistorů, takže procesor může běžet rychleji. – Stabilizuje to prahová napětí potřebná k sepnutí tranzistorů, což vede ke spolehlivějšímu běhu. – Předpětí substrátu omezí svodové proudy tekoucí vypnutými tranzistory, díky tomu se čip méně hřeje. Novější Zilog Z80,..."
 cover:
     image: "obr-01.webp"
-tags: ["Počítače.8bit", "Počítače"]
+tags: ["Počítače.8bit", "Počítače", "Bastlení"]
 aliases:
   - "/2025/06/zdroj-pro-pmd-85.html"
 ---
