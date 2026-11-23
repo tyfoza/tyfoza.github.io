@@ -14,4 +14,4 @@ zobrazí seznam her a kliknutím spustí hru. Podporuje mobily i desktopy včetn
 
 {{< obr600 "nahled.webp" "I mobilu je to přesné a použitelné." >}}   
 
-Běží na straně klienta na emulátoru Artari800 zkopilovaném pro webassembly. Jak funguje propojení z webové stránky viz [dokumentace](/posts/2026/11/atari-hry-dokumentace/).
+Běží na straně klienta na emulátoru Atari800 zkompilovaném pro webassembly. Jak funguje propojení z webové stránky viz [dokumentace](/posts/2026/11/atari-hry-dokumentace/).
